@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<html lang="vi" data-theme="light">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TOCFL X 漢字記憶 — Phân tích & Ghi nhớ chữ Hán</title>
+    <meta name="description" content="Interactive website to study and memorize Chinese characters for TOCFL X — Lessons 3 & 4 with etymological analysis and memory techniques.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Noto+Sans+TC:wght@300;400;500;700;900&family=Noto+Serif+TC:wght@400;700;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Skip Link for Accessibility -->
+    <a href="#view-study" class="skip-link">Bỏ qua đến nội dung chính</a>
+
+    <!-- Ambient Background -->
+    <div class="ambient-bg" aria-hidden="true">
+        <div class="ambient-orb orb-1"></div>
+        <div class="ambient-orb orb-2"></div>
+        <div class="ambient-orb orb-3"></div>
+    </div>
+
+    <!-- Navigation -->
+    <nav class="main-nav" id="main-nav" aria-label="Thanh điều hướng chính">
+        <div class="nav-inner">
+            <div class="nav-brand">
+                <span class="brand-char">漢</span>
+                <span class="brand-text">TOCFL X</span>
+            </div>
+            <div class="nav-tabs" role="tablist" aria-label="Chế độ học tập">
+                <button class="nav-tab active" data-view="study" id="nav-study" role="tab" aria-selected="true" aria-controls="view-study">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
+                    <span>Học</span>
+                </button>
+                <button class="nav-tab" data-view="flashcard" id="nav-flashcard" role="tab" aria-selected="false" aria-controls="view-flashcard">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="2" y="4" width="20" height="16" rx="2"/><line x1="2" y1="10" x2="22" y2="10"/></svg>
+                    <span>Flashcard</span>
+                </button>
+                <button class="nav-tab" data-view="quiz" id="nav-quiz" role="tab" aria-selected="false" aria-controls="view-quiz">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
+                    <span>Kiểm tra</span>
+                </button>
+                <button class="nav-tab" data-view="practice" id="nav-practice" role="tab" aria-selected="false" aria-controls="view-practice">
+                    <span aria-hidden="true">🎮</span>
+                    <span>Luyện tập</span>
+                </button>
+                <button class="nav-tab" data-view="ai" id="nav-ai" role="tab" aria-selected="false" aria-controls="view-ai">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M12 2a2 2 0 0 1 2 2c0 .74-.4 1.39-1 1.73V7h1a7 7 0 0 1 7 7h1a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v1a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-1H2a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h1a7 7 0 0 1 7-7h1V5.73c-.6-.34-1-.99-1-1.73a2 2 0 0 1 2-2z"/></svg>
+                    <span>AI Thêm bài</span>
+                </button>
+            </div>
+            <div class="nav-lesson-toggle">
+                <select id="lesson-select" class="lesson-select" aria-label="Chọn bài học">
+                    <optgroup label="Giáo trình Đương đại 3 (Book 3)">
+                        <option value="3_1" selected>第一課：開學了 (School Starts)</option>
+                        <option value="3_2">第二課：八折起 (Up to 20% off)</option>
+                        <option value="3_3">第三課：外套帶了沒有？ (Did You Bring Your Coat?)</option>
+                        <option value="3_4">第四課：我愛台灣的人情味 (I Love Taiwanese Hospitality)</option>
+                        <option value="3_5">第五課：現在流行什麼？ (What Are the Trends Now?)</option>
+                        <option value="3_6">第六課：到鄉下住一晚！ (Spending the Night in the Countryside)</option>
+                        <option value="3_7">第七課：我最親的家「人」 (My Closest "Family")</option>
+                        <option value="3_8">第八課：我想做自己 (I Just Want to Be Myself)</option>
+                        <option value="3_9">第九課：網購時代 (The Age of Online Shopping)</option>
+                        <option value="3_10">第十課：我住院了 (I'm Staying in the Hospital)</option>
+                        <option value="3_11">第十一課：台灣故事 (The Story of Taiwan)</option>
+                        <option value="3_12">第十二課：我要去投票 (I'm Going to Cast My Vote)</option>
+                    </optgroup>
+                    <optgroup label="Giáo trình Đương đại 2 (Book 2)">
+                        <option value="3">第三課</option>
+                        <option value="4">第四課</option>
+                        <option value="5">第五課</option>
+                        <option value="6">第六課</option>
+                        <option value="7">第七課</option>
+                        <option value="8">第八課</option>
+                        <option value="9">第九課</option>
+                        <option value="10">第十課</option>
+                        <option value="11">第十一課</option>
+                        <option value="12">第十二課</option>
+                        <option value="13">第十三課</option>
+                        <option value="14">第十四課</option>
+                        <option value="15">第十五課</option>
+                    </optgroup>
+                    <optgroup label="Khác (TOCFL A1 / Mock Tests)">
+                        <option value="Mock1">Đề Thi 1 (Reading)</option>
+                        <option value="Mock2">Đề Thi 2 (Listening)</option>
+                        <option value="A1_個人資料">A1 - Thông tin cá nhân</option>
+                        <option value="A1_健康及身體照護">A1 - Sức khỏe & Cơ thể</option>
+                        <option value="A1_其他">A1 - Các từ khác</option>
+                        <option value="A1_房屋與家庭_環境">A1 - Nhà cửa & Môi trường</option>
+                        <option value="A1_教育">A1 - Giáo dục</option>
+                        <option value="A1_旅行">A1 - Du lịch</option>
+                        <option value="A1_日常生活">A1 - Đời sống hàng ngày</option>
+                        <option value="all">Tất cả bài</option>
+                    </optgroup>
+                </select>
+            </div>
+            <div class="nav-search" id="nav-search">
+                <div class="search-input-wrapper">
+                    <svg class="search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+                    <input type="search" id="search-input" placeholder="Tìm kiếm từ (ví dụ: 方便, tiến bộ)…" autocomplete="off" aria-label="Tìm kiếm từ vựng">
+                    <kbd class="search-kbd" title="Phím tắt tìm kiếm: Cmd+K hoặc Ctrl+K">⌘K</kbd>
+                </div>
+            </div>
+            <div class="theme-switcher" id="theme-switcher">
+                <button class="theme-toggle-btn" id="theme-toggle-btn" title="Đổi giao diện" aria-label="Đổi giao diện" aria-haspopup="true" aria-expanded="false">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
+                    <span class="theme-toggle-text">Giao diện</span>
+                </button>
+                <div class="theme-dropdown" id="theme-dropdown" role="menu">
+                    <div class="theme-dropdown-title">Giao diện</div>
+                    <button class="theme-option" data-theme="dark" id="theme-dark" role="menuitem">
+                        <span class="theme-dot" style="background: linear-gradient(135deg, #0b0d13, #6366f1);"></span>
+                        <span>🌙 Huyền Mặc (Tối)</span>
+                    </button>
+                    <button class="theme-option active" data-theme="light" id="theme-light" role="menuitem">
+                        <span class="theme-dot" style="background: linear-gradient(135deg, #f4f7f5, #0d9488);"></span>
+                        <span>🍵 Bích Trà (Sáng)</span>
+                    </button>
+                    <button class="theme-option" data-theme="warm" id="theme-warm" role="menuitem">
+                        <span class="theme-dot" style="background: linear-gradient(135deg, #faf7f2, #e11d48);"></span>
+                        <span>📜 Chu Sa (Cổ điển)</span>
+                    </button>
+                    <button class="theme-option" data-theme="ocean" id="theme-ocean" role="menuitem">
+                        <span class="theme-dot" style="background: linear-gradient(135deg, #0a1526, #2563eb);"></span>
+                        <span>🌊 Lam Sa (Đại dương)</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Progress Bar -->
+    <div class="progress-bar-container" id="progress-bar-container" role="progressbar" aria-label="Tiến độ học tập bài hiện tại" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100">
+        <div class="progress-bar" id="progress-bar"></div>
+    </div>
+
+    <!-- Study View -->
+    <main class="view study-view active" id="view-study" tabindex="-1">
+        <div class="study-header">
+            <div class="study-header-main">
+                <h1 id="study-title">第三課 — Phân tích chữ Hán</h1>
+                <div class="study-mastery-badge" id="study-mastery-badge" title="Tiến độ đã thuộc trong danh sách">
+                    <span class="badge-icon" aria-hidden="true">🎯</span>
+                    <span id="study-mastery-text" aria-live="polite">0/0 từ (0%)</span>
+                </div>
+            </div>
+            <p class="study-subtitle">Nhấn vào mỗi thẻ để khám phá từ nguyên hoặc nhấn 🔊 để nghe phát âm chuẩn</p>
+
+            <!-- Quick Filter Bar -->
+            <div class="study-filter-bar" role="toolbar" aria-label="Bộ lọc trạng thái học">
+                <button class="study-filter-btn active" data-filter="all" id="filter-all">
+                    Tất cả <span class="filter-count" id="count-all">0</span>
+                </button>
+                <button class="study-filter-btn" data-filter="unmastered" id="filter-unmastered">
+                    ⏳ Cần ôn <span class="filter-count" id="count-unmastered">0</span>
+                </button>
+                <button class="study-filter-btn" data-filter="mastered" id="filter-mastered">
+                    ✓ Đã thuộc <span class="filter-count" id="count-mastered">0</span>
+                </button>
+            </div>
+        </div>
+        <div class="study-grid" id="study-grid">
+            <!-- Cards injected by JS -->
+        </div>
+    </main>
+
+    <!-- Flashcard View -->
+    <main class="view flashcard-view" id="view-flashcard" tabindex="-1">
+        <div class="flashcard-container">
+            <div class="fc-top-bar">
+                <div class="fc-settings">
+                    <label class="fc-toggle-label">
+                        <input type="checkbox" id="toggle-pinyin" checked> Hiện Pinyin
+                    </label>
+                    <label class="fc-toggle-label">
+                        <input type="checkbox" id="toggle-meaning" checked> Hiện Nghĩa
+                    </label>
+                </div>
+                <div class="fc-shortcut-hints" aria-hidden="true">
+                    <span class="shortcut-tag"><kbd>Space</kbd> Lật</span>
+                    <span class="shortcut-tag"><kbd>←</kbd><kbd>→</kbd> Chuyển</span>
+                    <span class="shortcut-tag"><kbd>1</kbd> Thuộc</span>
+                    <span class="shortcut-tag"><kbd>2</kbd> Chưa nhớ</span>
+                    <span class="shortcut-tag"><kbd>S</kbd> Nghe</span>
+                </div>
+            </div>
+            <div class="flashcard-progress" aria-live="polite">
+                <span id="fc-current">1</span> / <span id="fc-total">23</span>
+            </div>
+            <div class="flashcard-wrapper" id="flashcard-wrapper">
+                <div class="flashcard" id="flashcard" role="button" tabindex="0" aria-label="Thẻ học từ vựng. Bấm phím Cách hoặc Enter để lật thẻ">
+                    <div class="flashcard-front">
+                        <button class="fc-audio-btn" id="fc-audio-front" title="Nghe phát âm (Phím S)" aria-label="Nghe phát âm chữ Hán">
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"></path></svg>
+                        </button>
+                        <div class="fc-hanzi" id="fc-hanzi">進步</div>
+                        <div class="fc-pinyin" id="fc-pinyin">jìn bù</div>
+                        <div class="fc-hint">Nhấn hoặc bấm Phím cách để lật</div>
+                    </div>
+                    <div class="flashcard-back">
+                        <div class="fc-meaning" id="fc-meaning">Tiến bộ</div>
+                        <div class="fc-etymology" id="fc-etymology"></div>
+                        <div class="fc-mnemonic" id="fc-mnemonic"></div>
+                        <div class="fc-example" id="fc-example"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="flashcard-controls">
+                <button class="fc-btn fc-prev" id="fc-prev" aria-label="Thẻ trước" title="Thẻ trước (Phím ←)">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="15 18 9 12 15 6"/></svg>
+                </button>
+                <button class="fc-btn fc-know" id="fc-know" title="Đã nhớ (Phím 1)" aria-label="Đã nhớ">
+                    <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg>
+                </button>
+                <button class="fc-btn fc-dunno" id="fc-dunno" title="Chưa nhớ (Phím 2)" aria-label="Chưa nhớ">
+                    <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+                </button>
+                <button class="fc-btn fc-next" id="fc-next" aria-label="Thẻ tiếp theo" title="Thẻ tiếp theo (Phím →)">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="9 18 15 12 9 6"/></svg>
+                </button>
+            </div>
+            <div class="flashcard-score" aria-label="Thống kê trạng thái nhớ">
+                <div class="score-item score-known" title="Số từ đã nhớ">
+                    <span class="score-icon" aria-hidden="true">✓</span>
+                    <span id="score-known">0</span>
+                </div>
+                <div class="score-item score-unknown" title="Số từ chưa nhớ">
+                    <span class="score-icon" aria-hidden="true">✗</span>
+                    <span id="score-unknown">0</span>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Quiz View -->
+    <main class="view quiz-view" id="view-quiz" tabindex="-1">
+        <div class="quiz-container">
+            <div class="quiz-header">
+                <div style="display: flex; align-items: center; gap: 15px;">
+                    <h2>Kiểm tra kiến thức</h2>
+                    <select id="quiz-count-select" class="theme-select" style="padding: 4px 8px; font-size: 0.9rem; border-radius: 6px;" aria-label="Số câu hỏi trắc nghiệm">
+                        <option value="10">10 câu</option>
+                        <option value="20">20 câu</option>
+                        <option value="50">50 câu</option>
+                        <option value="all">Tất cả</option>
+                    </select>
+                </div>
+                <div class="quiz-score-display" aria-live="polite">
+                    <span id="quiz-correct">0</span> / <span id="quiz-total-q">0</span>
+                </div>
+            </div>
+            <div class="quiz-card" id="quiz-card">
+                <div class="quiz-question" id="quiz-question"></div>
+                <div class="quiz-options" id="quiz-options"></div>
+                <button class="quiz-next-btn" id="quiz-next-btn" style="display:none;">Câu tiếp theo →</button>
+            </div>
+            <div class="quiz-complete" id="quiz-complete" style="display:none;">
+                <div class="quiz-complete-icon" aria-hidden="true">🎉</div>
+                <h2>Hoàn thành!</h2>
+                <p id="quiz-result-text"></p>
+                <button class="quiz-restart-btn" id="quiz-restart-btn">Làm lại</button>
+            </div>
+        </div>
+    </main>
+
+    <!-- Practice View (Matching Game) -->
+    <main class="view practice-view" id="view-practice" tabindex="-1">
+        <div class="practice-container">
+            <div class="practice-header">
+                <h2>Trò chơi nối từ (Matching)</h2>
+                <div class="practice-stats" aria-live="polite">
+                    Ghép đúng: <span id="practice-score">0</span> / <span id="practice-total">0</span>
+                </div>
+            </div>
+            <div class="matching-grid" id="matching-grid" role="group" aria-label="Lưới các thẻ ghép từ">
+                <!-- Cards will be injected here by JS -->
+            </div>
+            <div class="practice-complete" id="practice-complete" style="display:none; text-align: center; margin-top: 2rem;">
+                <div style="font-size: 3rem; margin-bottom: 1rem;" aria-hidden="true">🏆</div>
+                <h2>Tuyệt vời! Bạn đã hoàn thành xuất sắc!</h2>
+                <button class="quiz-restart-btn" id="practice-restart-btn" style="margin-top: 1rem;">Chơi ván mới</button>
+            </div>
+        </div>
+    </main>
+
+    <!-- AI Import View -->
+    <main class="view ai-view" id="view-ai" tabindex="-1">
+        <div class="ai-container">
+            <div class="ai-header">
+                <h1 class="ai-title">✨ Thêm bài học mới bằng AI</h1>
+                <p class="ai-subtitle">Dán danh sách từ vựng → AI tự phân tích từng chữ → Lưu vào data.js</p>
+                <div id="ai-server-status" class="ai-server-status" role="status" aria-live="polite">Checking server…</div>
+            </div>
+
+            <div class="ai-panel">
+                <!-- Step 1: API Key -->
+                <div class="ai-step">
+                    <div class="ai-step-num" aria-hidden="true">1</div>
+                    <div class="ai-step-content">
+                        <label for="ai-api-key" class="ai-label">Google Gemini API Key
+                            <a href="https://aistudio.google.com/apikey" target="_blank" rel="noopener noreferrer" class="ai-link">Lấy key miễn phí ↗</a>
+                        </label>
+                        <div class="ai-key-wrapper">
+                            <input type="password" id="ai-api-key" class="ai-input" placeholder="AIzaSy…" autocomplete="off" spellcheck="false">
+                            <button id="ai-toggle-key" class="ai-toggle-key" title="Hiện hoặc ẩn key" aria-label="Hiện hoặc ẩn API key">👁</button>
+                        </div>
+                        <p class="ai-hint">Key được lưu trong localStorage của trình duyệt (chỉ trên máy bạn)</p>
+                    </div>
+                </div>
+
+                <!-- Step 2: Lesson & Words -->
+                <div class="ai-step">
+                    <div class="ai-step-num" aria-hidden="true">2</div>
+                    <div class="ai-step-content">
+                        <label for="ai-lesson-num" class="ai-label">
+                            Bài học số:
+                            <input type="number" id="ai-lesson-num" class="ai-input ai-input-sm" value="8" min="1" max="30">
+                        </label>
+                        <label for="ai-words-input" class="ai-label" style="margin-top:16px;display:block;">
+                            Danh sách từ vựng <span class="ai-hint-inline">(mỗi từ một dòng, hoặc cách nhau bằng dấu phẩy)</span>
+                        </label>
+                        <textarea id="ai-words-input" class="ai-textarea" rows="8" spellcheck="false"
+                            placeholder="Ví dụ:附近
+方便
+借
+用
+車站
+地鐵
+…">附近
+方便
+借用
+車站
+地鐵
+公共汽車
+指
+可以
+進去
+出來</textarea>
+                    </div>
+                </div>
+
+                <!-- Step 3: Analyze -->
+                <div class="ai-step">
+                    <div class="ai-step-num" aria-hidden="true">3</div>
+                    <div class="ai-step-content">
+                        <button id="ai-analyze-btn" class="ai-analyze-btn">
+                            ✨ Phân tích bằng AI
+                        </button>
+                        <div id="ai-spinner" class="ai-spinner" style="display:none;" role="status" aria-live="polite">
+                            <div class="ai-spinner-ring" aria-hidden="true"></div>
+                            <span id="ai-status" class="ai-status-text">Connecting…</span>
+                        </div>
+                        <div id="ai-success-msg" class="ai-message" role="alert" aria-live="polite" style="display:none;"></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Results -->
+            <div id="ai-results-section" class="ai-results-section">
+                <div class="ai-results-header">
+                    <h2 class="ai-results-title">📄 Kết quả phân tích</h2>
+                    <span id="ai-result-count" class="ai-result-count" aria-live="polite"></span>
+                </div>
+                <div id="ai-preview-grid" class="ai-preview-grid">
+                    <div class="ai-empty">
+                        <div class="ai-empty-icon" aria-hidden="true">🤖</div>
+                        <p>Nhập từ vựng và nhấn "Phân tích" để bắt đầu</p>
+                    </div>
+                </div>
+
+                <!-- Save section -->
+                <div id="ai-save-section" class="ai-save-section" style="display:none;">
+                    <div class="ai-save-info">
+                        <div class="ai-save-icon" aria-hidden="true">💾</div>
+                        <div>
+                            <strong>Lưu vào data.js</strong>
+                            <p>Server sẽ tự động thêm các từ mới vào cuối file data.js</p>
+                        </div>
+                    </div>
+                    <div class="ai-save-actions">
+                        <button id="ai-save-btn" class="ai-save-btn" title="Ghi trực tiếp vào data.js (yêu cầu node server.js)">
+                            💾 Lưu vào data.js
+                        </button>
+                        <button id="ai-copy-btn" class="ai-outline-btn" title="Sao chép mảng JSON vào clipboard">
+                            📋 Sao chép JSON
+                        </button>
+                        <button id="ai-download-btn" class="ai-outline-btn" title="Tải file JSON về máy">
+                            📥 Tải file JSON
+                        </button>
+                        <button id="ai-reload-btn" class="ai-reload-btn" style="display:none;">
+                            🔄 Tải lại trang
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <div class="modal-overlay" id="modal-overlay" role="dialog" aria-modal="true" aria-label="Chi tiết từ vựng">
+        <div class="modal" id="detail-modal">
+            <button class="modal-close" id="modal-close" aria-label="Đóng chi tiết từ vựng">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+            </button>
+            <div class="modal-content" id="modal-content">
+                <!-- Filled by JS -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Toast Notifications Container -->
+    <div class="toast-container" id="toast-container" role="status" aria-live="polite"></div>
+
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+    <script src="ai-import.js"></script>
+</body>
+</html>
