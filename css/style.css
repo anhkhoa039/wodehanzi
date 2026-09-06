@@ -2986,6 +2986,599 @@ body {
     }
 }
 
+/* --- Thêm từ thủ công (Manual Word Addition Feature) --- */
+.study-header-main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 16px;
+    margin-bottom: 8px;
+}
+
+.study-title-group {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex-wrap: wrap;
+}
+
+.btn-primary-action.btn-add-word {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 20px;
+    min-height: 44px;
+    background: linear-gradient(135deg, var(--accent-1), #059669);
+    color: #ffffff;
+    border: none;
+    border-radius: var(--radius-md);
+    font-family: var(--font-body);
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    box-shadow: 0 4px 14px rgba(13, 148, 136, 0.28);
+    transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+    white-space: nowrap;
+}
+
+.btn-primary-action.btn-add-word:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(13, 148, 136, 0.4);
+    filter: brightness(1.06);
+}
+
+.btn-primary-action.btn-add-word:active {
+    transform: translateY(0) scale(0.98);
+}
+
+.nav-quick-add-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    padding: 6px 12px;
+    min-height: 38px;
+    background: var(--accent-1-soft);
+    color: var(--accent-1);
+    border: 1px solid var(--accent-1);
+    border-radius: 8px;
+    font-family: var(--font-body);
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    white-space: nowrap;
+    margin-left: 6px;
+}
+
+.nav-quick-add-btn:hover {
+    background: var(--accent-1);
+    color: #ffffff;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 8px rgba(13, 148, 136, 0.25);
+}
+
+/* Custom word badge on study card */
+.study-card.custom-word .card-lesson-tag {
+    background: linear-gradient(135deg, rgba(13, 148, 136, 0.15), rgba(16, 185, 129, 0.25));
+    border-color: var(--accent-1);
+    color: var(--accent-1);
+}
+
+.study-card .badge-custom-pill {
+    display: inline-block;
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    padding: 2px 6px;
+    border-radius: 4px;
+    background: var(--accent-1-soft);
+    color: var(--accent-1);
+    border: 1px solid var(--accent-1);
+    margin-left: 6px;
+    vertical-align: middle;
+}
+
+/* Modal Add Word Specifics */
+.modal.modal-add-word {
+    max-width: 780px;
+    width: 100%;
+    max-height: 88vh;
+    padding: 32px;
+    overflow-y: auto;
+}
+
+.modal-header-custom {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 16px;
+    margin-bottom: 24px;
+    padding-bottom: 16px;
+    border-bottom: 1px solid var(--border-card);
+}
+
+.modal-badge-zen {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 4px 10px;
+    border-radius: 20px;
+    background: var(--accent-1-soft);
+    color: var(--accent-1);
+    font-size: 12px;
+    font-weight: 600;
+    margin-bottom: 6px;
+}
+
+.modal-title-custom {
+    font-family: var(--font-heading);
+    font-size: 22px;
+    font-weight: 700;
+    color: var(--text-primary);
+    margin: 0 0 4px 0;
+    letter-spacing: -0.01em;
+}
+
+.modal-subtitle-custom {
+    font-size: 13px;
+    color: var(--text-muted);
+    margin: 0;
+    line-height: 1.5;
+}
+
+.add-word-form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.form-card-section {
+    background: rgba(255, 255, 255, 0.02);
+    border: 1px solid var(--border-card);
+    border-radius: 14px;
+    padding: 20px;
+    transition: border-color 0.2s ease;
+}
+
+.form-card-section:focus-within {
+    border-color: rgba(13, 148, 136, 0.4);
+}
+
+.form-card-title {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 14px;
+    font-weight: 700;
+    color: var(--text-primary);
+    margin-bottom: 16px;
+}
+
+.form-step-num {
+    width: 22px;
+    height: 22px;
+    border-radius: 50%;
+    background: var(--accent-1);
+    color: #ffffff;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 11px;
+    font-weight: 800;
+    flex-shrink: 0;
+}
+
+.form-card-header-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 16px;
+}
+
+.form-card-header-flex .form-card-title {
+    margin-bottom: 0;
+}
+
+.form-counter-badge {
+    font-size: 11px;
+    font-weight: 600;
+    padding: 2px 8px;
+    border-radius: 12px;
+    background: var(--accent-1-soft);
+    color: var(--accent-1);
+}
+
+.btn-subtle-action {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 6px 12px;
+    min-height: 34px;
+    background: var(--bg-secondary);
+    border: 1px solid var(--border-card);
+    border-radius: 8px;
+    color: var(--text-secondary);
+    font-size: 12px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.btn-subtle-action:hover {
+    color: var(--accent-1);
+    border-color: var(--accent-1);
+    background: var(--accent-1-soft);
+}
+
+.form-row-2 {
+    display: grid;
+    grid-template-columns: 1fr 1.2fr;
+    gap: 16px;
+    margin-bottom: 14px;
+}
+
+.form-row-3 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1.4fr;
+    gap: 14px;
+}
+
+.form-field {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.form-field label {
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--text-secondary);
+}
+
+.form-field .req-star {
+    color: #ef4444;
+    font-weight: 700;
+    margin-left: 2px;
+}
+
+.form-field-hint {
+    font-size: 11px;
+    color: var(--text-muted);
+    line-height: 1.4;
+}
+
+.form-input-custom,
+.form-select-custom,
+.form-textarea-custom {
+    width: 100%;
+    min-height: 42px;
+    padding: 9px 13px;
+    background: var(--bg-primary);
+    border: 1.5px solid var(--border-card);
+    border-radius: 10px;
+    color: var(--text-primary);
+    font-family: var(--font-body);
+    font-size: 13.5px;
+    outline: none;
+    transition: all 0.2s ease;
+    box-sizing: border-box;
+}
+
+.form-input-custom:focus,
+.form-select-custom:focus,
+.form-textarea-custom:focus {
+    border-color: var(--accent-1);
+    box-shadow: 0 0 0 3px var(--accent-1-soft);
+}
+
+.form-input-custom.error,
+.form-select-custom.error,
+.form-textarea-custom.error {
+    border-color: #ef4444;
+    box-shadow: 0 0 0 3px rgba(239, 68, 68, 0.15);
+}
+
+.form-input-hanzi {
+    font-family: var(--font-serif);
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+
+.form-textarea-custom {
+    min-height: 64px;
+    resize: vertical;
+    line-height: 1.5;
+}
+
+/* Character Breakdown Cards */
+.form-chars-container {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.chars-empty-hint {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 16px;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.02);
+    border: 1px dashed var(--border-card);
+    color: var(--text-muted);
+    font-size: 13px;
+}
+
+.char-card-block {
+    background: var(--bg-secondary);
+    border: 1px solid var(--border-card);
+    border-radius: 12px;
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    animation: fadeIn 0.25s ease-out forwards;
+}
+
+.char-card-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px dashed var(--border-card);
+    padding-bottom: 8px;
+}
+
+.char-card-left {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.char-card-badge {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 38px;
+    height: 38px;
+    border-radius: 8px;
+    background: var(--accent-1-soft);
+    color: var(--accent-1);
+    font-family: var(--font-serif);
+    font-size: 22px;
+    font-weight: 900;
+    border: 1px solid rgba(13, 148, 136, 0.3);
+}
+
+.char-card-input-char {
+    width: 60px;
+    text-align: center;
+    font-family: var(--font-serif);
+    font-size: 20px;
+    font-weight: 700;
+    min-height: 38px;
+    padding: 4px;
+}
+
+.char-card-input-pinyin {
+    width: 110px;
+    min-height: 38px;
+}
+
+.char-card-delete-btn {
+    width: 32px;
+    height: 32px;
+    border-radius: 8px;
+    background: transparent;
+    border: 1px solid transparent;
+    color: var(--text-muted);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.char-card-delete-btn:hover {
+    color: #ef4444;
+    background: rgba(239, 68, 68, 0.1);
+    border-color: rgba(239, 68, 68, 0.2);
+}
+
+/* Modal Form Footer */
+.form-footer-custom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 16px;
+    padding-top: 16px;
+    border-top: 1px solid var(--border-card);
+    margin-top: 8px;
+}
+
+.form-status-msg {
+    font-size: 13px;
+    font-weight: 500;
+    flex: 1;
+    min-width: 200px;
+}
+
+.form-status-msg.status-error {
+    color: #ef4444;
+}
+
+.form-status-msg.status-success {
+    color: #10b981;
+}
+
+.form-btn-group {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.btn-modal-cancel {
+    padding: 10px 18px;
+    min-height: 44px;
+    background: transparent;
+    border: 1px solid var(--border-card);
+    border-radius: 10px;
+    color: var(--text-secondary);
+    font-family: var(--font-body);
+    font-size: 13.5px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.btn-modal-cancel:hover {
+    background: var(--bg-primary);
+    color: var(--text-primary);
+}
+
+.btn-modal-copy {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 10px 16px;
+    min-height: 44px;
+    background: var(--bg-primary);
+    border: 1px solid var(--border-card);
+    border-radius: 10px;
+    color: var(--text-secondary);
+    font-family: var(--font-body);
+    font-size: 13.5px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.btn-modal-copy:hover {
+    border-color: var(--accent-1);
+    color: var(--accent-1);
+}
+
+.btn-modal-submit {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 22px;
+    min-height: 44px;
+    background: linear-gradient(135deg, var(--accent-1), #059669);
+    border: none;
+    border-radius: 10px;
+    color: #ffffff;
+    font-family: var(--font-body);
+    font-size: 14px;
+    font-weight: 700;
+    cursor: pointer;
+    box-shadow: 0 4px 14px rgba(13, 148, 136, 0.3);
+    transition: all 0.25s ease;
+}
+
+.btn-modal-submit:hover:not(:disabled) {
+    transform: translateY(-1px);
+    box-shadow: 0 6px 20px rgba(13, 148, 136, 0.45);
+    filter: brightness(1.05);
+}
+
+.btn-modal-submit:active:not(:disabled) {
+    transform: translateY(0) scale(0.98);
+}
+
+.btn-modal-submit:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+    transform: none;
+    box-shadow: none;
+}
+
+/* Delete Custom Word Button in Detail Modal */
+.btn-delete-custom-word {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 8px 14px;
+    border-radius: 8px;
+    background: rgba(239, 68, 68, 0.1);
+    color: #ef4444;
+    border: 1px solid rgba(239, 68, 68, 0.25);
+    font-family: var(--font-body);
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.btn-delete-custom-word:hover {
+    background: #ef4444;
+    color: #ffffff;
+}
+
+/* AI Manual Switch Banner */
+.ai-manual-switch-banner {
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+    margin-top: 14px;
+    padding: 8px 16px;
+    background: var(--bg-card);
+    border: 1px dashed var(--border-card);
+    border-radius: 9999px;
+    font-size: 13.5px;
+    color: var(--text-secondary);
+}
+
+@media (max-width: 640px) {
+    .ai-manual-switch-banner {
+        flex-direction: column;
+        border-radius: 12px;
+        text-align: center;
+        width: 100%;
+    }
+}
+
+/* Responsive adjustments for Add Word Modal */
+@media (max-width: 640px) {
+    .modal.modal-add-word {
+        padding: 20px 16px;
+        max-height: 92vh;
+    }
+
+    .form-row-2,
+    .form-row-3 {
+        grid-template-columns: 1fr;
+        gap: 12px;
+    }
+
+    .form-footer-custom {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .form-btn-group {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 8px;
+    }
+
+    .btn-modal-submit {
+        grid-column: span 2;
+        justify-content: center;
+    }
+
+    .btn-primary-action.btn-add-word span {
+        display: none;
+    }
+    .btn-primary-action.btn-add-word {
+        padding: 10px 12px;
+    }
+}
+
 /* --- Accessibility: Reduced Motion Support --- */
 @media (prefers-reduced-motion: reduce) {
     *,

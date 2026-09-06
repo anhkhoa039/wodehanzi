@@ -76,6 +76,51 @@ app.post('/api/append-lesson', (req, res) => {
   }
 });
 
+// ── POST /api/append-word → thêm 1 từ vựng thủ công vào data.js ────
+app.post('/api/append-word', (req, res) => {
+  try {
+    const { item } = req.body;
+    if (!item || !item.hanzi || !item.lesson || !item.meaning) {
+      return res.status(400).json({ error: 'Thiếu thông tin bắt buộc: Hán tự, Bài học hoặc Ý nghĩa.' });
+    }
+
+    let content = fs.readFileSync(DATA_FILE, 'utf8');
+
+    // Tạo ID tự động nếu chưa có
+    if (!item.id) {
+      const lessonPrefix = String(item.lesson).startsWith('Mock') ? item.lesson : `l${item.lesson}`;
+      item.id = `${lessonPrefix}-custom-${Date.now().toString(36)}`;
+    }
+
+    // Tránh trùng lặp ID
+    const existingIds = [...content.matchAll(/id:\s*["']([^"']+)["']/g)].map(m => m[1]);
+    if (existingIds.includes(item.id)) {
+      item.id = `${item.id}-${Math.floor(Math.random() * 1000)}`;
+    }
+
+    const newCode = JSON.stringify(item, null, 2);
+    const insertMarker = '];';
+    const insertPos = content.lastIndexOf(insertMarker);
+    if (insertPos === -1) {
+      return res.status(500).json({ error: 'Không tìm thấy marker ]; trong data.js' });
+    }
+
+    const insertContent = `,\n  // ====== Thêm thủ công: ${item.hanzi} (Bài ${item.lesson}) ======\n${newCode.split('\n').map(l => '  ' + l).join('\n')}\n`;
+    const newContent = content.slice(0, insertPos) + insertContent + insertMarker + content.slice(insertPos + insertMarker.length);
+
+    fs.writeFileSync(DATA_FILE, newContent, 'utf8');
+
+    res.json({
+      success: true,
+      message: `Đã lưu từ "${item.hanzi}" vào data.js thành công!`,
+      item
+    });
+  } catch (err) {
+    console.error('Error in /api/append-word:', err);
+    res.status(500).json({ error: err.message });
+  }
+});
+
 // ── GET /api/check-ids → kiểm tra IDs đã tồn tại ─────────────────
 app.get('/api/check-ids', (req, res) => {
   try {

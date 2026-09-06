@@ -10,6 +10,33 @@
   let currentStatusFilter = "all"; // "all" | "unmastered" | "mastered"
   let masteredIds = JSON.parse(localStorage.getItem("tocfl_mastered") || "[]");
 
+  // Custom Words state
+  const STORAGE_KEY_CUSTOM_WORDS = "tocfl_custom_words";
+  let isAddWordModalOpen = false;
+  let customCharBreakdowns = [];
+
+  // Load custom words from localStorage into in-memory LESSON_DATA
+  function loadCustomWords() {
+    try {
+      const saved = JSON.parse(localStorage.getItem(STORAGE_KEY_CUSTOM_WORDS) || "[]");
+      if (Array.isArray(saved) && typeof LESSON_DATA !== "undefined") {
+        saved.forEach(item => {
+          item.isCustom = true;
+          const idx = LESSON_DATA.findIndex(d => d.id === item.id);
+          if (idx === -1) {
+            LESSON_DATA.push(item);
+          } else {
+            LESSON_DATA[idx] = item;
+          }
+        });
+      }
+    } catch (e) {
+      console.warn("Could not load custom words:", e);
+    }
+  }
+
+  loadCustomWords();
+
   // Modal state
   let isModalOpen = false;
   let currentModalId = null;
@@ -264,7 +291,13 @@
           <div class="empty-state-icon" aria-hidden="true">🔍</div>
           <h3>Không tìm thấy từ vựng nào</h3>
           <p>${searchQuery ? `Không có từ nào khớp với từ khóa "<strong>${escapeHtml(searchQuery)}</strong>".` : 'Không có từ nào trong danh mục lọc hiện tại.'}</p>
-          <button class="empty-clear-btn" id="empty-clear-btn">Xóa bộ lọc & tìm kiếm</button>
+          <div style="display:flex;gap:10px;justify-content:center;margin-top:14px;flex-wrap:wrap;">
+            <button class="empty-clear-btn" id="empty-clear-btn">Xóa bộ lọc & tìm kiếm</button>
+            <button class="btn-primary-action btn-add-word" id="empty-add-word-btn" style="min-height:40px;padding:8px 16px;font-size:13.5px;">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true"><line x1="12" y1="5" x2="12" y2="19"></line><line x1="5" y1="12" x2="19" y2="12"></line></svg>
+              <span>+ Thêm từ cho bài này</span>
+            </button>
+          </div>
         </div>
       `;
       const clearBtn = $("#empty-clear-btn");
@@ -276,12 +309,18 @@
           setStatusFilter("all");
         });
       }
+      const emptyAddBtn = $("#empty-add-word-btn");
+      if (emptyAddBtn) {
+        emptyAddBtn.addEventListener("click", () => {
+          openAddWordModal(currentLesson);
+        });
+      }
       updateProgressBar();
       return;
     }
 
     grid.innerHTML = data.map((item, i) => `
-      <div class="study-card ${isMastered(item.id) ? 'mastered' : ''}" 
+      <div class="study-card ${isMastered(item.id) ? 'mastered' : ''} ${item.isCustom ? 'custom-word' : ''}" 
            data-id="${item.id}" 
            tabindex="0" 
            role="button"
@@ -291,7 +330,7 @@
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"></path></svg>
         </button>
         <div class="study-card-inner">
-          <span class="card-lesson-tag">${String(item.lesson).startsWith("Mock") ? 'Đề ' + item.lesson.replace("Mock", "") : String(item.lesson).startsWith("A1_") ? 'A1' : String(item.lesson).startsWith("3_") ? 'B3 - 第' + item.lesson.replace("3_", "") + '課' : '第' + item.lesson + '課'}</span>
+          <span class="card-lesson-tag">${String(item.lesson).startsWith("Mock") ? 'Đề ' + item.lesson.replace("Mock", "") : String(item.lesson).startsWith("A1_") ? 'A1' : String(item.lesson).startsWith("3_") ? 'B3 - 第' + item.lesson.replace("3_", "") + '課' : '第' + item.lesson + '課'}${item.isCustom ? ' <span class="badge-custom-pill">Tự thêm</span>' : ''}</span>
           <div class="card-hanzi">${item.hanzi}</div>
           <div class="card-pinyin">${item.pinyin}</div>
           <div class="card-hv">${item.hanViet}</div>
@@ -459,6 +498,12 @@
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
           <span>Sao chép từ</span>
         </button>
+        ${item.isCustom ? `
+        <button class="btn-delete-custom-word" id="modal-delete-custom-btn" title="Xóa từ tự thêm này khỏi danh sách">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="3 6 5 6 21 6"></polyline><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path></svg>
+          <span>Xóa từ tự thêm</span>
+        </button>
+        ` : ''}
       </div>
     `;
 
@@ -575,6 +620,11 @@
       if (exCopyBtn) exCopyBtn.addEventListener("click", () => copyToClipboard(item.example.hanzi, 'Đã sao chép câu ví dụ!'));
     }
 
+    const deleteCustomBtn = $("#modal-delete-custom-btn");
+    if (deleteCustomBtn) {
+      deleteCustomBtn.addEventListener("click", () => deleteCustomWord(item.id));
+    }
+
     // Mastery button handler
     content.querySelector(".modal-mastery-btn").addEventListener("click", function () {
       toggleMastered(this.dataset.id);
@@ -605,6 +655,407 @@
       isModalOpen = false;
       currentModalId = null;
     }, 300);
+  }
+
+  // --- Manual Word Addition Module ---
+  function getCustomWords() {
+    try {
+      return JSON.parse(localStorage.getItem(STORAGE_KEY_CUSTOM_WORDS) || "[]");
+    } catch {
+      return [];
+    }
+  }
+
+  function saveCustomWordLocally(newItem) {
+    const list = getCustomWords();
+    const existingIndex = list.findIndex(d => d.id === newItem.id);
+    if (existingIndex >= 0) {
+      list[existingIndex] = newItem;
+    } else {
+      list.push(newItem);
+    }
+    localStorage.setItem(STORAGE_KEY_CUSTOM_WORDS, JSON.stringify(list));
+
+    // Also update in-memory LESSON_DATA
+    const dataIndex = LESSON_DATA.findIndex(d => d.id === newItem.id);
+    if (dataIndex >= 0) {
+      LESSON_DATA[dataIndex] = newItem;
+    } else {
+      LESSON_DATA.push(newItem);
+    }
+  }
+
+  function deleteCustomWord(id) {
+    const item = LESSON_DATA.find(d => d.id === id);
+    const hanzi = item ? item.hanzi : "";
+    if (!confirm(`Bạn có chắc chắn muốn xóa từ "${hanzi}" đã thêm khỏi danh sách không?`)) {
+      return;
+    }
+
+    // Remove from localStorage
+    const list = getCustomWords().filter(d => d.id !== id);
+    localStorage.setItem(STORAGE_KEY_CUSTOM_WORDS, JSON.stringify(list));
+
+    // Remove from in-memory LESSON_DATA
+    const idx = LESSON_DATA.findIndex(d => d.id === id);
+    if (idx !== -1) {
+      LESSON_DATA.splice(idx, 1);
+    }
+
+    // Also remove from masteredIds if present
+    if (isMastered(id)) {
+      toggleMastered(id);
+    }
+
+    closeModal();
+    renderStudyGrid();
+    updateProgressBar();
+    showToast(`🗑️ Đã xóa từ "${hanzi}".`);
+  }
+
+  function populateAddWordLessonSelect() {
+    const sourceSelect = $("#lesson-select");
+    const targetSelect = $("#form-word-lesson");
+    if (!sourceSelect || !targetSelect) return;
+
+    targetSelect.innerHTML = "";
+    Array.from(sourceSelect.children).forEach(child => {
+      if (child.tagName === "OPTGROUP") {
+        const group = document.createElement("optgroup");
+        group.label = child.label;
+        Array.from(child.children).forEach(opt => {
+          if (opt.value !== "all") {
+            const newOpt = document.createElement("option");
+            newOpt.value = opt.value;
+            newOpt.textContent = opt.textContent;
+            group.appendChild(newOpt);
+          }
+        });
+        if (group.children.length > 0) {
+          targetSelect.appendChild(group);
+        }
+      } else if (child.tagName === "OPTION" && child.value !== "all") {
+        const newOpt = document.createElement("option");
+        newOpt.value = child.value;
+        newOpt.textContent = child.textContent;
+        targetSelect.appendChild(newOpt);
+      }
+    });
+
+    if (currentLesson && currentLesson !== "all") {
+      targetSelect.value = currentLesson;
+    } else {
+      targetSelect.value = "3_1";
+    }
+  }
+
+  function renderCharBreakdownBlocks() {
+    const container = $("#form-chars-container");
+    const counterBadge = $("#form-char-counter");
+    if (!container) return;
+
+    if (counterBadge) {
+      counterBadge.textContent = `${customCharBreakdowns.length} chữ`;
+    }
+
+    if (customCharBreakdowns.length === 0) {
+      container.innerHTML = `
+        <div class="chars-empty-hint" id="chars-empty-hint">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
+          <span>Hãy nhập Chữ Hán ở Bước 1 hoặc nhấn nút "+ Thêm chữ" để bắt đầu chiết tự</span>
+        </div>
+      `;
+      return;
+    }
+
+    container.innerHTML = customCharBreakdowns.map((c, index) => `
+      <div class="char-card-block" data-char-index="${index}">
+        <div class="char-card-top">
+          <div class="char-card-left">
+            <div class="char-card-badge">${escapeHtml(c.char || '?')}</div>
+            <div class="form-field" style="margin-bottom:0;">
+              <label>Ký tự</label>
+              <input type="text" class="form-input-custom char-card-input-char" value="${escapeHtml(c.char || '')}" placeholder="字" maxlength="2" data-field="char" aria-label="Ký tự chữ Hán ${index + 1}">
+            </div>
+            <div class="form-field" style="margin-bottom:0;">
+              <label>Pinyin của chữ</label>
+              <input type="text" class="form-input-custom char-card-input-pinyin" value="${escapeHtml(c.pinyin || '')}" placeholder="vd: zì" data-field="pinyin" aria-label="Pinyin cho chữ ${escapeHtml(c.char || '')}">
+            </div>
+          </div>
+          <button type="button" class="char-card-delete-btn" data-delete-index="${index}" title="Xóa phân tích chữ này" aria-label="Xóa phân tích chữ ${index + 1}">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="3 6 5 6 21 6"></polyline><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path></svg>
+          </button>
+        </div>
+
+        <div class="form-field">
+          <label>📐 Cấu tạo chi tiết & Bộ thủ</label>
+          <textarea rows="2" class="form-textarea-custom" placeholder="vd: Chữ hội ý, trên là Miên (宀 - mái nhà), dưới là Tử (子 - đứa con)..." data-field="structure">${escapeHtml(c.structure || '')}</textarea>
+        </div>
+
+        <div class="form-field">
+          <label>📜 Câu chuyện tượng hình / Nguồn gốc</label>
+          <textarea rows="2" class="form-textarea-custom" placeholder="vd: Hình ảnh đứa trẻ dưới mái nhà được dạy học..." data-field="story">${escapeHtml(c.story || '')}</textarea>
+        </div>
+
+        <div class="form-field">
+          <label>💡 Mẹo nhớ chữ</label>
+          <input type="text" class="form-input-custom" value="${escapeHtml(c.mnemonic || '')}" placeholder="vd: Đứa con (子) ở dưới mái nhà (宀) thì chăm chỉ học chữ." data-field="mnemonic">
+        </div>
+      </div>
+    `).join("");
+
+    // Attach input sync listeners to preserve edits
+    container.querySelectorAll(".char-card-block").forEach(block => {
+      const idx = parseInt(block.dataset.charIndex, 10);
+      block.querySelectorAll("input, textarea").forEach(field => {
+        field.addEventListener("input", (e) => {
+          const prop = e.target.dataset.field;
+          if (prop && customCharBreakdowns[idx]) {
+            customCharBreakdowns[idx][prop] = e.target.value;
+            if (prop === "char") {
+              const badge = block.querySelector(".char-card-badge");
+              if (badge) badge.textContent = e.target.value.trim() || '?';
+            }
+          }
+        });
+      });
+    });
+
+    // Attach delete buttons
+    container.querySelectorAll(".char-card-delete-btn").forEach(btn => {
+      btn.addEventListener("click", () => {
+        const idx = parseInt(btn.dataset.deleteIndex, 10);
+        customCharBreakdowns.splice(idx, 1);
+        renderCharBreakdownBlocks();
+      });
+    });
+  }
+
+  function handleHanziInputAssist(hanziText) {
+    if (!hanziText) {
+      customCharBreakdowns = [];
+      renderCharBreakdownBlocks();
+      return;
+    }
+
+    const matchedChars = hanziText.match(/[\u4e00-\u9fa5\u3400-\u4dbf]/g) || [];
+    const uniqueChars = Array.from(new Set(matchedChars));
+
+    const newBreakdowns = uniqueChars.map(ch => {
+      const existing = customCharBreakdowns.find(c => c.char === ch);
+      if (existing) return existing;
+      return {
+        char: ch,
+        pinyin: "",
+        structure: "",
+        story: "",
+        mnemonic: ""
+      };
+    });
+
+    customCharBreakdowns = newBreakdowns;
+    renderCharBreakdownBlocks();
+  }
+
+  function openAddWordModal(targetLesson) {
+    const overlay = $("#add-word-modal-overlay");
+    if (!overlay) return;
+
+    populateAddWordLessonSelect();
+    if (targetLesson && targetLesson !== "all") {
+      const lessonSelect = $("#form-word-lesson");
+      if (lessonSelect) lessonSelect.value = targetLesson;
+    }
+
+    // Reset fields
+    $("#add-word-form")?.reset();
+    customCharBreakdowns = [];
+    renderCharBreakdownBlocks();
+
+    const statusEl = $("#add-word-status");
+    if (statusEl) {
+      statusEl.textContent = "";
+      statusEl.className = "form-status-msg";
+    }
+
+    overlay.style.display = "flex";
+    requestAnimationFrame(() => overlay.classList.add("open"));
+    document.body.style.overflow = "hidden";
+    overlay.setAttribute("aria-hidden", "false");
+    isAddWordModalOpen = true;
+
+    setTimeout(() => {
+      $("#form-word-hanzi")?.focus();
+    }, 150);
+  }
+
+  function closeAddWordModal() {
+    const overlay = $("#add-word-modal-overlay");
+    if (!overlay) return;
+    overlay.classList.remove("open");
+    setTimeout(() => {
+      overlay.style.display = "none";
+      document.body.style.overflow = "";
+      overlay.setAttribute("aria-hidden", "true");
+      isAddWordModalOpen = false;
+    }, 300);
+  }
+
+  async function handleAddWordSubmit(e) {
+    e.preventDefault();
+    const statusEl = $("#add-word-status");
+    const submitBtn = $("#btn-submit-add-word");
+    const submitText = $("#btn-submit-text");
+
+    const lessonVal = $("#form-word-lesson")?.value;
+    const hanziVal = $("#form-word-hanzi")?.value.trim();
+    const pinyinVal = $("#form-word-pinyin")?.value.trim();
+    const hvVal = $("#form-word-hv")?.value.trim();
+    const meaningVal = $("#form-word-meaning")?.value.trim();
+    const summaryVal = $("#form-word-summary")?.value.trim();
+
+    const exHanziVal = $("#form-word-ex-hanzi")?.value.trim();
+    const exPinyinVal = $("#form-word-ex-pinyin")?.value.trim();
+    const exMeaningVal = $("#form-word-ex-meaning")?.value.trim();
+
+    let hasError = false;
+    const requiredInputs = [
+      { el: $("#form-word-hanzi"), val: hanziVal },
+      { el: $("#form-word-pinyin"), val: pinyinVal },
+      { el: $("#form-word-meaning"), val: meaningVal }
+    ];
+
+    requiredInputs.forEach(item => {
+      if (!item.val) {
+        if (item.el) item.el.classList.add("error");
+        hasError = true;
+      } else {
+        if (item.el) item.el.classList.remove("error");
+      }
+    });
+
+    if (hasError) {
+      if (statusEl) {
+        statusEl.textContent = "⚠️ Vui lòng điền đầy đủ các mục có dấu (*)";
+        statusEl.className = "form-status-msg status-error";
+      }
+      return;
+    }
+
+    let formattedLesson = lessonVal;
+    if (!isNaN(lessonVal) && !String(lessonVal).includes('_') && !String(lessonVal).startsWith('Mock') && !String(lessonVal).startsWith('A1')) {
+      formattedLesson = Number(lessonVal);
+    }
+
+    const lessonPrefix = String(lessonVal).startsWith('Mock') ? lessonVal : `l${lessonVal}`;
+    const newItem = {
+      id: `${lessonPrefix}-custom-${Date.now().toString(36)}`,
+      hanzi: hanziVal,
+      pinyin: pinyinVal,
+      hanViet: hvVal || "",
+      meaning: meaningVal,
+      lesson: formattedLesson,
+      characters: customCharBreakdowns.filter(c => c.char && c.char.trim() !== ""),
+      summary: summaryVal || "",
+      isCustom: true
+    };
+
+    if (exHanziVal) {
+      newItem.example = {
+        hanzi: exHanziVal,
+        pinyin: exPinyinVal || "",
+        meaning: exMeaningVal || ""
+      };
+    }
+
+    if (submitBtn) submitBtn.disabled = true;
+    if (submitText) submitText.textContent = "Đang lưu...";
+
+    saveCustomWordLocally(newItem);
+
+    let serverSuccess = false;
+    try {
+      const resp = await fetch("/api/append-word", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ item: newItem })
+      });
+      if (resp.ok) {
+        serverSuccess = true;
+      }
+    } catch {
+      serverSuccess = false;
+    }
+
+    if (serverSuccess) {
+      showToast(`🎉 Đã lưu "${newItem.hanzi}" vào Bài ${newItem.lesson} và ghi vào js/data.js!`);
+    } else {
+      showToast(`✅ Đã lưu "${newItem.hanzi}" vào Bài ${newItem.lesson} (lưu trên trình duyệt)!`);
+    }
+
+    closeAddWordModal();
+
+    if (currentLesson !== "all" && String(currentLesson) !== String(lessonVal)) {
+      setLesson(String(lessonVal));
+    } else {
+      renderStudyGrid();
+      updateProgressBar();
+    }
+
+    setTimeout(() => {
+      const newCard = document.querySelector(`.study-card[data-id="${newItem.id}"]`);
+      if (newCard) {
+        newCard.scrollIntoView({ behavior: "smooth", block: "center" });
+        newCard.style.outline = "2px solid var(--accent-1)";
+        setTimeout(() => newCard.style.outline = "", 2500);
+      }
+    }, 250);
+
+    if (submitBtn) submitBtn.disabled = false;
+    if (submitText) submitText.textContent = "Lưu từ vựng";
+  }
+
+  function handleCopyWordJson() {
+    const lessonVal = $("#form-word-lesson")?.value;
+    const hanziVal = $("#form-word-hanzi")?.value.trim();
+    const pinyinVal = $("#form-word-pinyin")?.value.trim();
+    const hvVal = $("#form-word-hv")?.value.trim();
+    const meaningVal = $("#form-word-meaning")?.value.trim();
+    const summaryVal = $("#form-word-summary")?.value.trim();
+
+    const exHanziVal = $("#form-word-ex-hanzi")?.value.trim();
+    const exPinyinVal = $("#form-word-ex-pinyin")?.value.trim();
+    const exMeaningVal = $("#form-word-ex-meaning")?.value.trim();
+
+    const lessonPrefix = String(lessonVal).startsWith('Mock') ? lessonVal : `l${lessonVal}`;
+    const previewItem = {
+      id: `${lessonPrefix}-custom-${Date.now().toString(36)}`,
+      hanzi: hanziVal || "Hán tự",
+      pinyin: pinyinVal || "pinyin",
+      hanViet: hvVal || "",
+      meaning: meaningVal || "nghĩa",
+      lesson: isNaN(lessonVal) || String(lessonVal).includes('_') ? lessonVal : Number(lessonVal),
+      characters: customCharBreakdowns.filter(c => c.char && c.char.trim() !== ""),
+      summary: summaryVal || "",
+      isCustom: true
+    };
+
+    if (exHanziVal) {
+      previewItem.example = {
+        hanzi: exHanziVal,
+        pinyin: exPinyinVal || "",
+        meaning: exMeaningVal || ""
+      };
+    }
+
+    const jsonStr = JSON.stringify(previewItem, null, 2);
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(jsonStr).then(() => {
+        showToast("📋 Đã sao chép cấu trúc JSON của từ vào bộ nhớ tạm!");
+      });
+    } else {
+      showToast("📋 " + jsonStr.substring(0, 50) + "...");
+    }
   }
 
   // --- Flashcards ---
@@ -1060,8 +1511,84 @@
       quizCountSelect.addEventListener("change", initQuiz);
     }
 
+    // --- Manual Add Word Modal Events ---
+    const btnOpenAddWord = $("#btn-open-add-word");
+    if (btnOpenAddWord) {
+      btnOpenAddWord.addEventListener("click", () => openAddWordModal(currentLesson));
+    }
+
+    const navQuickAddBtn = $("#nav-quick-add-btn");
+    if (navQuickAddBtn) {
+      navQuickAddBtn.addEventListener("click", () => openAddWordModal(currentLesson));
+    }
+
+    const btnAiOpenManual = $("#btn-ai-open-manual");
+    if (btnAiOpenManual) {
+      btnAiOpenManual.addEventListener("click", () => openAddWordModal(currentLesson));
+    }
+
+    const addWordCloseBtn = $("#add-word-close-btn");
+    if (addWordCloseBtn) {
+      addWordCloseBtn.addEventListener("click", closeAddWordModal);
+    }
+
+    const btnCancelAddWord = $("#btn-cancel-add-word");
+    if (btnCancelAddWord) {
+      btnCancelAddWord.addEventListener("click", closeAddWordModal);
+    }
+
+    const addWordOverlay = $("#add-word-modal-overlay");
+    if (addWordOverlay) {
+      addWordOverlay.addEventListener("click", (e) => {
+        if (e.target === e.currentTarget) closeAddWordModal();
+      });
+    }
+
+    const formWordHanzi = $("#form-word-hanzi");
+    if (formWordHanzi) {
+      formWordHanzi.addEventListener("input", (e) => {
+        handleHanziInputAssist(e.target.value.trim());
+      });
+    }
+
+    const btnAddCharManual = $("#btn-add-char-manual");
+    if (btnAddCharManual) {
+      btnAddCharManual.addEventListener("click", () => {
+        customCharBreakdowns.push({
+          char: "",
+          pinyin: "",
+          structure: "",
+          story: "",
+          mnemonic: ""
+        });
+        renderCharBreakdownBlocks();
+        const inputs = $$(".char-card-input-char");
+        if (inputs.length > 0) {
+          inputs[inputs.length - 1].focus();
+        }
+      });
+    }
+
+    const btnCopyWordJson = $("#btn-copy-word-json");
+    if (btnCopyWordJson) {
+      btnCopyWordJson.addEventListener("click", handleCopyWordJson);
+    }
+
+    const addWordForm = $("#add-word-form");
+    if (addWordForm) {
+      addWordForm.addEventListener("submit", handleAddWordSubmit);
+    }
+
     // Global Keyboard Navigation
     document.addEventListener("keydown", (e) => {
+      // Add Word Modal Escape & key isolation
+      if (isAddWordModalOpen) {
+        if (e.key === "Escape") {
+          closeAddWordModal();
+        }
+        return;
+      }
+
       const isInputActive = document.activeElement && (
         document.activeElement.tagName === "INPUT" || 
         document.activeElement.tagName === "TEXTAREA"
