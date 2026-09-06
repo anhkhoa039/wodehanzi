@@ -58,7 +58,22 @@
 *   **📐 Cấu tạo chi tiết:** Chữ hội ý tượng hình:
     *   Phía trên là bộ **Dục (𠫓 - em bé sinh ngược, dốc đầu xuống)**.
     *   Phía dưới là bộ **Nhục (月/肉 - thịt/cơ thể)** tượng trưng cho người mẹ hoặc chất dinh dưỡng nuôi cơ thể.
-*   **📜 Câu chuyện và Ý nghĩa gốc## 5. Cụm từ: 太極拳 - Thái Cực Quyền / Môn võ dưỡng sinh, thái cực quyền
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Người mẹ sinh ra đứa trẻ dốc đầu xuống (𠫓), dùng xương thịt và dòng sữa mẹ (月/肉) nuôi nấng dạy dỗ con nên người. Nghĩa gốc là sinh nở, nuôi dưỡng, giáo dục.
+*   **💡 Mẹo nhớ:** "Sinh con (𠫓) lấy xương thịt (月) nuôi nấng dạy dỗ là chữ **育** — giáo dục."
+
+### ❸ Chữ 館 - Cách viết / đọc: *guǎn*
+*   **📐 Cấu tạo chi tiết:** Chữ hình thanh:
+    *   Bên trái là bộ **Thực (飠/食 - đồ ăn, ẩm thực)** làm biểu nghĩa.
+    *   Bên phải là chữ **Quan (官 - quan lại, công sở/tòa nhà lớn)** làm biểu âm.
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Tòa nhà lớn đón tiếp quan khách ăn nghỉ. Về sau mở rộng chỉ các tòa nhà công cộng lớn dùng cho hoạt động văn hóa, thể thao (như thể dục quán, thư quán, viện bảo tàng).
+*   **💡 Mẹo nhớ:** "Tòa nhà lớn của quan (官) có phục vụ đồ ăn (飠) là **館** — nhà thể chất, bảo tàng."
+
+### 💡 Tổng kết mẹo nhớ cả cụm 體育館
+> "Nơi có tòa nhà lớn (**館**) để mọi người rèn luyện thân thể (**體**) và phát triển thể chất (**育**) — đó chính là **體育館** (nhà thi đấu, nhà thể chất)."
+
+---
+
+## 5. Cụm từ: 太極拳 - Thái Cực Quyền / Môn võ dưỡng sinh, thái cực quyền
 
 ### ❶ Chữ 太 - Cách viết / đọc: *tài*
 *   **📐 Cấu tạo chi tiết:** Chữ chỉ sự:
@@ -82,27 +97,8 @@
 *   **💡 Mẹo nhớ:** "Uốn cong (**𢍏**) các ngón tay (**手**) lại thành nắm đấm để đấu quyền (**拳**)."
 
 ### 💡 Tổng kết mẹo nhớ cả cụm 太極拳
-> "Môn võ dùng nắm đấm (**拳**) để rèn luyện khí công đạt tới trạng thái âm dương cực hạn (**太極**) — đó là **太極拳** (Thái cực quyền)."��:
-    *   Gồm chữ **Đại (大 - to lớn)**.
-    *   Thêm một nét chấm bên dưới làm điểm nhấn chỉ mức độ cực điểm.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** To lớn (**大**) mà lại còn thêm một điểm nữa (**丶**) nghĩa là vô cùng to lớn, vượt quá giới hạn thông thường. Nghĩa gốc là quá, vô cùng, cực kỳ.
-*   **💡 Mẹo nhớ:** "Chữ Đại (**大**) thêm một chấm (**丶**) bên dưới thành chữ **太** (quá)."
+> "Môn võ dùng nắm đấm (**拳**) để rèn luyện khí công đạt tới trạng thái âm dương cực hạn (**太極**) — đó là **太極拳** (Thái cực quyền)."
 
-### ❷ Chữ 齊 - Cách viết / đọc: *qí*
-*   **📐 Cấu tạo chi tiết:** Chữ tượng hình cổ xưa:
-    *   Trong giáp cốt văn vẽ hình ba bông hoa hoặc ba bông lúa chín mọc đều tăm tắp, ngang hàng thẳng lối với nhau.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Cảnh đồng lúa mọc thẳng tắp, cao bằng nhau trên cánh đồng. Nghĩa gốc là đồng đều, bằng phẳng, ngay ngắn, đầy đủ.
-*   **💡 Mẹo nhớ:** "Những bông lúa mọc bằng nhau thẳng tắp là chữ **齊** (tề chỉnh/đồng đều)."
-
-### ❸ Chữ 全 - Cách viết / đọc: *quán*
-*   **📐 Cấu tạo chi tiết:** Chữ hội ý:
-    *   Phía trên là bộ **Nhập (入 - đi vào/thu nạp)**.
-    *   Phía dưới là bộ **Vương/Ngọc (王/玉 - vua/ngọc quý)**.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Cất giữ ngọc bích quý giá hoàn hảo không tì vết (**玉**) vào sâu trong kho (**入**) bảo quản an toàn. Nghĩa gốc là viên ngọc bích hoàn chỉnh, không bị sứt mẻ. Sau mở rộng thành toàn bộ, đầy đủ trọn vẹn.
-*   **💡 Mẹo nhớ:** "Đem cất ngọc bích quý (**王**) vào trong kho (**入**) để bảo toàn (**全**)."
-
-### 💡 Tổng kết mẹo nhớ cả cụm 太齊全
-> "Mọi thứ ở mức tối đa (**太**), được sắp xếp ngay ngắn đồng đều (**齊**) và trọn vẹn không thiếu thứ gì (**全**) — đó là **太齊全** (quá đầy đủ)."
 
 ---
 
