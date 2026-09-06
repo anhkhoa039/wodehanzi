@@ -24,107 +24,115 @@
     <!-- Navigation -->
     <nav class="main-nav" id="main-nav" aria-label="Thanh điều hướng chính">
         <div class="nav-inner">
-            <div class="nav-brand">
-                <span class="brand-char">漢</span>
-                <span class="brand-text">TOCFL X</span>
-            </div>
-            <div class="nav-tabs" role="tablist" aria-label="Chế độ học tập">
-                <button class="nav-tab active" data-view="study" id="nav-study" role="tab" aria-selected="true" aria-controls="view-study">
-                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
-                    <span>Học</span>
-                </button>
-                <button class="nav-tab" data-view="flashcard" id="nav-flashcard" role="tab" aria-selected="false" aria-controls="view-flashcard">
-                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="2" y="4" width="20" height="16" rx="2"/><line x1="2" y1="10" x2="22" y2="10"/></svg>
-                    <span>Flashcard</span>
-                </button>
-                <button class="nav-tab" data-view="quiz" id="nav-quiz" role="tab" aria-selected="false" aria-controls="view-quiz">
-                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
-                    <span>Kiểm tra</span>
-                </button>
-                <button class="nav-tab" data-view="practice" id="nav-practice" role="tab" aria-selected="false" aria-controls="view-practice">
-                    <span aria-hidden="true">🎮</span>
-                    <span>Luyện tập</span>
-                </button>
-                <button class="nav-tab" data-view="ai" id="nav-ai" role="tab" aria-selected="false" aria-controls="view-ai">
-                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M12 2a2 2 0 0 1 2 2c0 .74-.4 1.39-1 1.73V7h1a7 7 0 0 1 7 7h1a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v1a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-1H2a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h1a7 7 0 0 1 7-7h1V5.73c-.6-.34-1-.99-1-1.73a2 2 0 0 1 2-2z"/></svg>
-                    <span>AI Thêm bài</span>
-                </button>
-            </div>
-            <div class="nav-lesson-toggle">
-                <select id="lesson-select" class="lesson-select" aria-label="Chọn bài học">
-                    <optgroup label="Giáo trình Đương đại 3 (Book 3)">
-                        <option value="3_1" selected>第一課：開學了 (School Starts)</option>
-                        <option value="3_2">第二課：八折起 (Up to 20% off)</option>
-                        <option value="3_3">第三課：外套帶了沒有？ (Did You Bring Your Coat?)</option>
-                        <option value="3_4">第四課：我愛台灣的人情味 (I Love Taiwanese Hospitality)</option>
-                        <option value="3_5">第五課：現在流行什麼？ (What Are the Trends Now?)</option>
-                        <option value="3_6">第六課：到鄉下住一晚！ (Spending the Night in the Countryside)</option>
-                        <option value="3_7">第七課：我最親的家「人」 (My Closest "Family")</option>
-                        <option value="3_8">第八課：我想做自己 (I Just Want to Be Myself)</option>
-                        <option value="3_9">第九課：網購時代 (The Age of Online Shopping)</option>
-                        <option value="3_10">第十課：我住院了 (I'm Staying in the Hospital)</option>
-                        <option value="3_11">第十一課：台灣故事 (The Story of Taiwan)</option>
-                        <option value="3_12">第十二課：我要去投票 (I'm Going to Cast My Vote)</option>
-                    </optgroup>
-                    <optgroup label="Giáo trình Đương đại 2 (Book 2)">
-                        <option value="3">第三課</option>
-                        <option value="4">第四課</option>
-                        <option value="5">第五課</option>
-                        <option value="6">第六課</option>
-                        <option value="7">第七課</option>
-                        <option value="8">第八課</option>
-                        <option value="9">第九課</option>
-                        <option value="10">第十課</option>
-                        <option value="11">第十一課</option>
-                        <option value="12">第十二課</option>
-                        <option value="13">第十三課</option>
-                        <option value="14">第十四課</option>
-                        <option value="15">第十五課</option>
-                    </optgroup>
-                    <optgroup label="Khác (TOCFL A1 / Mock Tests)">
-                        <option value="Mock1">Đề Thi 1 (Reading)</option>
-                        <option value="Mock2">Đề Thi 2 (Listening)</option>
-                        <option value="A1_個人資料">A1 - Thông tin cá nhân</option>
-                        <option value="A1_健康及身體照護">A1 - Sức khỏe & Cơ thể</option>
-                        <option value="A1_其他">A1 - Các từ khác</option>
-                        <option value="A1_房屋與家庭_環境">A1 - Nhà cửa & Môi trường</option>
-                        <option value="A1_教育">A1 - Giáo dục</option>
-                        <option value="A1_旅行">A1 - Du lịch</option>
-                        <option value="A1_日常生活">A1 - Đời sống hàng ngày</option>
-                        <option value="all">Tất cả bài</option>
-                    </optgroup>
-                </select>
-            </div>
-            <div class="nav-search" id="nav-search">
-                <div class="search-input-wrapper">
-                    <svg class="search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
-                    <input type="search" id="search-input" placeholder="Tìm kiếm từ (ví dụ: 方便, tiến bộ)…" autocomplete="off" aria-label="Tìm kiếm từ vựng">
-                    <kbd class="search-kbd" title="Phím tắt tìm kiếm: Cmd+K hoặc Ctrl+K">⌘K</kbd>
+            <!-- Hàng 1: Brand Logo, Chế độ học tập (Tabs), Nút Giao diện -->
+            <div class="nav-row nav-row-primary">
+                <div class="nav-brand">
+                    <span class="brand-char">漢</span>
+                    <span class="brand-text">TOCFL X</span>
+                </div>
+                <div class="nav-tabs" role="tablist" aria-label="Chế độ học tập">
+                    <button class="nav-tab active" data-view="study" id="nav-study" role="tab" aria-selected="true" aria-controls="view-study">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
+                        <span>Học</span>
+                    </button>
+                    <button class="nav-tab" data-view="flashcard" id="nav-flashcard" role="tab" aria-selected="false" aria-controls="view-flashcard">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="2" y="4" width="20" height="16" rx="2"/><line x1="2" y1="10" x2="22" y2="10"/></svg>
+                        <span>Flashcard</span>
+                    </button>
+                    <button class="nav-tab" data-view="quiz" id="nav-quiz" role="tab" aria-selected="false" aria-controls="view-quiz">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
+                        <span>Kiểm tra</span>
+                    </button>
+                    <button class="nav-tab" data-view="practice" id="nav-practice" role="tab" aria-selected="false" aria-controls="view-practice">
+                        <span aria-hidden="true">🎮</span>
+                        <span>Luyện tập</span>
+                    </button>
+                    <button class="nav-tab" data-view="ai" id="nav-ai" role="tab" aria-selected="false" aria-controls="view-ai">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M12 2a2 2 0 0 1 2 2c0 .74-.4 1.39-1 1.73V7h1a7 7 0 0 1 7 7h1a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v1a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-1H2a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h1a7 7 0 0 1 7-7h1V5.73c-.6-.34-1-.99-1-1.73a2 2 0 0 1 2-2z"/></svg>
+                        <span>AI Thêm bài</span>
+                    </button>
+                </div>
+                <div class="theme-switcher" id="theme-switcher">
+                    <button class="theme-toggle-btn" id="theme-toggle-btn" title="Đổi giao diện" aria-label="Đổi giao diện" aria-haspopup="true" aria-expanded="false">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
+                        <span class="theme-toggle-text">Giao diện</span>
+                    </button>
+                    <div class="theme-dropdown" id="theme-dropdown" role="menu">
+                        <div class="theme-dropdown-title">Giao diện</div>
+                        <button class="theme-option" data-theme="dark" id="theme-dark" role="menuitem">
+                            <span class="theme-dot" style="background: linear-gradient(135deg, #0b0d13, #6366f1);"></span>
+                            <span>🌙 Huyền Mặc (Tối)</span>
+                        </button>
+                        <button class="theme-option active" data-theme="light" id="theme-light" role="menuitem">
+                            <span class="theme-dot" style="background: linear-gradient(135deg, #f4f7f5, #0d9488);"></span>
+                            <span>🍵 Bích Trà (Sáng)</span>
+                        </button>
+                        <button class="theme-option" data-theme="warm" id="theme-warm" role="menuitem">
+                            <span class="theme-dot" style="background: linear-gradient(135deg, #faf7f2, #e11d48);"></span>
+                            <span>📜 Chu Sa (Cổ điển)</span>
+                        </button>
+                        <button class="theme-option" data-theme="ocean" id="theme-ocean" role="menuitem">
+                            <span class="theme-dot" style="background: linear-gradient(135deg, #0a1526, #2563eb);"></span>
+                            <span>🌊 Lam Sa (Đại dương)</span>
+                        </button>
+                    </div>
                 </div>
             </div>
-            <div class="theme-switcher" id="theme-switcher">
-                <button class="theme-toggle-btn" id="theme-toggle-btn" title="Đổi giao diện" aria-label="Đổi giao diện" aria-haspopup="true" aria-expanded="false">
-                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
-                    <span class="theme-toggle-text">Giao diện</span>
-                </button>
-                <div class="theme-dropdown" id="theme-dropdown" role="menu">
-                    <div class="theme-dropdown-title">Giao diện</div>
-                    <button class="theme-option" data-theme="dark" id="theme-dark" role="menuitem">
-                        <span class="theme-dot" style="background: linear-gradient(135deg, #0b0d13, #6366f1);"></span>
-                        <span>🌙 Huyền Mặc (Tối)</span>
-                    </button>
-                    <button class="theme-option active" data-theme="light" id="theme-light" role="menuitem">
-                        <span class="theme-dot" style="background: linear-gradient(135deg, #f4f7f5, #0d9488);"></span>
-                        <span>🍵 Bích Trà (Sáng)</span>
-                    </button>
-                    <button class="theme-option" data-theme="warm" id="theme-warm" role="menuitem">
-                        <span class="theme-dot" style="background: linear-gradient(135deg, #faf7f2, #e11d48);"></span>
-                        <span>📜 Chu Sa (Cổ điển)</span>
-                    </button>
-                    <button class="theme-option" data-theme="ocean" id="theme-ocean" role="menuitem">
-                        <span class="theme-dot" style="background: linear-gradient(135deg, #0a1526, #2563eb);"></span>
-                        <span>🌊 Lam Sa (Đại dương)</span>
-                    </button>
+
+            <!-- Hàng 2: Bộ lọc Bài học & Thanh tìm kiếm -->
+            <div class="nav-row nav-row-secondary">
+                <div class="nav-lesson-toggle">
+                    <span class="lesson-select-label" aria-hidden="true">📖 Bài học:</span>
+                    <select id="lesson-select" class="lesson-select" aria-label="Chọn bài học">
+                        <optgroup label="Giáo trình Đương đại 3 (Book 3)">
+                            <option value="3_1" selected>第一課：開學了 (School Starts)</option>
+                            <option value="3_2">第二課：八折起 (Up to 20% off)</option>
+                            <option value="3_3">第三課：外套帶了沒有？ (Did You Bring Your Coat?)</option>
+                            <option value="3_4">第四課：我愛台灣的人情味 (I Love Taiwanese Hospitality)</option>
+                            <option value="3_5">第五課：現在流行什麼？ (What Are the Trends Now?)</option>
+                            <option value="3_6">第六課：到鄉下住一晚！ (Spending the Night in the Countryside)</option>
+                            <option value="3_7">第七課：我最親的家「人」 (My Closest "Family")</option>
+                            <option value="3_8">第八課：我想做自己 (I Just Want to Be Myself)</option>
+                            <option value="3_9">第九課：網購時代 (The Age of Online Shopping)</option>
+                            <option value="3_10">第十課：我住院了 (I'm Staying in the Hospital)</option>
+                            <option value="3_11">第十一課：台灣故事 (The Story of Taiwan)</option>
+                            <option value="3_12">第十二課：我要去投票 (I'm Going to Cast My Vote)</option>
+                        </optgroup>
+                        <optgroup label="Giáo trình Đương đại 2 (Book 2)">
+                            <option value="3">第三課</option>
+                            <option value="4">第四課</option>
+                            <option value="5">第五課</option>
+                            <option value="6">第六課</option>
+                            <option value="7">第七課</option>
+                            <option value="8">第八課</option>
+                            <option value="9">第九課</option>
+                            <option value="10">第十課</option>
+                            <option value="11">第十一課</option>
+                            <option value="12">第十二課</option>
+                            <option value="13">第十三課</option>
+                            <option value="14">第十四課</option>
+                            <option value="15">第十五課</option>
+                        </optgroup>
+                        <optgroup label="Khác (TOCFL A1 / Mock Tests)">
+                            <option value="Mock1">Đề Thi 1 (Reading)</option>
+                            <option value="Mock2">Đề Thi 2 (Listening)</option>
+                            <option value="A1_個人資料">A1 - Thông tin cá nhân</option>
+                            <option value="A1_健康及身體照護">A1 - Sức khỏe & Cơ thể</option>
+                            <option value="A1_其他">A1 - Các từ khác</option>
+                            <option value="A1_房屋與家庭_環境">A1 - Nhà cửa & Môi trường</option>
+                            <option value="A1_教育">A1 - Giáo dục</option>
+                            <option value="A1_旅行">A1 - Du lịch</option>
+                            <option value="A1_日常生活">A1 - Đời sống hàng ngày</option>
+                            <option value="all">Tất cả bài</option>
+                        </optgroup>
+                    </select>
+                </div>
+                <div class="nav-search" id="nav-search">
+                    <div class="search-input-wrapper">
+                        <svg class="search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+                        <input type="search" id="search-input" placeholder="Tìm kiếm từ (ví dụ: 方便, tiến bộ)…" autocomplete="off" aria-label="Tìm kiếm từ vựng">
+                        <kbd class="search-kbd" title="Phím tắt tìm kiếm: Cmd+K hoặc Ctrl+K">⌘K</kbd>
+                    </div>
                 </div>
             </div>
         </div>

@@ -49,7 +49,7 @@
     --font-hanzi: 'Noto Serif TC', 'Noto Sans TC', serif;
     --font-hanzi-sans: 'Noto Sans TC', sans-serif;
 
-    --nav-height: 68px;
+    --nav-height: 106px;
 
     --orb-1: rgba(13, 148, 136, 0.09);
     --orb-2: rgba(5, 150, 105, 0.07);
@@ -315,25 +315,44 @@ body {
     top: 0;
     left: 0;
     right: 0;
-    height: var(--nav-height);
+    min-height: var(--nav-height);
     backdrop-filter: blur(20px) saturate(180%);
     -webkit-backdrop-filter: blur(20px) saturate(180%);
     background: var(--bg-nav);
     border-bottom: 1px solid var(--border-subtle);
     z-index: 100;
     display: flex;
-    align-items: center;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .nav-inner {
     max-width: 1280px;
     width: 100%;
     margin: 0 auto;
-    padding: 0 24px;
+    padding: 8px 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+/* Nav 2-Tier Rows */
+.nav-row {
     display: flex;
     align-items: center;
+    width: 100%;
+}
+
+.nav-row-primary {
     justify-content: space-between;
     gap: 16px;
+}
+
+.nav-row-secondary {
+    justify-content: space-between;
+    gap: 16px;
+    padding-top: 6px;
+    border-top: 1px solid var(--border-subtle);
 }
 
 .nav-brand {
@@ -363,7 +382,8 @@ body {
 .nav-tabs {
     display: flex;
     gap: 4px;
-    background: rgba(255, 255, 255, 0.04);
+    background: var(--accent-1-soft);
+    border: 1px solid var(--border-subtle);
     border-radius: 12px;
     padding: 4px;
 }
@@ -372,7 +392,7 @@ body {
     display: flex;
     align-items: center;
     gap: 6px;
-    padding: 8px 16px;
+    padding: 7px 14px;
     border: none;
     background: transparent;
     color: var(--text-muted);
@@ -387,7 +407,7 @@ body {
 
 .nav-tab:hover {
     color: var(--text-primary);
-    background: var(--accent-1-soft);
+    background: rgba(255, 255, 255, 0.4);
 }
 
 .nav-tab.active {
@@ -403,10 +423,21 @@ body {
 .nav-lesson-toggle {
     display: flex;
     align-items: center;
+    gap: 8px;
+    flex: 1 1 auto;
+    max-width: 520px;
+}
+
+.lesson-select-label {
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--text-muted);
+    white-space: nowrap;
     flex-shrink: 0;
 }
 
 .lesson-select {
+    width: 100%;
     padding: 6px 36px 6px 14px;
     border: 1px solid var(--border-card);
     background: var(--bg-card);
@@ -440,10 +471,9 @@ body {
 
 /* --- Search --- */
 .nav-search {
-    flex-grow: 1;
-    max-width: 300px;
-    margin-left: 12px;
-    margin-right: auto;
+    flex: 1 1 300px;
+    max-width: 420px;
+    margin: 0;
 }
 
 .search-input-wrapper {
@@ -1152,6 +1182,11 @@ body {
     margin-bottom: 20px;
 }
 
+.theme-switcher {
+    position: relative;
+    flex-shrink: 0;
+}
+
 .theme-toggle-btn {
     display: flex;
     align-items: center;
@@ -1487,12 +1522,12 @@ body {
 /* --- Responsive --- */
 @media (max-width: 768px) {
     .nav-inner {
-        padding: 0 12px;
-        gap: 8px;
+        padding: 6px 16px;
+        gap: 6px;
     }
 
     .nav-brand {
-        display: none;
+        display: flex;
     }
 
     .nav-tab {
@@ -2592,19 +2627,47 @@ body {
 
 /* --- Mobile Bottom Navigation & Layout (<= 680px) --- */
 @media (max-width: 680px) {
+    :root {
+        --nav-height: 104px;
+    }
+
     body {
         padding-bottom: 74px;
     }
 
     .main-nav {
         height: auto;
-        padding: 8px 0;
+        min-height: var(--nav-height);
+        padding: 6px 0;
     }
 
     .nav-inner {
-        flex-wrap: wrap;
         padding: 0 12px;
+        gap: 6px;
+    }
+
+    .nav-row-primary {
         gap: 8px;
+    }
+
+    .nav-row-secondary {
+        padding-top: 4px;
+        gap: 8px;
+    }
+
+    .lesson-select-label {
+        display: none;
+    }
+
+    .nav-lesson-toggle {
+        flex: 1 1 54%;
+        max-width: 55%;
+    }
+
+    .nav-search {
+        flex: 1 1 44%;
+        max-width: 45%;
+        margin: 0;
     }
 
     .nav-brand {
@@ -2640,16 +2703,40 @@ body {
         height: 18px;
     }
 
-    .nav-search {
-        order: 3;
-        width: 100%;
-        max-width: 100%;
-        margin: 4px 0 0 0;
-    }
-
     .search-kbd {
         display: none;
     }
+}
+
+@media (max-width: 480px) {
+    :root {
+        --nav-height: 142px;
+    }
+
+    .nav-row-secondary {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 6px;
+    }
+
+    .nav-lesson-toggle {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .nav-search {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .theme-toggle-text {
+        display: none;
+    }
+
+    .theme-toggle-btn {
+        padding: 0 10px;
+    }
+}
 
     .fc-top-bar {
         justify-content: center;
