@@ -870,6 +870,36 @@ body {
     }
 }
 
+.modal.slide-next {
+    animation: modalSlideNext 0.22s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.modal.slide-prev {
+    animation: modalSlidePrev 0.22s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@keyframes modalSlideNext {
+    0% {
+        opacity: 0.45;
+        transform: translateX(24px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+@keyframes modalSlidePrev {
+    0% {
+        opacity: 0.45;
+        transform: translateX(-24px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
 .modal-close {
     position: absolute;
     top: 16px;
@@ -890,6 +920,148 @@ body {
 .modal-close:hover {
     background: rgba(255, 255, 255, 0.12);
     color: var(--text-primary);
+}
+
+/* --- Modal Navigation Toolbar & Swipe Gestures --- */
+.modal-nav-toolbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    padding-bottom: 14px;
+    border-bottom: 1px solid var(--border-subtle);
+    padding-right: 48px; /* Leave space so close button never overlaps */
+    gap: 10px;
+}
+
+.modal-nav-group {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.modal-nav-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    background: var(--bg-card);
+    border: 1px solid var(--border-card);
+    color: var(--text-secondary);
+    font-size: 13px;
+    font-weight: 600;
+    padding: 7px 13px;
+    min-height: 38px;
+    border-radius: var(--radius-md);
+    cursor: pointer;
+    transition: color 0.2s ease, background-color 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.modal-nav-btn:hover:not(:disabled) {
+    background: var(--accent-1-soft);
+    color: var(--accent-1);
+    border-color: var(--accent-1);
+    transform: translateY(-1px);
+}
+
+.modal-nav-btn:active:not(:disabled) {
+    transform: scale(0.96);
+}
+
+.modal-nav-btn:disabled {
+    opacity: 0.35;
+    cursor: not-allowed;
+    border-color: var(--border-subtle);
+    pointer-events: none;
+}
+
+.modal-nav-indicator {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--text-muted);
+    background: var(--bg-primary);
+    padding: 6px 12px;
+    border-radius: var(--radius-full);
+    border: 1px solid var(--border-subtle);
+    user-select: none;
+}
+
+.modal-nav-indicator .modal-nav-current {
+    color: var(--accent-1);
+    font-weight: 700;
+    font-size: 14px;
+}
+
+.modal-nav-indicator .modal-nav-divider {
+    opacity: 0.4;
+    font-weight: 400;
+}
+
+.modal-nav-indicator .modal-nav-total {
+    color: var(--text-secondary);
+}
+
+.modal-nav-lesson-badge {
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--text-muted);
+    background: var(--bg-card);
+    border: 1px solid var(--border-subtle);
+    padding: 4px 10px;
+    border-radius: var(--radius-full);
+    white-space: nowrap;
+}
+
+/* Modal Swipe Footer & Bottom Navigation */
+.modal-swipe-footer {
+    margin-top: 24px;
+    padding-top: 18px;
+    border-top: 1px solid var(--border-subtle);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+}
+
+.modal-footer-nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    gap: 12px;
+}
+
+.modal-footer-nav .modal-nav-btn {
+    flex: 1;
+    min-height: 44px; /* Apple HIG / Material 44px minimum */
+    font-size: 14px;
+}
+
+.modal-swipe-hint {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    font-size: 12px;
+    color: var(--text-muted);
+    background: var(--bg-primary);
+    padding: 7px 16px;
+    border-radius: var(--radius-full);
+    border: 1px dashed var(--border-subtle);
+    user-select: none;
+    width: 100%;
+    max-width: 320px;
+    text-align: center;
+}
+
+.modal-swipe-hint svg {
+    color: var(--accent-1);
+    flex-shrink: 0;
 }
 
 .modal-hanzi {
@@ -1561,9 +1733,29 @@ body {
     }
 
     .modal {
-        padding: 24px;
+        padding: 22px 18px;
         border-radius: var(--radius-lg);
         max-height: 90vh;
+        touch-action: pan-y;
+        -webkit-overflow-scrolling: touch;
+    }
+
+    .modal-close {
+        top: 12px;
+        right: 12px;
+        width: 36px;
+        height: 36px;
+    }
+
+    .modal-nav-toolbar {
+        margin-bottom: 16px;
+        padding-bottom: 12px;
+        padding-right: 44px;
+    }
+
+    .modal-nav-btn {
+        min-height: 42px;
+        padding: 8px 12px;
     }
 
     .modal-hanzi {
@@ -1576,6 +1768,43 @@ body {
 }
 
 @media (max-width: 480px) {
+    .modal-overlay {
+        padding: 12px 8px;
+    }
+
+    .modal {
+        padding: 18px 14px;
+        max-height: 92vh;
+    }
+
+    .modal-nav-toolbar {
+        padding-right: 40px;
+        gap: 6px;
+    }
+
+    .modal-nav-group {
+        gap: 6px;
+    }
+
+    .modal-nav-btn {
+        padding: 7px 10px;
+        font-size: 12px;
+    }
+
+    .modal-nav-lesson-badge {
+        display: none;
+    }
+
+    .modal-nav-indicator {
+        padding: 5px 9px;
+        font-size: 12px;
+    }
+
+    .modal-footer-nav .modal-nav-btn {
+        font-size: 13px;
+        padding: 9px 10px;
+    }
+
     .nav-tabs {
         gap: 2px;
         padding: 3px;
@@ -2782,7 +3011,9 @@ body {
         transform: none !important;
     }
 
-    .modal {
+    .modal,
+    .modal.slide-next,
+    .modal.slide-prev {
         animation: none !important;
     }
 }

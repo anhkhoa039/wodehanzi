@@ -327,13 +327,123 @@
     updateProgressBar();
   }
 
+  // --- Swipe & Touch Gesture Helper ---
+  function addSwipeListener(element, onSwipeLeft, onSwipeRight, options = {}) {
+    if (!element) return;
+    let touchStartX = 0;
+    let touchStartY = 0;
+    let touchStartTime = 0;
+    const minDistance = options.minDistance || 40;
+    const maxTime = options.maxTime || 650;
+
+    element.addEventListener("touchstart", (e) => {
+      if (e.touches.length !== 1) return;
+      touchStartX = e.touches[0].clientX;
+      touchStartY = e.touches[0].clientY;
+      touchStartTime = Date.now();
+    }, { passive: true });
+
+    element.addEventListener("touchend", (e) => {
+      if (!touchStartX || !touchStartTime) return;
+      // Do not trigger if text is highlighted/selected
+      if (window.getSelection && window.getSelection().toString().trim().length > 0) {
+        touchStartX = touchStartY = touchStartTime = 0;
+        return;
+      }
+
+      const deltaX = e.changedTouches[0].clientX - touchStartX;
+      const deltaY = e.changedTouches[0].clientY - touchStartY;
+      const deltaTime = Date.now() - touchStartTime;
+
+      // Ensure horizontal swipe is dominant and completed within maxTime
+      if (deltaTime <= maxTime && Math.abs(deltaX) >= minDistance && Math.abs(deltaX) > Math.abs(deltaY) * 1.25) {
+        if (deltaX < 0) {
+          if (typeof onSwipeLeft === "function") onSwipeLeft();
+        } else {
+          if (typeof onSwipeRight === "function") onSwipeRight();
+        }
+      }
+
+      touchStartX = touchStartY = touchStartTime = 0;
+    }, { passive: true });
+  }
+
+  // --- Modal Navigation ---
+  function getModalList() {
+    const filtered = getFilteredData();
+    if (filtered.some(d => d.id === currentModalId)) {
+      return filtered;
+    }
+    const currentItem = LESSON_DATA.find(d => d.id === currentModalId);
+    if (currentItem) {
+      const lessonItems = LESSON_DATA.filter(d => String(d.lesson) === String(currentItem.lesson));
+      if (lessonItems.some(d => d.id === currentModalId)) return lessonItems;
+    }
+    return LESSON_DATA;
+  }
+
+  function navigateModal(direction, animated = true) {
+    if (!isModalOpen || !currentModalId) return;
+    const list = getModalList();
+    const currentIndex = list.findIndex(d => d.id === currentModalId);
+    if (currentIndex === -1) return;
+
+    const targetIndex = currentIndex + direction;
+    if (targetIndex >= 0 && targetIndex < list.length) {
+      openModal(list[targetIndex].id);
+      const modalEl = $("#detail-modal");
+      if (modalEl) {
+        modalEl.scrollTop = 0;
+        if (animated) {
+          const slideClass = direction > 0 ? "slide-next" : "slide-prev";
+          modalEl.classList.remove("slide-next", "slide-prev");
+          void modalEl.offsetWidth; // Force reflow
+          modalEl.classList.add(slideClass);
+          modalEl.addEventListener("animationend", () => {
+            modalEl.classList.remove(slideClass);
+          }, { once: true });
+        }
+      }
+    } else {
+      showToast(direction > 0 ? "Đã đến từ cuối cùng của danh sách" : "Đã là từ đầu tiên của danh sách");
+    }
+  }
+
   // --- Modal ---
   function openModal(id) {
     const item = LESSON_DATA.find(d => d.id === id);
     if (!item) return;
 
+    currentModalId = id;
+    const modalList = getModalList();
+    const currentIndex = modalList.findIndex(d => d.id === id);
+    const totalCount = modalList.length;
+    const currentNum = currentIndex !== -1 ? currentIndex + 1 : 1;
+    const hasPrev = currentIndex > 0;
+    const hasNext = currentIndex !== -1 && currentIndex < totalCount - 1;
+
     const content = $("#modal-content");
     let html = `
+      <!-- Navigation Toolbar in Modal -->
+      <div class="modal-nav-toolbar">
+        <div class="modal-nav-group">
+          <button class="modal-nav-btn modal-nav-prev" id="modal-prev-btn" ${!hasPrev ? 'disabled' : ''} aria-label="Từ trước (phím mũi tên trái hoặc vuốt phải)">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true"><polyline points="15 18 9 12 15 6"></polyline></svg>
+            <span>Trước</span>
+          </button>
+          <div class="modal-nav-indicator" title="Vị trí từ trong danh sách đang học">
+            <span class="modal-nav-current">${currentNum}</span>
+            <span class="modal-nav-divider">/</span>
+            <span class="modal-nav-total">${totalCount}</span>
+          </div>
+          <button class="modal-nav-btn modal-nav-next" id="modal-next-btn" ${!hasNext ? 'disabled' : ''} aria-label="Từ tiếp theo (phím mũi tên phải hoặc vuốt trái)">
+            <span>Sau</span>
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true"><polyline points="9 18 15 12 9 6"></polyline></svg>
+          </button>
+        </div>
+        <div class="modal-nav-lesson-badge">Bài ${item.lesson}</div>
+      </div>
+
       <div class="modal-hanzi" id="modal-hanzi-title">${item.hanzi}</div>
       <div class="modal-pinyin">${item.pinyin}</div>
       <div class="modal-hv">${item.hanViet}</div>
@@ -412,9 +522,40 @@
       <button class="modal-mastery-btn ${mastered ? 'mastered' : ''}" data-id="${id}">
         ${mastered ? '✓ Đã thuộc — nhấn để bỏ đánh dấu' : '☐ Đánh dấu là đã thuộc'}
       </button>
+
+      <!-- Bottom Navigation & Swipe Hint -->
+      <div class="modal-swipe-footer">
+        <div class="modal-footer-nav">
+          <button class="modal-nav-btn modal-nav-prev" id="modal-bottom-prev-btn" ${!hasPrev ? 'disabled' : ''} aria-label="Từ trước">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true"><polyline points="15 18 9 12 15 6"></polyline></svg>
+            <span>Từ trước</span>
+          </button>
+          <button class="modal-nav-btn modal-nav-next" id="modal-bottom-next-btn" ${!hasNext ? 'disabled' : ''} aria-label="Từ sau">
+            <span>Từ tiếp theo</span>
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true"><polyline points="9 18 15 12 9 6"></polyline></svg>
+          </button>
+        </div>
+        <div class="modal-swipe-hint">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="7 13 2 8 7 3"></polyline><line x1="2" y1="8" x2="22" y2="8"></line><polyline points="17 11 22 16 17 21"></polyline><line x1="22" y1="16" x2="2" y2="16"></line></svg>
+          <span>Vuốt trái / phải trên màn hình để chuyển từ</span>
+        </div>
+      </div>
     `;
 
     content.innerHTML = html;
+
+    // Attach navigation buttons
+    const prevBtn = $("#modal-prev-btn");
+    if (prevBtn) prevBtn.addEventListener("click", () => navigateModal(-1));
+
+    const nextBtn = $("#modal-next-btn");
+    if (nextBtn) nextBtn.addEventListener("click", () => navigateModal(1));
+
+    const bottomPrevBtn = $("#modal-bottom-prev-btn");
+    if (bottomPrevBtn) bottomPrevBtn.addEventListener("click", () => navigateModal(-1));
+
+    const bottomNextBtn = $("#modal-bottom-next-btn");
+    if (bottomNextBtn) bottomNextBtn.addEventListener("click", () => navigateModal(1));
 
     // Attach modal buttons
     const speakBtn = $("#modal-speak-btn");
@@ -811,6 +952,49 @@
       if (e.target === e.currentTarget) closeModal();
     });
 
+    // Swipe gestures on modal (mobile word navigation)
+    const detailModal = $("#detail-modal");
+    if (detailModal) {
+      addSwipeListener(detailModal, () => {
+        if (isModalOpen) navigateModal(1);
+      }, () => {
+        if (isModalOpen) navigateModal(-1);
+      });
+    }
+
+    const modalOverlay = $("#modal-overlay");
+    if (modalOverlay) {
+      addSwipeListener(modalOverlay, () => {
+        if (isModalOpen) navigateModal(1);
+      }, () => {
+        if (isModalOpen) navigateModal(-1);
+      });
+    }
+
+    // Swipe gestures on flashcard (mobile card navigation)
+    const fcWrapper = $("#flashcard-wrapper");
+    if (fcWrapper) {
+      addSwipeListener(fcWrapper, () => {
+        if (currentView === "flashcard") {
+          if (fcIndex < fcItems.length - 1) {
+            fcIndex++;
+            renderFlashcard();
+          } else {
+            showToast("Đã xem hết các thẻ flashcard!");
+          }
+        }
+      }, () => {
+        if (currentView === "flashcard") {
+          if (fcIndex > 0) {
+            fcIndex--;
+            renderFlashcard();
+          } else {
+            showToast("Đã là thẻ flashcard đầu tiên!");
+          }
+        }
+      });
+    }
+
     // Flashcard interactions
     const fc = $("#flashcard");
     if (fc) {
@@ -898,14 +1082,10 @@
       if (isModalOpen) {
         if (e.key === "Escape") { closeModal(); return; }
         
-        const data = getFilteredData();
-        const currentIndex = data.findIndex(d => d.id === currentModalId);
-        if (currentIndex === -1) return;
-        
-        if (e.key === "ArrowLeft" && currentIndex > 0) {
-          openModal(data[currentIndex - 1].id);
-        } else if (e.key === "ArrowRight" && currentIndex < data.length - 1) {
-          openModal(data[currentIndex + 1].id);
+        if (e.key === "ArrowLeft") {
+          navigateModal(-1);
+        } else if (e.key === "ArrowRight") {
+          navigateModal(1);
         } else if (e.key.toLowerCase() === "s" || e.key.toLowerCase() === "p") {
           const item = LESSON_DATA.find(d => d.id === currentModalId);
           if (item) speakChinese(item.hanzi);
