@@ -1,6 +1,7 @@
 const fs = require('fs');
+const path = require('path');
 
-const dataFile = 'data.js';
+const dataFile = path.join(__dirname, '..', 'js', 'data.js');
 let dataContent = fs.readFileSync(dataFile, 'utf8');
 
 // Parse raw data.js to get the array
@@ -9,7 +10,7 @@ const jsonStr = matchJson ? matchJson[1] : '[]';
 let data = JSON.parse(jsonStr);
 
 // Read vocab
-const vocabMd = fs.readFileSync('MockTest2_BandA_生詞.md', 'utf8');
+const vocabMd = fs.readFileSync(path.join(__dirname, '..', 'data', 'mock-tests', 'MockTest2_BandA_生詞.md'), 'utf8');
 const vocabLines = vocabMd.split('\n');
 let mt2Vocab = [];
 
@@ -43,7 +44,7 @@ for (let line of vocabLines) {
 }
 
 // Read explain
-const explainMd = fs.readFileSync('MockTest2_BandA_explain.md', 'utf8');
+const explainMd = fs.readFileSync(path.join(__dirname, '..', 'data', 'mock-tests', 'MockTest2_BandA_explain.md'), 'utf8');
 
 // Split explain by "### "
 const blocks = explainMd.split('### ');

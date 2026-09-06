@@ -12,7 +12,7 @@ const path = require('path');
 
 const app = express();
 const PORT = 3000;
-const DATA_FILE = path.join(__dirname, 'data.js');
+const DATA_FILE = path.join(__dirname, 'js', 'data.js');
 
 app.use(cors());
 app.use(express.json({ limit: '2mb' }));

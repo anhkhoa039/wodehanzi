@@ -2,11 +2,11 @@
   "name": "tocfl-learning-hub",
   "version": "1.1.0",
   "description": "Ứng dụng tra cứu và học từ vựng TOCFL A2 / Giáo trình Đương đại với chiết tự chữ Hán, câu chuyện tượng hình, phát âm và bài tập tương tác.",
-  "main": "app.js",
+  "main": "js/app.js",
   "scripts": {
     "start": "node server.js",
     "dev": "node server.js",
-    "validate": "node -c data.js && node -c app.js && node -c ai-import.js && node -c server.js"
+    "validate": "node -c js/data.js && node -c js/app.js && node -c js/ai-import.js && node -c server.js"
   },
   "keywords": [
     "tocfl",

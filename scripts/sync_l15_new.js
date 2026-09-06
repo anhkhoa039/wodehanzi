@@ -1,6 +1,7 @@
 const fs = require('fs');
+const path = require('path');
 
-const dataFile = 'data.js';
+const dataFile = path.join(__dirname, '..', 'js', 'data.js');
 let dataContent = fs.readFileSync(dataFile, 'utf8');
 
 // Parse raw data.js to get the array
@@ -9,7 +10,7 @@ const jsonStr = matchJson ? matchJson[1] : '[]';
 let data = JSON.parse(jsonStr);
 
 // Read vocab
-const vocabMd = fs.readFileSync('第十五課-生詞.md', 'utf8');
+const vocabMd = fs.readFileSync(path.join(__dirname, '..', 'data', 'lessons', 'book2', '第十五課-生詞.md'), 'utf8');
 const vocabLines = vocabMd.split('\n');
 let l15Vocab = [];
 

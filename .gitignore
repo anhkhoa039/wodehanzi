@@ -40,7 +40,7 @@ scratch/
 plans/**/*
 !plans/templates/*
 repomix-output.xml
-prompt.md
-ck.md
+/prompt.md
+/ck.md
 __pycache__/
 *.tmp

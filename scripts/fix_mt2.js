@@ -1,5 +1,7 @@
 const fs = require('fs');
-let content = fs.readFileSync('MockTest2_BandA_explain.md', 'utf8');
+const path = require('path');
+const targetFile = path.join(__dirname, '..', 'data', 'mock-tests', 'MockTest2_BandA_explain.md');
+let content = fs.readFileSync(targetFile, 'utf8');
 
 const replacements = [
 [`1. Chữ 毛 (Mao) - Cách viết / đọc: máo
@@ -196,5 +198,5 @@ for (const [oldStr, newStr] of replacements) {
     content = content.replace(oldStr, newStr);
 }
 
-fs.writeFileSync('MockTest2_BandA_explain.md', content);
+fs.writeFileSync(targetFile, content);
 console.log("Fixed missing structured explanations in MT2.");

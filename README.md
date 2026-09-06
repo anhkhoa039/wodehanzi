@@ -80,21 +80,43 @@ Trang web được thiết kế chuẩn static web, cực kỳ tương thích v�
 
 ---
 
-## 📂 Cấu trúc thư mục
+## 📂 Cấu trúc thư mục chuẩn hóa
 
 ```
-├── index.html              # Giao diện chính của ứng dụng
-├── app.js                  # Logic điều khiển, flashcard, quiz, game ghép cặp
-├── data.js                 # Cơ sở dữ liệu 1.620+ từ vựng có chiết tự & ví dụ
-├── style.css               # Hệ thống thiết kế (Design System) Light & Dark
-├── ai-import.js            # Module tích hợp Gemini AI phân tích từ vựng mới
+├── index.html              # Giao diện chính SPA của ứng dụng (GitHub Pages root)
+├── manifest.json           # Web App Manifest & cài đặt PWA mobile
+├── favicon.svg             # Biểu tượng vector mặc định tại root
 ├── server.js               # Node.js server phục vụ ghi dữ liệu cục bộ
-├── package.json            # Cấu hình dự án và dependencies
-├── .gitignore              # Bộ quy tắc bỏ qua file rác khi commit git
-├── Lessons_Data/           # Toàn bộ tài liệu từ vựng và giải thích Markdown
-│   └── Book3/              # Các bài học Giáo trình Đương đại 3 (Bài 1 - 12)
-├── Datasets/               # Dữ liệu từ vựng thô tham khảo
-└── Mock_Tests/             # Tài liệu & đề thi mẫu TOCFL Band A
+├── package.json            # Cấu hình dự án và scripts (npm start, npm run validate)
+│
+├── assets/                 # Tài nguyên hình ảnh, biểu tượng
+│   └── icons/              # Toàn bộ icon, favicon, touch-icon, PWA icons
+│
+├── css/
+│   └── style.css           # Hệ thống thiết kế (Design System) Modern Zen & Dark Mode
+│
+├── js/
+│   ├── app.js              # Logic điều khiển, flashcard, quiz, game ghép cặp, swipe mobile
+│   ├── data.js             # Cơ sở dữ liệu 1.620+ từ vựng chiết tự & ví dụ
+│   └── ai-import.js        # Module tích hợp Gemini AI phân tích từ vựng mới
+│
+├── data/                   # Tài liệu học tập và cơ sở dữ liệu có cấu trúc
+│   ├── lessons/            # Toàn bộ bài học Markdown theo giáo trình
+│   │   ├── book2/          # Giáo trình Đương đại 2 (Bài 1 - 15)
+│   │   └── book3/          # Giáo trình Đương đại 3 (Bài 1 - 12)
+│   ├── a1-vocab/           # Từ vựng TOCFL A1 phân loại theo chủ đề
+│   ├── mock-tests/         # Đề thi thử & tài liệu giải thích Band A
+│   └── crawled/            # Dữ liệu từ vựng thô tham khảo (JSON)
+│
+├── docs/                   # Tài liệu hướng dẫn & Prompt engineering
+│   └── prompts/            # Prompt mẫu phân tích chiết tự và từ nguyên học
+│
+└── scripts/                # Các script tiện ích bảo trì & đồng bộ dữ liệu
+    ├── cleanup_a1.js
+    ├── cleanup_a1_fix.js
+    ├── fix_mt2.js
+    ├── sync_l15_new.js
+    └── sync_mt2.js
 ```
 
 
