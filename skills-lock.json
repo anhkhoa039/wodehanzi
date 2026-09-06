@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "skills": {
+    "hanzi-philology": {
+      "source": "fengwuxp/skills",
+      "sourceType": "github",
+      "skillPath": "hanzi-philology/SKILL.md",
+      "computedHash": "8adb0650135a947ec99348e04846e60eea26426518e9797809e6ea53c9107566"
+    },
+    "lov-hanzi-lens": {
+      "source": "lovstudio/skills",
+      "sourceType": "github",
+      "skillPath": "skills/hanzi-lens/SKILL.md",
+      "computedHash": "5c0b1ca91391a12f7279a5b97c45b0f4264bc9391c75d2c94b266191de8ff936"
+    },
+    "mq-hanzi-card": {
+      "source": "clover327/mq-hanzi-card",
+      "sourceType": "github",
+      "skillPath": "完整版（含AI插画）/SKILL.md",
+      "computedHash": "ad50084739dbed56884a8d8a13d8548b2b739c791ee45f02ca487aa36c6241ec"
+    }
+  }
+}

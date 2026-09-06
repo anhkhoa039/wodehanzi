@@ -8532,7 +8532,7 @@ const LESSON_DATA = [
       {
         "char": "做",
         "pinyin": "zuò",
-        "structure": " ★ 起 (Khởi): Bản thân (己) bắt đầu đứng dậy đi/chạy (走). Ý nghĩa là bắt đầu nổi lên. ★ 來 (Lai): Cây lúa mạch mang lộc ĐẾN cho con người. Ý nghĩa là tới, đến.",
+        "structure": "★ 起 (Khởi): Bản thân (己) bắt đầu đứng dậy đi/chạy (走). Ý nghĩa là bắt đầu nổi lên. ★ 來 (Lai): Cây lúa mạch mang lộc ĐẾN cho con người. Ý nghĩa là tới, đến.",
         "story": "Đứng sau động từ, cụm từ 起來 mở rộng mang nghĩa là quá trình thực hiện một hành động nào đó bắt đầu và đang diễn ra, từ đó ta có thể đưa ra đánh giá, nhận xét. *VD:* 看起來很難，做起來很簡單 (Kàn qǐlái hěn nán, zuò qǐlái hěn jiǎndān) - Nhìn thì khó, bắt tay vào làm thử thì rất đơn giản.",
         "mnemonic": "Người (亻) làm lặp lại việc cũ (故) mỗi ngày = 做 — làm."
       }
@@ -9079,7 +9079,7 @@ const LESSON_DATA = [
       {
         "char": "水上",
         "pinyin": "shuǐshàng",
-        "structure": " ★ 水: Vẽ hình dòng sông cuộn sóng = nước. ★ 上: Dấu chấm nằm phía TRÊN đường gạch ngang = lên, phía trên.",
+        "structure": "★ 水: Vẽ hình dòng sông cuộn sóng = nước. ★ 上: Dấu chấm nằm phía TRÊN đường gạch ngang = lên, phía trên.",
         "story": "",
         "mnemonic": "Phía TRÊN (上) mặt NƯỚC (水) = 水上."
       },
@@ -9508,7 +9508,7 @@ const LESSON_DATA = [
       {
         "char": "觀光",
         "pinyin": "guānguāng",
-        "structure": " ★ 觀 (Quan): Gồm bộ Kiến (見 - nhìn thấy) và chữ Quán (雚 - con chim hạc/linh điểu quan sát). Nhìn ngắm chăm chú như chim hạc. ★ 光 (Quang): Người (儿) cầm đuốc lửa (火). Ánh sáng, cảnh sắc.",
+        "structure": "★ 觀 (Quan): Gồm bộ Kiến (見 - nhìn thấy) và chữ Quán (雚 - con chim hạc/linh điểu quan sát). Nhìn ngắm chăm chú như chim hạc. ★ 光 (Quang): Người (儿) cầm đuốc lửa (火). Ánh sáng, cảnh sắc.",
         "story": "Nhìn ngắm (觀) những cảnh sắc đẹp đẽ rực rỡ (光). Nghĩa là du lịch tham quan.",
         "mnemonic": "Nhìn ngắm (觀) vẻ đẹp rực rỡ (光) = 觀光 — tham quan, ngắm cảnh."
       },
@@ -9540,7 +9540,7 @@ const LESSON_DATA = [
       {
         "char": "太陽",
         "pinyin": "tàiyáng",
-        "structure": " ★ 太 (Thái): Chữ Đại (大 - người dang tay) với thêm một dấu chấm nhấn mạnh. Rất lớn, thái quá. ★ 陽 (Dương): Gồm bộ Phụ (阜 - đất cao/đồi) và Dương (昜 - mặt trời chiếu tia sáng lên cao). Phương Đông, ánh sáng.",
+        "structure": "★ 太 (Thái): Chữ Đại (大 - người dang tay) với thêm một dấu chấm nhấn mạnh. Rất lớn, thái quá. ★ 陽 (Dương): Gồm bộ Phụ (阜 - đất cao/đồi) và Dương (昜 - mặt trời chiếu tia sáng lên cao). Phương Đông, ánh sáng.",
         "story": "Quả cầu lửa (陽) cực kỳ to lớn (太) trên bầu trời. Thái Dương = mặt trời.",
         "mnemonic": "Quả cầu lửa (陽) cực kỳ to lớn (太) = 太陽 — mặt trời."
       }
@@ -22533,8 +22533,7 @@ const LESSON_DATA = [
       "pinyin": "Hé Yǎtíng hěn lèyì bāngzhù xīn lái de tóngxué shìyìng xiàoyuán shēnghuó.",
       "meaning": "Hà Nhã Đình rất sẵn lòng giúp đỡ những bạn học mới đến thích nghi với cuộc sống học đường."
     }
-  }
-,
+  },
   {
     "id": "b3_2-01",
     "hanzi": "起",
@@ -24221,8 +24220,7 @@ const LESSON_DATA = [
       "pinyin": "Rúguǒ nín duì zhàngdān míngxì yǒu rènhé yíwèn, kěyǐ bōdǎ diànhuà gěi kèfú zhōngxīn cháxún.",
       "meaning": "Nếu quý khách có bất kỳ thắc mắc nào về bảng kê chi tiết hóa đơn, có thể gọi điện đến trung tâm chăm sóc khách hàng để tra cứu."
     }
-  }
-,
+  },
   {
     "id": "b3_3-01",
     "hanzi": "陳敏勞",
@@ -26463,8 +26461,7 @@ const LESSON_DATA = [
       "pinyin": "Měi cì guòjié, dàjiē xiǎoxiàng dōu guà mǎn le měilì de zhuāngshì, rènào fēifán.",
       "meaning": "Mỗi dịp đón tết lễ, phố lớn ngõ nhỏ đều giăng đầy đồ trang trí lộng lẫy, náo nhiệt vô cùng."
     }
-  }
-,
+  },
   {
     "id": "b3_4-01",
     "hanzi": "人情味",
@@ -28377,8 +28374,7 @@ const LESSON_DATA = [
       "pinyin": "Rúguǒ nǐ shì dì-yī cì qù yèshì, dāngdì de péngyǒu yídìng huì dàlì tuījiàn nǐ hē mùguā niúnǎi.",
       "meaning": "Nếu bạn lần đầu tiên đi chợ đêm, bạn bè bản địa nhất định sẽ nhiệt tình giới thiệu bạn uống sữa đu đủ."
     }
-  }
-,
+  },
   {
     "id": "b3_5-01",
     "hanzi": "流行",
@@ -30459,7 +30455,7 @@ const LESSON_DATA = [
       "meaning": "Đây chỉ là một chút hiểu lầm nhỏ không đáng kể mà thôi, bạn hà tất phải chuyện bé xé ra to đùng đùng nổi giận như vậy chứ?"
     }
   },
-    {
+  {
     "id": "b3_5-68",
     "hanzi": "推出",
     "pinyin": "tuīchū",
@@ -32918,12 +32914,12 @@ const LESSON_DATA = [
       {
         "char": "亂",
         "pinyin": "luàn",
-        "structure": "Chữ Thiệt (lưỡi) cùng hai tay gỡ cuộn tơ rối bời không có trật tự.",
-        "story": "Mớ tơ rối không theo nề nếp kỷ cương.",
-        "mnemonic": "Cuộn tơ rối bời = Loạn (亂) — bừa bãi, rối loạn."
+        "structure": "Cuộn tơ bị rối tung rối bời không có đầu mối kỷ cương trật tự.",
+        "story": "Rối ren mất kỷ cương trật tự.",
+        "mnemonic": "Mớ bòng bong mất trật tự = Loạn (亂) — hỗn loạn."
       }
     ],
-    "summary": "Hành vi tùy tiện mất trật tự hoặc cảnh tượng bừa bộn không ngăn nắp — 亂: bừa bãi, loạn.",
+    "summary": "Tình trạng lộn xộn, vô tổ chức mất đi trật tự xã hội bình thường — 亂: lộn xộn, hỗn loạn.",
     "example": {
       "hanzi": "小狗換牙期間總喜歡亂咬客廳裡的拖鞋和沙發椅腳。",
       "pinyin": "Xiǎogǒu huànyá qījiān zǒng xǐhuān luàn yǎo kètīng lǐ de tuōxié hé shāfā yǐjiǎo.",
