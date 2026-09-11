@@ -1,0 +1,702 @@
+{
+  "起": {
+    "char": "起",
+    "pinyin": "qǐ",
+    "structure": "Chữ hình thanh kết hợp hội ý. Bên trái là bộ Tẩu (走 - chạy, đi). Bên phải là chữ Kỷ (己 - bản thân) làm biểu âm.",
+    "story": "Mô tả một người tự mình (己) nhổm dậy rồi cất bước chạy (走). Nghĩa gốc là đứng dậy, bắt đầu, khởi điểm.",
+    "mnemonic": "Bản thân (己) đứng dậy chạy (走) = Khởi (起) — bắt đầu, từ mức đó trở lên."
+  },
+  "外": {
+    "char": "外",
+    "pinyin": "wài",
+    "structure": "Chữ hội ý: Bên trái là bộ Tịch (夕 - buổi tối). Bên phải là chữ Bốc (卜 - bói toán).",
+    "story": "Thời xưa bói toán thường làm vào buổi sáng. Làm bói lúc trời tối (夕) là chuyện ngoại lệ, nằm ngoài quy tắc. Mở rộng nghĩa: bên ngoài, ngoài.",
+    "mnemonic": "Buổi tối (夕) đi xem bói (卜) là chuyện khác thường ở bên ngoài (外)."
+  },
+  "套": {
+    "char": "套",
+    "pinyin": "tào",
+    "structure": "Chữ hội ý: Phía trên là chữ Đại (大 - to lớn). Phía dưới là chữ Trường (長 - dài rộng).",
+    "story": "Vật to lớn (大) và dài rộng (長) có thể trùm bọc che phủ vật khác. Nghĩa gốc là vỏ bọc, cái bao ngoài, mặc trùm lên.",
+    "mnemonic": "Vừa to (大) vừa dài (長) thì trùm bọc được bên ngoài = Sáo (套)."
+  },
+  "一": {
+    "char": "一",
+    "pinyin": "yí",
+    "structure": "Một nhịp bất ngờ.",
+    "story": "Một lần dứt khoát.",
+    "mnemonic": "Số Một (一)."
+  },
+  "般": {
+    "char": "般",
+    "pinyin": "bān",
+    "structure": "Bộ Chu (舟 - thuyền) + Thù (殳 - gậy chèo). Xoay tròn thuyền, cùng một dạng kiểu.",
+    "story": "Kiểu cách chung.",
+    "mnemonic": "Thuyền (舟) xoay chèo (殳) thành dạng mẫu = Ban (般)."
+  },
+  "商": {
+    "char": "商",
+    "pinyin": "shāng",
+    "structure": "Phía trên là Đầu (亠), tiếp đến là Quếnh (冂) và Khẩu (口) bên trong, phía dưới là bát (八).",
+    "story": "Thời nhà Thương người dân rất giỏi trao đổi hàng hóa buôn bán, từ đó 商 dùng để chỉ thương nghiệp, buôn bán, bàn bạc giá cả.",
+    "mnemonic": "Thương nhân nhà Thương (商) tụ họp bàn bạc giá cả buôn bán hàng hóa."
+  },
+  "品": {
+    "char": "品",
+    "pinyin": "pǐn",
+    "structure": "Ba chữ Khẩu (口) xếp tam giác: nhiều người cùng nếm thử, đánh giá phẩm chất đồ vật.",
+    "story": "Nhiều người nếm thử khen ngợi là hàng tốt.",
+    "mnemonic": "Ba cái miệng (口) cùng khen ngợi chất lượng = Phẩm (品)."
+  },
+  "折": {
+    "char": "折",
+    "pinyin": "zhé",
+    "structure": "Bộ Thủ (扌) + Cân (斤). Bẻ gãy bớt giá tiền.",
+    "story": "Giảm bớt một phần giá niêm yết.",
+    "mnemonic": "Tay (扌) vung rìu (斤) chặt bớt giá = Chiết (折)."
+  },
+  "扣": {
+    "char": "扣",
+    "pinyin": "kòu",
+    "structure": "Chữ hình thanh: Bên trái là bộ Thủ (扌- tay). Bên phải là chữ Khẩu (口 - miệng làm biểu âm).",
+    "story": "Bàn tay khép giữ lại hoặc móc chặt lại. Trong tính tiền, khấu trừ bớt một khoản ra.",
+    "mnemonic": "Tay (扌) giữ chặt nơi cửa miệng (口) giữ lại phần tiền giảm = Khấu (扣)."
+  },
+  "省": {
+    "char": "省",
+    "pinyin": "shěng",
+    "structure": "Chữ hội ý: Phía trên là chữ Thiếu (少 - ít ỏi). Phía dưới là bộ Mục (目 - con mắt).",
+    "story": "Nheo mắt lại nhìn kỹ càng từng chi tiết nhỏ để không lãng phí; từ đó mở rộng nghĩa xem xét cẩn trọng rồi tiết kiệm, bớt chi tiêu.",
+    "mnemonic": "Mắt (目) luôn để ý từng khoản nhỏ (少) để chi tiêu tiết kiệm (省)."
+  },
+  "牌": {
+    "char": "牌",
+    "pinyin": "pái",
+    "structure": "Chữ hình thanh: Bên trái là bộ Phiến (片 - mảnh gỗ xẻ mỏng). Bên phải là chữ Ti (卑 - thấp bé, biểu âm).",
+    "story": "Mảnh gỗ mỏng (片) cắm trên cửa hàng ghi tên hiệu để khách nhận biết. Về sau chỉ tấm biển, nhãn hiệu, thương hiệu.",
+    "mnemonic": "Mảnh gỗ (片) ghi tên hiệu của cửa hàng = Biển hiệu, nhãn hiệu (牌)."
+  },
+  "子": {
+    "char": "子",
+    "pinyin": "zi",
+    "structure": "Hậu tố danh từ quen thuộc.",
+    "story": "Hậu tố tạo danh từ chỉ đặc điểm cụ thể.",
+    "mnemonic": "Hậu tố danh từ (子)."
+  },
+  "質": {
+    "char": "質",
+    "pinyin": "zhì",
+    "structure": "Phía trên là hai chữ Cân (斤 - rìu búa đối nhau). Phía dưới là bộ Bối (貝 - tiền vỏ sò).",
+    "story": "Đặt tài vật (貝) lên bàn cân phân định rõ ràng thật giả, giá trị bản chất cốt lõi. Nghĩa là bản chất, thực chất.",
+    "mnemonic": "Đo lường tiền của (貝) chính xác đến từng cân (斤) = Chất (質) lượng đích thực."
+  },
+  "選": {
+    "char": "選",
+    "pinyin": "xuǎn",
+    "structure": "Chữ hình thanh: Bên trái là bộ Sước (辶 - bước đi). Bên phải là chữ Tốn (巽 - cung kính, thuận hòa).",
+    "story": "Đi lại (辶) quan sát kỹ càng để tìm ra người hoặc vật ưu tú nhất. Nghĩa là tuyển chọn, chọn ra.",
+    "mnemonic": "Bước đi (辶) tìm kiếm món đồ ưng thuận (巽) = Tuyển (選) chọn."
+  },
+  "擇": {
+    "char": "擇",
+    "pinyin": "zé",
+    "structure": "Chữ hình thanh: Bên trái là bộ Thủ (扌- bàn tay). Bên phải là chữ Dịch (睪 - ngắm nghía, gián điệp theo dõi).",
+    "story": "Dùng mắt ngắm nghía kỹ càng rồi đưa tay (扌) nhặt lấy thứ tốt nhất.",
+    "mnemonic": "Tay (扌) nhặt lấy thứ tốt sau khi quan sát kỹ = Trạch (擇) — chọn lựa."
+  },
+  "樣": {
+    "char": "樣",
+    "pinyin": "yàng",
+    "structure": "Bên trái là bộ Mộc (木 - cây gỗ). Bên phải là chữ Dương (羕 - dòng nước dài êm ả, có chữ Dương 羊 ở trên).",
+    "story": "Khuôn mẫu làm bằng gỗ (木) để đúc tạc hình hài chuẩn mực. Nghĩa là hình mẫu, khuôn dạng, hình dạng.",
+    "mnemonic": "Khuôn gỗ (木) chạm hình con cừu (羊) làm chuẩn = Dạng (樣) — kiểu mẫu."
+  },
+  "摸": {
+    "char": "摸",
+    "pinyin": "mō",
+    "structure": "Chữ hình thanh: Bên trái là bộ Thủ (扌- bàn tay). Bên phải là chữ Mạc (莫 - lúc hoàng hôn mặt trời lặn dưới đồng cỏ).",
+    "story": "Trời tối mù mịt như lúc hoàng hôn (莫), không nhìn rõ đường nên phải dùng bàn tay (扌) sờ soạng lần tìm.",
+    "mnemonic": "Trời tối mịt (莫) phải dùng bàn tay (扌) để sờ lần tìm đường = Mò (摸)."
+  },
+  "店": {
+    "char": "店",
+    "pinyin": "diàn",
+    "structure": "Dưới mái hiên (广) chiếm chỗ (占) bán hàng: cửa hàng, tiệm.",
+    "story": "Nơi bày hàng buôn bán.",
+    "mnemonic": "Mái hiên (广) buôn bán = Điếm (店)."
+  },
+  "員": {
+    "char": "員",
+    "pinyin": "yuán",
+    "structure": "Phía trên là Khẩu (口 - nhân khẩu). Phía dưới là Bối (貝 - tiền tài, đồng tiền).",
+    "story": "Người tham gia nhận phần bổng lộc hay người được tuyển chọn vào tổ chức. Nghĩa là nhân viên, thành viên.",
+    "mnemonic": "Mỗi miệng ăn (口) nhận tiền lương (貝) = Viên (員) — nhân viên."
+  },
+  "短": {
+    "char": "短",
+    "pinyin": "duǎn",
+    "structure": "Chữ hội ý: Bên trái là bộ Thỉ (矢 - mũi tên). Bên phải là chữ Đậu (豆 - cái bát đựng thức ăn thời cổ).",
+    "story": "Mũi tên (矢) đo chiều dài so với cái bát (豆) thấp bé. Mũi tên và bát đậu đều là thước đo vật thể ngắn ngủi.",
+    "mnemonic": "Mũi tên (矢) ngắn bằng cái bát đậu (豆) = Đoản (短) — ngắn."
+  },
+  "羊": {
+    "char": "羊",
+    "pinyin": "yáng",
+    "structure": "Chữ tượng hình: Vẽ chiếc đầu con cừu có hai sừng cong vểnh lên trên.",
+    "story": "Con cừu hiền lành, biểu tượng của sự may mắn, tốt lành (tường 祥, mỹ 美 đều có chữ Dương).",
+    "mnemonic": "Hình đầu con cừu có hai sừng vểnh = Dương (羊)."
+  },
+  "毛": {
+    "char": "毛",
+    "pinyin": "máo",
+    "structure": "Chữ tượng hình: Mô tả cọng lông tơ có các sợi nhánh phất phơ.",
+    "story": "Lông vũ, lông thú tơ mềm mọc trên da.",
+    "mnemonic": "Sợi lông tơ uốn lượn = Mao (毛)."
+  },
+  "暖": {
+    "char": "暖",
+    "pinyin": "nuǎn",
+    "structure": "Chữ hình thanh: Bên trái là bộ Nhật (日 - mặt trời). Bên phải là chữ Viện (爰 - đưa tay kéo đỡ).",
+    "story": "Ánh mặt trời (日) ấm áp rọi xuống sưởi ấm vạn vật xua tan lạnh giá. Nghĩa là ấm áp.",
+    "mnemonic": "Mặt trời (日) sưởi ấm muôn loài = Noãn (暖) — ấm."
+  },
+  "和": {
+    "char": "和",
+    "pinyin": "huo",
+    "structure": "Bộ Hòa (禾 - bông lúa) + Khẩu (口 - miệng). Hòa thuận, dịu êm nhẹ nhàng.",
+    "story": "Âm nhẹ huo chỉ cảm giác dễ chịu, ôn hòa của thời tiết.",
+    "mnemonic": "Lúa thóc (禾) no đủ miệng (口) thì êm đềm hòa nhã (和)."
+  },
+  "打": {
+    "char": "打",
+    "pinyin": "dǎ",
+    "structure": "Bộ Thủ (扌) + Đinh (丁). Thực hiện thao tác.",
+    "story": "Thực hiện tính toán giảm giá.",
+    "mnemonic": "Tay (扌) tác động = Đả (打)."
+  },
+  "原": {
+    "char": "原",
+    "pinyin": "yuán",
+    "structure": "Phía trên là bộ Hán (厂 - sườn núi dốc). Phía dưới là chữ Tuyền (泉 - suối nguồn).",
+    "story": "Dòng suối (泉) tinh khiết bắt nguồn từ vách đá (厂). Nghĩa gốc là cội nguồn, khởi điểm ban đầu.",
+    "mnemonic": "Dưới vách đá (厂) có dòng suối mát (泉) chảy ra = Nguyên (原) — nguồn cội ban đầu."
+  },
+  "價": {
+    "char": "價",
+    "pinyin": "jià",
+    "structure": "Bên trái là bộ Nhân (亻- con người). Bên phải là chữ Giới (賈 - thương nhân buôn bán).",
+    "story": "Con người (亻) và nhà buôn (賈) định ra giá trị món đồ. Nghĩa là giá cả.",
+    "mnemonic": "Người (亻) cùng thương lái (賈) ngã giá = Giá (價) cả."
+  },
+  "刷": {
+    "char": "刷",
+    "pinyin": "shuā",
+    "structure": "Bên trái là chữ Thi (尸 - thân người cúi) kẹp Cân (巾 - mảnh khăn). Bên phải là bộ Đao (刂- con dao).",
+    "story": "Cầm khăn cọ xát cạo rửa mau lẹ như dao lướt qua. Từ đó chỉ động tác quẹt thẻ qua máy.",
+    "mnemonic": "Dùng khăn (巾) cọ sạch mau lẹ như dao (刂) lướt qua = Xoát (刷) — cọ, quẹt."
+  },
+  "卡": {
+    "char": "卡",
+    "pinyin": "kǎ",
+    "structure": "Thượng + Hạ: tấm thẻ sim.",
+    "story": "Tấm thẻ dịch vụ.",
+    "mnemonic": "Tấm thẻ điện tử = Ca (卡)."
+  },
+  "現": {
+    "char": "現",
+    "pinyin": "xiàn",
+    "structure": "Bên trái là bộ Ngọc (王/玉 - viên ngọc). Bên phải là chữ Kiến (見 - nhìn thấy).",
+    "story": "Viên ngọc quý lộ diện rõ ràng trước mắt có thể nhìn thấy (見) ngay lập tức. Nghĩa là hiện ra, hiện tại.",
+    "mnemonic": "Ngọc quý (王) hiện ra tận mắt nhìn thấy (見) = Hiện (現)."
+  },
+  "金": {
+    "char": "金",
+    "pinyin": "jīn",
+    "structure": "Chữ tượng hình: Dưới lớp đất nung có những thỏi vàng chôn giấu lấp lánh.",
+    "story": "Kim loại quý giá, tiền tài, tiền bạc.",
+    "mnemonic": "Kim loại quý chôn dưới đất = Vàng, tiền (金)."
+  },
+  "麻": {
+    "char": "麻",
+    "pinyin": "má",
+    "structure": "Bên ngoài là bộ Nghiễm (广 - mái nhà). Bên trong là hai chữ Lâm (林) viết thành các bó cây gai dầu (Mao).",
+    "story": "Phơi và tước vỏ cây gai dầu (麻) dưới mái nhà là công việc rối rắm, sợi rối như tơ.",
+    "mnemonic": "Bó sợi gai dầu (林) phơi trong nhà (广) rối bời = Ma (麻)."
+  },
+  "煩": {
+    "char": "煩",
+    "pinyin": "fán",
+    "structure": "Bên trái là bộ Hỏa (火 - ngọn lửa). Bên phải là bộ Hiệt (頁 - cái đầu).",
+    "story": "Đầu óc (頁) bốc hỏa (火) như lửa đốt vì lo nghĩ căng thẳng. Nghĩa là bực bội, phiền não.",
+    "mnemonic": "Lửa (火) đốt trong đầu (頁) sinh ra bực dọc phiền muộn = Phiền (煩)."
+  },
+  "簽": {
+    "char": "簽",
+    "pinyin": "qiān",
+    "structure": "Phía trên là bộ Trúc (竹 - thẻ tre). Phía dưới là chữ Thiêm (僉 - tất cả mọi người cùng đồng thuận).",
+    "story": "Thẻ tre (竹) được mọi người (僉) cùng khắc dấu xác nhận cam kết. Mở rộng là ký tên nhận trách nhiệm.",
+    "mnemonic": "Mọi người (僉) cùng đóng dấu lên thẻ tre (竹) cam kết = Thiêm (簽) — ký."
+  },
+  "名": {
+    "char": "名",
+    "pinyin": "míng",
+    "structure": "Phía trên là bộ Tịch (夕 - buổi tối). Phía dưới là bộ Khẩu (口 - cái miệng).",
+    "story": "Trời tối (夕) không thấy mặt, phải dùng miệng (口) gọi tên nhau để nhận ra. Nghĩa là danh tính, tên họ.",
+    "mnemonic": "Trời tối (夕) mở miệng (口) xưng tên = Danh (名) — tên."
+  },
+  "破": {
+    "char": "破",
+    "pinyin": "pò",
+    "structure": "Bên trái là bộ Thạch (石 - hòn đá). Bên phải là chữ Bì (皮 - tấm da).",
+    "story": "Hòn đá (石) va đập làm rách toạc tấm da thú (皮). Nghĩa gốc là vỡ, rách, nát.",
+    "mnemonic": "Đá (石) đập vào làm rách lớp da (皮) = Phá (破) — rách toạc."
+  },
+  "洞": {
+    "char": "洞",
+    "pinyin": "dòng",
+    "structure": "Bên trái là bộ Thủy (氵- nước). Bên phải là chữ Đồng (同 - cùng chung).",
+    "story": "Dòng nước chảy xiết xuyên thủng đất đá tạo thành hang động sâu hút. Nghĩa là lỗ hổng, cái hang.",
+    "mnemonic": "Nước (氵) chảy khoét sâu tạo thành hang lỗ = Đỗng (洞) — cái lỗ."
+  },
+  "發": {
+    "char": "發",
+    "pinyin": "fā",
+    "structure": "Phía trên là bộ Bát/Bát (癶 - hai bàn chân mở ra). Phía dưới là Cung (弓) + Thù (殳).",
+    "story": "Bắn tên vút bay ra từ cây cung, tung ra, phát ra. Nghĩa là phát hành, phát ra.",
+    "mnemonic": "Cung (弓) bắn tên vút đi mở đường = Phát (發) — tung ra, in ra."
+  },
+  "票": {
+    "char": "票",
+    "pinyin": "piào",
+    "structure": "Phía trên là chữ Á (襾/覀 - tấm che). Phía dưới là bộ Thị (示 - bàn thờ tế lễ).",
+    "story": "Ngọn lửa bốc bay nhẹ nhàng trên bàn thờ tế lễ. Về sau chỉ mẩu giấy mỏng như vé, phiếu, biên lai.",
+    "mnemonic": "Tờ giấy mỏng dùng để chứng nhận giao dịch = Phiếu (票)."
+  },
+  "弄": {
+    "char": "弄",
+    "pinyin": "nòng",
+    "structure": "Hai tay (廾) vân vê viên ngọc (王): làm cho, xoay xở.",
+    "story": "Tác động bàn tay làm thay đổi tình trạng.",
+    "mnemonic": "Hai tay (廾) nghịch ngọc (王) = Lộng (弄)."
+  },
+  "退": {
+    "char": "退",
+    "pinyin": "tuì",
+    "structure": "Chữ hội ý: Bên trái là bộ Sước (辶 - bước đi). Bên phải là chữ Cấn (艮 - ngoảnh đầu nhìn lại).",
+    "story": "Bước chân (辶) vừa đi vừa ngoảnh đầu nhìn lại đằng sau (艮) rồi lùi về điểm xuất phát. Nghĩa là thoái lui, trả lại.",
+    "mnemonic": "Bước chân (辶) ngoảnh nhìn lại (艮) mà lùi về sau = Thoái (退) — trả lại, lùi bước."
+  },
+  "換": {
+    "char": "換",
+    "pinyin": "huàn",
+    "structure": "Bộ Thủ (扌) + Hoán (奐 - sáng rực biến đổi). Trao đổi đồ vật.",
+    "story": "Đổi qua lấy lại vật mới.",
+    "mnemonic": "Tay (扌) chuyển giao thay đổi = Hoán (換)."
+  },
+  "長": {
+    "char": "長",
+    "pinyin": "zhǎng",
+    "structure": "Chữ tượng hình: Ông lão tóc dài chống gậy, biểu thị người đứng đầu, trưởng bối.",
+    "story": "Người đứng đầu chỉ huy trong một tập thể.",
+    "mnemonic": "Bậc trưởng lão dẫn đầu = Trưởng (長)."
+  },
+  "週": {
+    "char": "週",
+    "pinyin": "zhōu",
+    "structure": "Bộ Sước (辶) + Chu (周 - chu kỳ tròn vẹn). Vòng lặp thời gian tròn một chu kỳ.",
+    "story": "Thời gian quay đúng một vòng tròn trọn vẹn.",
+    "mnemonic": "Bước đi (辶) giáp một vòng tròn (周) = Chu (週) — tuần hoàn."
+  },
+  "年": {
+    "char": "年",
+    "pinyin": "nián",
+    "structure": "Bộ Hòa (禾) + Nhân (人). Mùa gặt lúa hàng năm.",
+    "story": "Mỗi mùa lúa chín thu hoạch là trôi qua một năm.",
+    "mnemonic": "Gặt lúa một mùa = Năm (年)."
+  },
+  "慶": {
+    "char": "慶",
+    "pinyin": "qìng",
+    "structure": "Bên trên là Lộc (鹿 - hươu sao đem biếu). Ở giữa là Tâm (心). Phía dưới là Chỉ (夂 - bước chân tới).",
+    "story": "Mang quà hươu nai quý đến chúc mừng việc vui bằng cả tấm lòng. Nghĩa là mừng rỡ, kỷ niệm.",
+    "mnemonic": "Đem quà mừng bằng cả tấm lòng (心) = Khánh (慶) — chúc mừng."
+  },
+  "來": {
+    "char": "來",
+    "pinyin": "lái",
+    "structure": "Cây lúa mạch từ trời rơi xuống ban tặng cho con người.",
+    "story": "Đến từ phía trước, tiến lại gần.",
+    "mnemonic": "Cây lúa mạch đến với con người = Lai (來)."
+  },
+  "說": {
+    "char": "說",
+    "pinyin": "shuō",
+    "structure": "Bộ Ngôn (言 - lời nói) + Đoái (兌 - vui vẻ hớn hở).",
+    "story": "Dùng lời nói (言) giải bày tâm tư làm cho đôi bên thấu hiểu vui mừng (兌).",
+    "mnemonic": "Lời nói (言) đem lại niềm vui (兌) = Thuyết (說) — nói."
+  },
+  "試": {
+    "char": "試",
+    "pinyin": "shì",
+    "structure": "Bộ Ngôn (言 - lời nói) + Thức (式 - khuôn phép).",
+    "story": "Thử nghiệm so với khuôn phép tiêu chuẩn xem có vừa vặn không. Nghĩa là thử.",
+    "mnemonic": "Nói (言) theo khuôn phép (式) là thử nghiệm = Thí (試) — thử."
+  },
+  "穿": {
+    "char": "穿",
+    "pinyin": "chuān",
+    "structure": "Phía trên là bộ Huyệt (穴 - hang lỗ). Phía dưới là chữ Nha (牙 - răng thú nanh nhọn).",
+    "story": "Răng nanh thú nhọn (牙) cắn đục xuyên thủng một cái hang (穴). Mở rộng là xỏ chân, xỏ tay xuyên qua ống quần áo.",
+    "mnemonic": "Khoét một lỗ (穴) để luồn tay chân xuyên qua = Xuyên (穿) — mặc, xỏ."
+  },
+  "完": {
+    "char": "完",
+    "pinyin": "wán",
+    "structure": "Phía trên là bộ Miên (宀 - mái nhà). Phía dưới là chữ Nguyên (元 - người đầu to toàn vẹn).",
+    "story": "Xây dựng ngôi nhà (宀) đã hoàn chỉnh từ móng tới nóc vẹn toàn (元). Nghĩa là xong xuôi, hoàn tất.",
+    "mnemonic": "Mái nhà (宀) hoàn tất vẹn toàn (元) = Hoàn (完) — xong."
+  },
+  "丟": {
+    "char": "丟",
+    "pinyin": "diū",
+    "structure": "Phía trên là nét phẩy (丿) rơi xuống. Phía dưới là chữ Khứ (去 - rời đi, đi mất).",
+    "story": "Một vật rơi tuột khỏi tay rồi biến mất (去) không tìm lại được. Nghĩa là đánh mất, vứt bỏ.",
+    "mnemonic": "Đồ vật rơi tuột rồi đi mất (去) = Đâu (丟) — đánh mất, vứt đi."
+  },
+  "購": {
+    "char": "購",
+    "pinyin": "gòu",
+    "structure": "Chữ hình thanh: Bên trái là bộ Bối (貝 - tiền vỏ sò). Bên phải là chữ Cấu (冓 - kết cấu đan xen dựng nhà).",
+    "story": "Bỏ tiền của (貝) ra đổi lấy vật liệu dựng nhà hay sắm sửa tài sản. Nghĩa là mua sắm, mua vào.",
+    "mnemonic": "Dùng tiền bạc (貝) thu thập tài sản về xây nhà (冓) = Cấu (購) — mua sắm."
+  },
+  "物": {
+    "char": "物",
+    "pinyin": "wù",
+    "structure": "Bên trái là bộ Ngưu (牛 - con trâu). Bên phải là chữ Vật (勿 - ngọn cờ nhiều màu sắc phất phơ).",
+    "story": "Con trâu có màu lông tạp pha sắc, từ đó chỉ muôn loài, vạn vật trên đời. Nghĩa là đồ vật, sự vật.",
+    "mnemonic": "Con trâu (牛) giữa muôn loài vạn vật = Vật (物)."
+  },
+  "糾": {
+    "char": "糾",
+    "pinyin": "jiū",
+    "structure": "Bên trái là bộ Mịch (糸 - sợi tơ). Bên phải là chữ Củ (丩 - hai sợi dây xoắn bện vào nhau).",
+    "story": "Các sợi chỉ tơ (糸) bị bện xoắn bện chặt vào nhau rối bời không gỡ ra được.",
+    "mnemonic": "Sợi tơ (糸) xoắn bện lại với nhau rối tung = Củ (糾) — rối rắm."
+  },
+  "紛": {
+    "char": "紛",
+    "pinyin": "fēn",
+    "structure": "Bên trái là bộ Mịch (糸 - sợi tơ). Bên phải là chữ Phân (分 - con dao chặt đôi).",
+    "story": "Tơ chỉ bị cắt vụn bay tứ tán khắp nơi. Nghĩa là hỗn loạn, lộn xộn.",
+    "mnemonic": "Sợi tơ (糸) bị chặt chia (分) bay hỗn loạn = Phân (紛)."
+  },
+  "電": {
+    "char": "電",
+    "pinyin": "diàn",
+    "structure": "Phía trên là bộ Vũ (雨 - cơn mưa). Phía dưới là chữ Thân (申 - tia sét ngoằn ngoèo).",
+    "story": "Tia chớp lóe sáng giữa cơn mưa bão. Nghĩa là điện khí, năng lượng điện tử.",
+    "mnemonic": "Sét đánh giữa trời mưa (雨) = Điện (電)."
+  },
+  "信": {
+    "char": "信",
+    "pinyin": "xìn",
+    "structure": "Bên trái là bộ Nhân (亻- con người). Bên phải là bộ Ngôn (言 - lời nói).",
+    "story": "Lời nói (言) của con người (亻) phải đáng tin cậy. Mở rộng nghĩa: thư từ, tín hiệu, thông tin truyền đi.",
+    "mnemonic": "Lời nói (言) của người (亻) truyền đi tin tức = Tín (信)."
+  },
+  "門": {
+    "char": "門",
+    "pinyin": "mén",
+    "structure": "Chữ tượng hình: Hai cánh cửa khép mở của ngôi nhà cổ.",
+    "story": "Cánh cửa dẫn vào nhà, cửa ngõ giao tiếp.",
+    "mnemonic": "Hai cánh cửa mở ra đón khách = Môn (門)."
+  },
+  "市": {
+    "char": "市",
+    "pinyin": "shì",
+    "structure": "Phía trên là Đầu (亠), phía dưới là Cân (巾 - tấm vải căng mái che chợ).",
+    "story": "Nơi tụ họp đông đúc buôn bán trao đổi hàng hóa. Nghĩa là chợ búa, phố thị buôn bán.",
+    "mnemonic": "Căng bạt che (巾) lập nên chợ phố = Thị (市)."
+  },
+  "居": {
+    "char": "居",
+    "pinyin": "jū",
+    "structure": "Phía trên là Thi (尸 - mái nhà/thân thể). Phía dưới là Cổ (古 - từ lâu đời).",
+    "story": "Con người an cư lập nghiệp lâu dài dưới mái nhà. Nghĩa là cư ngụ, sinh sống.",
+    "mnemonic": "Thân người (尸) định cư lâu năm (古) = Cư (居)."
+  },
+  "留": {
+    "char": "留",
+    "pinyin": "liú",
+    "structure": "Phía trên là chữ Mão (丣 - cổng đóng lại). Phía dưới là bộ Điền (田 - ruộng đồng).",
+    "story": "Ở lại gắn bó canh tác trên đồng ruộng (田). Nghĩa là lưu lại, ở lại.",
+    "mnemonic": "Ở lại giữ gìn ruộng đất (田) = Lưu (留)."
+  },
+  "證": {
+    "char": "證",
+    "pinyin": "zhèng",
+    "structure": "Bên trái là bộ Ngôn (言 - lời nói). Bên phải là chữ Đăng (登 - bước lên bậc cao).",
+    "story": "Lời nói chính danh được ghi nhận bằng văn bản pháp lý. Nghĩa là chứng nhận, giấy tờ chứng minh.",
+    "mnemonic": "Lời nói chuẩn xác ghi vào giấy tờ = Chứng (證)."
+  },
+  "月": {
+    "char": "月",
+    "pinyin": "yuè",
+    "structure": "Hình vầng trăng khuyết: một chu kỳ mặt trăng là một tháng.",
+    "story": "Thời gian chu kỳ từng tháng.",
+    "mnemonic": "Vầng trăng khuyết = Tháng (月)."
+  },
+  "租": {
+    "char": "租",
+    "pinyin": "zū",
+    "structure": "Bên trái là bộ Hòa (禾 - lúa thóc). Bên phải là chữ Thả (且 - bàn thờ tế tổ tiên).",
+    "story": "Nộp một phần hoa màu lúa thóc (禾) để thuê mượn ruộng đất canh tác. Nghĩa là thuê, tiền thuê.",
+    "mnemonic": "Đóng lúa (禾) để thuê đất = Tô (租) — tiền thuê."
+  },
+  "型": {
+    "char": "型",
+    "pinyin": "xíng",
+    "structure": "Bên trái là Hình (刑 - phạt, khuôn dao cắt). Phía dưới là bộ Thổ (土 - đất nặn khuôn).",
+    "story": "Khuôn đất sét đúc hình đồ vật. Nghĩa là chủng loại, kiểu hình thức.",
+    "mnemonic": "Khuôn đất (土) định hình chủng loại = Hình (型)."
+  },
+  "帳": {
+    "char": "帳",
+    "pinyin": "zhàng",
+    "structure": "Bên trái là bộ Cân (巾 - tấm vải rèm). Bên phải là chữ Trường (長 - dài).",
+    "story": "Sổ sách ghi chép các khoản chi thu dài dằng dặc treo sau rèm màn kế toán. Nghĩa là sổ sách, tài khoản, món nợ.",
+    "mnemonic": "Cuốn sổ vải (巾) ghi các khoản nợ dài (長) = Trướng (帳) — sổ sách, hóa đơn."
+  },
+  "單": {
+    "char": "單",
+    "pinyin": "dān",
+    "structure": "Phía trên là chữ Khẩu lặp lại, ở giữa là Điền, phía dưới là Thập.",
+    "story": "Một tờ giấy đơn lẻ ghi rõ danh sách chi tiết các món. Nghĩa là tờ đơn, danh mục lẻ.",
+    "mnemonic": "Tờ giấy đơn lẻ kê danh sách = Đơn (單)."
+  },
+  "並": {
+    "char": "並",
+    "pinyin": "bìng",
+    "structure": "Chữ hội ý: Vẽ hình hai người (立) đứng ngang hàng song song kề vai nhau.",
+    "story": "Hai người cùng sóng bước, biểu thị sự liên kết, đồng thời, và thường dùng làm phó từ nhấn mạnh thực chất đối lập.",
+    "mnemonic": "Hai người đứng song song ngang hàng = Tịnh (並)."
+  },
+  "包": {
+    "char": "包",
+    "pinyin": "bāo",
+    "structure": "Chữ tượng hình: Mô tả hình hài bào thai đang được bọc kín trong bụng mẹ.",
+    "story": "Bọc kín, ôm trọn mọi thứ vào bên trong.",
+    "mnemonic": "Bọc thai nhi trong lòng mẹ = Bao (包) — bọc trọn."
+  },
+  "括": {
+    "char": "括",
+    "pinyin": "kuò",
+    "structure": "Bên trái là bộ Thủ (扌- tay). Bên phải là chữ Thiệt (舌 - cái lưỡi biểu âm).",
+    "story": "Dùng bàn tay gom góp, quấn thắt các đồ vật lại một chỗ. Nghĩa là gom lại, chứa đựng.",
+    "mnemonic": "Dùng tay (扌) gom gom mọi thứ lại vào một chỗ = Quát (括)."
+  },
+  "解": {
+    "char": "解",
+    "pinyin": "jiě",
+    "structure": "Bên trái là bộ Giác (角 - sừng thú). Bên phải là chữ Đao (刀 - dao) và Ngưu (牛 - trâu).",
+    "story": "Dùng dao (刀) mổ trâu (牛) tách sừng (角) xẻ thịt mạch lạc từng bộ phận. Nghĩa là phân giải, tháo gỡ rành mạch.",
+    "mnemonic": "Cầm dao (刀) xẻ trâu (牛) lấy sừng (角) mạch lạc từng phần = Giải (解)."
+  },
+  "釋": {
+    "char": "釋",
+    "pinyin": "shì",
+    "structure": "Bên trái là bộ Biện (釆 - vết chân thú phân biệt rõ). Bên phải là chữ Dịch (睪 - ngắm nghía buông tay).",
+    "story": "Phân biệt dấu chân rõ ràng rồi cởi bỏ hoài nghi khúc mắc. Nghĩa là cởi bỏ, phân trần, thích nghĩa.",
+    "mnemonic": "Phân biệt rõ rồi buông gánh lo âu = Thích (釋) — giải tỏa khúc mắc."
+  },
+  "顧": {
+    "char": "顧",
+    "pinyin": "gù",
+    "structure": "Bên trái là chữ Hỗ (雇 - chim đậu dưới mái che). Bên phải là bộ Hiệt (頁 - cái đầu).",
+    "story": "Ngoảnh đầu (頁) nhìn ngó, chăm sóc, thường xuyên ghé thăm lại. Nghĩa là chiếu cố, quan tâm, ghé mua.",
+    "mnemonic": "Ngoảnh đầu (頁) lại ghé thăm mua hàng = Cố (顧)."
+  },
+  "客": {
+    "char": "客",
+    "pinyin": "kè",
+    "structure": "Dưới mái nhà (宀) có người từ nơi khác tới (各): khách hàng.",
+    "story": "Khách quý tới nhà.",
+    "mnemonic": "Người (各) vào nhà (宀) = Khách (客)."
+  },
+  "尤": {
+    "char": "尤",
+    "pinyin": "yóu",
+    "structure": "Bộ Ất (乙) thêm một nét chấm bên trên: vượt trội hẳn lên trên mức bình thường.",
+    "story": "Cái gì vượt trội, khác biệt nổi bật hơn tất cả. Nghĩa là đặc biệt, nổi bật.",
+    "mnemonic": "Nét chấm nhô cao vượt trội = Vưu (尤) — nổi bật hơn hẳn."
+  },
+  "其": {
+    "char": "其",
+    "pinyin": "qí",
+    "structure": "Chữ tượng hình: Vẽ cái nong cái nia đan bằng tre để sảy thóc.",
+    "story": "Đại từ chỉ định: điều đó, cái đó.",
+    "mnemonic": "Cái nong tre sảy thóc chỉ định = Kỳ (其)."
+  },
+  "騙": {
+    "char": "騙",
+    "pinyin": "piàn",
+    "structure": "Chữ hình thanh: Bên trái là bộ Mã (馬 - con ngựa). Bên phải là chữ Biển (扁 - tấm biển mỏng dẹt).",
+    "story": "Nhảy phắt lên lưng ngựa phi nhanh tẩu thoát sau khi giở trò gian manh. Mở rộng là lừa gạt, bịp bợm.",
+    "mnemonic": "Cưỡi ngựa (馬) phi nhanh trốn chạy sau trò lừa = Phiến (騙) — lừa đảo."
+  },
+  "頓": {
+    "char": "頓",
+    "pinyin": "dùn",
+    "structure": "Bên trái là chữ Đồn (屯 - mầm cây đâm chồi ngập ngừng). Bên phải là bộ Hiệt (頁 - cái đầu).",
+    "story": "Cái đầu (頁) cúi xuống chạm đất rồi dừng lại một nhịp dứt khoát. Dùng làm lượng từ cho bữa ăn hay trận mắng kết thúc trọn vẹn.",
+    "mnemonic": "Đầu (頁) cúi xuống một nhịp dứt khoát = Đốn (頓) — một bữa, một trận."
+  },
+  "辦": {
+    "char": "辦",
+    "pinyin": "bàn",
+    "structure": "Ở giữa là chữ Lực (力 - sức lực). Hai bên là hai chữ Tân (辛 - nỗi cay đắng, dao khắc án phạt).",
+    "story": "Dốc hết sức lực (力) giữa muôn trùng khó khăn cay đắng (辛) để xử lý công việc. Nghĩa là làm việc, xử lý.",
+    "mnemonic": "Dốc sức (力) giữa hai nỗi đắng cay (辛) để giải quyết công việc = Biện (辦)."
+  },
+  "法": {
+    "char": "法",
+    "pinyin": "fǎ",
+    "structure": "Bên trái là bộ Thủy (氵- dòng nước công bằng). Bên phải là chữ Khứ (去 - loại bỏ cái xấu).",
+    "story": "Quy chuẩn công bằng phẳng lặng như mặt nước (氵) nhằm loại bỏ điều sai trái (去). Nghĩa là phép tắc, phương pháp.",
+    "mnemonic": "Nước (氵) chảy loại bỏ (去) điều sai trái = Pháp (法) — phương pháp."
+  },
+  "自": {
+    "char": "自",
+    "pinyin": "zì",
+    "structure": "Chữ tượng hình: Vẽ chiếc mũi người nhìn từ chính diện.",
+    "story": "Người xưa khi nói về chính bản thân mình thường lấy ngón tay trỏ vào chóp mũi. Nghĩa gốc là cái mũi, sau dùng để chỉ bản thân, tự mình.",
+    "mnemonic": "Chỉ tay vào mũi chính mình = Tự (自) — bản thân."
+  },
+  "動": {
+    "char": "動",
+    "pinyin": "dòng",
+    "structure": "Bên trái là chữ Trọng (重 - nặng nề). Bên phải là bộ Lực (力 - sức lực).",
+    "story": "Dùng sức mạnh (力) để nâng chuyển vật nặng ngàn cân (重). Nghĩa là chuyển động, vận động.",
+    "mnemonic": "Dùng sức lực (力) chuyển vật nặng (重) = Động (動) — chuyển động."
+  },
+  "關": {
+    "char": "關",
+    "pinyin": "guān",
+    "structure": "Bên ngoài là bộ Môn (門 - cửa). Bên trong là then cài cửa đan chéo khóa chặt.",
+    "story": "Cài then đóng chặt hai cánh cửa lại. Nghĩa là đóng, tắt, then chốt.",
+    "mnemonic": "Cài then then chốt đóng chặt cửa (門) = Quan (關) — đóng, tắt."
+  },
+  "機": {
+    "char": "機",
+    "pinyin": "jī",
+    "structure": "Bên trái là bộ Mộc (木 - gỗ). Bên phải là chữ Cơ (幾 - vi tế, chuyển động máy móc).",
+    "story": "Cỗ máy dệt thời xưa làm bằng khung gỗ có các cơ chế tinh vi chuyển động. Sau này chỉ mọi loại máy móc.",
+    "mnemonic": "Khung gỗ (木) tinh vi chuyển động = Cơ (機) — máy móc."
+  },
+  "修": {
+    "char": "修",
+    "pinyin": "xiū",
+    "structure": "Bên trái là chữ Du (攸 - người cầm gậy nhỏ tẩy rửa). Bên phải là bộ Sam (彡 - những vệt nét trang hoàng đẹp đẽ).",
+    "story": "Chăm chút gọt giũa trang hoàng làm cho mọi thứ trở nên ngay ngắn hoàn hảo. Nghĩa là sửa sang, tu sửa.",
+    "mnemonic": "Chăm chút sửa sang cho đẹp đẽ (彡) = Tu (修)."
+  },
+  "理": {
+    "char": "理",
+    "pinyin": "lǐ",
+    "structure": "Bên trái là bộ Ngọc (王/玉 - viên ngọc). Bên phải là chữ Lý (里 - làng xóm, đường đi ngay ngắn).",
+    "story": "Mài giũa viên ngọc bích men theo từng đường vân tự nhiên (里) để ngọc tỏa sáng. Nghĩa là sắp xếp, xử lý mạch lạc.",
+    "mnemonic": "Gọt ngọc (王) theo đúng thớ vân (里) = Lý (理) — chỉnh sửa hợp lý."
+  },
+  "繳": {
+    "char": "繳",
+    "pinyin": "jiǎo",
+    "structure": "Chữ hình thanh: Bên trái là bộ Mịch (糸 - sợi dây). Bên phải là chữ Kiểu (敫 - ánh nắng rọi sáng).",
+    "story": "Buộc dây (糸) nộp giao nạp sản vật hoặc tiền thuế vào công quỹ nhà nước. Nghĩa là giao nộp, đóng phí.",
+    "mnemonic": "Buộc tơ (糸) nộp giao lên cấp trên = Kiểu (繳) — giao nộp, đóng tiền."
+  },
+  "費": {
+    "char": "費",
+    "pinyin": "fèi",
+    "structure": "Phía trên là chữ Phất (弗 - uốn cong, dải băng chia lìa). Phía dưới là bộ Bối (貝 - tiền bạc).",
+    "story": "Tiền bạc của cải (貝) tiêu tan ra khỏi túi. Nghĩa là tiêu tốn, khoản chi phí.",
+    "mnemonic": "Tiền của (貝) bỏ ra thanh toán chi tiêu = Phí (費)."
+  },
+  "預": {
+    "char": "預",
+    "pinyin": "yù",
+    "structure": "Bên trái là chữ Dư (予 - ban cho). Bên phải là bộ Hiệt (頁 - cái đầu).",
+    "story": "Đầu óc tính toán chuẩn bị chu toàn trước mọi sự việc. Nghĩa là dự phòng, trước.",
+    "mnemonic": "Suy tính trước trong đầu (頁) = Dự (預) — chuẩn bị trước."
+  },
+  "付": {
+    "char": "付",
+    "pinyin": "fù",
+    "structure": "Bên trái là bộ Nhân (亻- người). Bên phải là chữ Thốn (寸 - bàn tay nắm giữ).",
+    "story": "Bàn tay con người trao giao tiền bạc đồ đạc cho người khác. Nghĩa là trả tiền, giao phó.",
+    "mnemonic": "Người (亻) đưa tay (寸) trả tiền = Phó (付) — thanh toán."
+  },
+  "成": {
+    "char": "成",
+    "pinyin": "chéng",
+    "structure": "Chữ Mậu (戊 - cây rìu vũ khí) + nét đinh (丁). Đánh thắng dựng nên thành tựu.",
+    "story": "Hoàn tất trở thành hiện thực.",
+    "mnemonic": "Cầm rìu lập nên công trạng = Thành (成)."
+  },
+  "吃": {
+    "char": "吃",
+    "pinyin": "chī",
+    "structure": "Bên trái là bộ Khẩu (口 - cái miệng). Bên phải là chữ Khất (乞 - xin ăn).",
+    "story": "Miệng (口) đưa thức ăn vào nhai nuốt. Nghĩa là ăn, tiêu thụ dung lượng.",
+    "mnemonic": "Miệng (口) xin đồ để ăn = Cật (吃) — ăn."
+  },
+  "到": {
+    "char": "到",
+    "pinyin": "dào",
+    "structure": "Bên trái là chữ Chí (至 - chim sà xuống đất). Bên phải là bộ Đao (刂- dao).",
+    "story": "Đi đến tận cùng đích đến.",
+    "mnemonic": "Đến tận nơi = Đáo (到)."
+  },
+  "飽": {
+    "char": "飽",
+    "pinyin": "bǎo",
+    "structure": "Bên trái là bộ Thực (飠/食 - đồ ăn). Bên phải là chữ Bao (包 - ôm trọn đầy bụng).",
+    "story": "Ăn đồ ăn (食) no căng đầy bụng (包). Nghĩa là no bụng, thỏa thuê không giới hạn.",
+    "mnemonic": "Ăn thức ăn (食) căng tròn bụng (包) = Bão (飽) — no nê."
+  },
+  "嚇": {
+    "char": "嚇",
+    "pinyin": "xià",
+    "structure": "Bên trái là bộ Khẩu (口 - miệng). Bên phải là chữ Hách (赫 - hai chữ Hỏa đỏ rực chói lọi).",
+    "story": "Mở miệng (口) thét lên kinh hãi khi gặp cảnh lửa cháy đỏ rực bất ngờ. Nghĩa là dọa sợ, làm cho hoảng sợ.",
+    "mnemonic": "Mở miệng (口) hét to trước cảnh lửa đỏ (赫) = Hách (嚇) — dọa sợ."
+  },
+  "跳": {
+    "char": "跳",
+    "pinyin": "tiào",
+    "structure": "Bên trái là bộ Túc (足 - bàn chân). Bên phải là chữ Triệu (兆 - dấu hiệu rạn nứt tách ra).",
+    "story": "Bàn chân (足) búng bật mạnh tách khỏi mặt đất. Nghĩa là nhảy lên, nảy mình.",
+    "mnemonic": "Chân (足) bật nhảy vọt lên = Khiêu (跳) — nhảy."
+  },
+  "服": {
+    "char": "服",
+    "pinyin": "fú",
+    "structure": "Bên trái là bộ Nguyệt (月/Nhục - cơ thể). Bên phải là chữ Phục (⺋- tay túm gáy phục tùng). Nghĩa là phục vụ, may áo mặc.",
+    "story": "Hết lòng phục vụ chăm sóc khách hàng chu đáo.",
+    "mnemonic": "Phục tùng tận tâm giúp đỡ = Phục (服) — phục vụ."
+  },
+  "中": {
+    "char": "中",
+    "pinyin": "zhōng",
+    "structure": "Hình mũi tên bắn trúng hồng tâm chính giữa cái bia.",
+    "story": "Chính giữa, cốt lõi.",
+    "mnemonic": "Bắn trúng giữa hồng tâm = Trung (中)."
+  },
+  "心": {
+    "char": "心",
+    "pinyin": "xīn",
+    "structure": "Chữ tượng hình: Hình trái tim với các ngăn van và mạch máu.",
+    "story": "Trái tim, cội nguồn tình cảm và suy nghĩ, điểm trọng yếu.",
+    "mnemonic": "Trái tim chân thành = Tâm (心)."
+  }
+}
