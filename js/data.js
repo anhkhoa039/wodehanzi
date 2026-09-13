@@ -22605,9 +22605,9 @@ const LESSON_DATA = [
       {
         "char": "般",
         "pinyin": "bān",
-        "structure": "Chữ hội ý: Bên trái là bộ Chu (舟 - chiếc thuyền). Bên phải là chữ Thù (殳 - cây gậy chống chèo xuồng).",
-        "story": "Tay cầm gậy chèo (殳) xoay chuyển chiếc thuyền (舟). Nghĩa gốc là quay tròn vòng, rồi chỉ cùng một kiểu dạng giống nhau.",
-        "mnemonic": "Thuyền (舟) xoay chuyển theo mái chèo (殳) tạo thành từng kiểu loại (般)."
+        "structure": "Chữ hội ý kiêm hình thanh: Bên trái là bộ Chu (舟 - chiếc thuyền). Bên phải là chữ Thù (殳 - tay cầm gậy chèo).",
+        "story": "Dùng cây sào (殳) đẩy mũi thuyền (舟) quay vòng tròn trên nước, tạo ra những gợn sóng có hình dạng y hệt nhau. Mở rộng ra nghĩa là 'giống nhau', 'cùng một loại' (như 一般 - thông thường, cùng một kiểu).",
+        "mnemonic": "Dùng sào (殳) chèo thuyền (舟) tạo ra các gợn sóng giống hệt nhau = Ban (般) — loại, kiểu."
       }
     ],
     "summary": "Cùng quy về một (一) dạng thức phổ biến giống nhau (般) — 一般: thông thường, bình thường.",
@@ -22628,9 +22628,9 @@ const LESSON_DATA = [
       {
         "char": "商",
         "pinyin": "shāng",
-        "structure": "Phía trên là Đầu (亠), tiếp đến là Quếnh (冂) và Khẩu (口) bên trong, phía dưới là bát (八).",
-        "story": "Thời nhà Thương người dân rất giỏi trao đổi hàng hóa buôn bán, từ đó 商 dùng để chỉ thương nghiệp, buôn bán, bàn bạc giá cả.",
-        "mnemonic": "Thương nhân nhà Thương (商) tụ họp bàn bạc giá cả buôn bán hàng hóa."
+        "structure": "Chữ hội ý: Phía trên là Đầu (亠 - đứng đầu), dưới là Quynh (冂 - vùng bao quanh), Bát (八 - tẽ ra) và Khẩu (口 - cái miệng).",
+        "story": "Thương nhân là những người đi đầu (亠), đi đến các vùng đất (冂), dùng miệng (口) thương lượng để phân phát, giao thương (八) hàng hóa. Thời cổ đại, người nhà Thương rất giỏi việc này nên gọi là Thương nhân (buôn bán).",
+        "mnemonic": "Đi đầu (亠) tới các vùng (冂) mở miệng (口) phân phát (八) hàng hóa = Thương (商) — buôn bán."
       },
       {
         "char": "品",
@@ -23350,9 +23350,9 @@ const LESSON_DATA = [
       {
         "char": "般",
         "pinyin": "bān",
-        "structure": "Bộ Chu (舟 - thuyền) + Thù (殳 - gậy chèo). Xoay tròn thuyền, cùng một dạng kiểu.",
-        "story": "Kiểu cách chung.",
-        "mnemonic": "Thuyền (舟) xoay chèo (殳) thành dạng mẫu = Ban (般)."
+        "structure": "Chữ hội ý kiêm hình thanh: Bên trái là bộ Chu (舟 - chiếc thuyền). Bên phải là chữ Thù (殳 - tay cầm gậy chèo).",
+        "story": "Dùng cây sào (殳) đẩy mũi thuyền (舟) quay vòng tròn trên nước, tạo ra những gợn sóng có hình dạng y hệt nhau. Mở rộng ra nghĩa là 'giống nhau', 'cùng một loại' (như 一般 - thông thường, cùng một kiểu).",
+        "mnemonic": "Dùng sào (殳) chèo thuyền (舟) tạo ra các gợn sóng giống hệt nhau = Ban (般) — loại, kiểu."
       },
       {
         "char": "來",
@@ -23514,9 +23514,9 @@ const LESSON_DATA = [
       {
         "char": "糾",
         "pinyin": "jiū",
-        "structure": "Bên trái là bộ Mịch (糸 - sợi tơ). Bên phải là chữ Củ (丩 - hai sợi dây xoắn bện vào nhau).",
-        "story": "Các sợi chỉ tơ (糸) bị bện xoắn bện chặt vào nhau rối bời không gỡ ra được.",
-        "mnemonic": "Sợi tơ (糸) xoắn bện lại với nhau rối tung = Củ (糾) — rối rắm."
+        "structure": "Chữ hội ý: Bên trái là bộ Mịch (糸 - sợi tơ). Bên phải là chữ Củ (丩 - hai sợi dây xoắn vặn vào nhau).",
+        "story": "Sợi tơ mảnh (糸) lại bị xoắn vặn, bện chặt (丩) vào nhau, tạo thành một mớ bùng nhùng rối rắm không thể nào gỡ ra được. Nghĩa là rối rắm, tranh chấp (糾紛).",
+        "mnemonic": "Sợi tơ (糸) bị xoắn vặn (丩) vào nhau rối tung = Củ (糾) — rắc rối, vướng mắc."
       },
       {
         "char": "紛",
@@ -23761,16 +23761,16 @@ const LESSON_DATA = [
       {
         "char": "解",
         "pinyin": "jiě",
-        "structure": "Bên trái là bộ Giác (角 - sừng thú). Bên phải là chữ Đao (刀 - dao) và Ngưu (牛 - trâu).",
-        "story": "Dùng dao (刀) mổ trâu (牛) tách sừng (角) xẻ thịt mạch lạc từng bộ phận. Nghĩa là phân giải, tháo gỡ rành mạch.",
-        "mnemonic": "Cầm dao (刀) xẻ trâu (牛) lấy sừng (角) mạch lạc từng phần = Giải (解)."
+        "structure": "Chữ hội ý: Bao gồm bộ Giác (角 - sừng thú), chữ Đao (刀 - con dao) và chữ Ngưu (牛 - con trâu).",
+        "story": "Dùng một con dao (刀) sắc bén, khéo léo lách vào để xẻ thịt con trâu (牛) và tách rời cái sừng (角) ra một cách rành mạch. Nghĩa là tháo gỡ, giải phẫu, giải quyết vấn đề.",
+        "mnemonic": "Cầm dao (刀) xẻ trâu (牛) lấy sừng (角) mạch lạc từng phần = Giải (解) — tháo gỡ."
       },
       {
         "char": "釋",
         "pinyin": "shì",
-        "structure": "Bên trái là bộ Biện (釆 - vết chân thú phân biệt rõ). Bên phải là chữ Dịch (睪 - ngắm nghía buông tay).",
-        "story": "Phân biệt dấu chân rõ ràng rồi cởi bỏ hoài nghi khúc mắc. Nghĩa là cởi bỏ, phân trần, thích nghĩa.",
-        "mnemonic": "Phân biệt rõ rồi buông gánh lo âu = Thích (釋) — giải tỏa khúc mắc."
+        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là bộ Biện (釆 - vết chân thú phân biệt rõ). Bên phải là chữ Dịch (睪 - ngắm nghía, thăm dò).",
+        "story": "Phải dùng mắt quan sát thật kỹ càng (睪) từng dấu chân thú (釆) để tìm ra sự thật, làm sáng tỏ sự việc, từ đó cởi bỏ được mọi hoài nghi khúc mắc. Nghĩa là giải thích, cởi bỏ.",
+        "mnemonic": "Nhìn kỹ (睪) từng dấu chân (釆) để làm sáng tỏ sự việc = Thích (釋) — giải thích."
       }
     ],
     "summary": "Mổ xẻ cặn kẽ (解) và gỡ bỏ mọi thắc mắc hiểu lầm (釋) — 解釋: giải thích rõ ràng ngọn ngành.",
@@ -24017,16 +24017,16 @@ const LESSON_DATA = [
       {
         "char": "繳",
         "pinyin": "jiǎo",
-        "structure": "Chữ hình thanh: Bên trái là bộ Mịch (糸 - sợi dây). Bên phải là chữ Kiểu (敫 - ánh nắng rọi sáng).",
-        "story": "Buộc dây (糸) nộp giao nạp sản vật hoặc tiền thuế vào công quỹ nhà nước. Nghĩa là giao nộp, đóng phí.",
-        "mnemonic": "Buộc tơ (糸) nộp giao lên cấp trên = Kiểu (繳) — giao nộp, đóng tiền."
+        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là bộ Mịch (糸 - sợi tơ lụa). Bên phải là chữ Kiểu (敫 - tỏa sáng) đóng vai trò biểu âm. Bản thân chữ 敫 được ghép từ Bạch (白 - màu trắng), Phương (方 - phương hướng) và bộ Phộc (攵 - tay cầm roi thúc giục).",
+        "story": "Vải vóc tơ lụa (糸) thời xưa thường được dùng thay cho tiền đúc để đóng thuế. Hình ảnh quan quân cầm roi (攵) đi khắp các phương (方) thúc giục người dân nộp lụa trắng (白) đại diện cho việc giao nộp của cải vào công quỹ. Nghĩa là nộp, đóng (tiền, phí).",
+        "mnemonic": "Mang lụa tơ (糸) trắng (白) đi bốn phương (方) gõ roi (攵) thúc giục thu thuế = Kiểu (繳) — nộp, đóng tiền."
       },
       {
         "char": "費",
         "pinyin": "fèi",
-        "structure": "Phía trên là chữ Phất (弗 - uốn cong, dải băng chia lìa). Phía dưới là bộ Bối (貝 - tiền bạc).",
-        "story": "Tiền bạc của cải (貝) tiêu tan ra khỏi túi. Nghĩa là tiêu tốn, khoản chi phí.",
-        "mnemonic": "Tiền của (貝) bỏ ra thanh toán chi tiêu = Phí (費)."
+        "structure": "Chữ hình thanh kiêm hội ý: Phía trên là chữ Phất (弗 - xua đi, phủ định). Phía dưới là bộ Bối (貝 - tiền bạc, tài sản).",
+        "story": "Tiền bạc của cải (貝) bị gạt đi, chi tiêu ra ngoài (弗) không giữ lại được. Bản thân chữ 弗 gồm 弓 (cây cung) bị hai gạch cản lại, mang ý nghĩa xua đi, không giữ. Tiền mà bị xua đi thì gọi là chi phí, tiêu tốn.",
+        "mnemonic": "Tiền bạc của cải (貝) bị xua đi (弗) không giữ lại được = Phí (費) — chi phí."
       }
     ],
     "summary": "Giao nộp nộp tiền (繳) cho các khoản chi dùng dịch vụ (費) — 繳費: đóng tiền cước phí.",
@@ -24047,9 +24047,9 @@ const LESSON_DATA = [
       {
         "char": "預",
         "pinyin": "yù",
-        "structure": "Bên trái là chữ Dư (予 - ban cho). Bên phải là bộ Hiệt (頁 - cái đầu).",
-        "story": "Đầu óc tính toán chuẩn bị chu toàn trước mọi sự việc. Nghĩa là dự phòng, trước.",
-        "mnemonic": "Suy tính trước trong đầu (頁) = Dự (預) — chuẩn bị trước."
+        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là chữ Dư (予 - ban cho, đưa cho trước). Bên phải là bộ Hiệt (頁 - cái đầu, suy nghĩ).",
+        "story": "Dùng đầu óc (頁) để suy tính, tính toán kỹ lưỡng nhằm chuẩn bị sẵn sàng để đưa ra (予) trước khi sự việc thực sự diễn ra. Nghĩa là dự phòng, báo trước, chuẩn bị trước.",
+        "mnemonic": "Dùng đầu (頁) suy tính để chuẩn bị đưa ra (予) trước = Dự (預) — dự bị."
       },
       {
         "char": "付",
@@ -24091,9 +24091,9 @@ const LESSON_DATA = [
       {
         "char": "成",
         "pinyin": "chéng",
-        "structure": "Chữ Mậu (戊 - cây rìu vũ khí) + nét đinh (丁). Đánh thắng dựng nên thành tựu.",
-        "story": "Hoàn tất trở thành hiện thực.",
-        "mnemonic": "Cầm rìu lập nên công trạng = Thành (成)."
+        "structure": "Chữ hội ý: Bao gồm chữ Mậu (戊 - vũ khí hình cái búa/rìu) và chữ Đinh (丁 - hình cây đinh, đại diện cho nam giới trưởng thành).",
+        "story": "Người đàn ông trưởng thành (丁) tay cầm vũ khí (戊) xông pha đánh trận lập nên công trạng. Nghĩa là hoàn thành, đạt được thành tựu, trở thành.",
+        "mnemonic": "Thanh niên (丁) cầm vũ khí (戊) lập công = Thành (成) — thành tựu, hoàn thành."
       }
     ],
     "summary": "Thực hiện việc trao đổi (換) để biến thành kết quả mới (成) — 換成: đổi thành cái mới.",
@@ -24165,9 +24165,9 @@ const LESSON_DATA = [
       {
         "char": "跳",
         "pinyin": "tiào",
-        "structure": "Bên trái là bộ Túc (足 - bàn chân). Bên phải là chữ Triệu (兆 - dấu hiệu rạn nứt tách ra).",
-        "story": "Bàn chân (足) búng bật mạnh tách khỏi mặt đất. Nghĩa là nhảy lên, nảy mình.",
-        "mnemonic": "Chân (足) bật nhảy vọt lên = Khiêu (跳) — nhảy."
+        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là bộ Túc (足 - bàn chân). Bên phải là chữ Triệu (兆 - vết nứt mai rùa) đóng vai trò biểu âm.",
+        "story": "Dùng sức mạnh của bàn chân (足) để búng bật lên, mạnh đến mức mặt đất dưới chân có dấu hiệu rạn nứt (兆). Nghĩa là nhảy lên, nảy mình.",
+        "mnemonic": "Chân (足) đạp mạnh làm nứt (兆) cả mặt đất = Khiêu (跳) — nhảy."
       }
     ],
     "summary": "Bị hoảng sợ (嚇) đến mức chân nảy bật lên khỏi mặt đất một nhịp (一跳) — 嚇一跳: giật bắn mình, hết cả hồn.",
