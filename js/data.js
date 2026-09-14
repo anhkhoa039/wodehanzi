@@ -24246,9 +24246,9 @@ const LESSON_DATA = [
       {
         "char": "勞",
         "pinyin": "láo",
-        "structure": "Phía trên là hai chữ Hỏa (炏 - lửa đỏ bập bùng). Ở giữa là Mịch (冖- che phủ). Phía dưới là bộ Lực (力 - sức lực).",
-        "story": "Dưới mái nhà thắp đèn sáng trưng (炏) vẫn dốc hết sức lực (力) cặm cụi làm việc đêm hôm. Nghĩa là lao động, vất vả.",
-        "mnemonic": "Thắp đèn (炏) dốc sức (力) làm việc đêm hôm = Lao (勞) — lao động."
+        "structure": "Chữ hội ý: Phía trên là hai chữ Hỏa (炎 - Viêm, lửa cháy rực rỡ). Ở giữa là bộ Mịch (冖- mái che). Phía dưới là bộ Lực (力 - sức lực).",
+        "story": "Đêm tối mịt mù mệt mỏi, dưới mái che (冖), người ta vẫn phải thắp hai ngọn đuốc đuốc (炎) sáng rực để dốc hết sức lực (力) cặm cụi làm việc. Nghĩa là lao động vất vả, nhọc nhằn.",
+        "mnemonic": "Dưới mái nhà (冖) thắp đuốc (炎) dốc sức (力) làm việc = Lao (勞) — nhọc nhằn."
       }
     ],
     "summary": "Họ Trần (陳), tính tình nhanh nhẹn mẫn tiệp (敏) và chăm chỉ lao động (勞) — tên nhân vật Trần Mẫn Lao.",
@@ -24373,9 +24373,9 @@ const LESSON_DATA = [
       {
         "char": "穩",
         "pinyin": "wěn",
-        "structure": "Bên trái là bộ Hòa (禾 - cây lúa). Bên phải gồm Trảo (爫), Sơn (山) và Huệ (急/ẩn).",
-        "story": "Mùa lúa (禾) bội thu chất đầy trong kho vững vàng như núi (山). Nghĩa gốc là yên tâm, vững chãi, chắc chắn.",
-        "mnemonic": "Lúa thóc (禾) đầy kho vững như núi = Ổn (穩) — vững chãi."
+        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là bộ Hòa (禾 - cây lúa). Bên phải là chữ Ẩn/Doãn (𤔔 - bàn tay giấu đồ đạc) đóng vai trò biểu âm. Bản thân chữ 𤔔 gồm Trảo (爫 - móng vuốt/tay) che đậy thứ gì đó.",
+        "story": "Sau mùa màng, lúa thóc (禾) thu hoạch xong phải được mang đi cất giấu cẩn thận (𤔔) trong kho kín thì lòng người mới yên tâm. Nghĩa là vững vàng, ổn định, chắc chắn.",
+        "mnemonic": "Lúa thóc (禾) đem cất giấu kín (𤔔) thì lòng mới an tâm = Ổn (穩) — vững vàng."
       },
       {
         "char": "定",
@@ -24410,9 +24410,9 @@ const LESSON_DATA = [
       {
         "char": "虧",
         "pinyin": "kuī",
-        "structure": "Chữ Vu (于) + Hổ (虍) + Chuy (隹). Bị tổn hao, hao hụt.",
-        "story": "Bị mất mát tổn thương. 'Hạnh khuy' là may mà tránh được sự hao tổn.",
-        "mnemonic": "May mắn tránh khỏi điều thua thiệt (虧) = Hạnh khuy (幸虧) — may mà."
+        "structure": "Chữ hình thanh kiêm hội ý: Phía trên là bộ Hổ (虍 - con hổ vằn). Ở giữa là chữ Chuy (隹 - loài chim). Phía dưới là chữ Khuy (亏 - hơi thở đứt quãng, thiếu hụt).",
+        "story": "Một con hổ dữ (虍) vồ lấy con chim nhỏ (隹) khiến nó thoi thóp thở yếu ớt (亏), sinh mạng bị tổn thất và hao hụt dần. Nghĩa là hao tổn, thua thiệt, khuyết thiếu.",
+        "mnemonic": "Hổ (虍) vồ chim (隹) làm hao tổn (亏) sinh mạng = Khuy (虧) — thua thiệt, hao hụt."
       }
     ],
     "summary": "May mắn lớn (幸) giúp tránh được thua thiệt tổn thất (虧) — 幸虧: may mà, phúc thay.",
@@ -24546,9 +24546,9 @@ const LESSON_DATA = [
       {
         "char": "覺",
         "pinyin": "jué",
-        "structure": "Phía trên gồm Cữu + Hào. Phía dưới là bộ Kiến (見 - mắt nhìn thấy).",
-        "story": "Mắt mở to nhìn thấy (見) thấu suốt chân tướng mà bừng tỉnh ngộ giác. Nghĩa là nhận biết, cảm giác.",
-        "mnemonic": "Mắt nhìn thấy (見) mà bừng tỉnh nhận ra = Giác (覺)."
+        "structure": "Chữ hình thanh kiêm hội ý: Phía trên là phần đầu của chữ Học (𦥯 - hai tay nắm các que hào để tính toán học tập). Phía dưới là bộ Kiến (見 - mắt nhìn thấy).",
+        "story": "Người học tập (𦥯) chăm chỉ, tự mình tận mắt nhìn thấy (見) và thấu suốt được chân tướng sự việc thì sẽ bừng tỉnh ngộ ra. Nghĩa là cảm giác, nhận biết, giác ngộ.",
+        "mnemonic": "Học tập (𦥯) đến mức mắt nhìn thấu suốt (見) = Giác (覺) — tỉnh ngộ, cảm thấy."
       }
     ],
     "summary": "Trái tim rung động (感) kết hợp giác quan nhận biết (覺) — 感覺: cảm giác, cảm nhận bên trong.",
@@ -24576,9 +24576,9 @@ const LESSON_DATA = [
       {
         "char": "際",
         "pinyin": "jì",
-        "structure": "Bên trái là bộ Phụ (阝- vách đất). Bên phải là chữ Tế (祭 - tế lễ cúng bái).",
-        "story": "Điểm giao nhau giữa trời và đất lúc cúng tế trên vách núi. Nghĩa là đường biên giới hạn, thời điểm tiếp giáp.",
-        "mnemonic": "Ranh giới tiếp giáp giao nhau = Tế (際)."
+        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là bộ Phụ (阝- vách núi, gò đất). Bên phải là chữ Tế (祭 - tế lễ). Bản thân chữ Tế gồm Hựu (又 - bàn tay) cầm Nhục (肉 - miếng thịt) đặt lên bàn thờ Thị (示).",
+        "story": "Người xưa mang theo miếng thịt (肉) dâng lên bàn thờ (示) rồi lên tận gò đất vách núi cao (阝) để cúng tế (祭) thần linh. Nơi núi cao ấy được coi là ranh giới giao thoa giữa trời và đất. Nghĩa là ranh giới, giao tiếp.",
+        "mnemonic": "Lên gò đất (阝) cúng tế (祭) nơi ranh giới giao thoa trời đất = Tế (際) — ranh giới."
       }
     ],
     "summary": "Điểm tiếp giáp cụ thể (際) nơi chạm vào sự thật chân xác (實) — 實際: thực tế, hiện thực khách quan.",
