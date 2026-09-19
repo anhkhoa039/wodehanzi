@@ -26570,9 +26570,9 @@ const LESSON_DATA = [
       {
         "char": "望",
         "pinyin": "wàng",
-        "structure": "Phía trên bên trái là Vong (亡), bên phải là Nguyệt (月 - vầng trăng). Phía dưới là chữ Vương (王/nhân kiễng chân).",
-        "story": "Người đứng kiễng chân ngước mắt ngóng trông vầng trăng sáng xa xăm. Nghĩa là ngóng trông, hy vọng.",
-        "mnemonic": "Kiễng chân ngước nhìn vầng trăng (月) xa xôi = Vọng (望) — trông đợi."
+        "structure": "Chữ hội ý: Phía trên bên trái là chữ Vong (亡 - khuất bóng). Bên phải là chữ Nguyệt (月 - vầng trăng). Phía dưới là chữ Đĩnh (壬 - người đứng kiễng chân).",
+        "story": "Một người kiễng chân (壬) đứng trên vùng đất cao, vươn cổ ngước mắt ngóng trông vầng trăng (月) xa xôi đang dần khuất bóng (亡). Nghĩa là ngóng trông, hy vọng.",
+        "mnemonic": "Kiễng chân (壬) ngóng vầng trăng (月) khuất xa (亡) = Vọng (望) — ngóng trông."
       }
     ],
     "summary": "Ước nguyện chân thành trong đầu (願) luôn ngóng trông trở thành hiện thực (望) — 願望: điều ước, nguyện vọng.",
@@ -26600,9 +26600,9 @@ const LESSON_DATA = [
       {
         "char": "號",
         "pinyin": "hào",
-        "structure": "Phía trên là Khẩu (口 - tiếng kêu). Phía dưới là Hổ (虍) mang âm kèn sừng hiệu lệnh.",
-        "story": "Thổi tù và cất tiếng gầm vang như hổ báo hiệu lệnh. Nghĩa là ký hiệu, dấu hiệu.",
-        "mnemonic": "Tiếng hô (口) vang dội báo hiệu = Hiệu (號)."
+        "structure": "Chữ hội ý kiêm hình thanh: Gồm chữ Hiệu (号 - há miệng thổi tù và) và chữ Hổ (虎 - con hổ vằn). Bản thân chữ 号 gồm Khẩu (口 - cái miệng) và Khảo (丂 - hơi thở bị dồn nén, tiếng tù và).",
+        "story": "Người lính há miệng (口) thổi chiếc tù và (丂) phát ra âm thanh vang dội mãnh liệt như tiếng gầm của loài hổ (虎) dữ để truyền tin. Nghĩa là hiệu lệnh, dấu hiệu, tiếng gọi lớn.",
+        "mnemonic": "Há miệng (口) thổi tiếng kêu to (丂) như hổ gầm (虎) = Hiệu (號) — hiệu lệnh."
       }
     ],
     "summary": "Dấu hiệu ký hiệu (號) truyền tải tin tức thông tin từ xa (訊) — 訊號: tín hiệu sóng điện thoại.",
@@ -26630,9 +26630,9 @@ const LESSON_DATA = [
       {
         "char": "宵",
         "pinyin": "xiāo",
-        "structure": "Phía trên là bộ Miên (宀 - mái nhà đêm tối). Phía dưới là chữ Tiêu (肖 - biến thể bé nhỏ lấp lánh).",
-        "story": "Đêm hôm tĩnh mịch dưới mái nhà. Nghĩa là ban đêm, dạ yến.",
-        "mnemonic": "Đêm tối dưới mái nhà (宀) = Tiêu (宵) — đêm tối."
+        "structure": "Chữ hình thanh kiêm hội ý: Phía trên là bộ Miên (宀 - mái nhà). Phía dưới là chữ Tiêu (肖 - nhỏ bé, lu mờ). Bản thân chữ Tiêu gồm chữ Tiểu (小 - nhỏ) và bộ Nhục (月/肉 - miếng thịt) ngụ ý sự thu hẹp.",
+        "story": "Đêm buông xuống dưới mái nhà (宀), không gian tĩnh mịch khiến vạn vật đều trở nên lu mờ và nhỏ bé (肖) không còn nhìn rõ ràng nữa. Nghĩa là ban đêm (nguyên tiêu, dạ tiêu).",
+        "mnemonic": "Dưới mái nhà (宀) mọi thứ mờ ảo nhỏ bé (肖) = Tiêu (宵) — ban đêm."
       }
     ],
     "summary": "Đêm rằm đầu tiên của năm mới (元宵: đêm 15 tháng Giêng) và món bánh trôi nước ngọt ngào ăn trong đêm hội — 元宵.",
@@ -26833,9 +26833,9 @@ const LESSON_DATA = [
       {
         "char": "賺",
         "pinyin": "zhuàn",
-        "structure": "Bên trái là bộ Bối (貝 - tiền bạc của cải). Bên phải là chữ Liêm (兼 - tay nắm hai bó lúa gặt).",
-        "story": "Bỏ công sức kinh doanh gom góp tiền bạc (貝) thu về nhiều mối lợi cùng lúc (兼). Nghĩa là kiếm lời, kiếm tiền.",
-        "mnemonic": "Thu tiền bạc (貝) gấp bội phần (兼) = Trám (賺) — kiếm tiền."
+        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là bộ Bối (貝 - tiền bạc của cải). Bên phải là chữ Kiêm (兼 - thu gộp, bao gồm). Bản thân chữ Kiêm vẽ hình bàn tay nắm hai bó lúa, ngụ ý gom được gấp đôi.",
+        "story": "Bỏ vốn liếng tiền của (貝) ra kinh doanh buôn bán, mục đích là để gặt hái thu gom được nhiều lợi ích (兼 - gộp lại) gấp bội phần. Nghĩa là kiếm tiền, kiếm lời.",
+        "mnemonic": "Đầu tư tiền bạc (貝) thu gom (兼) lợi nhuận gấp đôi = Trám (賺) — kiếm tiền."
       }
     ],
     "summary": "Đầu tư trí óc thu về nhiều tiền tài của cải (貝) — 賺: kiếm tiền, thu lợi nhuận.",
@@ -26999,9 +26999,9 @@ const LESSON_DATA = [
       {
         "char": "聊",
         "pinyin": "liáo",
-        "structure": "Bên trái là bộ Nhĩ (耳 - đôi tai). Bên phải là chữ Mão (卯 - mở cửa đón gió).",
-        "story": "Lắng tai nghe chuyện phiếm giết thời gian. Không có việc gì dựa dẫm (vô liêu) sinh ra buồn chán.",
-        "mnemonic": "Lắng tai (耳) nghe chuyện phiếm = Liêu (聊)."
+        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là bộ Nhĩ (耳 - đôi tai). Bên phải là chữ Mão (卯 - mở 2 cánh cửa đón gió).",
+        "story": "Mở toang cánh cửa (卯) để đón gió, áp đôi tai (耳) vào nghe những âm thanh nhàn rỗi, hoặc nghe những câu chuyện phiếm giết thời gian. Lúc không có việc gì làm dễ sinh ra buồn chán (vô liêu). Nghĩa là tán gẫu, trò chuyện.",
+        "mnemonic": "Mở hai cánh cửa (卯) vểnh tai nghe (耳) chuyện phiếm = Liêu (聊) — tán gẫu."
       }
     ],
     "summary": "Tâm trạng trống rỗng không có việc gì vui thú để nương tựa vào — 無聊: buồn chán, vô vị.",
@@ -27052,9 +27052,9 @@ const LESSON_DATA = [
       {
         "char": "煙",
         "pinyin": "yān",
-        "structure": "Bên trái là bộ Hỏa (火 - lửa). Bên phải là chữ Nhân (垔 - đất sét bít kín bếp lò tỏa khói).",
-        "story": "Khói bay nghi ngút bốc lên từ ngọn lửa than trong lò. Nghĩa là khói, khói lửa.",
-        "mnemonic": "Lửa (火) bốc khói mờ mịt = Yên (煙) — khói."
+        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là bộ Hỏa (火 - ngọn lửa). Bên phải là chữ Nhân (垔 - đất sét bít kín). Bản thân chữ 垔 gồm bộ Á (襾 - che đậy) và Thổ (土 - đất bùn).",
+        "story": "Dùng đất bùn (土) che đậy (襾) bít kín miệng lò lửa (火), khiến cho không khí không thoát ra được sinh ra khói bay ngùn ngụt mờ mịt. Nghĩa là khói, khói thuốc.",
+        "mnemonic": "Đắp đất (土) bịt lò (襾) làm lửa (火) sinh khói = Yên (煙) — khói."
       },
       {
         "char": "火",
@@ -27082,9 +27082,9 @@ const LESSON_DATA = [
       {
         "char": "跨",
         "pinyin": "kuà",
-        "structure": "Bên trái là bộ Túc (足 - bàn chân). Bên phải là chữ Khóa (誇 - khoác lác, sải chân rộng lớn).",
-        "story": "Sải dài đôi chân (足) bước qua một chướng ngại vật hay ranh giới. Nghĩa là bước qua, vượt qua.",
-        "mnemonic": "Chân (足) sải rộng bước qua ranh giới = Khóa (跨) — bước qua."
+        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là bộ Túc (足 - bàn chân). Bên phải là chữ Khoa (誇 - khoác lác, làm quá lên, phóng đại).",
+        "story": "Sử dụng sức mạnh của đôi bàn chân (足) để vươn dài sải bước, mở rộng bước chân vươn ra (誇 - phóng đại bước chân) vượt qua một chướng ngại vật hay ranh giới rào cản. Nghĩa là bước qua, vượt qua.",
+        "mnemonic": "Phóng to (誇) sải bước chân (足) vượt qua rào cản = Khóa (跨) — bước qua."
       },
       {
         "char": "年",
@@ -27329,9 +27329,9 @@ const LESSON_DATA = [
       {
         "char": "宵",
         "pinyin": "xiāo",
-        "structure": "Bộ Miên (宀) + Tiêu: đêm trăng tròn đầu năm.",
-        "story": "Đêm rằm tháng Giêng.",
-        "mnemonic": "Đêm tối = Tiêu (宵)."
+        "structure": "Chữ hình thanh kiêm hội ý: Phía trên là bộ Miên (宀 - mái nhà). Phía dưới là chữ Tiêu (肖 - nhỏ bé, lu mờ). Bản thân chữ Tiêu gồm chữ Tiểu (小 - nhỏ) và bộ Nhục (月/肉 - miếng thịt) ngụ ý sự thu hẹp.",
+        "story": "Đêm buông xuống dưới mái nhà (宀), không gian tĩnh mịch khiến vạn vật đều trở nên lu mờ và nhỏ bé (肖) không còn nhìn rõ ràng nữa. Nghĩa là ban đêm (nguyên tiêu, dạ tiêu).",
+        "mnemonic": "Dưới mái nhà (宀) mọi thứ mờ ảo nhỏ bé (肖) = Tiêu (宵) — ban đêm."
       },
       {
         "char": "節",
