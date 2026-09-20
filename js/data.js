@@ -26736,9 +26736,9 @@ const LESSON_DATA = [
       {
         "char": "擔",
         "pinyin": "dàn",
-        "structure": "Bên trái là bộ Thủ (扌- tay). Bên phải là chữ Chiêm (詹 - ăn nói nhiều, biểu âm). Đòn gánh đặt trên vai.",
-        "story": "Gánh hàng rong trên vai bằng đòn gánh kẽo kẹt. Nghĩa là gánh vác, gánh hàng.",
-        "mnemonic": "Tay (扌) vịn đòn gánh trên vai = Đảm (擔) — gánh."
+        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là bộ Thủ (扌- tay). Bên phải là chữ Chiêm (詹 - ăn nói nhiều, bàn tán xôn xao). Bản thân chữ Chiêm gồm Ngôn (言) bị kẹp dưới vách đá Hán (厂) và Bát (八).",
+        "story": "Dùng đôi bàn tay (扌) và đôi vai để tự mình gánh vác mọi trách nhiệm nặng nề, mặc kệ những lời bàn tán xì xào (詹) của người đời. Nghĩa là gánh vác, đảm đương.",
+        "mnemonic": "Dùng tay (扌) gánh vác mặc cho thiên hạ bàn tán (詹) = Đảm (擔) — đảm đương."
       },
       {
         "char": "仔",
@@ -26780,9 +26780,9 @@ const LESSON_DATA = [
       {
         "char": "牌",
         "pinyin": "pái",
-        "structure": "Bộ Phiến (片 - mảnh gỗ mỏng) + Ti (卑). Tấm biển hiệu cửa hàng.",
-        "story": "Tấm biển hiệu gỗ.",
-        "mnemonic": "Mảnh gỗ ghi tên hiệu = Bài (牌)."
+        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là bộ Phiến (片 - mảnh gỗ xẻ mỏng). Bên phải là chữ Ti (卑 - thấp bé, hèn mọn).",
+        "story": "Tấm biển hiệu cửa hàng thời xưa thường chỉ là một mảnh gỗ mỏng (片) treo ở vị trí tương đối thấp (卑) vừa tầm mắt để khách dễ dàng nhìn thấy tên quán. Nghĩa là tấm biển, nhãn hiệu.",
+        "mnemonic": "Mảnh gỗ mỏng (片) treo thấp (卑) làm biển hiệu = Bài (牌) — nhãn hiệu."
       }
     ],
     "summary": "Tấm biển hiệu (牌) vẫy gọi chào đón khách (招) và món ăn làm nên tên tuổi quán — 招牌: chiêu bài, món đặc trưng.",
@@ -26803,9 +26803,9 @@ const LESSON_DATA = [
       {
         "char": "當",
         "pinyin": "dāng",
-        "structure": "Thượng (尚) + Điền (田): ngay tại chỗ đó.",
-        "story": "Ngay tại vị trí đó.",
-        "mnemonic": "Ngay tại chỗ = Đương (當)."
+        "structure": "Chữ hội ý: Phía trên là chữ Thượng (尚 - coi trọng, tôn sùng). Phía dưới là bộ Điền (田 - ruộng đất).",
+        "story": "Thời xưa, ruộng đất (田) là tài sản quý giá nhất, nên việc coi trọng (尚) và bảo vệ ruộng đất là điều vô cùng chính đáng và hợp lý. Nghĩa là thích đáng, đương nhiên, đảm nhiệm.",
+        "mnemonic": "Coi trọng (尚) ruộng đất (田) là điều thích đáng = Đương (當)."
       },
       {
         "char": "地",
@@ -26909,9 +26909,9 @@ const LESSON_DATA = [
       {
         "char": "想",
         "pinyin": "xiǎng",
-        "structure": "Phía trên là chữ Tương (相 - cây cối đối diện nhau). Phía dưới là bộ Tâm (心 - trái tim).",
-        "story": "Hình ảnh tương lai tươi đẹp hiện lên trong tâm trí trái tim. Nghĩa là suy nghĩ, mơ ước.",
-        "mnemonic": "Hình ảnh hiện lên trong tâm trí (心) = Tưởng (想) — mơ tưởng."
+        "structure": "Chữ hội ý kiêm hình thanh: Phía trên là chữ Tương (相 - xem xét, hình bóng). Bản thân chữ Tương gồm Mộc (木 - cây) và Mục (目 - con mắt). Phía dưới là bộ Tâm (心 - trái tim).",
+        "story": "Trái tim (心) luôn hoài niệm ngóng trông về một hình bóng quen thuộc (相) trong tâm trí. Nghĩa là suy nghĩ, nhớ nhung, mơ tưởng.",
+        "mnemonic": "Trái tim (心) nhung nhớ bóng hình (相) = Tưởng (想) — suy nghĩ, nhớ."
       }
     ],
     "summary": "Bức tranh hoàn mỹ đúng đắn (理) ấp ủ sâu thẳm trong tâm trí (想) — 理想: lý tưởng, hoài bão ước mơ.",
@@ -26932,16 +26932,16 @@ const LESSON_DATA = [
       {
         "char": "剛",
         "pinyin": "gāng",
-        "structure": "Bên trái là chữ Cương (岡 - sống núi cứng cáp). Bên phải là bộ Đao (刂- con dao sắc bén).",
-        "story": "Dao chém đá dứt khoát một nhát thẳng thừng. Dùng làm phó từ thời gian chỉ sự việc vừa mới dứt khoát xảy ra.",
-        "mnemonic": "Dao chém sắc bén dứt khoát = Cương (剛) — vừa mới."
+        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là chữ Cương (岡 - ngọn núi đá vĩ đại). Bản thân chữ Cương gồm Võng (冂 - vây quanh) và Sơn (山 - núi). Bên phải là bộ Đao (刂- con dao sắc).",
+        "story": "Dùng con dao (刂) chém thẳng vào ngọn núi đá (岡) vô cùng cứng cáp và dứt khoát. Từ sự dứt khoát này mở rộng làm phó từ thời gian, chỉ sự việc vừa mới dứt khoát xảy ra xong. Nghĩa là vừa mới, cứng rắn.",
+        "mnemonic": "Dao (刂) chém vào núi đá (岡) dứt khoát = Cương (剛) — vừa mới."
       },
       {
         "char": "剛",
         "pinyin": "gāng",
-        "structure": "Điệp từ nhấn mạnh thời điểm vừa xảy ra tức thì.",
-        "story": "Thời gian rất ngắn trước hiện tại.",
-        "mnemonic": "Vừa mới tức thì = Cương cương (剛剛)."
+        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là chữ Cương (岡 - ngọn núi đá vĩ đại). Bản thân chữ Cương gồm Võng (冂 - vây quanh) và Sơn (山 - núi). Bên phải là bộ Đao (刂- con dao sắc).",
+        "story": "Dùng con dao (刂) chém thẳng vào ngọn núi đá (岡) vô cùng cứng cáp và dứt khoát. Từ sự dứt khoát này mở rộng làm phó từ thời gian, chỉ sự việc vừa mới dứt khoát xảy ra xong. Nghĩa là vừa mới, cứng rắn.",
+        "mnemonic": "Dao (刂) chém vào núi đá (岡) dứt khoát = Cương (剛) — vừa mới."
       }
     ],
     "summary": "Thời khắc vừa mới dứt khoát trôi qua chỉ trong chốc lát — 剛剛: vừa nãy, mới đây.",
@@ -27149,9 +27149,9 @@ const LESSON_DATA = [
       {
         "char": "錢",
         "pinyin": "qián",
-        "structure": "Bên trái là bộ Kim (金 - kim loại). Bên phải là hai chữ Tiễn (戔 - nông cạn, giáo mác nhỏ).",
-        "story": "Đồng tiền xu đúc bằng kim loại đồng (金) thời cổ có hình mũi xẻng nông cụ. Nghĩa là tiền tệ.",
-        "mnemonic": "Kim loại (金) đúc thành đồng tiền = Tiền (錢)."
+        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là bộ Kim (金 - kim loại). Bên phải là chữ Tiễn (戔 - nông cạn, tàn phá). Bản thân chữ Tiễn gồm hai chữ Qua (戈 - vũ khí giáo mác) xếp chồng lên nhau ngụ ý tranh đoạt.",
+        "story": "Loài người thường hay dùng vũ khí giáo mác (戔) để giao chiến, tàn sát lẫn nhau nhằm tranh đoạt của cải kim loại quý giá (金) chính là tiền bạc. Nghĩa là tiền tệ.",
+        "mnemonic": "Dùng vũ khí (戔) tranh đoạt kim loại (金) = Tiền (錢) — tiền bạc."
       }
     ],
     "summary": "Mức giá trị (價) quy đổi ra thành lượng tiền bạc cụ thể (錢) — 價錢: giá tiền, giá cả.",
@@ -27202,16 +27202,16 @@ const LESSON_DATA = [
       {
         "char": "雞",
         "pinyin": "jī",
-        "structure": "Bên trái là chữ Hề (奚 - dây buộc dây trói). Bên phải là chữ Điểu (鳥 - con chim có cánh lông).",
-        "story": "Loài chim lông vũ được con người thuần hóa nuôi giữ trong chuồng. Nghĩa là con gà.",
-        "mnemonic": "Loài chim (鳥) nuôi giữ trong nhà = Kê (雞) — con gà."
+        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là chữ Hề (奚 - người nô lệ/đồ bị trói). Bản thân chữ Hề vẽ hình bàn tay (爫) cầm sợi dây (幺) trói người đày tớ. Bên phải là chữ Điểu (鳥 - con chim).",
+        "story": "Loài chim (鳥) bị con người dùng dây trói giữ lại (奚), bắt thuần hóa và nuôi nhốt trong nhà để đẻ trứng. Đó chính là con gà.",
+        "mnemonic": "Loài chim (鳥) bị trói giữ nuôi trong nhà (奚) = Kê (雞) — con gà."
       },
       {
         "char": "排",
         "pinyin": "pái",
-        "structure": "Bên trái là bộ Thủ (扌- tay). Bên phải là chữ Phi (非 - đôi cánh chim xòe sang hai bên đối xứng).",
-        "story": "Bàn tay xẻ dọc dải thịt hoặc xương sườn theo hàng dài đối xứng. Nghĩa là miếng thịt dẹt, dải sườn cốt lết.",
-        "mnemonic": "Xẻ dải thịt dẹt sang hai bên = Bài (排) — miếng phi lê, sườn."
+        "structure": "Chữ hội ý: Bên trái là bộ Thủ (扌- tay). Bên phải là chữ Phi (非 - đôi cánh xòe ra, mở sang hai bên đối xứng).",
+        "story": "Bàn tay (扌) đẩy gạt mọi thứ tẽ mở sang hai bên (非) để sắp xếp thành từng hàng ngũ thẳng lối. Nghĩa là sắp xếp, hàng lối, bài xích.",
+        "mnemonic": "Dùng tay (扌) rẽ sang hai bên (非) xếp hàng = Bài (排) — xếp hàng, bài xích."
       }
     ],
     "summary": "Miếng ức thịt gà to bản tẩm ướp chiên giòn rụm (雞排) — 雞排: gà rán phi lê miếng lớn nổi tiếng khắp các chợ đêm.",
@@ -27239,9 +27239,9 @@ const LESSON_DATA = [
       {
         "char": "輕",
         "pinyin": "qīng",
-        "structure": "Bên trái là bộ Xa (車 - cỗ xe kéo). Bên phải là chữ Kính (巠 - đường tơ chạy thẳng thanh thoát).",
-        "story": "Cỗ xe nhẹ nhàng lướt băng băng trên đường không bị đè nặng. Nghĩa là nhẹ nhõm, ít ỏi tuổi tác.",
-        "mnemonic": "Cỗ xe (車) lướt nhẹ nhàng như sợi tơ (巠) = Khinh (輕) — nhẹ."
+        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là bộ Xa (車 - cỗ xe ngựa). Bên phải là chữ Kính (巠 - đường tơ chạy thẳng thanh thoát, mạch nước ngầm).",
+        "story": "Một cỗ xe ngựa (車) lướt đi trên đường băng băng, êm ái nhẹ nhàng như một sợi tơ (巠) thanh thoát không chịu bất kỳ sức ép đè nặng nào. Nghĩa là nhẹ nhõm, coi nhẹ.",
+        "mnemonic": "Cỗ xe (車) lướt đi nhẹ tựa sợi tơ (巠) = Khinh (輕) — nhẹ."
       }
     ],
     "summary": "Số năm tuổi đời (年) còn ít ỏi nhẹ nhõm tràn trề sinh lực (輕) — 年輕: trẻ trung, tuổi trẻ thanh xuân.",
@@ -27366,9 +27366,9 @@ const LESSON_DATA = [
       {
         "char": "廟",
         "pinyin": "miào",
-        "structure": "Phía trên là bộ Quảng (广 - mái đình ngôi chùa). Phía dưới là chữ Triều (朝 - triều đình tôn nghiêm).",
-        "story": "Ngôi đền đài tôn nghiêm thờ phụng các bậc thánh nhân tiên hiền. Nghĩa là đền miếu.",
-        "mnemonic": "Mái đình uy nghiêm thờ thánh nhân = Miếu (廟)."
+        "structure": "Chữ hình thanh kiêm hội ý: Phía trên là bộ Quảng (广 - mái hiên lớn, ngôi đình). Phía dưới là chữ Triều (朝 - buổi sáng, triều đình).",
+        "story": "Ngôi đình mái lớn uy nghi (广) là nơi mà người dân thường tụ tập vào mỗi buổi sáng (朝) sớm để thắp hương bái lạy các vị thánh hiền hoặc thần linh. Nghĩa là đền, miếu thờ.",
+        "mnemonic": "Ngôi đình (广) dâng hương bái lạy mỗi buổi sáng (朝) = Miếu (廟)."
       }
     ],
     "summary": "Ngôi đền miếu linh thiêng (廟) thờ phụng bậc Vạn thế sư biểu Khổng Tử (孔) — 孔廟: Văn Miếu Khổng Tử.",
@@ -27403,9 +27403,9 @@ const LESSON_DATA = [
       {
         "char": "教",
         "pinyin": "jiào",
-        "structure": "Chữ Hiếu (con hiếu thảo) + Phác (攵 - roi uốn nắn): dạy dỗ tri thức.",
-        "story": "Giáo dục, dạy dỗ.",
-        "mnemonic": "Dạy học = Giáo (教)."
+        "structure": "Chữ hội ý: Bên trái là chữ Hiếu (孝 - người con hiếu thảo). Bên phải là bộ Phác (攵 - bàn tay cầm roi).",
+        "story": "Dùng đòn roi (攵) rèn giũa nghiêm khắc để uốn nắn, dạy dỗ đứa trẻ trở thành một người con hiếu thảo (孝). Nghĩa là dạy dỗ, giáo dục.",
+        "mnemonic": "Dùng đòn roi (攵) dạy con thành người hiếu thảo (孝) = Giáo (教) — dạy học."
       },
       {
         "char": "學",
@@ -27440,9 +27440,9 @@ const LESSON_DATA = [
       {
         "char": "煎",
         "pinyin": "jiān",
-        "structure": "Phía trên là chữ Tiền (前 - đi trước rạch mổ). Phía dưới là bộ Hỏa (灬 - bốn đốm lửa bập bùng).",
-        "story": "Đặt thức ăn vào chảo phẳng đun trên ngọn lửa nhỏ (灬) để chiên rán vàng ruộm. Nghĩa là chiên áp chảo, sắc thuốc.",
-        "mnemonic": "Đun trên lửa nhỏ (灬) chiên áp chảo = Chiên (煎)."
+        "structure": "Chữ hội ý: Phía trên là chữ Tiền (前 - đi trước, dùng dao xẻ thịt). Phía dưới là bộ Hỏa (灬 - bốn đốm lửa bập bùng).",
+        "story": "Dùng dao (刂) cắt thái nguyên liệu trước (前), sau đó đặt vào chảo phẳng để đun trên ngọn lửa (灬) riu riu. Nghĩa là chiên áp chảo, sắc thuốc (đun trên ngọn lửa nhỏ).",
+        "mnemonic": "Thái đồ ăn (前) rồi đun trên lửa nhỏ (灬) = Chiên (煎) — chiên, áp chảo."
       },
       {
         "char": "包",
