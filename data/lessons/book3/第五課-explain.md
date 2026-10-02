@@ -10,9 +10,9 @@
 *   **💡 Mẹo nhớ:** "Nước (氵) chảy lan truyền khắp chốn = Lưu (流) — trôi chảy, lưu hành."
 
 ### ❷ Chữ 行 - Cách viết / đọc: *xíng*
-*   **📐 Cấu tạo chi tiết:** Chữ tượng hình: Ngã tư đường thông thoáng người xe đi lại tấp nập.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Bước đi, thực hiện, vận hành khắp thiên hạ.
-*   **💡 Mẹo nhớ:** "Ngã tư đường người đi tấp nập = Hành (行) — bước đi, thịnh hành."
+*   **📐 Cấu tạo chi tiết:** Chữ hội ý: Ghép từ bộ Xích (彳 - hình nửa bên trái của ngã tư đường / bước chân trái) và bộ Xúc (亍 - hình nửa bên phải của ngã tư đường / bước chân phải).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Chữ Hành trong Giáp cốt văn vốn là hình một ngã tư đường hoàn chỉnh (như chữ thập 十 nhưng có nét mở rộng). Về sau được tách làm hai bộ phận Xích (彳) và Xúc (亍) để ngụ ý từng bước chân đi lại liên tục trên con đường đó. Nghĩa gốc là con đường, sự đi lại, thực hành.
+*   **💡 Mẹo nhớ:** "Nửa trái ngã tư (彳) ghép nửa phải (亍) là đang Hành (行) quân trên đường."
 
 ### 💡 Tổng kết mẹo nhớ cả cụm 流行
 > "Trào lưu văn hóa lan truyền cuồn cuộn như dòng nước (流) và được muôn người đón nhận thực hiện (行) — 流行: thịnh hành, mốt trào lưu."
@@ -48,9 +48,9 @@
 *   **💡 Mẹo nhớ:** "Mở miệng (口) cất tiếng hát rạng rỡ = Xướng (唱) — hát."
 
 ### ❸ Chữ 會 - Cách viết / đọc: *huì*
-*   **📐 Cấu tạo chi tiết:** Mọi người quây quần tụ họp lại một nơi.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Cuộc hội ngộ, buổi biểu diễn đông người.
-*   **💡 Mẹo nhớ:** "Tụ họp đông đảo = Hội (會)."
+*   **📐 Cấu tạo chi tiết:** Chữ hội ý: Phía trên là bộ Nhân (人 - người) biến thể (亼 - hình cái vung đậy), ở giữa là chữ Nhất (一 - đồ vật bên trong), dưới là chữ Tăng (曾 / 曰 - hình cái chõ xôi nấu ăn cổ đại).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Hình ảnh chiếc vung (亼) đậy trên một cái nồi chõ (曾) đang nấu thức ăn (一), tỏa mùi thơm lôi kéo tụ họp mọi người (人) lại với nhau để dùng bữa. Nghĩa gốc là tụ họp, đại hội.
+*   **💡 Mẹo nhớ:** "Người người (人) cùng một (一) lòng bên nồi chõ tụ họp lại thành Hội (會)."
 
 ### 💡 Tổng kết mẹo nhớ cả cụm 演唱會
 > "Đại hội (會) tụ họp hàng vạn người hâm mộ cùng thưởng thức ca sĩ biểu diễn (演) cất cao giọng hát (唱) — 演唱會: buổi hòa nhạc, liveshow ca nhạc."
@@ -62,14 +62,14 @@
 ## 4. Cụm từ: 塞車 - Tắc Xa / kẹt xe, tắc đường
 
 ### ❶ Chữ 塞 - Cách viết / đọc: *sāi*
-*   **📐 Cấu tạo chi tiết:** Phía trên là Miên (宀 - mái che) kẹp hai bàn tay lèn đồ. Phía dưới là bộ Thổ (土 - đất cát đắp lấp kín).
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Lấy đất cát (土) nhét chặt bít kín lỗ hổng không cho lọt qua. Nghĩa là bít tắc, nhét chật.
-*   **💡 Mẹo nhớ:** "Đắp đất (土) bít kín lối đi = Tắc (塞) — kẹt cứng."
+*   **📐 Cấu tạo chi tiết:** Chữ hội ý: Phía trên là bộ Miên (宀 - mái che) và Tỉnh (井 - kết cấu đan chéo), dưới là Thổ (土 - đất cát).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Mái nhà (宀) kết cấu bằng cành cây đan chéo (井) bị hở gió rùa vào, người ta bèn lấy đất cát (土) nhét chặt lại bít kín kẽ hở. Nghĩa là bít tắc, nhét vào, kẹt (塞車 - kẹt xe).
+*   **💡 Mẹo nhớ:** "Dưới mái nhà (宀) hở kẽ (井) phải lấy đất (土) bít kín = Tắc (塞) — nhét, kẹt."
 
 ### ❷ Chữ 車 - Cách viết / đọc: *chē*
-*   **📐 Cấu tạo chi tiết:** Hình cỗ xe nhìn từ trên cao có hai bánh, trục xe và thùng xe.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Xe cộ lưu thông trên đường phố.
-*   **💡 Mẹo nhớ:** "Cỗ xe bánh tròn = Xa (車) — xe cộ."
+*   **📐 Cấu tạo chi tiết:** Chữ tượng hình: Mô phỏng hình một cỗ xe ngựa thời cổ đại nhìn từ trên cao xuống.
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Trọng tâm chữ Xa là hình ảnh cỗ xe có hai bánh xe tròn ở hai bên, thanh ngang nối hai bánh là trục xe, và hình chữ nhật ở giữa là thùng xe chứa người hoặc đồ đạc. Nghĩa là xe cộ.
+*   **💡 Mẹo nhớ:** "Một thùng xe ở giữa, hai bánh xe hai bên = Xa (車) — xe cộ."
 
 ### 💡 Tổng kết mẹo nhớ cả cụm 塞車
 > "Lượng xe cộ (車) đông nghẹt ken đặc lèn chặt bít kín lối đi (塞) — 塞車: tắc đường, kẹt xe."
@@ -86,9 +86,9 @@
 *   **💡 Mẹo nhớ:** "Sợi tơ (糸) dài như suối mát (泉) = Tuyến (線) — đường dây cáp mạng."
 
 ### ❷ Chữ 上 - Cách viết / đọc: *shàng*
-*   **📐 Cấu tạo chi tiết:** Ở phía trên, đang hoạt động trên nền tảng đó.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Hiện diện trên môi trường số.
-*   **💡 Mẹo nhớ:** "Ở phía trên = Thượng (上)."
+*   **📐 Cấu tạo chi tiết:** Chữ chỉ sự: Gồm một nét ngang dài làm gốc (tượng trưng cho mặt đất/ranh giới), và một nét dọc đi lên phía trên kèm nét ngang ngắn.
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Dùng một nét ngang dài làm mốc ranh giới, các nét phụ được đặt ở phía bên trên ranh giới đó để chỉ định vị trí không gian bên trên.
+*   **💡 Mẹo nhớ:** "Chỉ tay lên phía trên mặt phẳng = Thượng (上) — ở trên."
 
 ### 💡 Tổng kết mẹo nhớ cả cụm 線上
 > "Hiện diện và tương tác kết nối trên đường dây mạng internet (線) — 線上: trực tuyến, online."
@@ -100,9 +100,9 @@
 ## 6. Cụm từ: 成功 - Thành Công / thành công; đạt được thắng lợi
 
 ### ❶ Chữ 成 - Cách viết / đọc: *chéng*
-*   **📐 Cấu tạo chi tiết:** Chữ Mậu (vũ khí) + đinh: chiến thắng dựng nên thành quả trọn vẹn.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Hoàn tất trọn vẹn lý tưởng.
-*   **💡 Mẹo nhớ:** "Chiến thắng lập thành tựu = Thành (成)."
+*   **📐 Cấu tạo chi tiết:** Chữ hội ý kiêm hình thanh: Ghép từ chữ Mậu (戊 - hình cái rìu chiến cổ đại có cán dài và lưỡi bán nguyệt) và chữ Đinh (丁 - hình chiếc đinh đóng xuống, hoặc tráng đinh/người nam).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Mang vũ khí sắc bén (戊) đi đánh trận dẹp loạn, khi thắng trận thì đóng đinh (丁) cắm cờ báo tiệp hoặc khắc công lao. Nghĩa là thành tựu, hoàn thành, thành công.
+*   **💡 Mẹo nhớ:** "Lấy rìu chiến (戊) đánh thắng, cắm đinh (丁) ghi nhận Thành (成) công."
 
 ### ❷ Chữ 功 - Cách viết / đọc: *gōng*
 *   **📐 Cấu tạo chi tiết:** Bên trái là chữ Công (工 - công cụ, bàn tay người thợ). Bên phải là bộ Lực (力 - sức lực).
@@ -171,9 +171,9 @@
 ## 10. Cụm từ: 興奮 - Hưng Phấn / phấn khích; hào hứng sôi nổi
 
 ### ❶ Chữ 興 - Cách viết / đọc: *xīng*
-*   **📐 Cấu tạo chi tiết:** Bốn bàn tay (hai tay trên, hai tay dưới) cùng nhau nâng một vật lớn lên cao hò reo.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Mọi người đồng lòng nâng cúp mừng công hò reo phấn chấn. Nghĩa là khởi sắc, hưng vượng, hân hoan.
-*   **💡 Mẹo nhớ:** "Nhiều tay cùng nâng mừng công hò reo = Hưng (興) — hưng thịnh, vui mừng."
+*   **📐 Cấu tạo chi tiết:** Chữ hội ý: Gồm chữ Đồng (同 - cùng nhau) và bộ Cữu (臼 - gốc là 舁: hình hai bàn tay phía trên và hai bàn tay phía dưới cùng khiêng/nâng).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Hình ảnh rất nhiều bàn tay (舁) cùng nhau (同) hò dô ta nâng một vật nặng lên cao. Nghĩa là dâng lên, khởi xướng, hưng phấn, vươn lên.
+*   **💡 Mẹo nhớ:** "Bốn tay cùng nhau (同) nâng đồ lên cao một cách Hưng (興) phấn."
 
 ### ❷ Chữ 奮 - Cách viết / đọc: *fèn*
 *   **📐 Cấu tạo chi tiết:** Phía trên là chữ Đại (大 - chim sải rộng cánh). Ở giữa là bộ Điền (田 - ruộng đồng). Dưới là Củng.
@@ -223,9 +223,9 @@
 ## 13. Cụm từ: 難過 - Nan Quá / đau lòng, buồn bã; khó lòng nguôi ngoai
 
 ### ❶ Chữ 難 - Cách viết / đọc: *nán*
-*   **📐 Cấu tạo chi tiết:** Chim sa lầy bùn đất: gian nan khổ sở.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Khó khăn đớn đau.
-*   **💡 Mẹo nhớ:** "Gian nan = Nan (難)."
+*   **📐 Cấu tạo chi tiết:** Chữ hình thanh kiêm hội ý: Bên trái là chữ Cẩn (堇 - đất sét vàng dính bùn, hoặc hình người bị trói thiêu trên lửa chỉ sự gian nan), bên phải là bộ Chuy (隹 - loài chim đuôi ngắn).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Một con chim (隹) sà xuống mặt đất nhưng bị dính chặt vào vũng bùn lầy đất sét (堇), nó giãy giụa vỗ cánh mà khó lòng bay lên thoát thân được. Nghĩa là gian nan, khó khăn.
+*   **💡 Mẹo nhớ:** "Chim (隹) bị sa lầy xuống bùn đất (堇) thì rất Nan (難) bay lên — khó khăn."
 
 ### ❷ Chữ 過 - Cách viết / đọc: *guò*
 *   **📐 Cấu tạo chi tiết:** Bộ Sước (辶 - bước đi) vượt qua ngày tháng.
@@ -242,9 +242,9 @@
 ## 14. Cụm từ: 不如 - Bất Như / không bằng; chi bằng, thà rằng
 
 ### ❶ Chữ 不 - Cách viết / đọc: *bù*
-*   **📐 Cấu tạo chi tiết:** Phủ định.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Không thể, không bằng.
-*   **💡 Mẹo nhớ:** "Không = Bất (不)."
+*   **📐 Cấu tạo chi tiết:** Chữ tượng hình: Hình phần rễ của một cái cây đâm cắm sâu xuống dưới lòng đất.
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Bộ rễ cắm sâu xuống đất chỉ hướng đi xuống, không đâm chồi vươn lên trên được. Từ ý 'không mọc lên', chữ mượn âm để làm phó từ phủ định mang nghĩa là 'không'.
+*   **💡 Mẹo nhớ:** "Rễ cây cắm xuống đất không vươn lên = Bất (不) — không."
 
 ### ❷ Chữ 如 - Cách viết / đọc: *rú*
 *   **📐 Cấu tạo chi tiết:** Bên trái là bộ Nữ (女 - người phụ nữ). Bên phải là bộ Khẩu (口 - miệng).
@@ -266,9 +266,9 @@
 *   **💡 Mẹo nhớ:** "Hiện ra trước mắt = Hiện (現)."
 
 ### ❷ Chữ 場 - Cách viết / đọc: *chǎng*
-*   **📐 Cấu tạo chi tiết:** Bên trái là bộ Thổ (土 - đất đai). Bên phải là chữ Dương (昜 - ánh mặt trời rực rỡ tỏa rộng).
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Khu đất rộng rãi (土) dưới ánh mặt trời rực rỡ làm nơi tụ họp sự kiện. Nghĩa là sân khấu, hội trường, quảng trường.
-*   **💡 Mẹo nhớ:** "Khu đất (土) chan hòa nắng sáng làm nơi tụ họp = Tràng (場) — sân bãi."
+*   **📐 Cấu tạo chi tiết:** Chữ hình thanh kiêm hội ý: Bên trái là bộ Thổ (土 - đất), bên phải là chữ Dương (昜 - ánh mặt trời chiếu sáng lan tỏa / cờ bay phấp phới).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Một khu đất bằng phẳng (土) rộng rãi, được ánh mặt trời chiếu sáng (昜), dùng làm nơi để mọi người tụ tập, tế lễ hoặc phơi thóc. Nghĩa là quảng trường, bãi đất, sân bãi.
+*   **💡 Mẹo nhớ:** "Bãi đất (土) ngập ánh mặt trời (昜) tụ tập mọi người = Trường (場) — bãi đất."
 
 ### 💡 Tổng kết mẹo nhớ cả cụm 現場
 > "Ngay chính tại vị trí không gian sân khấu thực tế (現場) đang diễn ra sự việc — 現場: hiện trường, trực tiếp tại chỗ."
@@ -327,14 +327,14 @@
 ## 19. Cụm từ: 漫畫 - Mạn Họa / truyện tranh, tranh biếm họa
 
 ### ❶ Chữ 漫 - Cách viết / đọc: *màn*
-*   **📐 Cấu tạo chi tiết:** Bên trái là bộ Thủy (氵- nước). Bên phải là chữ Mạn (曼 - kéo dài miên man phóng khoáng).
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Nước tràn trề phóng túng lan rộng không bị bờ cõi ngăn cấm. Nghĩa là tản mạn, phóng khoáng, tùy hứng tự do.
-*   **💡 Mẹo nhớ:** "Nước (氵) tràn trề phóng khoáng tự do = Mạn (漫)."
+*   **📐 Cấu tạo chi tiết:** Chữ hình thanh kiêm hội ý: Bên trái là bộ Thủy (氵 - dòng nước), bên phải là chữ Mạn (曼 - hình tay kéo căng một tấm vải, chỉ sự kéo dài miên man).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Dòng nước (氵) tràn bờ, trôi chảy kéo dài miên man (曼) không biết đâu là điểm dừng. Nghĩa là tràn lan, lan man, mạn đàm (như truyện tranh 漫畫 - nét vẽ tự do).
+*   **💡 Mẹo nhớ:** "Nước (氵) chảy tràn kéo dài miên man (曼) = Mạn (漫) — lan mạn, tùy ý."
 
 ### ❷ Chữ 畫 - Cách viết / đọc: *huà*
-*   **📐 Cấu tạo chi tiết:** Phía trên là Duật (聿 - tay cầm bút vẽ). Phía dưới là Điền (田 - chia ranh giới bức tranh).
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Tay cầm bút (聿) vạch nên các đường nét hình ảnh rực rỡ trên khung nền. Nghĩa là bức tranh, nét vẽ.
-*   **💡 Mẹo nhớ:** "Tay cầm bút (聿) vẽ tranh chia ô ruộng (田) = Họa (畫) — vẽ."
+*   **📐 Cấu tạo chi tiết:** Chữ hội ý: Phía trên là chữ Duật (聿 - bàn tay cầm cây bút), ở giữa là Điền (田 - đồng ruộng), dưới là Nhất (一 - mặt phẳng/ranh giới).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Người quan trắc dùng bàn tay cầm cây bút (聿) để vẽ lại bản đồ quy hoạch ranh giới các thửa ruộng (田) trên một mặt phẳng (一). Nghĩa là vẽ tranh, bức họa.
+*   **💡 Mẹo nhớ:** "Cầm bút (聿) vẽ chia ranh giới ruộng (田) đất (一) = Họa (畫)."
 
 ### 💡 Tổng kết mẹo nhớ cả cụm 漫畫
 > "Những nét vẽ phóng khoáng tự do (漫) thể hiện câu chuyện sinh động trong từng khung tranh (畫) — 漫畫: truyện tranh manga."
@@ -346,9 +346,9 @@
 ## 20. Cụm từ: 內容 - Nội Dung / nội dung, phần cốt lõi bên trong
 
 ### ❶ Chữ 內 - Cách viết / đọc: *nèi*
-*   **📐 Cấu tạo chi tiết:** Khung Quếnh (冂 - không gian đóng kín) chứa chữ Nhập (入 - đi vào trong).
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Bước vào tận sâu bên trong phòng ốc. Nghĩa là bên trong, nội bộ.
-*   **💡 Mẹo nhớ:** "Đi vào (入) bên trong cánh cửa = Nội (內)."
+*   **📐 Cấu tạo chi tiết:** Chữ hội ý: Khung viền ngoài là bộ Quynh (冂 - hình ranh giới, vòng thành khép kín), bên trong là chữ Nhập (入 - hình bước chân đi vào).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Hành động bước chân (入) đi sâu vào bên trong một khu vực đã được khoanh vùng ranh giới (冂) rõ ràng, cách biệt với bên ngoài. Nghĩa là bên trong, nội bộ.
+*   **💡 Mẹo nhớ:** "Bước vào (入) trong ranh giới (冂) là phần Nội (內) — bên trong."
 
 ### ❷ Chữ 容 - Cách viết / đọc: *róng*
 *   **📐 Cấu tạo chi tiết:** Phía trên là bộ Miên (宀 - mái nhà). Phía dưới là chữ Cốc (谷 - thung lũng sâu dung chứa).
@@ -365,9 +365,9 @@
 ## 21. Cụm từ: 色情 - Sắc Tình / khiêu dâm; nội dung đồi trụy 18+
 
 ### ❶ Chữ 色 - Cách viết / đọc: *sè*
-*   **📐 Cấu tạo chi tiết:** Phía trên là Nhân (người). Phía dưới là Ba (sắc mặt đỏ ửng).
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Sắc mặt ửng đỏ lộ rõ cảm xúc ham muốn bản năng. Nghĩa là màu sắc, dục vọng thể xác.
-*   **💡 Mẹo nhớ:** "Sắc mặt biểu lộ cảm xúc = Sắc (色)."
+*   **📐 Cấu tạo chi tiết:** Chữ hội ý: Phía trên là chữ Nhân (人 - người bề trên), phía dưới là bộ Tiết (卩 - người bề dưới đang quỳ gối).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Kẻ bề dưới đang quỳ rạp (卩) phải lén ngước nhìn sắc mặt, biểu cảm của người bề trên (人) để biết ý mà hành xử cho đúng. Nghĩa là sắc mặt, màu sắc, hoặc sắc dục.
+*   **💡 Mẹo nhớ:** "Kẻ dưới quỳ (卩) nhìn sắc mặt người (人) bề trên = Sắc (色) — màu sắc."
 
 ### ❷ Chữ 情 - Cách viết / đọc: *qíng*
 *   **📐 Cấu tạo chi tiết:** Bộ Tâm (忄- tình cảm) + Thanh: ham muốn dục cảm.
@@ -384,9 +384,9 @@
 ## 22. Cụm từ: 放鬆 - Phóng Tùng / thư giãn, thả lỏng cơ thể tâm trí
 
 ### ❶ Chữ 放 - Cách viết / đọc: *fàng*
-*   **📐 Cấu tạo chi tiết:** Phương (方) + Phác (攵): buông lỏng ra tự do.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Thả ra tự do.
-*   **💡 Mẹo nhớ:** "Thả lỏng = Phóng (放)."
+*   **📐 Cấu tạo chi tiết:** Chữ hình thanh kiêm hội ý: Bên trái là chữ Phương (方 - hình chiếc cày gỗ hoặc chỉ phương hướng), bên phải là bộ Phác (攵 - hình bàn tay cầm roi/gậy đánh).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Dùng tay cầm roi (攵) lùa đánh bầy gia súc đi về khắp các phương hướng (方) để chúng tự do ăn cỏ. Nghĩa là phóng thích, thả ra, buông lỏng.
+*   **💡 Mẹo nhớ:** "Cầm roi (攵) lùa bò đi tứ Phương (方) = Phóng (放) — thả ra."
 
 ### ❷ Chữ 鬆 - Cách viết / đọc: *sōng*
 *   **📐 Cấu tạo chi tiết:** Bên trái là bộ Sam (彡/bộ Bưu - mái tóc dài buông xõa). Phía dưới là chữ Tùng (松 - cây thông cành lá xòe thưa thớt).
@@ -403,9 +403,9 @@
 ## 23. Cụm từ: 心情 - Tâm Tình / tâm trạng, tâm tư tình cảm
 
 ### ❶ Chữ 心 - Cách viết / đọc: *xīn*
-*   **📐 Cấu tạo chi tiết:** Trái tim, tâm can.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Trái tim cội nguồn cảm xúc.
-*   **💡 Mẹo nhớ:** "Trái tim = Tâm (心)."
+*   **📐 Cấu tạo chi tiết:** Chữ tượng hình: Hình vẽ quả tim của con người hoặc động vật với các tâm nhĩ và động mạch bao quanh.
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Người xưa cho rằng trái tim (心) là nơi trung tâm điều khiển suy nghĩ, cảm xúc và tình cảm chứ không phải bộ não. Do đó Tâm chỉ tình cảm, tâm can, tâm trí.
+*   **💡 Mẹo nhớ:** "Hình quả tim với ba giọt máu = Tâm (心)."
 
 ### ❷ Chữ 情 - Cách viết / đọc: *qíng*
 *   **📐 Cấu tạo chi tiết:** Bộ Tâm (忄) + Thanh: tình cảm sâu lắng.
@@ -422,19 +422,19 @@
 ## 24. Cụm từ: 五月天 - Ngũ Nguyệt Thiên (Mayday) / Mayday (ban nhạc rock nổi tiếng bậc nhất Đài Loan)
 
 ### ❶ Chữ 五 - Cách viết / đọc: *wǔ*
-*   **📐 Cấu tạo chi tiết:** Hai nét ngang trời đất đan chéo âm dương: số 5.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Số năm.
-*   **💡 Mẹo nhớ:** "Số 5 = Ngũ (五)."
+*   **📐 Cấu tạo chi tiết:** Chữ chỉ sự: Hai nét ngang trên dưới tượng trưng cho trời và đất, nét đan chéo ở giữa tượng trưng cho âm dương giao hòa.
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Con số 5 nằm ở vị trí trung tâm trong hệ thập phân, thể hiện sự giao thoa, đan chéo của khí âm dương giữa không gian đất trời.
+*   **💡 Mẹo nhớ:** "Âm dương đan chéo giữa hai vạch đất trời = Ngũ (五) — số 5."
 
 ### ❷ Chữ 月 - Cách viết / đọc: *yuè*
-*   **📐 Cấu tạo chi tiết:** Vầng trăng, tháng trong năm.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Tháng.
-*   **💡 Mẹo nhớ:** "Tháng = Nguyệt (月)."
+*   **📐 Cấu tạo chi tiết:** Chữ tượng hình: Hình vẽ vầng trăng khuyết có điểm sáng hoặc đám mây che lấp ở giữa.
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Bầu trời có Mặt Trăng (月) lặn rồi lại mọc, cứ tròn rồi khuyết theo chu kỳ. Trăng khuyết thường thấy hơn trăng tròn nên người xưa dùng hình trăng khuyết để chỉ mặt trăng và tháng trong năm.
+*   **💡 Mẹo nhớ:** "Vầng trăng khuyết có vân sáng ở giữa = Nguyệt (月) — trăng, tháng."
 
 ### ❸ Chữ 天 - Cách viết / đọc: *tiān*
-*   **📐 Cấu tạo chi tiết:** Bầu trời, thời tiết.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Trời, ngày.
-*   **💡 Mẹo nhớ:** "Trời = Thiên (天)."
+*   **📐 Cấu tạo chi tiết:** Chữ hội ý: Phía trên là nét Nhất (一 - không gian bao la), phía dưới là chữ Đại (大 - hình người đứng dang rộng tay chân).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Khoảng không gian vô tận (一) nằm ở tít trên đỉnh đầu của một con người khổng lồ (大). Nghĩa là bầu trời, đấng tạo hóa, ông trời.
+*   **💡 Mẹo nhớ:** "Phần không gian (一) nằm trên đỉnh đầu người (大) là Thiên (天) — bầu trời."
 
 ### 💡 Tổng kết mẹo nhớ cả cụm 五月天
 > "Tháng Năm rực rỡ sức trẻ thanh xuân (五月天: Mayday) — tên ban nhạc huyền thoại của thanh xuân bao thế hệ trẻ Đài Loan."
@@ -451,9 +451,9 @@
 *   **💡 Mẹo nhớ:** "Tay (廾) gảy thẻ tính toán (竹) xong xuôi = Toán (算)."
 
 ### ❷ Chữ 了 - Cách viết / đọc: *le*
-*   **📐 Cấu tạo chi tiết:** Trợ từ biểu thị sự kết thúc chuyển biến tình trạng.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Xong xuôi.
-*   **💡 Mẹo nhớ:** "Xong = Liễu (了)."
+*   **📐 Cấu tạo chi tiết:** Chữ tượng hình: Hình vẽ một đứa trẻ sơ sinh (như chữ Tử - 子) nhưng bị quấn chặt hai tay trong tã lót nên không thấy tay.
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Hình ảnh trẻ sơ sinh bị quấn trong tã là dấu hiệu kết thúc một quá trình thai nghén ròng rã. Nay mượn làm trợ từ biểu thị hành động đã hoàn tất hoặc sự việc đã thay đổi.
+*   **💡 Mẹo nhớ:** "Đứa trẻ (子) bị quấn tã cất đi hai tay = Liễu (了) — xong, rồi."
 
 ### 💡 Tổng kết mẹo nhớ cả cụm 算了
 > "Tính toán tới đây là coi như kết thúc không truy cứu nữa — 算了: thôi bỏ đi, không sao đâu."
@@ -494,9 +494,9 @@
 *   **💡 Mẹo nhớ:** "Tay (扌) xô đẩy chen lấn = Tễ (擠) — chen lấn."
 
 ### ❷ Chữ 滿 - Cách viết / đọc: *mǎn*
-*   **📐 Cấu tạo chi tiết:** Bên trái là bộ Thủy (氵- nước). Bên phải là chữ Cát (chuỗi hai bó tơ/thóc đầy ắp).
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Nước dâng lên đầy ắp tràn bờ. Nghĩa là tràn đầy, chật ních.
-*   **💡 Mẹo nhớ:** "Nước (氵) đầy tràn bình = Mãn (滿) — đầy."
+*   **📐 Cấu tạo chi tiết:** Chữ hình thanh kiêm hội ý: Bên trái là Thủy (氵 - nước), bên phải là Mãn (滿 - dạng cổ ghép từ 廿 và 兩 / cân bằng hai bên).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Dòng nước (氵) đổ vào bình chứa nhiều đến mức dâng cao đều đặn (兩) che lấp cả miệng bình (廿) và tràn cả ra ngoài. Nghĩa là đầy tràn, sung túc, thỏa mãn.
+*   **💡 Mẹo nhớ:** "Nước (氵) đong cân đều hai bên (兩) miệng bình (廿) thì sẽ Mãn (滿) — đầy."
 
 ### 💡 Tổng kết mẹo nhớ cả cụm 擠滿
 > "Người người chen lấn xô đẩy (擠) lấp đầy chật ních không còn một khe hở (滿) — 擠滿: chật kín, đông nghẹt."
@@ -518,9 +518,9 @@
 *   **💡 Mẹo nhớ:** "Cuốn sách = Thư (書)."
 
 ### ❸ Chữ 店 - Cách viết / đọc: *diàn*
-*   **📐 Cấu tạo chi tiết:** Mái hiên (广) buôn bán kinh doanh.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Cửa hàng, tiệm.
-*   **💡 Mẹo nhớ:** "Cửa hàng = Điếm (店)."
+*   **📐 Cấu tạo chi tiết:** Chữ hình thanh kiêm hội ý: Phía trên là bộ Nghiễm (广 - hình vách đá, mái hiên che sương gió), phía dưới là chữ Chiêm (占 - bói toán / chiếm giữ vị trí).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Người buôn bán dựng lên một mái hiên che chắn (广) rồi chiếm lấy vị trí đắc địa đó (占) làm nơi cố định để bày hàng hóa buôn bán quanh năm. Nghĩa là cửa tiệm.
+*   **💡 Mẹo nhớ:** "Dựng mái hiên (广) chiếm (占) chỗ bày bán = Điếm (店) — cửa tiệm."
 
 ### 💡 Tổng kết mẹo nhớ cả cụm 租書店
 > "Cửa tiệm (店) chuyên cung cấp dịch vụ cho thuê (租) các đầu sách truyện tranh (書) giải trí — 租書店: tiệm cho thuê sách truyện."
@@ -532,9 +532,9 @@
 ## 29. Cụm từ: 平板電腦 - Bình Bản Điện Não / máy tính bảng (iPad, tablet)
 
 ### ❶ Chữ 平 - Cách viết / đọc: *píng*
-*   **📐 Cấu tạo chi tiết:** Mặt phẳng cân đối bằng phẳng.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Phẳng lì.
-*   **💡 Mẹo nhớ:** "Bằng phẳng = Bình (平)."
+*   **📐 Cấu tạo chi tiết:** Chữ tượng hình kiêm chỉ sự: Hình vẽ mô phỏng một chiếc cân đòn thăng bằng không nghiêng ngả.
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Hình vẽ một vật cân bằng trọng lượng ở hai đầu, không bị lệch. Nghĩa là bằng phẳng, công bằng, bình an, không sóng gió.
+*   **💡 Mẹo nhớ:** "Bàn cân thăng bằng hai bên = Bình (平) — bằng phẳng."
 
 ### ❷ Chữ 板 - Cách viết / đọc: *bǎn*
 *   **📐 Cấu tạo chi tiết:** Bộ Mộc (木 - gỗ) + Phản (反 - tấm ván mỏng dẹt).
@@ -542,9 +542,9 @@
 *   **💡 Mẹo nhớ:** "Tấm ván mỏng phẳng = Bản (板)."
 
 ### ❸ Chữ 電 - Cách viết / đọc: *diàn*
-*   **📐 Cấu tạo chi tiết:** Năng lượng điện tử.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Điện khí vi tính.
-*   **💡 Mẹo nhớ:** "Điện tử = Điện (電)."
+*   **📐 Cấu tạo chi tiết:** Chữ hội ý: Phía trên là bộ Vũ (雨 - những hạt mưa rơi dưới đám mây), phía dưới là chữ Thân (申 - hình tia chớp xé toạc bầu trời kéo dài).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Trong cơn mưa giông bão bùng (雨), trên bầu trời xuất hiện những tia sét, tia chớp (申) giáng xuống mang theo năng lượng lớn. Nghĩa là điện, sấm sét.
+*   **💡 Mẹo nhớ:** "Trời mưa (雨) có tia sét (申) giáng xuống = Điện (電)."
 
 ### ❹ Chữ 腦 - Cách viết / đọc: *nǎo*
 *   **📐 Cấu tạo chi tiết:** Bộ Nhục (thịt) + Não bộ tư duy.
@@ -561,29 +561,29 @@
 ## 30. Cụm từ: 智慧型手機 - Trí Tuệ Hình Thủ Cơ / điện thoại thông minh (smartphone)
 
 ### ❶ Chữ 智 - Cách viết / đọc: *zhì*
-*   **📐 Cấu tạo chi tiết:** Tri (知 - hiểu biết) + Nhật (日 - sáng tỏ như mặt trời). Trí tuệ thông minh.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Hiểu biết sáng tỏ.
-*   **💡 Mẹo nhớ:** "Trí sáng tỏ = Trí (智)."
+*   **📐 Cấu tạo chi tiết:** Chữ hội ý: Phía trên là chữ Tri (知 - hiểu biết, gồm cái mồm 口 và mũi tên 矢 để nói trúng đích), phía dưới là chữ Nhật (日 - mặt trời / ánh sáng).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Người có vốn hiểu biết (知) sâu rộng và thấu đáo sáng tỏ vạn vật như ánh sáng rực rỡ của mặt trời (日). Nghĩa là trí tuệ, sự thông tuệ, sáng suốt.
+*   **💡 Mẹo nhớ:** "Sự hiểu biết (知) sáng ngời như mặt trời (日) = Trí (智)."
 
 ### ❷ Chữ 慧 - Cách viết / đọc: *huì*
-*   **📐 Cấu tạo chi tiết:** Tuệ (cây chổi quét sạch bụi trần) trên Tâm (trái tim). Trí tuệ thấu suốt.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Tâm trí sáng suốt thông tuệ.
-*   **💡 Mẹo nhớ:** "Quét sạch bụi trần tâm trí sáng = Tuệ (慧)."
+*   **📐 Cấu tạo chi tiết:** Chữ hội ý: Phía trên là chữ Tuệ (彗 - hình hai bó cỏ chổi dùng để quét dọn), phía dưới là bộ Tâm (心 - trái tim/tâm trí).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Lấy cây chổi (彗) quét dọn cho sạch sẽ những phiền não, tạp niệm vướng bận trong tâm trí (心) để đầu óc thanh tịnh, sáng suốt. Nghĩa là tuệ mẫn, thông tuệ.
+*   **💡 Mẹo nhớ:** "Lấy chổi (彗) quét dọn sạch sẽ tâm trí (心) sẽ sinh ra Tuệ (慧)."
 
 ### ❸ Chữ 型 - Cách viết / đọc: *xíng*
-*   **📐 Cấu tạo chi tiết:** Chủng loại, kiểu dạng.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Mẫu mã kiểu hình thức.
-*   **💡 Mẹo nhớ:** "Kiểu mẫu = Hình (型)."
+*   **📐 Cấu tạo chi tiết:** Chữ hình thanh kiêm hội ý: Phía trên là chữ Hình (刑 - hình dáng / khuôn phép), phía dưới là bộ Thổ (土 - đất sét).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Người thợ thủ công xưa lấy đất sét (土) nhào nặn ra một chiếc khuôn đúc chuẩn mực để tạo hình (刑) cho đồ đồng, đồ gốm. Nghĩa là mô hình, kiểu dáng, khuôn mẫu.
+*   **💡 Mẹo nhớ:** "Lấy đất sét (土) đúc thành hình dáng (刑) chuẩn = Hình (型) — mô hình, kiểu."
 
 ### ❹ Chữ 手 - Cách viết / đọc: *shǒu*
-*   **📐 Cấu tạo chi tiết:** Bàn tay con người.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Cầm trên tay.
-*   **💡 Mẹo nhớ:** "Bàn tay = Thủ (手)."
+*   **📐 Cấu tạo chi tiết:** Chữ tượng hình: Hình vẽ mô phỏng trực diện một bàn tay với năm ngón đang xòe ra.
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Người xưa vẽ lại hình ảnh bàn tay người. Về sau, chữ này vừa chỉ bàn tay, vừa chỉ người chuyên môn làm một nghề gì đó bằng tay (như ca thủ - ca sĩ, tay súng).
+*   **💡 Mẹo nhớ:** "Hình bàn tay năm ngón xòe ra = Thủ (手)."
 
 ### ❺ Chữ 機 - Cách viết / đọc: *jī*
-*   **📐 Cấu tạo chi tiết:** Cỗ máy điện tử cơ chế thông minh.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Thiết bị máy móc.
-*   **💡 Mẹo nhớ:** "Máy móc = Cơ (機)."
+*   **📐 Cấu tạo chi tiết:** Chữ hình thanh kiêm hội ý: Bên trái là bộ Mộc (木 - cây gỗ), bên phải là chữ Cơ (幾 - hình những sợi tơ vi ti và guồng máy dệt).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Ngày xưa con người dùng vật liệu gỗ (木) để chế tạo ra các công cụ máy dệt sợi (幾) rất tinh xảo, phức tạp và chuyển động liên tục. Nghĩa là máy móc, cơ quan, cơ hội.
+*   **💡 Mẹo nhớ:** "Cỗ máy dệt tơ (幾) làm bằng gỗ (木) = Cơ (機) — máy móc."
 
 ### 💡 Tổng kết mẹo nhớ cả cụm 智慧型手機
 > "Chiếc máy móc cầm tay nhỏ gọn (手機) được tích hợp công nghệ trí tuệ nhân tạo thông minh đa năng (智慧型) — 智慧型手機: điện thoại thông minh (smartphone)."
@@ -605,9 +605,9 @@
 *   **💡 Mẹo nhớ:** "Thời gian = Thời (時)."
 
 ### ❸ Chữ 間 - Cách viết / đọc: *jiān*
-*   **📐 Cấu tạo chi tiết:** Ánh mặt trời (日) lọt qua khe hai cánh cửa (門): khoảng cách thời gian.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Khoảng cách giữa hai thời điểm.
-*   **💡 Mẹo nhớ:** "Ánh nắng qua khe cửa = Gian (間)."
+*   **📐 Cấu tạo chi tiết:** Chữ hội ý: Khung ngoài là bộ Môn (門 - hình hai cánh cửa đóng lại), bên trong là chữ Nhật (日 - mặt trời / ánh nắng).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Ánh sáng mặt trời (日) lọt qua khe hở mỏng manh giữa hai cánh cửa gỗ (門). Nghĩa gốc là khe hở, khoảng trống không gian giữa hai vật, mở rộng ra thành thời gian (khoảng giữa hai thời điểm).
+*   **💡 Mẹo nhớ:** "Ánh mặt trời (日) chiếu lọt qua khe cửa (門) = Gian (間) — khoảng giữa."
 
 ### 💡 Tổng kết mẹo nhớ cả cụm 殺時間
 > "Tìm những trò giải trí nhẹ nhàng để tiêu trừ bớt thời gian rảnh rỗi chờ đợi — 殺時間: giết thời gian."
@@ -619,19 +619,19 @@
 ## 32. Cụm từ: 漫畫展 - Mạn Họa Triển / triển lãm truyện tranh, hội chợ anime manga
 
 ### ❶ Chữ 漫 - Cách viết / đọc: *màn*
-*   **📐 Cấu tạo chi tiết:** Nước tràn phóng khoáng.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Tự do phóng khoáng.
-*   **💡 Mẹo nhớ:** "Mạn (漫)."
+*   **📐 Cấu tạo chi tiết:** Chữ hình thanh kiêm hội ý: Bên trái là bộ Thủy (氵 - dòng nước), bên phải là chữ Mạn (曼 - hình tay kéo căng một tấm vải, chỉ sự kéo dài miên man).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Dòng nước (氵) tràn bờ, trôi chảy kéo dài miên man (曼) không biết đâu là điểm dừng. Nghĩa là tràn lan, lan man, mạn đàm (như truyện tranh 漫畫 - nét vẽ tự do).
+*   **💡 Mẹo nhớ:** "Nước (氵) chảy tràn kéo dài miên man (曼) = Mạn (漫) — lan mạn, tùy ý."
 
 ### ❷ Chữ 畫 - Cách viết / đọc: *huà*
-*   **📐 Cấu tạo chi tiết:** Bút vẽ nét tranh.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Tranh vẽ.
-*   **💡 Mẹo nhớ:** "Họa (畫)."
+*   **📐 Cấu tạo chi tiết:** Chữ hội ý: Phía trên là chữ Duật (聿 - bàn tay cầm cây bút), ở giữa là Điền (田 - đồng ruộng), dưới là Nhất (一 - mặt phẳng/ranh giới).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Người quan trắc dùng bàn tay cầm cây bút (聿) để vẽ lại bản đồ quy hoạch ranh giới các thửa ruộng (田) trên một mặt phẳng (一). Nghĩa là vẽ tranh, bức họa.
+*   **💡 Mẹo nhớ:** "Cầm bút (聿) vẽ chia ranh giới ruộng (田) đất (一) = Họa (畫)."
 
 ### ❸ Chữ 展 - Cách viết / đọc: *zhǎn*
-*   **📐 Cấu tạo chi tiết:** Chữ Thi (thân thể người) trên chữ Triển (xòe rộng ra). Xòe rộng bày biện cho mọi người chiêm ngưỡng.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Trưng bày mở rộng ra.
-*   **💡 Mẹo nhớ:** "Mở rộng trưng bày = Triển (展)."
+*   **📐 Cấu tạo chi tiết:** Chữ hội ý: Gồm bộ Thi (尸 - thân người ngồi/nằm), Công (工 - công cụ/đồ vật) và Y (衣 - áo quần).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Một người (尸) mang hết áo quần (衣) và vật dụng cá nhân (工) ra xòe rộng để phơi nắng hoặc bày biện cho mọi người chiêm ngưỡng. Nghĩa là trải ra, trưng bày, triển lãm.
+*   **💡 Mẹo nhớ:** "Người (尸) mang y phục (衣) và vật phẩm (工) ra phơi bày = Triển (展) — trưng bày."
 
 ### 💡 Tổng kết mẹo nhớ cả cụm 漫畫展
 > "Buổi triển lãm hội chợ quy mô lớn trưng bày các ấn phẩm truyện tranh và anime nổi tiếng (漫畫展) — 漫畫展: triển lãm manga."
@@ -648,9 +648,9 @@
 *   **💡 Mẹo nhớ:** "Đến = Lai (來)."
 
 ### ❷ Chữ 不 - Cách viết / đọc: *bù*
-*   **📐 Cấu tạo chi tiết:** Phủ định.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Không thể.
-*   **💡 Mẹo nhớ:** "Không = Bất (不)."
+*   **📐 Cấu tạo chi tiết:** Chữ tượng hình: Hình phần rễ của một cái cây đâm cắm sâu xuống dưới lòng đất.
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Bộ rễ cắm sâu xuống đất chỉ hướng đi xuống, không đâm chồi vươn lên trên được. Từ ý 'không mọc lên', chữ mượn âm để làm phó từ phủ định mang nghĩa là 'không'.
+*   **💡 Mẹo nhớ:** "Rễ cây cắm xuống đất không vươn lên = Bất (不) — không."
 
 ### ❸ Chữ 及 - Cách viết / đọc: *jí*
 *   **📐 Cấu tạo chi tiết:** Bên trái là chữ Nhân (người đi trước). Bên phải là chữ Hựu (tay với bắt kịp gấu áo). Đuổi kịp, với tới.
@@ -667,9 +667,9 @@
 ## 34. Cụm từ: 撞衫 - Tràng Sam (Đụng hàng) / đụng hàng trang phục; mặc quần áo giống hệt người khác
 
 ### ❶ Chữ 撞 - Cách viết / đọc: *zhuàng*
-*   **📐 Cấu tạo chi tiết:** Bên trái là bộ Thủ (扌- tay). Bên phải là chữ Đồng (童 - đứa trẻ con va đập).
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Va đụng, đâm sầm vào nhau một cách bất ngờ.
-*   **💡 Mẹo nhớ:** "Va đụng đâm vào nhau = Tràng (撞) — đụng."
+*   **📐 Cấu tạo chi tiết:** Chữ hình thanh kiêm hội ý: Bên trái là bộ Thủ (扌 - bàn tay/hành động), bên phải là chữ Đồng (童 - đứa trẻ con / kẻ hầu hạ).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Người lớn vô ý vung tay (扌) đụng phải đứa trẻ (童) đang chạy nhảy lung tung gây ra sự va chạm. Nghĩa là đụng phải, va đập mạnh.
+*   **💡 Mẹo nhớ:** "Tay (扌) lỡ va trúng đứa trẻ (童) đang chạy nhảy = Chàng (撞) — va đụng."
 
 ### ❷ Chữ 衫 - Cách viết / đọc: *shān*
 *   **📐 Cấu tạo chi tiết:** Bên trái là bộ Y (衤- trang phục áo xống). Bên phải là bộ Sam (彡 - những vạt vạt sọc áo mỏng manh).
@@ -686,9 +686,9 @@
 ## 35. Cụm từ: 它 - Tha / nó (đại từ chỉ đồ vật, sự vật hoặc động vật)
 
 ### ❶ Chữ 它 - Cách viết / đọc: *tā*
-*   **📐 Cấu tạo chi tiết:** Chữ tượng hình: Hình con rắn trườn bò trong hang thời giáp cốt, sau dùng làm đại từ xưng hô cho con vật, đồ vật.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Chỉ loài vật hoặc đồ vật khách quan không phải con người.
-*   **💡 Mẹo nhớ:** "Đại từ chỉ con vật và đồ vật = Nó (它)."
+*   **📐 Cấu tạo chi tiết:** Chữ tượng hình: Hình vẽ một con rắn ngóc đầu trườn bò trên đất.
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Người cổ đại sống trong môi trường hoang dã rất sợ rắn nên thường cảnh báo nhau 'có con rắn kìa'. Về sau, chữ mượn âm làm đại từ nhân xưng ngôi thứ ba chỉ con vật, đồ vật vô tri (nó).
+*   **💡 Mẹo nhớ:** "Hình con rắn trườn bò = Tha (它) — nó (đồ vật/con vật)."
 
 ### 💡 Tổng kết mẹo nhớ cả cụm 它
 > "Đại từ ngôi thứ ba dùng để chỉ đồ vật, sự vật hoặc con vật — 它: nó."
@@ -700,9 +700,9 @@
 ## 36. Cụm từ: 塞 - Tắc / nhét, lèn chặt; nút bít lại
 
 ### ❶ Chữ 塞 - Cách viết / đọc: *sāi*
-*   **📐 Cấu tạo chi tiết:** Hai tay lèn đồ vật dưới mái nhà kết hợp bộ Thổ (土 - đất cát bít kín).
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Nhồi nhét, đắp đất bít kín.
-*   **💡 Mẹo nhớ:** "Bít kín nhồi nhét = Tắc (塞)."
+*   **📐 Cấu tạo chi tiết:** Chữ hội ý: Phía trên là bộ Miên (宀 - mái che) và Tỉnh (井 - kết cấu đan chéo), dưới là Thổ (土 - đất cát).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Mái nhà (宀) kết cấu bằng cành cây đan chéo (井) bị hở gió rùa vào, người ta bèn lấy đất cát (土) nhét chặt lại bít kín kẽ hở. Nghĩa là bít tắc, nhét vào, kẹt (塞車 - kẹt xe).
+*   **💡 Mẹo nhớ:** "Dưới mái nhà (宀) hở kẽ (井) phải lấy đất (土) bít kín = Tắc (塞) — nhét, kẹt."
 
 ### 💡 Tổng kết mẹo nhớ cả cụm 塞
 > "Dùng lực nhét lèn đồ vật cho thật chặt vào khoảng trống hẹp — 塞: nhét vào túi, kẹt xe."
@@ -714,14 +714,14 @@
 ## 37. Cụm từ: 當季 - Đương Quý / theo mùa; đúng mùa vụ (nông sản, hoa quả, thời trang)
 
 ### ❶ Chữ 當 - Cách viết / đọc: *dāng*
-*   **📐 Cấu tạo chi tiết:** Đang lúc, tương ứng ngay tại thời điểm.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Ngay tại mùa vụ đó.
-*   **💡 Mẹo nhớ:** "Ngay lúc = Đương (當)."
+*   **📐 Cấu tạo chi tiết:** Chữ hình thanh kiêm hội ý: Phía trên là chữ Thượng (尚 - sự tôn sùng/mái nhà cao), phía dưới là chữ Điền (田 - thửa ruộng).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Thửa ruộng (田) có vị trí và năng suất tốt nên giá trị được đánh giá rất cao (尚). Nghĩa gốc là tương đương, ngang giá, hoặc cáng đáng đảm đương ngay tại lúc đó.
+*   **💡 Mẹo nhớ:** "Giá trị thửa ruộng (田) được đánh giá cao (尚) = Đương (當) — tương đương, đảm đương."
 
 ### ❷ Chữ 季 - Cách viết / đọc: *jì*
-*   **📐 Cấu tạo chi tiết:** Hòa (lúa) + Tử (con cháu): mùa màng trong năm.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Mùa trong năm.
-*   **💡 Mẹo nhớ:** "Mùa = Quý (季)."
+*   **📐 Cấu tạo chi tiết:** Chữ hội ý: Phía trên là bộ Hòa (禾 - cây lúa/hoa màu), phía dưới là bộ Tử (子 - con cháu, hạt giống nhỏ).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Cây lúa (禾) gieo trồng trải qua một khoảng thời gian dài đã sinh ra kết hạt lúa non (子), báo hiệu một chu kỳ thời tiết canh tác đã hoàn thành. Nghĩa là mùa vụ, mùa trong năm.
+*   **💡 Mẹo nhớ:** "Cây lúa (禾) sinh ra hạt non (子) đánh dấu một Mùa (季)."
 
 ### 💡 Tổng kết mẹo nhớ cả cụm 當季
 > "Rơi đúng vào thời điểm vụ mùa hiện tại của năm — 當季: đúng mùa vụ (hoa quả đúng mùa vừa tươi vừa rẻ)."
@@ -738,9 +738,9 @@
 *   **💡 Mẹo nhớ:** "Quy cách khắc ghi chân thành = Khoản (款) — mẫu mã."
 
 ### ❷ Chữ 式 - Cách viết / đọc: *shì*
-*   **📐 Cấu tạo chi tiết:** Chữ Công (công cụ) + Cặc (mũi tên nghi lễ có dây buộc): quy chuẩn khuôn phép.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Khuôn phép, phong cách.
-*   **💡 Mẹo nhớ:** "Khuôn phép = Thức (式)."
+*   **📐 Cấu tạo chi tiết:** Chữ hình thanh kiêm hội ý: Bên trên là chữ Công (工 - chiếc thước của người thợ / quy chuẩn), bên phải là bộ Dặc (弋 - mũi tên gắn dây để săn bắn).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Làm ra cây cung tên săn bắn (弋) đòi hỏi tính chính xác cao, phải tuân theo đúng quy chuẩn khuôn mẫu của người thợ (工). Nghĩa là khuôn thước, kiểu dáng, phương thức.
+*   **💡 Mẹo nhớ:** "Chế tạo cung tên (弋) theo quy chuẩn (工) = Thức (式) — kiểu mẫu, phương thức."
 
 ### 💡 Tổng kết mẹo nhớ cả cụm 款式
 > "Khuôn phép quy chuẩn mẫu mã (式) tạo nên kiểu cách đường nét độc đáo của trang phục (款) — 款式: kiểu dáng, mẫu mã thời trang."
@@ -762,9 +762,9 @@
 *   **💡 Mẹo nhớ:** "Nối liền sợi tơ (糸) không dứt = Tục (續)."
 
 ### ❸ Chữ 劇 - Cách viết / đọc: *jù*
-*   **📐 Cấu tạo chi tiết:** Bên trái là chữ Kịch (虍 hổ vồ giặc). Bên phải là bộ Đao (刂- dao kiếm quyết liệt).
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Cảnh kịch tính quyết liệt giằng co; từ đó chỉ vở kịch, bộ phim truyền hình.
-*   **💡 Mẹo nhớ:** "Diễn xuất kịch tính quyết liệt = Kịch (劇)."
+*   **📐 Cấu tạo chi tiết:** Chữ hình thanh kiêm hội ý: Bên trái ghép bởi Hổ (虍 - vằn con cọp) và Thỉ (豕 - con lợn rừng), bên phải là Đao (刂 - con dao).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Con cọp (虍) và heo rừng (豕) đánh nhau sinh tử kịch liệt, người thợ săn dùng đao (刂) xông vào can thiệp tạo ra cảnh tượng kịch tính dữ dội. Nghĩa là kịch liệt, vở kịch.
+*   **💡 Mẹo nhớ:** "Cọp (虍) và lợn rừng (豕) đánh nhau kịch tính, dùng dao (刂) giải quyết = Kịch (劇)."
 
 ### 💡 Tổng kết mẹo nhớ cả cụm 連續劇
 > "Vở kịch phim ảnh (劇) được phát sóng nối tiếp từng tập liên tục qua từng ngày (連續) — 連續劇: phim truyền hình dài tập."
@@ -781,9 +781,9 @@
 *   **💡 Mẹo nhớ:** "Ngọn đèn tâm điểm = Chủ (主)."
 
 ### ❷ Chữ 角 - Cách viết / đọc: *jiǎo*
-*   **📐 Cấu tạo chi tiết:** Chữ tượng hình: Chiếc sừng thú nhọn hoắt dũng mãnh, sau dùng chỉ góc cạnh, vai diễn trong kịch.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Vai diễn trong sân khấu kịch nghệ.
-*   **💡 Mẹo nhớ:** "Góc sừng, vai diễn = Giác (角)."
+*   **📐 Cấu tạo chi tiết:** Chữ tượng hình: Hình vẽ mô phỏng chiếc sừng thú nhọn hoắt có vân rãnh.
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Mô phỏng sừng của con bò hay con cừu. Sừng có góc nhọn dùng làm vũ khí đâm, hoặc đục lỗ để thổi làm tù và. Nghĩa là góc cạnh, chiếc sừng, hoặc vai diễn trong vở kịch.
+*   **💡 Mẹo nhớ:** "Hình chiếc sừng nhọn có vân rãnh = Giác (角) — sừng, góc, vai diễn."
 
 ### 💡 Tổng kết mẹo nhớ cả cụm 主角
 > "Vai diễn trung tâm cốt cán (角) dẫn dắt toàn bộ mạch truyện của vở kịch (主) — 主角: nhân vật chính."
@@ -800,9 +800,9 @@
 *   **💡 Mẹo nhớ:** "Lưỡi (舌) nếm vị ngọt (甘) = Điềm (甜) — ngọt."
 
 ### ❷ Chữ 美 - Cách viết / đọc: *měi*
-*   **📐 Cấu tạo chi tiết:** Con cừu to lớn béo tốt: tươi đẹp, mỹ miều.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Vẻ đẹp rạng rỡ.
-*   **💡 Mẹo nhớ:** "Tươi đẹp = Mỹ (美)."
+*   **📐 Cấu tạo chi tiết:** Chữ hội ý: Phía trên là bộ Dương (羊 - con cừu), phía dưới là chữ Đại (大 - to lớn).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Theo quan niệm người du mục xưa, con cừu (羊) được nuôi dưỡng béo tốt, to lớn (大) thì thịt ăn rất ngon, dùng làm tế lễ rất trang trọng vinh dự. Nghĩa là tốt đẹp, mỹ miều.
+*   **💡 Mẹo nhớ:** "Con cừu (羊) béo to (大) nhìn rất Mỹ (美) — đẹp đẽ."
 
 ### 💡 Tổng kết mẹo nhớ cả cụm 甜美
 > "Vị ngọt ngào nơi đầu lưỡi (甜) hòa quyện vẻ đẹp tươi tắn khả ái (美) — 甜美: nụ cười ngọt ngào, giọng hát trong trẻo ngọt lịm."
@@ -833,9 +833,9 @@
 *   **💡 Mẹo nhớ:** "Cư (居)."
 
 ### ❷ Chữ 然 - Cách viết / đọc: *rán*
-*   **📐 Cấu tạo chi tiết:** Thịt chó (Nhục + Khuyển) nướng trên bếp lửa (灬): tự nhiên như thế.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Trạng thái tự nhiên hiển nhiên.
-*   **💡 Mẹo nhớ:** "Như thế = Nhiên (然)."
+*   **📐 Cấu tạo chi tiết:** Chữ hội ý: Bên trái là bộ Nhục (月 - miếng thịt), bên phải là chữ Khuyển (犬 - con chó), dưới là bộ Hỏa (灬 - ngọn lửa).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Mang thịt (月) của con chó (犬) đi thui chín trên bếp lửa (灬). Nghĩa gốc là đốt cháy, về sau mượn làm trạng từ chỉ sự tự nhiên, đương nhiên như thế.
+*   **💡 Mẹo nhớ:** "Mang thịt (月) chó (犬) thui trên lửa (灬) là lẽ tự Nhiên (然)."
 
 ### 💡 Tổng kết mẹo nhớ cả cụm 居然
 > "Sự việc diễn ra ngoài dự đoán nhưng lại hiển hiện ngay trước mắt — 居然: không ngờ rằng, thế mà lại."
@@ -866,9 +866,9 @@
 *   **💡 Mẹo nhớ:** "Ăn xong ngoảnh mặt rời đi = Ký (既) — đã xong."
 
 ### ❷ Chữ 然 - Cách viết / đọc: *rán*
-*   **📐 Cấu tạo chi tiết:** Trạng thái tự nhiên hiển hiện.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Như thế.
-*   **💡 Mẹo nhớ:** "Nhiên (然)."
+*   **📐 Cấu tạo chi tiết:** Chữ hội ý: Bên trái là bộ Nhục (月 - miếng thịt), bên phải là chữ Khuyển (犬 - con chó), dưới là bộ Hỏa (灬 - ngọn lửa).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Mang thịt (月) của con chó (犬) đi thui chín trên bếp lửa (灬). Nghĩa gốc là đốt cháy, về sau mượn làm trạng từ chỉ sự tự nhiên, đương nhiên như thế.
+*   **💡 Mẹo nhớ:** "Mang thịt (月) chó (犬) thui trên lửa (灬) là lẽ tự Nhiên (然)."
 
 ### 💡 Tổng kết mẹo nhớ cả cụm 既然
 > "Một khi tình hình thực tế đã diễn ra như thế (既) thì cứ thuận theo tự nhiên mà làm tiếp (然) — 既然: một khi đã... thì."
@@ -899,14 +899,14 @@
 ## 47. Cụm từ: 媒體 - Môi Thể / truyền thông; phương tiện thông tin đại chúng
 
 ### ❶ Chữ 媒 - Cách viết / đọc: *méi*
-*   **📐 Cấu tạo chi tiết:** Bên trái là bộ Nữ (女 - người phụ nữ). Bên phải là chữ Mỗ (某 - mượn âm làm mai mối).
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Bà mối làm cầu nối kết duyên cho đôi lứa; sau chỉ vật làm trung gian truyền tải. Nghĩa là môi giới, truyền thông.
-*   **💡 Mẹo nhớ:** "Người làm mai mối (女) kết nối đôi bên = Môi (媒) — cầu nối trung gian."
+*   **📐 Cấu tạo chi tiết:** Chữ hình thanh kiêm hội ý: Bên trái là bộ Nữ (女 - người phụ nữ), bên phải là chữ Mỗ (某 - gốc là cây mận 梅, chỉ một người nào đó).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Người phụ nữ (女) làm nghề trung gian, đứng ra giới thiệu mai mối cho một người thanh niên nào đó (某) lấy được vợ hiền. Nghĩa là bà mối, truyền thông, môi giới.
+*   **💡 Mẹo nhớ:** "Phụ nữ (女) mai mối cho người nọ người kia (某) = Môi (媒) — môi giới, truyền thông."
 
 ### ❷ Chữ 體 - Cách viết / đọc: *tǐ*
-*   **📐 Cấu tạo chi tiết:** Bên trái là bộ Cốt (骨 - khung xương). Bên phải là chữ Thể (豊 - cái đĩa dâng lễ vật trang trọng).
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Khung xương gắn kết các bộ phận thành một chỉnh thể hoàn chỉnh. Nghĩa là cơ thể, thể chế.
-*   **💡 Mẹo nhớ:** "Khung xương (骨) tạo nên chỉnh thể = Thể (體)."
+*   **📐 Cấu tạo chi tiết:** Chữ hội ý: Bên trái là bộ Cốt (骨 - bộ xương cốt), bên phải là chữ Phong (豊 - mâm đồ cúng tế phong phú).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Khung xương (骨) vững chắc được đắp lên lớp máu thịt và da dẻ phong phú (豊) tạo thành một thân hình hoàn chỉnh trọn vẹn. Nghĩa là cơ thể, thể chất, hệ thống.
+*   **💡 Mẹo nhớ:** "Xương cốt (骨) đắp thêm thịt phong phú (豊) tạo thành Thể (體) — cơ thể."
 
 ### 💡 Tổng kết mẹo nhớ cả cụm 媒體
 > "Hệ thống chỉnh thể (體) đóng vai trò trung gian bắc cầu truyền tải thông tin đến toàn xã hội (媒) — 媒體: các cơ quan truyền thông báo chí."
@@ -918,14 +918,14 @@
 ## 48. Cụm từ: 方式 - Phương Thức / cách thức, phương thức thực hiện
 
 ### ❶ Chữ 方 - Cách viết / đọc: *fāng*
-*   **📐 Cấu tạo chi tiết:** Hình chiếc bè gỗ định hướng phương hướng cày bừa vuông vức.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Phương hướng, quy tắc.
-*   **💡 Mẹo nhớ:** "Phương hướng = Phương (方)."
+*   **📐 Cấu tạo chi tiết:** Chữ tượng hình: Hình vẽ chiếc cày gỗ thời cổ đại, hoặc hình vuông cân đối có các góc vuông.
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Ngày xưa nông dân dùng chiếc cày bằng gỗ đi theo các đường thẳng vuông vức để cày xới ruộng đồng. Chữ Phương mang nghĩa là hình vuông, phương hướng, cách thức.
+*   **💡 Mẹo nhớ:** "Hình chiếc cày gỗ vuông vức = Phương (方)."
 
 ### ❷ Chữ 式 - Cách viết / đọc: *shì*
-*   **📐 Cấu tạo chi tiết:** Chữ Công (công cụ) + Cặc: khuôn phép mẫu mực.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Khuôn khổ tiêu chuẩn.
-*   **💡 Mẹo nhớ:** "Khuôn phép chuẩn = Thức (式)."
+*   **📐 Cấu tạo chi tiết:** Chữ hình thanh kiêm hội ý: Bên trên là chữ Công (工 - chiếc thước của người thợ / quy chuẩn), bên phải là bộ Dặc (弋 - mũi tên gắn dây để săn bắn).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Làm ra cây cung tên săn bắn (弋) đòi hỏi tính chính xác cao, phải tuân theo đúng quy chuẩn khuôn mẫu của người thợ (工). Nghĩa là khuôn thước, kiểu dáng, phương thức.
+*   **💡 Mẹo nhớ:** "Chế tạo cung tên (弋) theo quy chuẩn (工) = Thức (式) — kiểu mẫu, phương thức."
 
 ### 💡 Tổng kết mẹo nhớ cả cụm 方式
 > "Đường lối phương hướng (方) kết hợp khuôn phép bài bản (式) để hoàn thành mục tiêu — 方式: phương thức, cách làm."
@@ -956,14 +956,14 @@
 ## 50. Cụm từ: 避免 - Tị Miễn / tránh, né tránh; ngăn ngừa rủi ro
 
 ### ❶ Chữ 避 - Cách viết / đọc: *bì*
-*   **📐 Cấu tạo chi tiết:** Bên trái là bộ Sước (辶 - bước chân đi). Bên phải là chữ Tích (辟 - quan chấp pháp xử tội).
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Rảo chân chạy trốn thật mau (辶) để né tránh sự trừng phạt của hình quan (辟). Nghĩa là né tránh, phòng ngừa.
-*   **💡 Mẹo nhớ:** "Chạy trốn thật mau (辶) để tránh bị phạt = Tị (避) — né tránh."
+*   **📐 Cấu tạo chi tiết:** Chữ hình thanh kiêm hội ý: Bên trái là bộ Xước (辶 - bước chân đi), bên phải là chữ Tịch (辟 - vị chúa tể / hoặc tội lỗi bị trừng phạt).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Người dân khi nhìn thấy kẻ thù tàn ác hoặc sợ hình phạt hà khắc (辟) giáng xuống thì phải lập tức rảo bước bỏ chạy thật nhanh (辶). Nghĩa là lẩn tránh, né tránh.
+*   **💡 Mẹo nhớ:** "Thấy hình phạt nguy hiểm (辟) thì nhanh chân bước đi (辶) để Tị (避) — né tránh."
 
 ### ❷ Chữ 免 - Cách viết / đọc: *miǎn*
-*   **📐 Cấu tạo chi tiết:** Hình chiếc mũ đội đầu tuột rơi ra thoát khỏi vòng vây trói buộc.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Được miễn trừ, thoát khỏi hiểm họa.
-*   **💡 Mẹo nhớ:** "Thoát khỏi hiểm nguy = Miễn (免) — thoát, tha."
+*   **📐 Cấu tạo chi tiết:** Chữ hội ý: Hình ảnh một người đang dùng tay cởi bỏ chiếc mũ mão trên đỉnh đầu xuống.
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Hành động cởi bỏ mũ miện để tạ tội, xin được tha thứ. Một thuyết khác là hình ảnh con thỏ (兔) bị chặt cụt mất đuôi nhưng may mắn trốn thoát được. Nghĩa là miễn trừ, thoát khỏi, miễn phí.
+*   **💡 Mẹo nhớ:** "Gỡ bỏ chiếc mũ trên đầu để tạ tội được Miễn (免) — tha, miễn trừ."
 
 ### 💡 Tổng kết mẹo nhớ cả cụm 避免
 > "Chủ động bước né tránh (避) để được miễn trừ khỏi mọi rắc rối tai ương (免) — 避免: phòng tránh, ngăn ngừa hậu quả."
@@ -975,14 +975,14 @@
 ## 51. Cụm từ: 包包 - Bao Bao / túi xách, giỏ xách (khẩu ngữ thân mật)
 
 ### ❶ Chữ 包 - Cách viết / đọc: *bāo*
-*   **📐 Cấu tạo chi tiết:** Chữ bọc kín: chiếc túi xách đựng đồ cá nhân.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Túi đựng đồ.
-*   **💡 Mẹo nhớ:** "Túi bọc = Bao (包)."
+*   **📐 Cấu tạo chi tiết:** Chữ hội ý: Bên ngoài là bộ Bao (勹 - hình màng bọc), bên trong là chữ Tị (巳 - hình thai nhi cuộn tròn).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Hình ảnh lớp màng nhau thai (勹) đang bao bọc và che chở chặt chẽ lấy một thai nhi nhỏ bé (巳) nằm an toàn trong bụng mẹ. Nghĩa là bọc lại, gói hàng, cái túi.
+*   **💡 Mẹo nhớ:** "Lớp màng (勹) bọc che chở thai nhi (巳) bên trong = Bao (包) — gói, túi."
 
 ### ❷ Chữ 包 - Cách viết / đọc: *bāo*
-*   **📐 Cấu tạo chi tiết:** Từ láy điệp từ tạo cảm giác thân thiết gần gũi trong đời sống hàng ngày.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Túi xách thời trang.
-*   **💡 Mẹo nhớ:** "Túi xách = Bao bao (包包)."
+*   **📐 Cấu tạo chi tiết:** Chữ hội ý: Bên ngoài là bộ Bao (勹 - hình màng bọc), bên trong là chữ Tị (巳 - hình thai nhi cuộn tròn).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Hình ảnh lớp màng nhau thai (勹) đang bao bọc và che chở chặt chẽ lấy một thai nhi nhỏ bé (巳) nằm an toàn trong bụng mẹ. Nghĩa là bọc lại, gói hàng, cái túi.
+*   **💡 Mẹo nhớ:** "Lớp màng (勹) bọc che chở thai nhi (巳) bên trong = Bao (包) — gói, túi."
 
 ### 💡 Tổng kết mẹo nhớ cả cụm 包包
 > "Cách gọi khẩu ngữ thân mật dễ thương cho những chiếc túi xách tay thời trang — 包包: túi xách, giỏ xách."
@@ -994,14 +994,14 @@
 ## 52. Cụm từ: 商人 - Thương Nhân / thương nhân, người làm nghề kinh doanh buôn bán
 
 ### ❶ Chữ 商 - Cách viết / đọc: *shāng*
-*   **📐 Cấu tạo chi tiết:** Thương nhân nhà Thương bàn bạc giá cả buôn bán.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Kinh doanh buôn bán.
-*   **💡 Mẹo nhớ:** "Buôn bán = Thương (商)."
+*   **📐 Cấu tạo chi tiết:** Chữ hội ý: Phía trên mô phỏng đài gác hoặc đế chuông, dưới là chữ Khẩu (口) chỉ cái miệng bàn bạc.
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Triều đại nhà Thương nổi tiếng giỏi kinh doanh giao thương. Họ tụ tập quanh chiếc đài cao mở miệng (口) cò kè bàn bạc giá cả hàng hóa. Nghĩa là thương nhân, buôn bán.
+*   **💡 Mẹo nhớ:** "Tụ tập trên đài mở miệng (口) bàn bạc giá cả = Thương (商) — buôn bán."
 
 ### ❷ Chữ 人 - Cách viết / đọc: *rén*
-*   **📐 Cấu tạo chi tiết:** Con người lao động trong xã hội.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Người hoạt động trong nghề.
-*   **💡 Mẹo nhớ:** "Người = Nhân (人)."
+*   **📐 Cấu tạo chi tiết:** Chữ tượng hình: Hình một người đang đứng nghiêng người, dang hai chân cất bước.
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Mô phỏng hình dáng một con người có xương sống thẳng với hai chân đứng vững chãi trên mặt đất để lao động. Nghĩa là người, nhân loại.
+*   **💡 Mẹo nhớ:** "Hình người cất bước đi = Nhân (人)."
 
 ### 💡 Tổng kết mẹo nhớ cả cụm 商人
 > "Những người chuyên làm nghề lưu thông hàng hóa giao thương buôn bán trên thị trường (商人) — 商人: thương nhân, nhà buôn."
@@ -1013,14 +1013,14 @@
 ## 53. Cụm từ: 產品 - Sản Phẩm / sản phẩm, đồ vật do con người hay máy móc chế tạo ra
 
 ### ❶ Chữ 產 - Cách viết / đọc: *chǎn*
-*   **📐 Cấu tạo chi tiết:** Phía trên là Lập (đứng lên) + Ngạn (sườn núi). Phía dưới là chữ Sinh (生 - đâm chồi sinh sôi).
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Khai thác sinh sôi từ đất trời làm nên của cải vật chất. Nghĩa là sinh nở, sản xuất, của cải.
-*   **💡 Mẹo nhớ:** "Sinh sôi (生) làm nên của cải = Sản (產) — sản xuất."
+*   **📐 Cấu tạo chi tiết:** Chữ hội ý: Phía trên là chữ Sản (产 - chữ Văn 文 biến thể + sườn núi, chỉ giọt mồ hôi trên trán), dưới là chữ Sinh (生 - sinh đẻ).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Hình ảnh người mẹ vất vả, trán lấm tấm túa giọt mồ hôi nhọc nhằn (产) để sinh đẻ (生) ra một sinh linh mới. Nghĩa là sinh đẻ, sản xuất, tài sản.
+*   **💡 Mẹo nhớ:** "Vất vả (产) Sinh (生) đẻ ra con cái = Sản (產) — sản xuất, sinh ra."
 
 ### ❷ Chữ 品 - Cách viết / đọc: *pǐn*
-*   **📐 Cấu tạo chi tiết:** Ba chữ Khẩu (口) cùng nếm thử đánh giá: phẩm vật chất lượng.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Vật phẩm hoàn thiện.
-*   **💡 Mẹo nhớ:** "Vật phẩm chất lượng = Phẩm (品)."
+*   **📐 Cấu tạo chi tiết:** Chữ hội ý: Ba chữ Khẩu (口 - cái miệng) xếp chồng lên nhau thành hình tam giác.
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Nhiều cái miệng (口) cùng nhau nếm thử, bàn luận và đánh giá xem một đồ vật/thức ăn có ngon và đạt chuẩn hay không. Nghĩa là phẩm chất, sản phẩm.
+*   **💡 Mẹo nhớ:** "Ba cái miệng (口) cùng nếm và đánh giá = Phẩm (品) — vật phẩm."
 
 ### 💡 Tổng kết mẹo nhớ cả cụm 產品
 > "Những phẩm vật hoàn thiện (品) được sản xuất chế tạo nên (產) phục vụ đời sống con người — 產品: sản phẩm."
@@ -1032,14 +1032,14 @@
 ## 54. Cụm từ: 電子 - Điện Tử / điện tử (thiết bị, công nghệ điện tử)
 
 ### ❶ Chữ 電 - Cách viết / đọc: *diàn*
-*   **📐 Cấu tạo chi tiết:** Mưa (雨) + Tia sét (申): năng lượng điện.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Điện tích, năng lượng điện.
-*   **💡 Mẹo nhớ:** "Sét đánh = Điện (電)."
+*   **📐 Cấu tạo chi tiết:** Chữ hội ý: Phía trên là bộ Vũ (雨 - những hạt mưa rơi dưới đám mây), phía dưới là chữ Thân (申 - hình tia chớp xé toạc bầu trời kéo dài).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Trong cơn mưa giông bão bùng (雨), trên bầu trời xuất hiện những tia sét, tia chớp (申) giáng xuống mang theo năng lượng lớn. Nghĩa là điện, sấm sét.
+*   **💡 Mẹo nhớ:** "Trời mưa (雨) có tia sét (申) giáng xuống = Điện (電)."
 
 ### ❷ Chữ 子 - Cách viết / đọc: *zǐ*
-*   **📐 Cấu tạo chi tiết:** Hạt phân tử cực kỳ nhỏ bé vi tế mang điện tích âm.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Hạt vi mô cơ bản.
-*   **💡 Mẹo nhớ:** "Hạt nhỏ = Tử (子)."
+*   **📐 Cấu tạo chi tiết:** Chữ tượng hình: Hình vẽ mô phỏng một đứa trẻ sơ sinh với cái đầu to và hai cánh tay đang giơ lên.
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Người xưa quan sát đứa trẻ sơ sinh chưa thể đứng vững, đầu thì to, chân tay nhỏ bé quẫy đạp nên vẽ thành chữ Tử. Nghĩa gốc là đứa trẻ con, hạt giống, phân tử vi mô.
+*   **💡 Mẹo nhớ:** "Hình đứa trẻ có cái đầu to, cất hai tay = Tử (子) — con cái, hạt nhỏ."
 
 ### 💡 Tổng kết mẹo nhớ cả cụm 電子
 > "Các hạt tích điện vi mô hoạt động tạo nên nền tảng công nghệ số hiện đại — 電子: công nghệ điện tử."
@@ -1051,14 +1051,14 @@
 ## 55. Cụm từ: 市場 - Thị Tràng (Thị trường) / thị trường; chợ buôn bán
 
 ### ❶ Chữ 市 - Cách viết / đọc: *shì*
-*   **📐 Cấu tạo chi tiết:** Mái che căng bạt họp chợ buôn bán trao đổi hàng hóa.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Khu vực giao thương buôn bán.
-*   **💡 Mẹo nhớ:** "Chợ phố = Thị (市)."
+*   **📐 Cấu tạo chi tiết:** Chữ tượng hình kiêm hội ý: Phía trên là bộ Đầu (亠 - hình biển báo), dưới là bộ Cân (巾 - mảnh vải lụa).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Chính quyền cắm một chiếc biển báo (亠) và giăng dải lụa (巾) phân định ranh giới để người dân mang hàng hóa đến đúng khu vực đó trao đổi buôn bán. Nghĩa là cái chợ, thành phố.
+*   **💡 Mẹo nhớ:** "Cắm cờ (亠) giăng vải (巾) họp chợ = Thị (市) — chợ, thành phố."
 
 ### ❷ Chữ 場 - Cách viết / đọc: *chǎng*
-*   **📐 Cấu tạo chi tiết:** Khu đất rộng rãi (土) làm nơi tụ họp đông đảo mọi người.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Bãi đất tổ chức sự kiện.
-*   **💡 Mẹo nhớ:** "Sân bãi = Tràng (場)."
+*   **📐 Cấu tạo chi tiết:** Chữ hình thanh kiêm hội ý: Bên trái là bộ Thổ (土 - đất), bên phải là chữ Dương (昜 - ánh mặt trời chiếu sáng lan tỏa / cờ bay phấp phới).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Một khu đất bằng phẳng (土) rộng rãi, được ánh mặt trời chiếu sáng (昜), dùng làm nơi để mọi người tụ tập, tế lễ hoặc phơi thóc. Nghĩa là quảng trường, bãi đất, sân bãi.
+*   **💡 Mẹo nhớ:** "Bãi đất (土) ngập ánh mặt trời (昜) tụ tập mọi người = Trường (場) — bãi đất."
 
 ### 💡 Tổng kết mẹo nhớ cả cụm 市場
 > "Không gian sân bãi rộng lớn (場) nơi người mua kẻ bán tấp nập giao dịch (市) — 市場: chợ buôn bán, thị trường kinh tế."
@@ -1070,14 +1070,14 @@
 ## 56. Cụm từ: 新型 - Tân Hình / kiểu mới, mẫu mới, thế hệ mới
 
 ### ❶ Chữ 新 - Cách viết / đọc: *xīn*
-*   **📐 Cấu tạo chi tiết:** Rìu chặt cây gỗ mới: tươi mới, mới lạ.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Mới mẻ.
-*   **💡 Mẹo nhớ:** "Mới = Tân (新)."
+*   **📐 Cấu tạo chi tiết:** Chữ hội ý: Bên trái là chữ Tân (辛 - cái đục kim loại sắc bén) và Mộc (木 - cây gỗ), bên phải là bộ Cân (斤 - cái rìu).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Người tiều phu dùng cái rìu sắc (斤) và công cụ kim loại (辛) để chặt đốn một cây gỗ (木) còn tươi mới chưa hề sử dụng. Nghĩa là mới mẻ, tươi mới.
+*   **💡 Mẹo nhớ:** "Dùng đục (辛) và rìu (斤) đốn cây gỗ (木) tươi = Tân (新) — mới."
 
 ### ❷ Chữ 型 - Cách viết / đọc: *xíng*
-*   **📐 Cấu tạo chi tiết:** Khuôn đúc định hình chủng loại.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Mẫu mã kiểu hình thức.
-*   **💡 Mẹo nhớ:** "Kiểu mẫu = Hình (型)."
+*   **📐 Cấu tạo chi tiết:** Chữ hình thanh kiêm hội ý: Phía trên là chữ Hình (刑 - hình dáng / khuôn phép), phía dưới là bộ Thổ (土 - đất sét).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Người thợ thủ công xưa lấy đất sét (土) nhào nặn ra một chiếc khuôn đúc chuẩn mực để tạo hình (刑) cho đồ đồng, đồ gốm. Nghĩa là mô hình, kiểu dáng, khuôn mẫu.
+*   **💡 Mẹo nhớ:** "Lấy đất sét (土) đúc thành hình dáng (刑) chuẩn = Hình (型) — mô hình, kiểu."
 
 ### 💡 Tổng kết mẹo nhớ cả cụm 新型
 > "Khuôn mẫu thiết kế hoàn toàn mới mẻ vừa được sáng tạo ra (新型) — 新型: kiểu mới, mẫu mới ra lò."
@@ -1089,14 +1089,14 @@
 ## 57. Cụm từ: 落伍 - Lạc Ngũ / lạc hậu, lỗi thời, tụt hậu so với thời đại
 
 ### ❶ Chữ 落 - Cách viết / đọc: *luò*
-*   **📐 Cấu tạo chi tiết:** Bộ Thảo (cỏ cây) + Lạc (nước rơi rụng). Lá vàng rụng rơi rớt tụt lại phía sau.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Rơi rụng, rớt lại phía sau.
-*   **💡 Mẹo nhớ:** "Rơi rụng tụt hậu = Lạc (落)."
+*   **📐 Cấu tạo chi tiết:** Chữ hình thanh kiêm hội ý: Phía trên là bộ Thảo (艹 - cỏ cây), phía dưới là chữ Lạc (洛 - dòng sông / nước chảy xuống).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Lá cây, cỏ cây (艹) héo úa và rơi rụng lả tả xuống mặt đất rào rạt như dòng nước sông (洛) tuôn chảy. Nghĩa là rơi rụng, rớt xuống, rớt lại phía sau.
+*   **💡 Mẹo nhớ:** "Lá cây (艹) rụng tuôn rơi như nước sông (洛) chảy = Lạc (落) — rơi rụng."
 
 ### ❷ Chữ 伍 - Cách viết / đọc: *wǔ*
-*   **📐 Cấu tạo chi tiết:** Bên trái là bộ Nhân (亻- người). Bên phải là chữ Ngũ (五 - đội ngũ năm người lính liên kết chiến đấu).
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Đội ngũ hàng quân trong quân đội. Tụt ra khỏi hàng ngũ ngũ binh gọi là rớt ngũ.
-*   **💡 Mẹo nhớ:** "Người (亻) trong hàng ngũ năm người lính (五) = Ngũ (伍)."
+*   **📐 Cấu tạo chi tiết:** Chữ hội ý: Bên trái là bộ Nhân (亻 - người), bên phải là chữ Ngũ (五 - số 5).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Thời cổ đại, biên chế quân đội quy định cứ năm người lính (五) tạo thành một nhóm chiến đấu cơ bản (亻). Nghĩa là đội ngũ, hàng ngũ. Tụt lại phía sau hàng quân gọi là rớt ngũ (落伍).
+*   **💡 Mẹo nhớ:** "Năm người (五) lính xếp thành một hàng = Ngũ (伍) — đội ngũ."
 
 ### 💡 Tổng kết mẹo nhớ cả cụm 落伍
 > "Người lính bị bỏ rơi rớt lại phía sau (落) tụt khỏi hàng ngũ tiến bước của đồng đội (伍) — 落伍: lỗi thời, tụt hậu."
@@ -1108,14 +1108,14 @@
 ## 58. Cụm từ: 知音 - Tri Âm / bạn tri âm, bạn tri kỷ hiểu thấu lòng nhau
 
 ### ❶ Chữ 知 - Cách viết / đọc: *zhī*
-*   **📐 Cấu tạo chi tiết:** Bên trái là bộ Thỉ (矢 - mũi tên bắn trúng). Bên phải là bộ Khẩu (口 - miệng). Nói trúng ngay tâm ý thấu hiểu.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Thấu hiểu tri thức, biết rõ.
-*   **💡 Mẹo nhớ:** "Bắn trúng tâm ý = Tri (知) — biết, hiểu."
+*   **📐 Cấu tạo chi tiết:** Chữ hội ý: Bên trái là chữ Thỉ (矢 - mũi tên bắn đi), bên phải là bộ Khẩu (口 - cái miệng).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Người có kiến thức thì mở miệng (口) nói lời nào cũng sắc bén, gãy gọn và trúng phóc trọng tâm như mũi tên (矢) bắn trúng hồng tâm. Nghĩa là biết, hiểu biết, tri thức.
+*   **💡 Mẹo nhớ:** "Mở miệng (口) nói trúng đích như mũi tên (矢) bay = Tri (知) — hiểu biết."
 
 ### ❷ Chữ 音 - Cách viết / đọc: *yīn*
-*   **📐 Cấu tạo chi tiết:** Bộ Lập trên bộ Nhật: nốt nhạc âm thanh cất lên từ đáy lòng.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Âm thanh tiếng đàn, tâm tư gửi vào tiếng nhạc.
-*   **💡 Mẹo nhớ:** "Tiếng nhạc phát ra = Âm (音)."
+*   **📐 Cấu tạo chi tiết:** Chữ hội ý kiêm chỉ sự: Phía trên là bộ Lập (立 - gốc của nó là chữ Ngôn 言 / lời nói), phía dưới là nét Nhất (一 - ngậm lại trong miệng).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Âm thanh bắt nguồn từ lời nói, tiếng ca cất lên (言) nhưng có nhịp điệu và được đọng lại, ngân vang (一) trong lòng người nghe. Nghĩa là âm thanh, nốt nhạc, âm điệu.
+*   **💡 Mẹo nhớ:** "Lời nói (立) đọng lại một (一) nhịp ngân vang = Âm (音) — âm thanh."
 
 ### 💡 Tổng kết mẹo nhớ cả cụm 知音
 > "Tích Bá Nha - Chung Tử Kỳ nghe tiếng đàn là thấu suốt tâm can (知音) — 知音: người bạn tri âm thấu hiểu tâm can."
@@ -1127,14 +1127,14 @@
 ## 59. Cụm từ: 想像 - Tưởng Tượng / tưởng tượng; hình dung trong đầu
 
 ### ❶ Chữ 想 - Cách viết / đọc: *xiǎng*
-*   **📐 Cấu tạo chi tiết:** Tương (đối diện) trên Tâm (trái tim): ấp ủ suy tư sâu lắng trong lòng.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Suy nghĩ trong tâm trí.
-*   **💡 Mẹo nhớ:** "Ấp ủ trong tim = Tưởng (想)."
+*   **📐 Cấu tạo chi tiết:** Chữ hình thanh kiêm hội ý: Phía trên là chữ Tương (相 - hình mắt Mục nhìn cây Mộc / dung mạo), phía dưới là bộ Tâm (心 - trái tim/tâm trí).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Dùng trái tim và tâm trí (心) để xem xét, hồi tưởng, ghi nhớ bóng dáng dung mạo (相) của một người thân yêu nào đó. Nghĩa là suy nghĩ, nhớ nhung, mong muốn.
+*   **💡 Mẹo nhớ:** "Tâm trí (心) nhớ đến dung mạo (相) của ai đó = Tưởng (想) — nhớ, nghĩ, muốn."
 
 ### ❷ Chữ 像 - Cách viết / đọc: *xiàng*
-*   **📐 Cấu tạo chi tiết:** Bên trái là bộ Nhân (亻- người). Bên phải là chữ Tượng (象 - con voi to lớn).
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Vẽ lại hình dáng giống như con voi to lớn để con người hình dung. Nghĩa là hình tượng, giống như.
-*   **💡 Mẹo nhớ:** "Người (亻) hình dung lại con voi (象) = Tượng (像) — hình bóng."
+*   **📐 Cấu tạo chi tiết:** Chữ hình thanh kiêm hội ý: Bên trái là bộ Nhân (亻 - con người), bên phải là chữ Tượng (象 - con voi to lớn).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Con người (亻) vẽ tranh hoặc tạc tượng mô phỏng lại hình dáng của con voi (象) khổng lồ để người chưa từng thấy có thể hình dung ra. Nghĩa là giống như, hình tượng, chân dung.
+*   **💡 Mẹo nhớ:** "Người (亻) đẽo tạc hình con voi (象) = Tượng (像) — giống như, hình tượng."
 
 ### 💡 Tổng kết mẹo nhớ cả cụm 想像
 > "Vẽ nên bức tranh hình tượng kỳ thú (像) sâu thẳm trong trí tưởng tượng của tâm hồn (想) — 想像: tưởng tượng, hình dung."
@@ -1146,19 +1146,19 @@
 ## 60. Cụm từ: 喇叭褲 - Lạt Bá Khố / quần ống loe (chiếc quần thời trang có ống xòe như chiếc kèn loa)
 
 ### ❶ Chữ 喇 - Cách viết / đọc: *lǎ*
-*   **📐 Cấu tạo chi tiết:** Bên trái là bộ Khẩu (口 - miệng phát âm). Bên phải là chữ Thích (剌 - vết rạch). Kèn loa thổi kêu.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Chiếc kèn thổi tiếng vang.
-*   **💡 Mẹo nhớ:** "Tiếng kèn = Lạt (喇)."
+*   **📐 Cấu tạo chi tiết:** Chữ hình thanh: Bên trái là bộ Khẩu (口 - cái miệng / âm thanh), bên phải là chữ Lạt (剌 - tiếng động xé rách).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Dùng miệng (口) thổi ra một âm thanh the thé chói tai như tiếng xé rách màng nhĩ (剌). Chữ này chuyên dùng ghép từ mượn âm, như 喇叭 (kèn đồng, loa).
+*   **💡 Mẹo nhớ:** "Miệng (口) thổi kèn kêu the thé chói tai (剌) = Lạt (喇) — kèn, loa."
 
 ### ❷ Chữ 叭 - Cách viết / đọc: *bā*
-*   **📐 Cấu tạo chi tiết:** Bộ Khẩu (口) + Bát (八 - hai cánh xòe rộng sang hai bên). Chiếc miệng xòe rộng như loa kèn.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Loa kèn xòe rộng miệng.
-*   **💡 Mẹo nhớ:** "Miệng xòe rộng = Bá (叭)."
+*   **📐 Cấu tạo chi tiết:** Chữ hình thanh kiêm hội ý: Bên trái là bộ Khẩu (口 - cái miệng), bên phải là chữ Bát (八 - phân chia, xòe rộng sang hai bên).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Phần miệng (口) của chiếc kèn đồng được thiết kế loe và xòe rộng ra hai bên (八) để âm thanh khuếch đại đi thật xa. Nghĩa là kèn đồng, loa phát thanh.
+*   **💡 Mẹo nhớ:** "Miệng (口) loe xòe rộng ra hai bên (八) = Bát (叭) — chiếc loa kèn."
 
 ### ❸ Chữ 褲 - Cách viết / đọc: *kù*
-*   **📐 Cấu tạo chi tiết:** Bên trái là bộ Y (衤- trang phục). Bên phải là chữ Khố (庫 - kho cất chứa đồ). Chiếc quần bao bọc đôi chân.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Chiếc quần mặc ở phần dưới cơ thể.
-*   **💡 Mẹo nhớ:** "Trang phục (衤) che đôi chân = Khố (褲) — chiếc quần."
+*   **📐 Cấu tạo chi tiết:** Chữ hình thanh kiêm hội ý: Bên trái là bộ Y (衤 - y phục, quần áo), bên phải là chữ Khố (庫 - cái kho cất giấu đồ).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Trang phục, áo quần (衤) được may theo hình ống giống như một cái kho chứa (庫) để cất giấu và che chở cho phần chi dưới của cơ thể. Nghĩa là chiếc quần.
+*   **💡 Mẹo nhớ:** "Áo quần (衤) bao bọc che chở như cái kho chứa đồ (庫) = Khố (褲) — chiếc quần."
 
 ### 💡 Tổng kết mẹo nhớ cả cụm 喇叭褲
 > "Chiếc quần (褲) có phần ống xòe rộng ra hai bên tựa như chiếc miệng kèn loa (喇叭) — 喇叭褲: quần ống loe retro cổ điển."
@@ -1170,14 +1170,14 @@
 ## 61. Cụm từ: 印象 - Ấn Tượng / ấn tượng; dấu ấn khắc sâu trong tâm trí
 
 ### ❶ Chữ 印 - Cách viết / đọc: *yìn*
-*   **📐 Cấu tạo chi tiết:** Bàn tay cầm con dấu son ấn đóng dứt khoát xuống giấy tờ.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Đóng dấu, in dấu ấn.
-*   **💡 Mẹo nhớ:** "Đóng dấu ấn = Ấn (印)."
+*   **📐 Cấu tạo chi tiết:** Chữ hội ý: Phía trên là bộ Trảo (爪 - bàn tay úp xuống), phía dưới là bộ Tiết (卩 - người đang quỳ rạp).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Hình ảnh một bàn tay (爪) đang ấn đầu một người bắt phải quỳ rạp xuống (卩) phục tùng. Nghĩa mở rộng là dùng tay ấn mạnh con dấu xuống mặt giấy để in vết tích. Nghĩa là ấn tín, đóng dấu, in ấn.
+*   **💡 Mẹo nhớ:** "Tay (爪) ấn người ta quỳ xuống (卩) = Ấn (印) — con dấu, in ấn."
 
 ### ❷ Chữ 象 - Cách viết / đọc: *xiàng*
-*   **📐 Cấu tạo chi tiết:** Hình con voi to lớn có vòi dài và ngà cong vững chãi.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Hình ảnh to lớn nổi bật.
-*   **💡 Mẹo nhớ:** "Con voi to lớn = Tượng (象)."
+*   **📐 Cấu tạo chi tiết:** Chữ tượng hình: Hình vẽ mô phỏng con voi với chiếc vòi dài, cặp ngà sắc, lỗ tai to và bốn chân vững chãi.
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Mô phỏng hình dáng con voi to lớn có thật ngoài đời thực. Về sau mượn âm và mở rộng nghĩa để chỉ hình tượng, hiện tượng hoặc biểu tượng.
+*   **💡 Mẹo nhớ:** "Hình vẽ con voi vòi dài, răng ngà vểnh = Tượng (象) — con voi, hình tượng."
 
 ### 💡 Tổng kết mẹo nhớ cả cụm 印象
 > "Dấu ấn son sắc sảo (印) in sâu hình ảnh rõ nét (象) vào tận đáy lòng — 印象: ấn tượng khó phai."
@@ -1189,14 +1189,14 @@
 ## 62. Cụm từ: 遊戲 - Du Hí / trò chơi; game giải trí
 
 ### ❶ Chữ 遊 - Cách viết / đọc: *yóu*
-*   **📐 Cấu tạo chi tiết:** Bên trái là bộ Sước (辶 - bước đi). Bên phải là chữ Du (斿 - lá cờ đuôi nheo phất phơ dạo chơi).
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Cầm cờ rong ruổi thảnh thơi dạo chơi khắp bốn phương. Nghĩa là dạo chơi, ngao du.
-*   **💡 Mẹo nhớ:** "Rảo bước (辶) thảnh thơi dạo chơi = Du (遊)."
+*   **📐 Cấu tạo chi tiết:** Chữ hình thanh kiêm hội ý: Bên trái là bộ Xước (辶 - bước chân đi / di chuyển), bên phải là chữ Du (斿 - lá cờ đuôi nheo bay phất phơ / cũng là hình đứa trẻ đội cờ).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Người lính hoặc du khách cầm lá cờ (斿) rong ruổi bước đi (辶) khắp nơi một cách thong dong tự tại. Nghĩa là dạo chơi, ngao du, du lịch.
+*   **💡 Mẹo nhớ:** "Cầm cờ (斿) rong ruổi dạo bước (辶) = Du (遊) — dạo chơi."
 
 ### ❷ Chữ 戲 - Cách viết / đọc: *xì*
-*   **📐 Cấu tạo chi tiết:** Bên trái là chữ Hư (nồi nấu nướng). Bên phải là bộ Qua (戈 - cây giáo vũ khí đùa giỡn trong tuồng kịch).
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Cầm giáo gỗ đùa vui diễn trò trên sân khấu tuồng kịch. Nghĩa là diễn trò, vui đùa, trò chơi.
-*   **💡 Mẹo nhớ:** "Cầm giáo đùa vui trên sân khấu = Hí (戲) — kịch nghệ, trò chơi."
+*   **📐 Cấu tạo chi tiết:** Chữ hội ý: Bên trái là chữ Hư (鬳 - con cọp / hoặc hình nồi đất nấu nướng), bên phải là bộ Qua (戈 - cây giáo vũ khí).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Những người diễn tuồng ngày xưa hóa trang vằn vện, cầm cây giáo vũ khí (戈) đánh nhau giả vờ trên sân khấu để giải trí. Nghĩa là diễn trò, vở kịch, vui đùa, trò chơi.
+*   **💡 Mẹo nhớ:** "Cầm giáo mác (戈) hóa trang vằn vện múa võ = Hí (戲) — trò chơi, tuồng kịch."
 
 ### 💡 Tổng kết mẹo nhớ cả cụm 遊戲
 > "Ngao du dạo bước thảnh thơi (遊) hòa mình vào các màn vui đùa giải trí sảng khoái (戲) — 遊戲: trò chơi, video game."
@@ -1208,14 +1208,14 @@
 ## 63. Cụm từ: 化妝 - Hóa Trang / trang điểm, điểm phấn tô son
 
 ### ❶ Chữ 化 - Cách viết / đọc: *huà*
-*   **📐 Cấu tạo chi tiết:** Người đứng (亻) và người quay ngược (匕): biến chuyển thay đổi diện mạo.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Biến đổi, chuyển hóa diện mạo.
-*   **💡 Mẹo nhớ:** "Biến đổi diện mạo = Hóa (化)."
+*   **📐 Cấu tạo chi tiết:** Chữ hội ý: Bên trái là bộ Nhân (亻 - hình một người đang đứng thẳng), bên phải là chữ Chủy (匕 - hình một người bị lộn ngược đầu xuống đất).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Một người đang đứng thẳng thắn (亻), bỗng nhiên xoay lộn ngược lại (匕), chỉ sự biến đổi hoàn toàn trái ngược về diện mạo hoặc bản chất. Nghĩa là biến hóa, thay đổi, hóa học.
+*   **💡 Mẹo nhớ:** "Người (亻) lộn ngược lại 180 độ (匕) = Hóa (化) — biến hóa."
 
 ### ❷ Chữ 妝 - Cách viết / đọc: *zhuāng*
-*   **📐 Cấu tạo chi tiết:** Bên trái là bộ Nữ (女 - người phụ nữ). Bên phải là chữ Tường (爿 - tấm phản/bàn phấn trang điểm).
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Người phụ nữ (女) ngồi trước bàn trang điểm (爿) tô son điểm phấn làm đẹp. Nghĩa là trang điểm.
-*   **💡 Mẹo nhớ:** "Người con gái (女) ngồi trước bàn phấn = Trang (妝) — trang điểm."
+*   **📐 Cấu tạo chi tiết:** Chữ hội ý: Bên trái là bộ Nữ (女 - người phụ nữ / gốc là 爿: tấm phản, bàn phấn), bên phải là Nữ.
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Người phụ nữ (女) ngồi trước chiếc bàn trang điểm hoặc tấm phản (爿) để chải chuốt, tô son điểm phấn làm đẹp dung nhan. Nghĩa là trang điểm, hóa trang.
+*   **💡 Mẹo nhớ:** "Phụ nữ (女) ngồi bên bàn phấn (爿) làm đẹp = Trang (妝) — trang điểm."
 
 ### 💡 Tổng kết mẹo nhớ cả cụm 化妝
 > "Dùng phấn son biến hóa nhan sắc (化) điểm tô cho diện mạo rạng rỡ lung linh (妝) — 化妝: trang điểm."
@@ -1227,9 +1227,9 @@
 ## 64. Cụm từ: 一模一樣 - Nhất Mô Nhất Dạng / giống y như đúc, giống nhau như hai giọt nước
 
 ### ❶ Chữ 一 - Cách viết / đọc: *yī*
-*   **📐 Cấu tạo chi tiết:** Một nét ngang đồng nhất.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Đồng nhất.
-*   **💡 Mẹo nhớ:** "Nhất (一)."
+*   **📐 Cấu tạo chi tiết:** Chữ chỉ sự: Một nét ngang duy nhất vạch trên không gian.
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Biểu thị số một, sự khởi đầu của vạn vật, sự duy nhất. Trong ngữ pháp, nó còn diễn tả một hành động xảy ra chớp nhoáng, dứt khoát.
+*   **💡 Mẹo nhớ:** "Một nét ngang dứt khoát = Nhất (一) — số một."
 
 ### ❷ Chữ 模 - Cách viết / đọc: *mú*
 *   **📐 Cấu tạo chi tiết:** Bên trái là bộ Mộc (木 - thanh gỗ). Bên phải là chữ Mạc (莫 - lúc hoàng hôn mặt trời lặn).
@@ -1237,14 +1237,14 @@
 *   **💡 Mẹo nhớ:** "Khuôn đúc bằng gỗ = Mô (模) — khuôn mẫu."
 
 ### ❸ Chữ 一 - Cách viết / đọc: *yí*
-*   **📐 Cấu tạo chi tiết:** Một thể đồng dạng.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Thống nhất.
-*   **💡 Mẹo nhớ:** "Nhất (一)."
+*   **📐 Cấu tạo chi tiết:** Chữ chỉ sự: Một nét ngang duy nhất vạch trên không gian.
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Biểu thị số một, sự khởi đầu của vạn vật, sự duy nhất. Trong ngữ pháp, nó còn diễn tả một hành động xảy ra chớp nhoáng, dứt khoát.
+*   **💡 Mẹo nhớ:** "Một nét ngang dứt khoát = Nhất (一) — số một."
 
 ### ❹ Chữ 樣 - Cách viết / đọc: *yàng*
-*   **📐 Cấu tạo chi tiết:** Bộ Mộc + Dương: kiểu dạng, dáng vẻ.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Hình dáng khuôn mẫu.
-*   **💡 Mẹo nhớ:** "Kiểu dáng = Dạng (樣)."
+*   **📐 Cấu tạo chi tiết:** Chữ hình thanh kiêm hội ý: Bên trái là bộ Mộc (木 - thanh gỗ), bên phải gồm chữ Dương (羊 - con cừu) và Vĩnh (永 / 氺 - dòng nước kéo dài).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Lấy tấm gỗ (木) chạm khắc hoa văn hình con cừu (羊) để làm khuôn mẫu điêu khắc được lưu truyền mãi mãi ngàn đời (氺). Nghĩa là hình dáng, kiểu dáng, hình thức.
+*   **💡 Mẹo nhớ:** "Khắc hình cừu (羊) lưu truyền (氺) lên gỗ (木) làm khuôn mẫu = Dạng (樣)."
 
 ### 💡 Tổng kết mẹo nhớ cả cụm 一模一樣
 > "Cùng đúc ra từ một khuôn mẫu gỗ (一模) tạo thành một hình hài y hệt nhau không sai một ly (一樣) — 一模一樣: giống nhau như đúc."
@@ -1256,19 +1256,19 @@
 ## 65. Cụm từ: 淺藍色 - Thiển Lam Sắc / màu xanh lam nhạt, xanh da trời dịu
 
 ### ❶ Chữ 淺 - Cách viết / đọc: *qiǎn*
-*   **📐 Cấu tạo chi tiết:** Bên trái là bộ Thủy (氵- nước). Bên phải là hai chữ Tiễn (戔 - nông cạn, không sâu).
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Nước nông cạn (氵) nhìn thấy tận đáy; màu sắc nhàn nhạt không đậm. Nghĩa là nông cạn, nhạt màu.
-*   **💡 Mẹo nhớ:** "Nước (氵) nông cạn nhìn thấy đáy = Thiển (淺) — nông, nhạt."
+*   **📐 Cấu tạo chi tiết:** Chữ hình thanh kiêm hội ý: Bên trái là bộ Thủy (氵 - nước), bên phải là chữ Tiễn (戔 - hai chiếc vũ khí 戈 tàn sát nhau dẫn đến cạn kiệt).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Nguồn nước (氵) bị khô cạn, vơi đi (戔) khiến mực nước rất thấp, nhìn thấy cả đáy. Nghĩa gốc là nông cạn, vùng nước nông, màu sắc nhàn nhạt.
+*   **💡 Mẹo nhớ:** "Nước (氵) cạn kiệt (戔) trơ cả đáy = Thiển (淺) — nông, nhạt màu."
 
 ### ❷ Chữ 藍 - Cách viết / đọc: *lán*
-*   **📐 Cấu tạo chi tiết:** Phía trên là bộ Thảo (艹 - cây chàm). Phía dưới là chữ Giám (監 - soi bóng chậu nước).
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Lá cây chàm (艹) ngâm nước chiết xuất ra thuốc nhuộm màu xanh da trời biếc thắm. Nghĩa là màu lam, màu xanh.
-*   **💡 Mẹo nhớ:** "Cây cỏ (艹) chiết xuất màu xanh biển = Lam (藍)."
+*   **📐 Cấu tạo chi tiết:** Chữ hình thanh kiêm hội ý: Phía trên là bộ Thảo (艹 - cỏ cây), phía dưới là chữ Giám (監 - nhìn vào chậu nước để soi bóng/biểu âm).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Lá của một loại cây (艹) được đem ngâm vào chậu nước (監) để chiết xuất ra loại thuốc nhuộm có màu xanh da trời biếc thắm. Nghĩa là cây chàm, màu xanh lam.
+*   **💡 Mẹo nhớ:** "Lá cây (艹) ngâm nước làm thuốc nhuộm (監) = Lam (藍) — màu xanh lam."
 
 ### ❸ Chữ 色 - Cách viết / đọc: *sè*
-*   **📐 Cấu tạo chi tiết:** Màu sắc thị giác.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Sắc màu ánh sáng.
-*   **💡 Mẹo nhớ:** "Màu sắc = Sắc (色)."
+*   **📐 Cấu tạo chi tiết:** Chữ hội ý: Phía trên là chữ Nhân (人 - người bề trên), phía dưới là bộ Tiết (卩 - người bề dưới đang quỳ gối).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Kẻ bề dưới đang quỳ rạp (卩) phải lén ngước nhìn sắc mặt, biểu cảm của người bề trên (人) để biết ý mà hành xử cho đúng. Nghĩa là sắc mặt, màu sắc, hoặc sắc dục.
+*   **💡 Mẹo nhớ:** "Kẻ dưới quỳ (卩) nhìn sắc mặt người (人) bề trên = Sắc (色) — màu sắc."
 
 ### 💡 Tổng kết mẹo nhớ cả cụm 淺藍色
 > "Sắc màu xanh biếc của biển trời (藍色) được pha nhạt dịu nhẹ thanh thoát (淺) — 淺藍色: màu xanh lam nhạt."
@@ -1280,14 +1280,14 @@
 ## 66. Cụm từ: 脫掉 - Thoát Điệu / cởi ra; trút bỏ (quần áo, giày dép, mũ)
 
 ### ❶ Chữ 脫 - Cách viết / đọc: *tuō*
-*   **📐 Cấu tạo chi tiết:** Bên trái là bộ Nhục (月 - da thịt cơ thể). Bên phải là chữ Đoái (兌 - cởi bỏ vui vẻ).
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Cởi bỏ lớp áo vướng víu bám trên da thịt (月) để thân thể được thoải mái hân hoan (兌). Nghĩa là cởi ra, thoát khỏi.
-*   **💡 Mẹo nhớ:** "Thân thể (月) cởi bỏ áo quần thấy nhẹ nhõm vui vẻ (兌) = Thoát (脫) — cởi."
+*   **📐 Cấu tạo chi tiết:** Chữ hội ý: Bên trái là bộ Nhục (月/肉 - da thịt cơ thể), bên phải là chữ Đoái (兌 - nói cười vui vẻ, sự tháo gỡ hân hoan).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Cởi bỏ những lớp áo quần nặng nề vướng víu bám trên da thịt (月) để thân thể được hân hoan nhẹ nhõm, tự do bay nhảy (兌). Nghĩa là cởi ra, thoát khỏi vòng cương tỏa.
+*   **💡 Mẹo nhớ:** "Thân thể da thịt (月) cởi bỏ áo quần thấy vui vẻ nhẹ nhõm (兌) = Thoát (脫) — cởi ra."
 
 ### ❷ Chữ 掉 - Cách viết / đọc: *diào*
-*   **📐 Cấu tạo chi tiết:** Bên trái là bộ Thủ (扌- tay). Bên phải là chữ Trác (卓 - cao vút/rơi xuống). Rơi tuột, biến mất hoàn toàn.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Rơi rụng tuột mất hoàn toàn.
-*   **💡 Mẹo nhớ:** "Tuột mất rơi đi = Điệu (掉)."
+*   **📐 Cấu tạo chi tiết:** Chữ hình thanh kiêm hội ý: Bên trái là bộ Thủ (扌 - bàn tay/hành động), bên phải là chữ Trác (卓 - trác tuyệt, cao vút).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Vung bàn tay (扌) làm một vật từ trên cao (卓) bị rớt tuột xuống đất. Nghĩa là rơi rớt, đánh rơi, hoặc tuột mất, biến mất hoàn toàn.
+*   **💡 Mẹo nhớ:** "Tay (扌) vung làm rớt đồ từ trên cao (卓) xuống = Điệu (掉) — đánh rơi, tuột mất."
 
 ### 💡 Tổng kết mẹo nhớ cả cụm 脫掉
 > "Thao tác cởi bỏ hoàn toàn lớp áo quần giày dép vướng víu ra khỏi người — 脫掉: cởi ra."
@@ -1299,24 +1299,24 @@
 ## 67. Cụm từ: 小題大作 - Tiểu Đề Đại Tác / chuyện bé xé ra to; làm quá vấn đề nhỏ nhặt
 
 ### ❶ Chữ 小 - Cách viết / đọc: *xiǎo*
-*   **📐 Cấu tạo chi tiết:** Nhỏ bé, vụn vặt.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Vấn đề nhỏ tí teo.
-*   **💡 Mẹo nhớ:** "Nhỏ bé = Tiểu (小)."
+*   **📐 Cấu tạo chi tiết:** Chữ tượng hình: Hình vẽ ba nét gạch nhỏ bé (một nét phẩy móc ở giữa và hai phẩy hai bên).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Vẽ hình ba hạt cát, giọt nước hoặc mảnh vỡ vụn vặt, biểu thị kích thước cực kỳ bé nhỏ, không đáng kể. Nghĩa là nhỏ bé, tiểu nhân.
+*   **💡 Mẹo nhớ:** "Ba nét phẩy li ti bằng hạt cát = Tiểu (小) — nhỏ bé."
 
 ### ❷ Chữ 題 - Cách viết / đọc: *tí*
-*   **📐 Cấu tạo chi tiết:** Bộ Thị + Hiệt (cái trán): đề tài, đề mục bàn luận.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Đề tài câu chuyện.
-*   **💡 Mẹo nhớ:** "Đề mục = Đề (題)."
+*   **📐 Cấu tạo chi tiết:** Chữ hình thanh kiêm hội ý: Bên trái là chữ Thị (是 - lẽ phải / thẳng thắn), bên phải là bộ Hiệt (頁 - cái đầu người).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Phần trán nằm ngay ngắn (是) ở phía trước cái đầu (頁) con người. Về sau mượn chỉ phần tựa đề mở đầu cuốn sách, đề tài cốt lõi để bàn luận.
+*   **💡 Mẹo nhớ:** "Phần ngay ngắn thẳng thắn (是) trên cái đầu (頁) = Đề (題) — cái trán, đề tài."
 
 ### ❸ Chữ 大 - Cách viết / đọc: *dà*
-*   **📐 Cấu tạo chi tiết:** To tát, lớn lao.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Cực kỳ to lớn.
-*   **💡 Mẹo nhớ:** "To lớn = Đại (大)."
+*   **📐 Cấu tạo chi tiết:** Chữ tượng hình: Hình vẽ một con người đang đứng dang rộng hai tay và hai chân.
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Một con người trưởng thành đứng dang rộng hết mức chân tay để diễn tả một kích thước khổng lồ, to lớn bao trùm. Nghĩa là to lớn, người lớn, vĩ đại.
+*   **💡 Mẹo nhớ:** "Người dang rộng tay chân hết cỡ = Đại (大) — to lớn."
 
 ### ❹ Chữ 作 - Cách viết / đọc: *zuò*
-*   **📐 Cấu tạo chi tiết:** Làm việc, tác thành bài văn dài.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Làm to chuyện.
-*   **💡 Mẹo nhớ:** "Tác phẩm = Tác (作)."
+*   **📐 Cấu tạo chi tiết:** Chữ hội ý: Bên trái là bộ Nhân (亻 - người), bên phải là chữ Tác (乍 - sự đột ngột / gốc là hình cái búa bằng đá thời cổ đại).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Hình ảnh con người (亻) cầm cái búa bằng đá (乍) để đi vào rừng lao động làm việc, sáng tạo ra các công cụ sắc bén. Nghĩa là làm việc, sáng tác, tác phẩm.
+*   **💡 Mẹo nhớ:** "Người (亻) vác búa đá (乍) đi làm việc mưu sinh = Tác (作)."
 
 ### 💡 Tổng kết mẹo nhớ cả cụm 小題大作
 > "Một đề mục đề tài nhỏ nhặt không đáng kể (小題) lại đem ra viết thành áng văn to tát nghiêm trọng hóa vấn đề (大作) — 小題大作: chuyện bé xé ra to."
@@ -1328,14 +1328,14 @@
 ## 68. Cụm từ: 推出 - Thôi Xuất / ra mắt, tung ra thị trường (sản phẩm mới, gói cước, tính năng mới)
 
 ### ❶ Chữ 推 - Cách viết / đọc: *tuī*
-*   **📐 Cấu tạo chi tiết:** Bộ Thủ (扌- tay) + Chuy (chim): đẩy mạnh về phía trước.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Đẩy đồ vật vươn tới.
-*   **💡 Mẹo nhớ:** "Đẩy tới = Thôi (推)."
+*   **📐 Cấu tạo chi tiết:** Chữ hội ý: Bên trái là bộ Thủ (扌 - bàn tay), bên phải là chữ Chuy (隹 - con chim đuôi ngắn).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Hình ảnh một bàn tay (扌) dùng sức hất nhẹ để đẩy con chim (隹) đậu trên đó bay vút về phía trước. Nghĩa là đẩy mạnh, đẩy lùi, hoặc tiến cử, đề cử.
+*   **💡 Mẹo nhớ:** "Bàn tay (扌) đẩy con chim (隹) bay đi = Thôi (推) — xô đẩy, tiến cử."
 
 ### ❷ Chữ 出 - Cách viết / đọc: *chū*
-*   **📐 Cấu tạo chi tiết:** Hai ngọn núi nhô mầm cây: vươn ra trình diện trước công chúng.
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Lộ diện ra ngoài.
-*   **💡 Mẹo nhớ:** "Bước ra = Xuất (出)."
+*   **📐 Cấu tạo chi tiết:** Chữ tượng hình kiêm hội ý: Hình ảnh bàn chân (止) bước đi ra khỏi hang động (凵), hoặc hình cái rễ cây vươn nảy mầm khỏi mặt đất.
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Nét vẽ thời Giáp cốt văn mô phỏng một bàn chân (止) dứt khoát bước ra khỏi cái hang giam giữ (凵). Nghĩa là đi ra ngoài, xuất hiện, tung ra.
+*   **💡 Mẹo nhớ:** "Bàn chân bước ra khỏi hang vươn lên = Xuất (出) — đi ra."
 
 ### 💡 Tổng kết mẹo nhớ cả cụm 推出
 > "Dùng lực đẩy mạnh đưa thành phẩm (推) bước ra mắt công chúng người tiêu dùng (出) — 推出: ra mắt, tung ra sản phẩm mới."
