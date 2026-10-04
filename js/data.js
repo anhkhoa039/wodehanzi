@@ -28386,9 +28386,9 @@ const LESSON_DATA = [
       {
         "char": "流",
         "pinyin": "liú",
-        "structure": "Bên trái là bộ Thủy (氵- nước chảy). Bên phải là chữ Đột (chuỗi tóc trôi dạt theo dòng nước).",
-        "story": "Dòng nước chảy xiết cuồn cuộn lan truyền đi khắp nơi. Nghĩa là chảy xiết, lan truyền rộng khắp.",
-        "mnemonic": "Nước (氵) chảy lan truyền khắp chốn = Lưu (流) — trôi chảy, lưu hành."
+        "structure": "Chữ hội ý: Bên trái là bộ Thủy (氵- nước). Bên phải là chữ 㐬 (*liú*, cũng là phần gợi âm), gồm hai phần: trên là 𠫓 (chữ Tử 子 lộn ngược — đứa trẻ chào đời, đầu chúc xuống), dưới là ba nét giống chữ Xuyên (川 - dòng nước ối / mái tóc ướt của em bé).",
+        "story": "Khi sinh nở, em bé (𠫓) trượt ra đầu chúc xuống, cùng lúc dòng nước ối (川) tuôn chảy theo. Thêm bộ Thủy (氵) để nhấn mạnh ý \"nước tuôn chảy trôi đi\". Nghĩa gốc là chảy; từ \"chảy lan ra\" mở rộng thành lan truyền, lưu hành, trào lưu.",
+        "mnemonic": "Em bé lộn đầu (𠫓) trượt theo dòng nước (川 + 氵) = Lưu (流) — chảy trôi, lan truyền."
       },
       {
         "char": "行",
@@ -28398,7 +28398,7 @@ const LESSON_DATA = [
         "mnemonic": "Nửa trái ngã tư (彳) ghép nửa phải (亍) là đang Hành (行) quân trên đường."
       }
     ],
-    "summary": "Trào lưu văn hóa lan truyền cuồn cuộn như dòng nước (流) và được muôn người đón nhận thực hiện (行) — 流行: thịnh hành, mốt trào lưu.",
+    "summary": "Một kiểu mốt chảy tràn như dòng nước (流) đến mọi ngã tư đường (行), đi đâu cũng thấy người ta mặc — 流行: thịnh hành, đang là mốt.",
     "example": {
       "hanzi": "今年春天特別流行粉色系的服裝和配件。",
       "pinyin": "Jīnnián chūntiān tèbié liúxíng fěnsèxì de fúzhuāng hé pèijiàn.",
@@ -28416,12 +28416,12 @@ const LESSON_DATA = [
       {
         "char": "唉",
         "pinyin": "āi",
-        "structure": "Bên trái là bộ Khẩu (口 - miệng). Bên phải là chữ Hĩ (矣 - trợ từ ngữ khí ngừng lại).",
-        "story": "Mở miệng (口) buông tiếng thở dài ngao ngán trước chuyện không như ý. Thán từ diễn tả tiếc nuối.",
-        "mnemonic": "Mở miệng (口) buông tiếng thở dài = Ai (唉) — than ôi."
+        "structure": "Chữ hình thanh: Bên trái là bộ Khẩu (口 - miệng) chỉ nghĩa. Bên phải là chữ Hĩ (矣 *yǐ* - trợ từ cuối câu cổ văn; cổ âm gần với 唉) chỉ âm. Bản thân 矣 gồm nét trên vốn là chữ Dĩ (以/㠯, chỉ âm) và Thỉ (矢 - mũi tên) ở dưới.",
+        "story": "Thuyết văn giải 唉 là \"譍也\" — tiếng đáp lời \"ừ, vâng\" bật ra từ miệng (口); về sau mới chuyên dùng làm tiếng thở dài. Để dễ nhớ: 矣 là tiếng \"đã xong rồi\" cuối câu cổ văn — như mũi tên (矢) đã bắn đi, không lấy lại được; miệng (口) bật ra tiếng khi việc đã lỡ: \"Haizz!\". Thán từ thở dài, tiếc nuối, bất lực.",
+        "mnemonic": "Miệng (口) kêu khi mũi tên (矢) đã bắn mất = Ai (唉) — haizz, than ôi."
       }
     ],
-    "summary": "Thán từ mở miệng buông tiếng thở dài não nuột — 唉: ôi chao, than ôi.",
+    "summary": "Mũi tên (矢) đã bay mất, chỉ còn cái miệng (口) thở dài — 唉: haizz, than ôi.",
     "example": {
       "hanzi": "唉！我排了兩個小時的隊，最後還是沒買到票。",
       "pinyin": "Āi! Wǒ pái le liǎng ge xiǎoshí de duì, zuìhòu háishì méi mǎi dào piào.",
@@ -28439,16 +28439,16 @@ const LESSON_DATA = [
       {
         "char": "演",
         "pinyin": "yǎn",
-        "structure": "Bên trái là bộ Thủy (氵- nước). Bên phải là chữ Dần (寅 - mũi tên giương cung trong nhà).",
-        "story": "Dòng nước chảy thao diễn biến hóa khôn lường. Nghĩa là biểu diễn, diễn xuất.",
-        "mnemonic": "Biến hóa như dòng nước (氵) = Diễn (演) — biểu diễn."
+        "structure": "Chữ hình thanh: Bên trái là bộ Thủy (氵- nước) chỉ nghĩa. Bên phải là chữ Dần (寅 *yín* → gợi âm *yǎn*). 寅 gồm bộ Miên (宀 - mái nhà) phủ trên hình hai tay kéo thẳng một mũi tên (Kim văn; Giáp cốt văn chỉ vẽ mũi tên) — mang ý \"kéo dài, duỗi thẳng ra\".",
+        "story": "Thuyết văn giải: 演 là \"nước chảy dài\" — dòng nước (氵) được kéo dài ra mãi (寅). Từ \"kéo dài, triển khai từng bước\" sinh ra nghĩa diễn biến, diễn giải, diễn tập; rồi đến \"trình diễn ra cho người khác xem\" = biểu diễn.",
+        "mnemonic": "Nước (氵) kéo dài như mũi tên được kéo thẳng trong nhà (寅) = Diễn (演) — triển khai ra, biểu diễn."
       },
       {
         "char": "唱",
         "pinyin": "chàng",
-        "structure": "Bên trái là bộ Khẩu (口 - miệng). Bên phải là chữ Xương (昌 - hai mặt trời rực rỡ xướng ca).",
-        "story": "Mở miệng (口) cất cao giọng ca vang rộn rã rực rỡ như nắng mai. Nghĩa là ca hát.",
-        "mnemonic": "Mở miệng (口) hát vang rực rỡ = Xướng (唱) — hát."
+        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là bộ Khẩu (口 - miệng). Bên phải là chữ Xương (昌 *chāng* - chỉ âm), gồm Nhật (日 - mặt trời) ở trên và Viết (曰 - cái miệng đang nói, có nét ngang là hơi/lời) ở dưới — không phải hai mặt trời.",
+        "story": "昌 là \"lời nói (曰) sáng rõ dưới ánh mặt trời (日)\" → rạng rỡ, vang to. Thêm một cái miệng (口) nữa: mở miệng cất lời to rõ, dẫn đầu cho người khác hòa theo — đó là xướng, hát (đề xướng 提倡 cũng cùng gốc).",
+        "mnemonic": "Miệng (口) cất lời (曰) vang rõ như mặt trời (日) = Xướng (唱) — hát."
       },
       {
         "char": "會",
@@ -28476,9 +28476,9 @@ const LESSON_DATA = [
       {
         "char": "塞",
         "pinyin": "sāi",
-        "structure": "Chữ hội ý: Phía trên là bộ Miên (宀 - mái che) và Tỉnh (井 - kết cấu đan chéo), dưới là Thổ (土 - đất cát).",
-        "story": "Mái nhà (宀) kết cấu bằng cành cây đan chéo (井) bị hở gió rùa vào, người ta bèn lấy đất cát (土) nhét chặt lại bít kín kẽ hở. Nghĩa là bít tắc, nhét vào, kẹt (塞車 - kẹt xe).",
-        "mnemonic": "Dưới mái nhà (宀) hở kẽ (井) phải lấy đất (土) bít kín = Tắc (塞) — nhét, kẹt."
+        "structure": "Chữ hội ý: Trên cùng là bộ Miên (宀 - mái nhà). Ở giữa là phần trông giống chữ Tỉnh (井), gốc là 㠭 (bốn chữ Công 工 xếp chồng - gạch/vật liệu chèn) đặt trên bộ Củng (廾 → viết thành 八 + nét ngang: hai bàn tay). Dưới cùng là bộ Thổ (土 - đất).",
+        "story": "Trong nhà (宀), hai bàn tay (廾) lấy gạch, gỗ xếp chồng (井) rồi trét đất (土) vào để bít kín lỗ hổng, chặn lối. Nghĩa gốc là lấp kín, bịt lại → nhét vào (塞 *sāi*), tắc nghẽn (塞車 - kẹt xe); đọc *sài* là chỗ hiểm yếu chặn đường (biên ải 邊塞).",
+        "mnemonic": "Trong nhà (宀) hai tay (廾) chèn gạch (井) trát đất (土) bít kín = Tắc (塞) — nhét chặt, kẹt cứng."
       },
       {
         "char": "車",
@@ -28488,7 +28488,7 @@ const LESSON_DATA = [
         "mnemonic": "Một thùng xe ở giữa, hai bánh xe hai bên = Xa (車) — xe cộ."
       }
     ],
-    "summary": "Lượng xe cộ (車) đông nghẹt ken đặc lèn chặt bít kín lối đi (塞) — 塞車: tắc đường, kẹt xe.",
+    "summary": "Xe cộ (車) bị nhét chặt vào đường như gạch trét đất bít kín lỗ hổng (塞) — 塞車: kẹt xe, tắc đường.",
     "example": {
       "hanzi": "上下班尖峰時間，市區的主要幹道常常會嚴重塞車。",
       "pinyin": "Shàngxiàbān jiānfēng shíjiān, shìqū de zhǔyào gàndào chángcháng huì yánzhòng sāichē.",
@@ -28506,8 +28506,8 @@ const LESSON_DATA = [
       {
         "char": "線",
         "pinyin": "xiàn",
-        "structure": "Bên trái là bộ Mịch (糸 - sợi tơ nối liền). Bên phải là chữ Tuyền (泉 - suối nguồn chảy không ngừng).",
-        "story": "Sợi tơ dài (糸) kéo dài miên man như dòng suối nguồn (泉). Nghĩa là đường dây, tuyến đường cáp quang kết nối.",
+        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là bộ Mịch (糸 - cuộn tơ) chỉ nghĩa. Bên phải là chữ Tuyền (泉 *quán* - suối, gợi âm *xiàn*), gồm Bạch (白 - hình miệng mạch nước) trên Thủy (水 - nước).",
+        "story": "Nước suối (泉) từ miệng mạch (白) chảy ra thành một dải mảnh, dài, liền mạch — giống hệt một sợi tơ (糸) kéo dài. Nghĩa là sợi chỉ, đường dây, rồi mở rộng thành tuyến đường, đường kẻ, đường truyền mạng.",
         "mnemonic": "Sợi tơ (糸) dài như suối mát (泉) = Tuyến (線) — đường dây cáp mạng."
       },
       {
@@ -28518,7 +28518,7 @@ const LESSON_DATA = [
         "mnemonic": "Chỉ tay lên phía trên mặt phẳng = Thượng (上) — ở trên."
       }
     ],
-    "summary": "Hiện diện và tương tác kết nối trên đường dây mạng internet (線) — 線上: trực tuyến, online.",
+    "summary": "Đang ở trên (上) sợi dây mạng dài như suối chảy (線) — 線上: trực tuyến, online (ngược lại 線下: offline).",
     "example": {
       "hanzi": "現在很多大學生都習慣透過線上平台選課或繳交作業。",
       "pinyin": "Xiànzài hěn duō dàxuéshēng dōu xíguàn tòuguò xiànshàng píngtái xuǎnkè huò jiǎojiāo zuòyè.",
@@ -28559,26 +28559,26 @@ const LESSON_DATA = [
     "id": "b3_5-07",
     "hanzi": "倒楣",
     "pinyin": "dǎoméi",
-    "hanViet": "Đảo Mai (Xui xẻo)",
+    "hanViet": "Đảo Mi (Xui xẻo)",
     "meaning": "xui xẻo, đen đủi, không may",
     "lesson": "3_5",
     "characters": [
       {
         "char": "倒",
         "pinyin": "dǎo",
-        "structure": "Bên trái là bộ Nhân (亻- người). Bên phải là chữ Đáo (到 - chim sà xuống đất).",
-        "story": "Con người ngã nhào lộn ngược sấp mặt xuống đất. Nghĩa là té ngã, đảo lộn, thất bại.",
-        "mnemonic": "Người (亻) ngã nhào xuống đất = Đảo (倒) — té ngã."
+        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là bộ Nhân (亻- người) chỉ nghĩa. Bên phải là chữ Đáo (到 *dào* - chỉ âm), gồm Chí (至 - hình mũi tên cắm phập xuống mặt đất: \"đến nơi\") và bộ Đao (刂 - con dao, ở đây đóng vai trò gợi âm *dāo*).",
+        "story": "至 vẽ mũi tên bay tới rồi cắm thẳng xuống đất. Người (亻) mà \"cắm xuống đất\" như mũi tên (至) thì là ngã nhào, đổ sập. Nghĩa là ngã, đổ (倒下), từ đó thêm nghĩa lộn ngược (倒 *dào* - đổ nước, ngược lại).",
+        "mnemonic": "Người (亻) cắm đầu xuống đất như mũi tên (至) = Đảo (倒) — ngã nhào."
       },
       {
         "char": "楣",
         "pinyin": "méi",
-        "structure": "Bên trái là bộ Mộc (木 - thanh gỗ). Bên phải là chữ Mi (眉 - lông mày).",
-        "story": "Thanh xà ngang trên ngạch cửa gỗ (木) ngay tầm mắt lông mày (眉). Thời xưa thi rớt thì thanh xà cửa bị mốc rêu phong gọi là ngã xà nhà. Nghĩa là xui xẻo.",
-        "mnemonic": "Thanh xà gỗ (木) trên ngạch cửa ngang mày (眉) = Mai (楣)."
+        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là bộ Mộc (木 - gỗ) chỉ nghĩa. Bên phải là chữ Mi (眉 *méi* - lông mày) chỉ âm, gồm hình sợi lông mày cong ở trên và Mục (目 - con mắt) ở dưới.",
+        "story": "Lông mày (眉) nằm ngang ngay trên con mắt (目). Thanh gỗ (木) nằm ngang ngay trên khung cửa cũng giống như \"lông mày của cánh cửa\" — gọi là xà cửa, 門楣. Xà cửa tượng trưng cho thể diện cả nhà (光耀門楣 - làm rạng rỡ xà cửa = làm vẻ vang gia đình). Tương truyền thời Minh–Thanh, nhà có người đi thi thì dựng cột cờ trước cửa; thi rớt thì hạ cột xuống, gọi là \"倒楣\" (đổ cột/xà cửa). Đây là cách giải thích dân gian, chữ 楣 ở đây cũng thường được viết thành 霉 (mốc meo) — 倒霉.",
+        "mnemonic": "Thanh gỗ (木) nằm ngang như lông mày (眉) trên mắt cửa = Mi (楣) — xà cửa."
       }
     ],
-    "summary": "Gặp chuyện đen đủi ngã nhào như bị xà nhà rơi trúng đầu — 倒楣: xui xẻo, đen đủi hết chỗ nói.",
+    "summary": "Xà cửa danh dự (楣) của nhà bị đổ nhào (倒) vì thi rớt — 倒楣: xui xẻo, đen đủi.",
     "example": {
       "hanzi": "今天出門忘記帶錢包又遇到大暴雨，真是倒楣透頂。",
       "pinyin": "Jīntiān chūmén wàngjì dài qiánbāo yòu yùdào dà bàoyǔ, zhēn shì dǎoméi tòudǐng.",
@@ -28596,19 +28596,19 @@ const LESSON_DATA = [
       {
         "char": "樂",
         "pinyin": "yuè",
-        "structure": "Phía trên là hai cuộn tơ nhỏ (幺幺) kẹp viên ngọc (白) trên giá gỗ (木) của nhạc cụ cổ.",
-        "story": "Nhạc cụ dây gảy lên những khúc hòa âm say đắm lòng người. Nghĩa là âm nhạc, vui vẻ.",
-        "mnemonic": "Nhạc cụ gảy tơ hòa âm tuyệt mỹ = Nhạc (樂)."
+        "structure": "Chữ tượng hình: Dưới là Mộc (木 - cái giá gỗ). Trên giá có hai Yêu (幺幺 - hai cuộn dây tơ) kẹp giữa Bạch (白 - hình mặt trống hoặc miếng gảy đàn).",
+        "story": "Giáp cốt văn vẽ dây tơ (幺幺) căng trên giá gỗ (木) — một cây đàn; Kim văn thêm hình trống/miếng gảy (白) ở giữa. Đàn + trống = âm nhạc (đọc *yuè*). Nghe nhạc thì lòng vui, nên chữ này còn đọc *lè* = vui vẻ (快樂).",
+        "mnemonic": "Hai dây tơ (幺幺) cùng cái trống (白) trên giá gỗ (木) = Nhạc (樂) — nghe nhạc thì Lạc (vui)."
       },
       {
         "char": "團",
         "pinyin": "tuán",
-        "structure": "Bộ Vi (囗) + Chuyên: cuộn tròn quấn quýt kết thành một khối.",
-        "story": "Một đoàn thể kết hợp ăn ý.",
-        "mnemonic": "Tập thể gắn kết = Đoàn (團)."
+        "structure": "Chữ hình thanh kiêm hội ý: Bên ngoài là bộ Vi (囗 - vòng tròn bao quanh) chỉ nghĩa. Bên trong là chữ Chuyên (專 *zhuān* - chỉ âm), gồm 叀 (hình con suốt quay sợi đang xoay tròn) và Thốn (寸 - bàn tay).",
+        "story": "Bàn tay (寸) xoay con suốt (叀) quấn sợi thành một cuộn tròn chắc. Đặt trong vòng tròn (囗) để nhấn mạnh ý \"tròn, kết thành một khối\" (飯糰 - nắm cơm). Nhiều người tụ lại thành một khối = đoàn, nhóm (團體, 樂團).",
+        "mnemonic": "Tay (寸) quay suốt (叀) cuộn sợi tròn trong vòng (囗) = Đoàn (團) — kết thành khối."
       }
     ],
-    "summary": "Đoàn thể nghệ sĩ tài năng (團) gắn kết cùng nhau biểu diễn những khúc hòa tấu âm nhạc đỉnh cao (樂) — 樂團: ban nhạc, dàn nhạc.",
+    "summary": "Những người chơi đàn trống (樂) cuộn lại thành một khối như cuộn sợi (團) — 樂團: ban nhạc, dàn nhạc.",
     "example": {
       "hanzi": "五月天是台灣最具代表性且享譽華人世界的搖滾樂團。",
       "pinyin": "Wǔyuètiān shì Táiwān zuì jù dàibiǎoxìng qiě xiǎngyù Huárén shìjiè de yáogǔn yuètuán.",
@@ -28626,12 +28626,12 @@ const LESSON_DATA = [
       {
         "char": "唱",
         "pinyin": "chàng",
-        "structure": "Bên trái là bộ Khẩu (口 - miệng). Bên phải là chữ Xương (昌 - hai mặt trời rực rỡ xướng ca).",
-        "story": "Mở miệng (口) cất cao giọng ca vang rộn rã rực rỡ như nắng mai. Nghĩa là ca hát.",
-        "mnemonic": "Mở miệng (口) hát vang rực rỡ = Xướng (唱) — hát."
+        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là bộ Khẩu (口 - miệng). Bên phải là chữ Xương (昌 *chāng* - chỉ âm), gồm Nhật (日 - mặt trời) ở trên và Viết (曰 - cái miệng đang nói, có nét ngang là hơi/lời) ở dưới — không phải hai mặt trời.",
+        "story": "昌 là \"lời nói (曰) sáng rõ dưới ánh mặt trời (日)\" → rạng rỡ, vang to. Thêm một cái miệng (口) nữa: mở miệng cất lời to rõ, dẫn đầu cho người khác hòa theo — đó là xướng, hát (đề xướng 提倡 cũng cùng gốc).",
+        "mnemonic": "Miệng (口) cất lời (曰) vang rõ như mặt trời (日) = Xướng (唱) — hát."
       }
     ],
-    "summary": "Mở rộng khuôn miệng (口) ngân nga những giai điệu bay bổng — 唱: hát bài ca.",
+    "summary": "Một cái miệng (口) cộng thêm lời nói (曰) sáng rực như mặt trời (日) — 唱: hát (唱歌 hát, 合唱 hợp xướng).",
     "example": {
       "hanzi": "演唱會結束時，全場觀眾一起大聲合唱最後一首經典名曲。",
       "pinyin": "Yǎnchànghuì jiéshù shí, quánchǎng guānzhòng yìqǐ dàshēng héchàng zuìhòu yì shǒu jīngdiǎn míngqǔ.",
@@ -28656,12 +28656,12 @@ const LESSON_DATA = [
       {
         "char": "奮",
         "pinyin": "fèn",
-        "structure": "Phía trên là chữ Đại (大 - chim sải rộng cánh). Ở giữa là bộ Điền (田 - ruộng đồng). Dưới là Củng.",
-        "story": "Chim vỗ mạnh đôi cánh bay vút lên khỏi mặt ruộng cao vút. Nghĩa là phấn chấn, phấn đấu dũng mãnh.",
-        "mnemonic": "Dang cánh (大) bay vút lên khỏi đồng ruộng = Phấn (奮) — phấn chấn."
+        "structure": "Chữ hội ý: Trên cùng là Đại (大 - hình dang rộng, ở đây là đôi cánh xòe to). Ở giữa là bộ Chuy (隹 - con chim đuôi ngắn). Dưới cùng là bộ Điền (田 - ruộng đồng). (Phần 大 + 隹 vốn là chữ 奞: chim xòe cánh.)",
+        "story": "Một con chim (隹) đang đậu trên ruộng (田), bỗng xòe rộng đôi cánh (大) đập mạnh để bốc lên khỏi mặt đất. Hình ảnh dồn hết sức lực vụt lên → phấn chấn, gắng sức (奮鬥 - phấn đấu, 興奮 - hưng phấn).",
+        "mnemonic": "Chim (隹) xòe to cánh (大) vụt lên khỏi ruộng (田) = Phấn (奮) — phấn chấn."
       }
     ],
-    "summary": "Tâm trạng dâng trào hò reo như sóng biển (興) và tinh thần bay vút đầy năng lượng (奮) — 興奮: hưng phấn, phấn khích tột độ.",
+    "summary": "Bốn bàn tay cùng nhấc bổng lên (興) như con chim xòe cánh vụt khỏi ruộng (奮) — 興奮: phấn khích, lâng lâng muốn bay lên.",
     "example": {
       "hanzi": "聽說偶像要來台灣開唱，粉絲們個個都興奮得睡不著覺。",
       "pinyin": "Tīngshuō ǒuxiàng yào lái Táiwān kāichàng, fěnsīmen gègè dōu xīngfèn de shuì bù zháo jiào.",
@@ -28679,9 +28679,9 @@ const LESSON_DATA = [
       {
         "char": "迷",
         "pinyin": "mí",
-        "structure": "Bên trái là bộ Sước (辶 - bước đi). Bên phải là chữ Mễ (米 - hạt gạo tỏa tám hướng).",
-        "story": "Say đắm bước chân đi theo một thần tượng đến quên cả phương hướng lối về. Nghĩa là say mê, người say mê hâm mộ.",
-        "mnemonic": "Bước chân (辶) say đắm theo muôn ngả = Mê (迷) — say mê, fan hâm mộ."
+        "structure": "Chữ hình thanh kiêm hội ý: Bộ Sước (辶 - bước đi trên đường) chỉ nghĩa. Chữ Mễ (米 *mǐ* - gạo) chỉ âm; hình 米 là các hạt gạo rơi tung tóe ra bốn phía, trông như một ngã ba ngã tư tỏa ra nhiều lối.",
+        "story": "Đi (辶) đến chỗ đường tỏa ra tám ngả như hạt gạo vung vãi (米) thì không biết rẽ lối nào — lạc đường (迷路). Bị cuốn vào thứ gì đến mức \"lạc lối\" không thoát ra được = say mê; người say mê một thứ gọi là 迷 (fan): 歌迷, 球迷, 漫畫迷.",
+        "mnemonic": "Đi (辶) vào ngã tư tám ngả như hạt gạo tung tóe (米) = Mê (迷) — lạc lối, mê mẩn."
       }
     ],
     "summary": "Người đắm chìm say mê cuồng nhiệt theo đuổi một sở thích hay thần tượng — 迷: fan hâm mộ (như 歌迷: fan âm nhạc, 球迷: fan bóng đá).",
@@ -28702,19 +28702,19 @@ const LESSON_DATA = [
       {
         "char": "歌",
         "pinyin": "gē",
-        "structure": "Bên trái là hai chữ Khả (哥 - anh trai/hát xướng dồn dập). Bên phải là bộ Khiếm (欠 - người há miệng thở ra lời hát).",
-        "story": "Mở miệng (欠) ngân nga khúc hát du dương truyền cảm. Nghĩa là bài hát, khúc ca.",
-        "mnemonic": "Há miệng (欠) ngân nga bài hát = Ca (歌) — bài hát."
+        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là chữ Ca (哥 *gē* - chỉ âm), gồm hai chữ Khả (可) chồng lên nhau; mỗi chữ 可 lại gồm Khẩu (口 - miệng) và nét móc 丂 (hơi thở bật ra). Bên phải là bộ Khiếm (欠 - người há to miệng thở ra).",
+        "story": "哥 vốn chính là chữ \"hát\" cổ: hai cái miệng (口口) nối tiếp nhau bật hơi (丂丂) — ngân nga hết câu này đến câu khác. Về sau 哥 bị mượn làm \"anh trai\", nên người ta thêm 欠 (người há miệng) để giữ lại nghĩa hát. Nghĩa là hát, bài hát.",
+        "mnemonic": "Hai miệng (可可) thay nhau ngân, thêm người há miệng (欠) = Ca (歌) — bài hát."
       },
       {
         "char": "詞",
         "pinyin": "cí",
-        "structure": "Bên trái là bộ Ngôn (言 - lời nói). Bên phải là chữ Ty (司 - cai quản sắp đặt).",
-        "story": "Ngôn từ được gọt giũa sắp xếp trau chuốt theo niêm luật thi ca. Nghĩa là ca từ, từ ngữ.",
-        "mnemonic": "Lời nói (言) sắp đặt trau chuốt = Từ (詞)."
+        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là bộ Ngôn (言 - lời nói) chỉ nghĩa. Bên phải là chữ Ti/Ty (司 *sī* - chỉ âm), hình một bàn tay che trên một cái miệng (口) đang ra lệnh — người cai quản (công ty 公司, ty 司).",
+        "story": "司 là người quản lý sắp xếp mọi việc. Lời nói (言) được \"quản lý\", sắp xếp cẩn thận từng chữ thì thành từ ngữ, câu văn có chủ ý — từ, lời (歌詞 - lời bài hát, 生詞 - từ mới).",
+        "mnemonic": "Lời nói (言) được người quản lý (司) sắp xếp = Từ (詞) — từ ngữ, lời."
       }
     ],
-    "summary": "Những ngôn từ thi vị trau chuốt (詞) được phổ vào giai điệu bài hát ngọt ngào (歌) — 歌詞: lời bài hát.",
+    "summary": "Những lời (言) được sắp xếp cẩn thận (司) để hai cái miệng thay nhau ngân nga (歌) — 歌詞: lời bài hát.",
     "example": {
       "hanzi": "這首歌的歌詞寫得非常動人，深深觸動了聽眾的心靈。",
       "pinyin": "Zhè shǒu gē de gēcí xiě de fēicháng dòngrén, shēnshēn chùdòng le tīngzhòng de xīnlíng.",
@@ -28739,12 +28739,12 @@ const LESSON_DATA = [
       {
         "char": "過",
         "pinyin": "guò",
-        "structure": "Bộ Sước (辶 - bước đi) vượt qua ngày tháng.",
-        "story": "Trải qua, sống qua từng ngày.",
-        "mnemonic": "Bước qua = Quá (過)."
+        "structure": "Chữ hình thanh: Bộ Sước (辶 - bước đi) chỉ nghĩa. Chữ Qua (咼 *guō*) chỉ âm, gồm 冎 (hình khớp xương đang xoay) ở trên và Khẩu (口) ở dưới.",
+        "story": "咼 gợi hình khớp xương xoay chuyển, cũng là âm \"guo\". Bước đi (辶) xoay chuyển từ bên này sang bên kia = đi qua, vượt qua. Từ \"đi qua\" sinh ra: trải qua (過日子 - sống qua ngày), quá mức (過分), lỗi lầm (過錯 - bước quá đà).",
+        "mnemonic": "Bước chân (辶) xoay khớp (咼) bước qua bên kia = Quá (過) — đi qua, trải qua."
       }
     ],
-    "summary": "Nỗi đau buồn dằn vặt khiến từng ngày tháng trôi qua đều vô cùng khó khăn nhọc nhằn (難過) — 難過: buồn bã đau lòng.",
+    "summary": "Con chim sa lầy (難) mà vẫn phải lết bước qua (過) từng ngày — 難過: ngày khó qua = buồn, đau lòng.",
     "example": {
       "hanzi": "看見心愛的寵物生病痛苦的樣子，主人心裡非常難過。",
       "pinyin": "Kànjiàn xīn'ài de chǒngwù shēngbìng tòngkǔ de yàngzi, zhǔrén xīnlǐ fēicháng nánguò.",
@@ -28769,12 +28769,12 @@ const LESSON_DATA = [
       {
         "char": "如",
         "pinyin": "rú",
-        "structure": "Bên trái là bộ Nữ (女 - người phụ nữ). Bên phải là bộ Khẩu (口 - miệng).",
-        "story": "Người phụ nữ thuận theo lời khuyên bảo đúng đắn. Nghĩa là như ý, giống như, bằng.",
-        "mnemonic": "Thuận theo lời nói (口) = Như (如) — giống như, bằng."
+        "structure": "Chữ hội ý: Bên trái là bộ Nữ (女 - hình người phụ nữ quỳ, hai tay chắp trước ngực). Bên phải là bộ Khẩu (口 - miệng, lời nói/mệnh lệnh).",
+        "story": "Thuyết văn giải 如 là \"theo\" (從隨). Trong xã hội cổ, người phụ nữ (女) làm đúng theo lời (口) được dặn — làm y như lời. Từ \"làm theo, y như\" sinh ra nghĩa giống như (如同), bằng (不如 - không bằng), nếu như (如果).",
+        "mnemonic": "Cô gái (女) làm y như lời (口) dặn = Như (如) — giống như, bằng."
       }
     ],
-    "summary": "So sánh thấy phương án này không bằng (不如) phương án kia, thà chọn cách kia còn hơn — 不如: chi bằng, chẳng thà.",
+    "summary": "Không (不) được như (如) cách kia — vậy thì chi bằng làm cách kia luôn — 不如: không bằng; chi bằng.",
     "example": {
       "hanzi": "與其在家裡無聊看電視，不如跟朋友出去打打球。",
       "pinyin": "Yǔqí zài jiā lǐ wúliáo kàn diànshì, bùrú gēn péngyǒu chūqù dǎ dǎ qiú.",
@@ -28792,9 +28792,9 @@ const LESSON_DATA = [
       {
         "char": "現",
         "pinyin": "xiàn",
-        "structure": "Bộ Ngọc (王) + Kiến (見): hiện ra ngay tận mắt.",
-        "story": "Hiện diện ngay tức thì.",
-        "mnemonic": "Hiện ra trước mắt = Hiện (現)."
+        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là bộ Ngọc (玉 → viết thành 王 khi đứng bên trái, không phải chữ Vương - vua). Bên phải là chữ Kiến (見 *jiàn* - chỉ âm), gồm Mục (目 - con mắt) đặt trên Nhân (儿 - đôi chân người): một người mở to mắt nhìn.",
+        "story": "Viên ngọc (王) thô được mài ra thì ánh sáng ngọc lộ ra, ai cũng nhìn thấy (見). Nghĩa gốc là hiện ra, lộ ra trước mắt; mở rộng thành \"đang có mặt ngay lúc này\" = hiện tại, hiện nay (現在).",
+        "mnemonic": "Ánh ngọc (王) lóe ra trước mắt người nhìn (見) = Hiện (現) — hiện ra, ngay bây giờ."
       },
       {
         "char": "場",
@@ -28804,7 +28804,7 @@ const LESSON_DATA = [
         "mnemonic": "Bãi đất (土) ngập ánh mặt trời (昜) tụ tập mọi người = Trường (場) — bãi đất."
       }
     ],
-    "summary": "Ngay chính tại vị trí không gian sân khấu thực tế (現場) đang diễn ra sự việc — 現場: hiện trường, trực tiếp tại chỗ.",
+    "summary": "Có mặt nhìn thấy tận mắt (現) ngay trên bãi đất đầy nắng nơi mọi người tụ tập (場) — 現場: tại hiện trường, xem trực tiếp (live).",
     "example": {
       "hanzi": "在演唱會現場聽歌的震撼感覺，是在家聽耳機完全無法相比的。",
       "pinyin": "Zài yǎnchànghuì xiànchǎng tīnggē de zhènhàn gǎnjué, shì zài jiā tīng ěrjī wánquán wúfǎ xiāngbǐ de.",
@@ -28822,12 +28822,12 @@ const LESSON_DATA = [
       {
         "char": "跳",
         "pinyin": "tiào",
-        "structure": "Bên trái là bộ Túc (足 - bàn chân). Bên phải là chữ Triệu (兆 - vết nứt tách vọt ra).",
-        "story": "Bàn chân (足) búng bật mạnh mẽ rời khỏi mặt đất nhảy cẫng lên. Nghĩa là nhảy múa, nhún nhảy.",
-        "mnemonic": "Bàn chân (足) bật nhảy rời mặt đất = Khiêu (跳) — nhảy."
+        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là bộ Túc (𧾷 - dạng bên trái của 足: bàn chân) chỉ nghĩa. Bên phải là chữ Triệu (兆 *zhào* - chỉ âm), hình các vết nứt tách ra hai bên trên mai rùa khi hơ lửa để bói (điềm báo, 預兆).",
+        "story": "Khi hơ lửa, mai rùa nứt \"tách!\" một cái, các đường nứt bật văng sang hai bên (兆). Bàn chân (𧾷) đột ngột bật lên, tách khỏi mặt đất như thế = nhảy (跳舞 - nhảy múa, 心跳 - tim đập thình thịch).",
+        "mnemonic": "Chân (𧾷) bật tách khỏi đất như vết nứt mai rùa (兆) = Khiêu (跳) — nhảy."
       }
     ],
-    "summary": "Dùng lực bàn chân (足) nhún bật tung người nhảy múa theo nhịp nhạc cuồng nhiệt — 跳: nhảy, nhún nhảy.",
+    "summary": "Chân (𧾷) bật lên 'tách!' như mai rùa nứt (兆) — 跳: nhảy (跳舞 nhảy múa, 跳動 nhún nhảy, đập).",
     "example": {
       "hanzi": "隨著快節奏的音樂，全場的歌迷都站起來跟著偶像一起跳動。",
       "pinyin": "Suízhe kuài jiézòu de yīnyuè, quánchǎng de gēmí dōu zhàn qǐlái gēnzhe ǒuxiàng yìqǐ tiàodòng.",
@@ -28845,12 +28845,12 @@ const LESSON_DATA = [
       {
         "char": "整",
         "pinyin": "zhěng",
-        "structure": "Phía trên gồm chữ Thúc (束 - bó buộc lại) và Phác (攵 - tay gõ sắp đặt). Phía dưới là chữ Chính (正 - ngay ngắn chuẩn mực).",
-        "story": "Gom bó đồ vật lại gọn ghẽ rồi chỉnh lý cho ngay ngắn toàn vẹn không sót chi tiết nào. Nghĩa là chỉnh tề, nguyên vẹn, toàn bộ.",
-        "mnemonic": "Bó gọn ngay ngắn (正) toàn vẹn = Chỉnh (整) — toàn bộ, chỉnh tề."
+        "structure": "Chữ hình thanh kiêm hội ý: Phía trên là chữ Sắc (敕 - răn chỉnh), gồm Thúc (束 - bó củi buộc dây ở giữa) và bộ Phộc (攵 - tay cầm gậy gõ). Phía dưới là chữ Chính (正 *zhèng* - chỉ âm, ngay ngắn), gồm Nhất (一 - đích đến) trên Chỉ (止 - bàn chân): đi thẳng tới đích.",
+        "story": "Buộc các thanh củi thành bó (束), lấy gậy gõ (攵) cho đầu các thanh bằng nhau, đến khi cả bó thẳng thớm ngay ngắn (正). Một bó gọn gàng, đủ cả, không sót thanh nào → chỉnh tề, nguyên vẹn, toàn bộ (整天 - cả ngày, 整齊 - ngay ngắn).",
+        "mnemonic": "Bó (束) củi, gõ (攵) cho thẳng (正) = Chỉnh (整) — gọn gàng, nguyên cả bó."
       }
     ],
-    "summary": "Toàn bộ một khối trọn vẹn không hề sứt mẻ thiếu sót — 整: trọn vẹn (ví dụ: 整夜: suốt cả đêm, 整棟樓: cả tòa nhà).",
+    "summary": "Cả bó củi (束) được gõ (攵) thẳng hàng (正), không thiếu thanh nào — 整: cả, toàn bộ (整夜: suốt cả đêm, 整棟樓: cả tòa nhà).",
     "example": {
       "hanzi": "大批觀眾同時跳動的強烈節奏，讓整棟體育館都跟著震動。",
       "pinyin": "Dàpī guānzhòng tóngshí tiàodòng de qiángliè jiézòu, ràng zhěng dòng tǐyùguǎn dōu gēnzhe zhèndòng.",
@@ -28868,19 +28868,19 @@ const LESSON_DATA = [
       {
         "char": "震",
         "pinyin": "zhèn",
-        "structure": "Phía trên là bộ Vũ (雨 - sấm sét mưa dông). Phía dưới là chữ Thần (辰 - chấn động đất đai).",
-        "story": "Sấm sét vang rền giữa cơn mưa dông (雨) làm rung chuyển cả mặt đất (辰). Nghĩa là chấn động, rung chuyển mạnh.",
-        "mnemonic": "Sét đánh trời mưa (雨) rung chuyển đất trời (辰) = Chấn (震)."
+        "structure": "Chữ hình thanh kiêm hội ý: Phía trên là bộ Vũ (雨 - mưa, chỉ hiện tượng thời tiết). Phía dưới là chữ Thần (辰 *chén* - chỉ âm), vốn là hình vỏ con trai/ốc lớn dùng làm lưỡi cuốc; theo lịch cổ, tháng Thần (tháng 3) là lúc sấm mùa xuân bắt đầu nổ, vạn vật cựa mình.",
+        "story": "Thuyết văn giải 震 là \"sét đánh\". Trong cơn mưa giông (雨), tiếng sấm tháng Thần (辰) nổ vang làm mặt đất rung lên. Nghĩa là rung mạnh, chấn động (地震 - động đất).",
+        "mnemonic": "Mưa giông (雨) tháng Thần (辰) sấm nổ rung đất = Chấn (震) — rung chuyển."
       },
       {
         "char": "動",
         "pinyin": "dòng",
-        "structure": "Chữ Trọng (重 - sức nặng) + Lực (力 - sức mạnh chuyển động).",
-        "story": "Chuyển động rung chuyển.",
-        "mnemonic": "Chuyển động = Động (動)."
+        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là chữ Trọng (重 *zhòng* - nặng, chỉ âm), gốc là hình một người (人) đeo trên lưng một bao đồ nặng (東), đứng trên mặt đất (土). Bên phải là bộ Lực (力 - hình cái cày/cánh tay gồng sức) chỉ nghĩa.",
+        "story": "Muốn làm một vật nặng (重) nhúc nhích thì phải dùng sức (力). Dùng sức đẩy vật nặng → vật chuyển động. Nghĩa là động, cử động, chuyển động (運動 - vận động).",
+        "mnemonic": "Dùng sức (力) đẩy vật nặng (重) cho nó nhúc nhích = Động (動)."
       }
     ],
-    "summary": "Sức mạnh rung chuyển như sấm sét (震) làm lay động lắc lư đồ vật (動) — 震動: rung chuyển, chấn động.",
+    "summary": "Sấm sét tháng Thần trong mưa (震) mạnh đến mức đẩy được cả vật nặng phải nhúc nhích (重 + 力 = 動) — 震動: rung, rung lắc (手機震動: điện thoại rung).",
     "example": {
       "hanzi": "手機放在桌上開啟震動模式，有電話打進來時會發出嗡嗡聲。",
       "pinyin": "Shǒujī fàng zài zhuōshàng kāiqǐ zhèndòng móshì, yǒu diànhuà dǎ jìnlái shí huì fāchū wēngwēngshēng.",
@@ -28965,12 +28965,12 @@ const LESSON_DATA = [
       {
         "char": "情",
         "pinyin": "qíng",
-        "structure": "Bộ Tâm (忄) + Thanh: tình cảm sâu lắng.",
-        "story": "Tình cảm, xúc cảm.",
-        "mnemonic": "Tình cảm = Tình (情)."
+        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là bộ Tâm đứng (忄 - dạng bên trái của 心: trái tim) chỉ nghĩa. Bên phải là chữ Thanh (青 *qīng* - chỉ âm), gồm Sinh (生 - mầm cây mọc lên) ở trên và Đan (丹 - giếng đá son, chấm đỏ là viên khoáng) ở dưới: màu xanh tươi trong trẻo của mầm non.",
+        "story": "青 là sắc xanh của mầm cây vừa nhú (生) — tươi, tự nhiên. Những cảm xúc tự nhiên nảy mầm trong tim (忄) như mầm cây non = tình, tình cảm (心情 - tâm trạng, 愛情 - tình yêu); mở rộng thành tình hình, tình huống (事情 - sự việc).",
+        "mnemonic": "Mầm xanh (青) nảy lên trong trái tim (忄) = Tình (情) — tình cảm."
       }
     ],
-    "summary": "Hình ảnh ham muốn dục vọng thể xác trần trụi (色) kích động tình cảm dục năng (情) — 色情: khiêu dâm, đồi trụy.",
+    "summary": "Kẻ quỳ ngước nhìn sắc mặt (色) và mầm tình cảm nảy trong tim (情) bị kéo sang nghĩa xác thịt — 色情: khiêu dâm, nội dung 18+ (色 ở đây = sắc dục).",
     "example": {
       "hanzi": "政府嚴格禁止任何包含暴力與色情內容的出版品販售給未成年人。",
       "pinyin": "Zhèngfǔ yángé jìnzhǐ rènhé bāohán bàolì yǔ sèqíng nèiróng de chūbǎnpǐn fànshòu gěi wèichéngniánrén.",
@@ -29000,7 +29000,7 @@ const LESSON_DATA = [
         "mnemonic": "Mái tóc dài (髟) buông xõa rủ xuống tự nhiên như lá cây thông (松) = Tùng (鬆) — thả lỏng."
       }
     ],
-    "summary": "Buông bỏ mọi căng thẳng (放) và thả lỏng thảnh thơi cả thân tâm (鬆) — 放鬆: thư giãn thả lỏng.",
+    "summary": "Thả (放) cho tâm trí và cơ thể buông xõa tự do như mái tóc dài lỏng lẻo (鬆) = 放鬆 (thư giãn, thả lỏng).",
     "example": {
       "hanzi": "聽輕柔的古典音樂是忙碌了一整天之後最好的放鬆方式。",
       "pinyin": "Tīng qīngróu de gǔdiǎn yīnyuè shì mánglù le yì zhěng tiān zhīhòu zuì hǎo de fàngsōng fāngshì.",
@@ -29025,12 +29025,12 @@ const LESSON_DATA = [
       {
         "char": "情",
         "pinyin": "qíng",
-        "structure": "Bộ Tâm (忄) + Thanh: tình cảm sâu lắng.",
-        "story": "Tình cảm, xúc cảm.",
-        "mnemonic": "Tình cảm = Tình (情)."
+        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là bộ Tâm đứng (忄 - dạng bên trái của 心: trái tim) chỉ nghĩa. Bên phải là chữ Thanh (青 *qīng* - chỉ âm), gồm Sinh (生 - mầm cây mọc lên) ở trên và Đan (丹 - giếng đá son, chấm đỏ là viên khoáng) ở dưới: màu xanh tươi trong trẻo của mầm non.",
+        "story": "青 là sắc xanh của mầm cây vừa nhú (生) — tươi, tự nhiên. Những cảm xúc tự nhiên nảy mầm trong tim (忄) như mầm cây non = tình, tình cảm (心情 - tâm trạng, 愛情 - tình yêu); mở rộng thành tình hình, tình huống (事情 - sự việc).",
+        "mnemonic": "Mầm xanh (青) nảy lên trong trái tim (忄) = Tình (情) — tình cảm."
       }
     ],
-    "summary": "Những sắc thái xúc cảm buồn vui diễn ra sâu thẳm trong đáy lòng trái tim (心) — 心情: tâm trạng.",
+    "summary": "Trái tim (心) lớn ở ngoài, mầm cảm xúc xanh (情 = 忄 + 青) nảy bên trong — 心情: tâm trạng (心情很好: tâm trạng tốt).",
     "example": {
       "hanzi": "今天外面的陽光很溫暖，讓人的心情也跟著開朗起來。",
       "pinyin": "Jīntiān wàimiàn de yángguāng hěn wēnnuǎn, ràng rén de xīnqíng yě gēnzhe kāilǎng qǐlái.",
@@ -29085,9 +29085,9 @@ const LESSON_DATA = [
       {
         "char": "算",
         "pinyin": "suàn",
-        "structure": "Phía trên là bộ Trúc (竹 - thẻ tre tính toán). Ở giữa là Mục (目). Phía dưới là Củng (廾 - hai tay gảy bàn tính).",
-        "story": "Dùng thẻ tre tính toán xong xuôi kết toán sổ sách. Nghĩa là tính toán, coi như kết thúc.",
-        "mnemonic": "Tay (廾) gảy thẻ tính toán (竹) xong xuôi = Toán (算)."
+        "structure": "Chữ hội ý (Thuyết văn: 从竹从具): Trên là bộ Trúc (⺮ - tre, ở đây là các que tre đếm số gọi là \"toán trù\" 算籌). Dưới là chữ Cụ (具 - hai tay 廾 nâng đồ vật; phần 目 thực chất là đồ vật/vạc 貝/鼎 viết rút gọn, không phải con mắt).",
+        "story": "Trước khi có bàn tính, người xưa dùng hai tay bày (具) các que tre (⺮) ra để cộng trừ. Để dễ nhớ có thể hình dung 目 là con mắt chăm chú nhìn que tính. Nghĩa là tính toán; từ \"tính ra kết quả\" mở rộng thành \"coi như, tính là\" (算是) và \"tính xong thì thôi\" (算了).",
+        "mnemonic": "Mắt (目) nhìn, hai tay (廾) xếp que tre (⺮) = Toán (算) — tính toán."
       },
       {
         "char": "了",
@@ -29097,7 +29097,7 @@ const LESSON_DATA = [
         "mnemonic": "Đứa trẻ (子) bị quấn tã cất đi hai tay = Liễu (了) — xong, rồi."
       }
     ],
-    "summary": "Tính toán tới đây là coi như kết thúc không truy cứu nữa — 算了: thôi bỏ đi, không sao đâu.",
+    "summary": "Gom que tre lại, coi như đã tính (算) xong rồi (了), không tính toán gì nữa — 算了: thôi bỏ đi, thôi vậy.",
     "example": {
       "hanzi": "既然他今天臨時有急事不能來，那我們今天就算了吧。",
       "pinyin": "Jìrán tā jīntiān línshí yǒu jíshì bù néng lái, nà wǒmen jīntiān jiù suàn le ba.",
@@ -29115,26 +29115,26 @@ const LESSON_DATA = [
       {
         "char": "受",
         "pinyin": "shòu",
-        "structure": "Hai bàn tay đón nhận lấy: tiếp nhận.",
-        "story": "Được nhận lấy tình cảm.",
-        "mnemonic": "Tiếp nhận = Thọ (受)."
+        "structure": "Chữ hình thanh kiêm hội ý: Trên là bộ Trảo (爫 - bàn tay úp xuống). Giữa là bộ Mịch (冖 - gốc là hình chiếc thuyền 舟 viết tắt / vật được trao, Thuyết văn coi là phần chỉ âm). Dưới là bộ Hựu (又 - bàn tay ngửa lên).",
+        "story": "Một bàn tay ở trên (爫) đưa đồ vật (冖) xuống, một bàn tay ở dưới (又) đỡ lấy. Ban đầu chữ này chỉ cả \"trao\" lẫn \"nhận\"; về sau thêm 扌 thành 授 cho nghĩa \"trao\", còn 受 giữ nghĩa \"nhận, chịu\" (接受 - tiếp nhận, 受傷 - bị thương, 受歡迎 - được hoan nghênh).",
+        "mnemonic": "Tay trên (爫) đưa vật (冖) xuống tay dưới (又) đỡ lấy = Thụ/Thọ (受) — nhận, chịu."
       },
       {
         "char": "歡",
         "pinyin": "huān",
-        "structure": "Bên trái là chữ Hoan (雚 - loài chim quý vỗ cánh). Bên phải là bộ Khiếm (欠 - người há miệng reo hò).",
-        "story": "Há miệng reo hò vui sướng chào đón khách quý. Nghĩa là hân hoan, vui mừng.",
-        "mnemonic": "Há miệng (欠) reo vui đón chào = Hoan (歡)."
+        "structure": "Chữ hình thanh: Bên trái là chữ Quán (雚 *guàn* - chỉ âm), hình con cò/cú: trên là 艹 (túm lông mào), giữa là hai Khẩu (吅 - hai con mắt tròn to), dưới là Chuy (隹 - con chim). Bên phải là bộ Khiếm (欠 - người há to miệng) chỉ nghĩa.",
+        "story": "Con chim mào (雚) mắt tròn xoe kêu ríu rít, người bên cạnh há miệng (欠) cười reo theo. Há miệng cười nói rộn ràng = vui mừng, hoan hỉ (歡迎 - hoan nghênh, 喜歡 - thích).",
+        "mnemonic": "Chim mào mắt tròn (雚) ríu rít, người há miệng (欠) cười reo = Hoan (歡) — vui mừng."
       },
       {
         "char": "迎",
         "pinyin": "yíng",
-        "structure": "Bên trái là bộ Sước (辶 - bước đi). Bên phải là chữ Ngưỡng (卬 - người ngước mắt trông đợi).",
-        "story": "Bước chân rảo bước ra cửa ngước nhìn đón chào người thân phương xa trở về. Nghĩa là nghênh đón.",
-        "mnemonic": "Bước chân (辶) ngóng trông (卬) đón người về = Nghênh (迎)."
+        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là bộ Sước (辶 - bước đi) chỉ nghĩa. Bên phải là chữ Ngang (卬 *áng* - chỉ âm), gồm một người đứng (亻biến thể) và một người quỳ (卩) ngước lên nhìn.",
+        "story": "Hai người (卬): một người ngẩng mặt trông về phía người kia. Bước ra (辶) đường, ngẩng mặt (卬) trông người đến để đón = nghênh đón (歡迎).",
+        "mnemonic": "Bước ra (辶) ngẩng mặt trông người (卬) = Nghênh (迎) — đón."
       }
     ],
-    "summary": "Được mọi người mở rộng vòng tay đón chào trong niềm hân hoan vui sướng — 受歡迎: được mến mộ, rất được yêu thích.",
+    "summary": "Nhận được (受) cảnh mọi người cười reo (歡) bước ra ngẩng mặt đón mình (迎) — 受歡迎: được yêu thích, được chào đón.",
     "example": {
       "hanzi": "台灣的珍珠奶茶和鹹酥雞在國外非常受歡迎。",
       "pinyin": "Táiwān de zhēnzhū nǎichá hé xiánsūjī zài guówài fēicháng shòu huānyíng.",
@@ -29164,7 +29164,7 @@ const LESSON_DATA = [
         "mnemonic": "Nước (氵) dâng lên thăng bằng hai bên (兩) che lấp cả miệng bình (廿) = Mãn (滿) — đầy tràn."
       }
     ],
-    "summary": "Người người chen lấn xô đẩy (擠) lấp đầy chật ních không còn một khe hở (滿) — 擠滿: chật kín, đông nghẹt.",
+    "summary": "Dùng tay (扌) chen lấn giữa dòng người đông đúc san sát (齊) đến mức không gian bị lấp đầy tràn (滿) không còn một khe hở = 擠滿 (chen chúc chật ních).",
     "example": {
       "hanzi": "捷運車廂裡擠滿了準備回家度過連假的人潮。",
       "pinyin": "Jiéyùn chēxiāng lǐ jǐmǎn le zhǔnbèi huíjiā dùguò liánjià de réncháo.",
@@ -29182,16 +29182,16 @@ const LESSON_DATA = [
       {
         "char": "租",
         "pinyin": "zū",
-        "structure": "Bộ Hòa (lúa) + Thả: đóng phí thuê mượn.",
-        "story": "Thuê mượn đồ vật.",
-        "mnemonic": "Thuê mượn = Tô (租)."
+        "structure": "Chữ hình thanh: Bên trái là bộ Hòa (禾 - cây lúa) chỉ nghĩa. Bên phải là chữ Thả (且 *qiě* / cổ đọc *zǔ* - chỉ âm), hình bài vị/tấm bia thờ tổ tiên (chữ 祖 - tổ cũng chứa nó).",
+        "story": "Thuyết văn giải 租 là \"thuế ruộng\". Người cày ruộng không phải của mình phải nộp lại một phần lúa (禾) cho chủ đất — đó là tô (địa tô). Từ \"trả lúa để được dùng ruộng\" sinh ra nghĩa trả tiền để được dùng đồ của người khác = thuê (租房子 - thuê nhà, 租書 - thuê sách).",
+        "mnemonic": "Nộp lúa (禾) cho chủ đất như cúng tổ tiên (且) = Tô (租) — thuê."
       },
       {
         "char": "書",
         "pinyin": "shū",
-        "structure": "Bộ Duật (聿 - cây bút lông chép chữ) trên Nghiệp: cuốn sách ghi chép.",
-        "story": "Sách vở tri thức.",
-        "mnemonic": "Cuốn sách = Thư (書)."
+        "structure": "Chữ hình thanh kiêm hội ý: Trên là bộ Duật (聿 - bàn tay cầm cây bút lông). Dưới là chữ Viết (曰 - miệng nói; trong Kim văn vốn là chữ Giả 者 làm phần chỉ âm, về sau rút gọn thành 曰).",
+        "story": "Tay cầm bút (聿) ghi lại lời nói (曰) lên thẻ tre. Nghĩa gốc là viết (書法 - thư pháp); thứ được viết ra là thư từ, sách (書).",
+        "mnemonic": "Tay cầm bút (聿) chép lại lời nói (曰) = Thư (書) — viết, sách."
       },
       {
         "char": "店",
@@ -29201,7 +29201,7 @@ const LESSON_DATA = [
         "mnemonic": "Dựng mái hiên (广) chiếm (占) chỗ bày bán = Điếm (店) — cửa tiệm."
       }
     ],
-    "summary": "Cửa tiệm (店) chuyên cung cấp dịch vụ cho thuê (租) các đầu sách truyện tranh (書) giải trí — 租書店: tiệm cho thuê sách truyện.",
+    "summary": "Dựng mái hiên chiếm chỗ (店) bày những cuốn sách chép tay (書), ai muốn đọc thì nộp chút phí như nộp tô (租) — 租書店: tiệm cho thuê sách, truyện.",
     "example": {
       "hanzi": "在智慧型手機普及以前，放學後到租書店看漫畫是許多學生的共同回憶。",
       "pinyin": "Zài zhìhuìxíng shǒujī pǔjí yǐqián, fàngxué hòu dào zūshūdiàn kàn mànhuà shì xǔduō xuéshēng de gòngtóng huíyì.",
@@ -29226,9 +29226,9 @@ const LESSON_DATA = [
       {
         "char": "板",
         "pinyin": "bǎn",
-        "structure": "Bộ Mộc (木 - gỗ) + Phản (反 - tấm ván mỏng dẹt).",
-        "story": "Tấm bảng phẳng mỏng.",
-        "mnemonic": "Tấm ván mỏng phẳng = Bản (板)."
+        "structure": "Chữ hình thanh: Bên trái là bộ Mộc (木 - gỗ) chỉ nghĩa. Bên phải là chữ Phản (反 *fǎn* - chỉ âm), gồm Hán (厂 - vách đá/tấm phẳng) và Hựu (又 - bàn tay): tay lật một tấm phẳng.",
+        "story": "反 là bàn tay (又) lật ngửa một tấm phẳng (厂). Tấm gỗ (木) mỏng, dẹt, có thể lật qua lật lại = tấm ván, tấm bảng (黑板 - bảng đen, 地板 - sàn gỗ).",
+        "mnemonic": "Tay (又) lật tấm (厂) gỗ (木) mỏng = Bản (板) — tấm ván, tấm bảng."
       },
       {
         "char": "電",
@@ -29240,12 +29240,12 @@ const LESSON_DATA = [
       {
         "char": "腦",
         "pinyin": "nǎo",
-        "structure": "Bộ Nhục (thịt) + Não bộ tư duy.",
-        "story": "Bộ não xử lý tính toán.",
-        "mnemonic": "Bộ não = Não (腦)."
+        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là bộ Nhục (月 - dạng của 肉: thịt, bộ phận cơ thể). Bên phải là chữ Não (𡿺 *nǎo* - chỉ âm), gồm Xuyên (巛 - ba sợi tóc) ở trên và Tín (囟 - cái thóp trên đỉnh đầu em bé, có chữ ㄨ đánh dấu chỗ mềm) ở dưới.",
+        "story": "Dưới mái tóc (巛) là cái thóp (囟) trên đỉnh đầu, bên trong là khối thịt mềm (月) — bộ não. Nghĩa là não (大腦). 電腦 = \"bộ não chạy bằng điện\" = máy tính.",
+        "mnemonic": "Khối thịt (月) nằm dưới tóc (巛) và cái thóp (囟) = Não (腦)."
       }
     ],
-    "summary": "Thiết bị máy tính điện tử (電腦) được chế tạo dưới dạng một tấm bảng mỏng dẹt phẳng lì (平板) — 平板電腦: máy tính bảng.",
+    "summary": "Bộ não (腦) chạy bằng điện sét (電) được ép thành một tấm ván (板) phẳng lì (平) — 平板電腦: máy tính bảng.",
     "example": {
       "hanzi": "現在許多大學生都習慣用平板電腦下載電子講義和做筆記。",
       "pinyin": "Xiànzài xǔduō dàxuéshēng dōu xíguàn yòng píngbǎn diànnǎo xiàzài diànzǐ jiǎngyì hé zuò bǐjì.",
@@ -29314,16 +29314,16 @@ const LESSON_DATA = [
       {
         "char": "殺",
         "pinyin": "shā",
-        "structure": "Bên trái là chữ Sát (vũ khí). Bên phải là bộ Thù (殳 - gậy gõ phạt tiêu diệt).",
-        "story": "Tiêu diệt, triệt hạ, tiêu trừ.",
-        "mnemonic": "Tiêu diệt triệt hạ = Sát (殺)."
+        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là chữ 杀 (*shā* - chỉ âm; Giáp cốt văn vẽ một con vật/người bị chém, nét chéo ㄨ là vết chém, bên dưới giống 木). Bên phải là bộ Thù (殳 - bàn tay 又 cầm cây gậy/binh khí 几) chỉ nghĩa.",
+        "story": "Tay cầm binh khí (殳) bổ xuống con vật đã bị đánh dấu vết chém (杀) — giết. Nghĩa là giết, diệt; nói vui \"giết thời gian\" (殺時間) là làm gì đó cho thời gian chết đi, trôi qua.",
+        "mnemonic": "Tay cầm gậy (殳) chém chéo (ㄨ) con vật (杀) = Sát (殺) — giết."
       },
       {
         "char": "時",
         "pinyin": "shí",
-        "structure": "Bộ Nhật (mặt trời) + Thốn: thời gian đo theo bóng nắng.",
-        "story": "Thời khắc.",
-        "mnemonic": "Thời gian = Thời (時)."
+        "structure": "Chữ hình thanh: Bên trái là bộ Nhật (日 - mặt trời) chỉ nghĩa. Bên phải là chữ Tự (寺 *sì* - chỉ âm), gồm 土 (gốc là 之 - bước chân đi tới) và Thốn (寸 - bàn tay, cũng chỉ đơn vị đo).",
+        "story": "Thuyết văn giải 時 là \"bốn mùa\" (四時). Mặt trời (日) đi (之→土) từng bước qua bầu trời, ngày nối ngày thành mùa; để dễ nhớ, hình dung bàn tay (寸) đo bóng nắng để biết giờ. Nghĩa là mùa, thời điểm, giờ (時候 - lúc, 小時 - tiếng đồng hồ).",
+        "mnemonic": "Mặt trời (日) bước đi (之→土) từng bước, tay (寸) đo bóng = Thời (時) — thời gian."
       },
       {
         "char": "間",
@@ -29333,7 +29333,7 @@ const LESSON_DATA = [
         "mnemonic": "Ánh mặt trời (日) chiếu lọt qua khe cửa (門) = Gian (間) — khoảng giữa."
       }
     ],
-    "summary": "Tìm những trò giải trí nhẹ nhàng để tiêu trừ bớt thời gian rảnh rỗi chờ đợi — 殺時間: giết thời gian.",
+    "summary": "Cầm gậy (殺) đánh cho những giờ (時) nắng lọt khe cửa (間) trôi qua mau — 殺時間: giết thời gian lúc chờ đợi.",
     "example": {
       "hanzi": "在機場等候轉機的三個小時裡，他靠玩手機遊戲來殺時間。",
       "pinyin": "Zài jīchǎng děnghòu zhuǎnjī de sān ge xiǎoshí lǐ, tā kào wán shǒujī yóuxì lái shā shíjiān.",
@@ -29370,7 +29370,7 @@ const LESSON_DATA = [
         "mnemonic": "Người (尸) mang y phục (衣) và vật phẩm (工) ra phơi bày = Triển (展) — trưng bày."
       }
     ],
-    "summary": "Buổi triển lãm hội chợ quy mô lớn trưng bày các ấn phẩm truyện tranh và anime nổi tiếng (漫畫展) — 漫畫展: triển lãm manga.",
+    "summary": "Những tranh vẽ tự do tràn lan (漫畫) được người ta trải ra phơi như phơi áo (展) cho mọi người xem — 漫畫展: triển lãm truyện tranh.",
     "example": {
       "hanzi": "每年的台北國際漫畫展總是吸引成千上萬的動漫愛好者盛裝前往。",
       "pinyin": "Měi nián de Táiběi guójì mànhuàzhǎn zǒngshì xīyǐn chéngqiān shàngwàn de dòngmàn àihàozhě shèngzhuāng qiánwǎng.",
@@ -29388,9 +29388,9 @@ const LESSON_DATA = [
       {
         "char": "來",
         "pinyin": "lái",
-        "structure": "Tiến đến thời điểm hiện tại.",
-        "story": "Tiến lại gần.",
-        "mnemonic": "Đến = Lai (來)."
+        "structure": "Chữ tượng hình: Hình một cây lúa mì — thân giữa thẳng đứng (giống 木), hai bên là hai bông lúa rủ xuống (人人).",
+        "story": "Nghĩa gốc là lúa mì (nay viết 麥 có thêm chữ 來 ở trên). Tương truyền lúa mì là giống cây \"từ nơi khác đến\" do trời ban, lại do cùng âm nên chữ bị mượn hẳn sang nghĩa \"đến\" (來).",
+        "mnemonic": "Cây lúa mì (木) trĩu hai bông (人人) được mang tới = Lai (來) — đến."
       },
       {
         "char": "不",
@@ -29402,12 +29402,12 @@ const LESSON_DATA = [
       {
         "char": "及",
         "pinyin": "jí",
-        "structure": "Bên trái là chữ Nhân (người đi trước). Bên phải là chữ Hựu (tay với bắt kịp gấu áo). Đuổi kịp, với tới.",
-        "story": "Đuổi kịp người đi trước.",
-        "mnemonic": "Đưa tay với kịp = Cập (及) — kịp."
+        "structure": "Chữ hội ý: Gồm chữ Nhân (人 - người, là nét phẩy dài phía trước) và chữ Hựu (又 - bàn tay) nằm phía sau, chạm vào người đó.",
+        "story": "Giáp cốt văn vẽ một bàn tay (又) từ phía sau tóm được một người (人) đang chạy phía trước. Đuổi theo và tóm được = kịp, đạt tới (及時 - kịp thời, 及格 - đạt điểm qua).",
+        "mnemonic": "Tay (又) từ phía sau tóm được người (人) = Cập (及) — kịp."
       }
     ],
-    "summary": "Thời gian trôi qua quá nhanh khiến ta không thể nào bắt kịp thời hạn quy định (來不及) — 來不及: không kịp.",
+    "summary": "Chạy đến (來) nơi rồi mà bàn tay vẫn không (不) tóm được người phía trước (及) — 來不及: không kịp (ngược lại: 來得及 - kịp).",
     "example": {
       "hanzi": "路上突然大塞車，我恐怕來不及趕上下午兩點的重要會議了。",
       "pinyin": "Lùshang tūrán dà sāichē, wǒ kǒngpà láibùjí gǎn shàng xiàwǔ liǎng diǎn de zhòngyào huìyì le.",
@@ -29437,7 +29437,7 @@ const LESSON_DATA = [
         "mnemonic": "Chiếc áo (衤) mỏng có thêu ba đường hoa văn (彡) = Sam (衫) — chiếc áo."
       }
     ],
-    "summary": "Hai người cùng mặc một mẫu áo (衫) đụng mặt nhau bất ngờ trên phố (撞) — 撞衫: đụng hàng trang phục.",
+    "summary": "Đi ra đường tình cờ đụng độ, va chạm (撞) với một người mặc chiếc áo (衫) có hoa văn y hệt mình = 撞衫 (đụng hàng quần áo).",
     "example": {
       "hanzi": "去參加派對時最尷尬的事情，莫過於跟別人穿了同一款衣服而撞衫。",
       "pinyin": "Qù cānjiā pàiduì shí zuì gāngà de shìqíng, mòguòyú gēn biérén chuān le tóng yì kuǎn yīfú ér zhuàngshān.",
@@ -29478,9 +29478,9 @@ const LESSON_DATA = [
       {
         "char": "塞",
         "pinyin": "sāi",
-        "structure": "Chữ hội ý: Phía trên là bộ Miên (宀 - mái che) và Tỉnh (井 - kết cấu đan chéo), dưới là Thổ (土 - đất cát).",
-        "story": "Mái nhà (宀) kết cấu bằng cành cây đan chéo (井) bị hở gió rùa vào, người ta bèn lấy đất cát (土) nhét chặt lại bít kín kẽ hở. Nghĩa là bít tắc, nhét vào, kẹt (塞車 - kẹt xe).",
-        "mnemonic": "Dưới mái nhà (宀) hở kẽ (井) phải lấy đất (土) bít kín = Tắc (塞) — nhét, kẹt."
+        "structure": "Chữ hội ý: Trên cùng là bộ Miên (宀 - mái nhà). Ở giữa là phần trông giống chữ Tỉnh (井), gốc là 㠭 (bốn chữ Công 工 xếp chồng - gạch/vật liệu chèn) đặt trên bộ Củng (廾 → viết thành 八 + nét ngang: hai bàn tay). Dưới cùng là bộ Thổ (土 - đất).",
+        "story": "Trong nhà (宀), hai bàn tay (廾) lấy gạch, gỗ xếp chồng (井) rồi trét đất (土) vào để bít kín lỗ hổng, chặn lối. Nghĩa gốc là lấp kín, bịt lại → nhét vào (塞 *sāi*), tắc nghẽn (塞車 - kẹt xe); đọc *sài* là chỗ hiểm yếu chặn đường (biên ải 邊塞).",
+        "mnemonic": "Trong nhà (宀) hai tay (廾) chèn gạch (井) trát đất (土) bít kín = Tắc (塞) — nhét chặt, kẹt cứng."
       }
     ],
     "summary": "Dùng lực nhét lèn đồ vật cho thật chặt vào khoảng trống hẹp — 塞: nhét vào túi, kẹt xe.",
@@ -29531,19 +29531,19 @@ const LESSON_DATA = [
       {
         "char": "款",
         "pinyin": "kuǎn",
-        "structure": "Bên trái là bộ Sĩ kết hợp chữ Nại. Bên phải là bộ Khiếm (欠 - mở miệng thở dài chân thành).",
-        "story": "Khắc chữ ghi nhớ chân thành trên đồ đồng nghi lễ; sau dùng chỉ điều khoản mục, mẫu mã quy cách.",
-        "mnemonic": "Quy cách khắc ghi chân thành = Khoản (款) — mẫu mã."
+        "structure": "Chữ hội ý: Bên trái ghép từ chữ Sĩ (士 - kẻ sĩ / quan lại) và chữ Thị (示 - bàn thờ tế lễ thần linh). Bên phải là bộ Khiếm (欠 - hình người há to miệng để ngáp, thở dài hoặc khấn vái).",
+        "story": "Một vị quan/kẻ sĩ (士) đứng trước bàn thờ thần linh (示), thành tâm mở miệng (欠) khấn vái cầu xin. Ý nghĩa ban đầu là sự chân thành, khẩn khoản. Về sau, để thể hiện lòng chân thành với tổ tiên, người xưa thường khắc chữ lên đỉnh/chuông đồng. Từ đó, chữ 款 mang thêm nghĩa là dòng chữ khắc, điều khoản, mẫu mã, và cả tiền bạc.",
+        "mnemonic": "Kẻ sĩ (士) trước bàn thờ (示) há miệng (欠) khấn vái chân thành = Khoản (款) — chân thành, điều khoản, mẫu mã."
       },
       {
         "char": "式",
         "pinyin": "shì",
-        "structure": "Chữ hình thanh kiêm hội ý: Bên trên là chữ Công (工 - chiếc thước của người thợ / quy chuẩn), bên phải là bộ Dặc (弋 - mũi tên gắn dây để săn bắn).",
-        "story": "Làm ra cây cung tên săn bắn (弋) đòi hỏi tính chính xác cao, phải tuân theo đúng quy chuẩn khuôn mẫu của người thợ (工). Nghĩa là khuôn thước, kiểu dáng, phương thức.",
-        "mnemonic": "Chế tạo cung tên (弋) theo quy chuẩn (工) = Thức (式) — kiểu mẫu, phương thức."
+        "structure": "Chữ hình thanh kiêm hội ý: Phần ôm bên trên là chữ Công (工 - chiếc thước vuông góc của người thợ thủ công, tượng trưng cho quy chuẩn). Bên phải là bộ Dặc (弋 - mũi tên có buộc dây dùng để săn bắn).",
+        "story": "Việc chế tạo mũi tên, cung nỏ (弋) dùng trong quân sự đòi hỏi tính chính xác vô cùng khắt khe, phải tuân thủ nghiêm ngặt theo đúng khuôn mẫu và thước đo quy chuẩn của người thợ (工). Nghĩa là khuôn thước, hình thức, kiểu dáng, phương thức.",
+        "mnemonic": "Chế tạo cung tên (弋) phải theo quy chuẩn của người thợ (工) = Thức (式) — kiểu mẫu, hình thức."
       }
     ],
-    "summary": "Khuôn phép quy chuẩn mẫu mã (式) tạo nên kiểu cách đường nét độc đáo của trang phục (款) — 款式: kiểu dáng, mẫu mã thời trang.",
+    "summary": "Những dòng chữ được khắc (款) theo một khuôn mẫu quy chuẩn (式) định hình nên 款式 (kiểu dáng, mẫu mã thời trang).",
     "example": {
       "hanzi": "這家服飾店每個月都會推出設計新穎的流行款式。",
       "pinyin": "Zhè jiā fúshìdiàn měi ge yuè dōu huì tuīchū shèjì xīnyǐng de liúxíng kuǎnshì.",
@@ -29561,16 +29561,16 @@ const LESSON_DATA = [
       {
         "char": "連",
         "pinyin": "lián",
-        "structure": "Bộ Sước (辶 - bước đi) + Xa (車 - cỗ xe nối đuôi nhau).",
-        "story": "Các cỗ xe nối đuôi nhau liên tiếp.",
-        "mnemonic": "Xe nối đuôi nhau = Liên (連)."
+        "structure": "Chữ hội ý: Bộ Sước (辶 - bước đi trên đường) và chữ Xa (車 - cỗ xe).",
+        "story": "Thuyết văn giải 連 là \"người kéo xe\". Người bước đi (辶) kéo theo chiếc xe (車) — người và xe dính liền nhau; nhiều xe kéo nối đuôi nhau trên đường thành một dãy không đứt. Nghĩa là nối liền, liên tiếp (連續 - liên tục, 連接 - kết nối).",
+        "mnemonic": "Người đi (辶) kéo xe (車) nối đuôi nhau = Liên (連) — nối liền."
       },
       {
         "char": "續",
         "pinyin": "xù",
-        "structure": "Bên trái là bộ Mịch (糸 - sợi tơ). Bên phải là chữ Mại (賣 - bán buôn). Nối thêm sợi tơ dài liên tiếp.",
-        "story": "Nối liền sợi chỉ tơ không dứt. Nghĩa là tiếp nối, kế tục.",
-        "mnemonic": "Nối liền sợi tơ (糸) không dứt = Tục (續)."
+        "structure": "Chữ hình thanh: Bên trái là bộ Mịch (糸 - sợi tơ) chỉ nghĩa. Bên phải là chữ 𧶠 (*yù* - đi rao bán hàng, chỉ âm). Lưu ý: chữ này trông giống hệt 賣 (*mài* - bán) nhưng là một chữ khác; Phồn thể đã gộp hai hình viết làm một (đọc, độc 讀 cũng chứa nó).",
+        "story": "Người bán dạo (𧶠) đi rao hết nhà này sang nhà khác không dừng, giống như sợi tơ (糸) đứt thì nối tiếp vào cho dài thêm. Nghĩa là nối thêm, tiếp tục (繼續 - tiếp tục, 手續 - thủ tục).",
+        "mnemonic": "Sợi tơ (糸) nối dài như người bán dạo (𧶠) đi hết nhà này tới nhà khác = Tục (續) — tiếp nối."
       },
       {
         "char": "劇",
@@ -29580,7 +29580,7 @@ const LESSON_DATA = [
         "mnemonic": "Cọp (虍) và lợn rừng (豕) đánh nhau kịch tính, dùng dao (刂) giải quyết = Kịch (劇)."
       }
     ],
-    "summary": "Vở kịch phim ảnh (劇) được phát sóng nối tiếp từng tập liên tục qua từng ngày (連續) — 連續劇: phim truyền hình dài tập.",
+    "summary": "Màn cọp đánh lợn rừng kịch tính (劇) được chiếu tập này nối tập kia như đoàn xe nối đuôi (連) và sợi tơ nối dài (續) — 連續劇: phim truyền hình dài tập.",
     "example": {
       "hanzi": "這部台灣偶像連續劇在亞洲許多國家都掀起了收視熱潮。",
       "pinyin": "Zhè bù Táiwān ǒuxiàng liánxùjù zài Yàzhōu xǔduō guójiā dōu xiānqǐ le shōushì rècháo.",
@@ -29598,9 +29598,9 @@ const LESSON_DATA = [
       {
         "char": "主",
         "pinyin": "zhǔ",
-        "structure": "Hình ngọn lửa thắp trên đĩa đèn: điểm sáng trung tâm của cả căn phòng.",
-        "story": "Chủ thể, nhân vật trung tâm.",
-        "mnemonic": "Ngọn đèn tâm điểm = Chủ (主)."
+        "structure": "Chữ tượng hình: Nét chấm (丶 - ngọn lửa, bấc đèn đang cháy) đặt trên hình giống chữ Vương (王 - thực chất là cây đèn: đĩa dầu ở trên, thân đèn ở giữa, đế đèn ở dưới).",
+        "story": "Nghĩa gốc là ngọn đèn (nay viết 炷). Trong phòng tối, ngọn đèn (丶) trên giá đèn (王) là thứ mọi người nhìn về và quây quanh — trung tâm. Từ đó: người chủ, chủ yếu, chính (主人 - chủ nhân, 主要 - chủ yếu).",
+        "mnemonic": "Ngọn lửa (丶) trên cây đèn (王) là trung tâm căn phòng = Chủ (主) — chính."
       },
       {
         "char": "角",
@@ -29610,7 +29610,7 @@ const LESSON_DATA = [
         "mnemonic": "Hình chiếc sừng nhọn có vân rãnh = Giác (角) — sừng, góc, vai diễn."
       }
     ],
-    "summary": "Vai diễn trung tâm cốt cán (角) dẫn dắt toàn bộ mạch truyện của vở kịch (主) — 主角: nhân vật chính.",
+    "summary": "Vai diễn (角) đứng dưới ngọn đèn trung tâm (主) của sân khấu — 主角: vai chính, nhân vật chính (配角 - vai phụ).",
     "example": {
       "hanzi": "男主角在戲中的深情演繹，深深打動了無數觀眾的心。",
       "pinyin": "Nán zhǔjiǎo zài xì zhōng de shēnqíng yǎnyì, shēnshēn dǎdòng le wúshù guānzhòng de xīn.",
@@ -29658,12 +29658,12 @@ const LESSON_DATA = [
       {
         "char": "寄",
         "pinyin": "jì",
-        "structure": "Phía trên là bộ Miên (宀 - mái nhà). Phía dưới là chữ Cơ (奇 - cưỡi ngựa vượt đường dài xa xôi).",
-        "story": "Người cưỡi ngựa vượt đường dài giao phong thư đến tận mái nhà người nhận. Nghĩa là gửi gắm, gửi thư.",
-        "mnemonic": "Cưỡi ngựa (奇) chuyển thư về nhà (宀) = Ký (寄) — gửi."
+        "structure": "Chữ hình thanh: Phía trên là bộ Miên (宀 - mái nhà) chỉ nghĩa. Phía dưới là chữ Kỳ (奇 *qí*/*jī* - kỳ lạ, chỉ âm), gồm Đại (大 - người) và Khả (可).",
+        "story": "Thuyết văn giải 寄 là \"gửi nhờ\" (託). Một người lạ (奇) đến ở nhờ dưới mái nhà (宀) người khác — 寄住. Từ \"gửi thân nhờ chỗ\" mở rộng thành gửi đồ nhờ người khác giữ/chuyển đi = gửi thư, gửi bưu phẩm (寄信).",
+        "mnemonic": "Người lạ (奇) xin gửi thân dưới mái nhà (宀) người ta = Ký (寄) — gửi nhờ, gửi đi."
       }
     ],
-    "summary": "Giao phó thư từ đồ đạc nhờ người chuyển phát về tận nhà người nhận — 寄: gửi bưu điện, gửi đồ chuyển phát nhanh.",
+    "summary": "Đồ của mình phải gửi nhờ dưới mái nhà (宀) người lạ (奇) là bưu điện để họ chuyển đi — 寄: gửi (寄信 gửi thư, 寄包裹 gửi bưu kiện).",
     "example": {
       "hanzi": "我想去郵局把這些台灣的名產寄給遠在家鄉的父母。",
       "pinyin": "Wǒ xiǎng qù yóujú bǎ zhèxiē Táiwān de míngchǎn jì gěi yuǎn zài jiāxiāng de fùmǔ.",
@@ -29681,9 +29681,9 @@ const LESSON_DATA = [
       {
         "char": "居",
         "pinyin": "jū",
-        "structure": "Thi (尸 - thân người) + Cổ: an cư định vị vững vàng.",
-        "story": "Vốn dĩ bình thản ở đó.",
-        "mnemonic": "Cư (居)."
+        "structure": "Chữ hình thanh: Trên là bộ Thi (尸 - hình người ngồi bệt/ngồi xổm) chỉ nghĩa. Dưới là chữ Cổ (古 *gǔ* - xưa cũ, chỉ âm), gồm Thập (十) và Khẩu (口): chuyện truyền qua mười đời miệng.",
+        "story": "Người (尸) ngồi yên một chỗ từ xưa (古) đến nay — ở, cư trú (居住, 鄰居 - hàng xóm). Trong 居然, 居 mang nghĩa \"lại ở vào (tình thế)\", dùng để chỉ một kết quả nằm ngoài dự đoán.",
+        "mnemonic": "Người (尸) ngồi yên ở đó từ xưa (古) = Cư (居) — ở."
       },
       {
         "char": "然",
@@ -29693,7 +29693,7 @@ const LESSON_DATA = [
         "mnemonic": "Mang thịt (月) chó (犬) thui trên lửa (灬) là lẽ tự Nhiên (然)."
       }
     ],
-    "summary": "Sự việc diễn ra ngoài dự đoán nhưng lại hiển hiện ngay trước mắt — 居然: không ngờ rằng, thế mà lại.",
+    "summary": "Người cứ ngồi yên (居) một chỗ mà mọi chuyện lại tự nhiên thành ra như thế (然) — 居然: thế mà lại, không ngờ (ngạc nhiên vì ngoài dự đoán).",
     "example": {
       "hanzi": "這家網購商店的效率真高，我昨天剛訂的衣服今天居然就送到了。",
       "pinyin": "Zhè jiā wǎnggòu shāngdiàn de xiàolǜ zhēn gāo, wǒ zuótiān gāng dìng de yīfú jīntiān jūrán jiù sòng dào le.",
@@ -29711,9 +29711,9 @@ const LESSON_DATA = [
       {
         "char": "害",
         "pinyin": "hài",
-        "structure": "Phía trên là bộ Miên (宀 - mái nhà). Ở giữa là Tam + Khẩu (lời nói xấu sau lưng tổn thương gia đình).",
-        "story": "Lời gièm pha độc ác trong nhà gây chia rẽ làm tổn hại gia đạo. Nghĩa là hãm hại, làm tổn thương.",
-        "mnemonic": "Lời độc ác trong nhà (宀) gây tai vạ = Hại (害)."
+        "structure": "Chữ hình thanh kiêm hội ý: Trên là bộ Miên (宀 - mái nhà). Giữa là 丯 (*jiè* - chỉ âm, hình đám cỏ dại mọc lởm chởm; viết giống chữ 丰 có thêm nét). Dưới là Khẩu (口 - miệng, lời nói).",
+        "story": "Thuyết văn giải 害 là \"làm tổn thương\", gồm 宀, 口, âm 丯. Trong nhà (宀), lời nói (口) đâm chọc lởm chởm như cỏ gai (丯) làm người nhà tổn thương — hại. Nghĩa là làm hại, hại ai đó phải chịu hậu quả (害我遲到 - làm tôi bị muộn).",
+        "mnemonic": "Trong nhà (宀) lời nói (口) đâm như cỏ gai (丯) = Hại (害) — làm hại."
       }
     ],
     "summary": "Hành động sai sót hay sự cố gây hậu quả tiêu cực cho người khác — 害: làm hại, hại người khác phải chịu vạ lây.",
@@ -29734,9 +29734,9 @@ const LESSON_DATA = [
       {
         "char": "既",
         "pinyin": "jì",
-        "structure": "Bên trái là chữ Bát (bát thức ăn đã dùng xong). Bên phải là chữ Khiếm (người ăn no ngoảnh mặt quay đi).",
-        "story": "Đã ăn xong xuôi ngoảnh mặt rời bàn ăn, biểu thị sự việc đã hoàn tất xong xuôi. Nghĩa là đã qua, đã thế.",
-        "mnemonic": "Ăn xong ngoảnh mặt rời đi = Ký (既) — đã xong."
+        "structure": "Chữ hình thanh kiêm hội ý (Thuyết văn: 从皀旡聲): Bên trái là chữ 皀 (hình bát cơm đầy có chân đế) chỉ nghĩa. Bên phải là chữ Ký (旡 *jì* - chỉ âm; hình người quỳ quay đầu ra sau, há miệng ợ) — không phải bộ Khiếm 欠.",
+        "story": "So sánh với chữ 即 (*jí*): người quỳ (卩) mặt hướng vào bát cơm (皀) = sắp ăn, ngay lập tức. Còn 既: người đã ăn no, quay đầu đi (旡) khỏi bát cơm (皀) = ăn xong rồi. Nghĩa là đã, đã xong (既然 - đã... thì, 既…又… - vừa... lại...).",
+        "mnemonic": "Ăn xong bát cơm (皀), quay đầu ợ một cái (旡) = Ký (既) — đã xong."
       },
       {
         "char": "然",
@@ -29764,19 +29764,19 @@ const LESSON_DATA = [
       {
         "char": "服",
         "pinyin": "fú",
-        "structure": "Bộ Nguyệt (cơ thể) + Phục (áp sát da thịt). Quần áo ôm vừa vặn thân thể.",
-        "story": "Áo quần mặc lên thân mình.",
-        "mnemonic": "Vừa vặn thân thể = Phục (服) — quần áo."
+        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là 月 (ở đây KHÔNG phải trăng hay thịt, mà là biến thể của Chu 舟 - chiếc thuyền). Bên phải là chữ Phục (𠬝 *fú* - chỉ âm), gồm Tiết (卩 - người quỳ) và Hựu (又 - bàn tay ấn xuống).",
+        "story": "Bàn tay (又) ấn người (卩) quỳ xuống bắt làm việc — khuất phục, phục dịch; thêm thuyền (舟→月): bắt chèo thuyền phục dịch. Từ \"phục, chịu theo\" sinh nghĩa \"mặc vào người, áo khoác lên thân\" — y phục (衣服 - quần áo); và \"hợp, chịu\" (舒服 - dễ chịu, 服務 - phục vụ).",
+        "mnemonic": "Tay (又) ấn người quỳ (卩) chèo thuyền (月) phục dịch = Phục (服) — phục tùng, y phục."
       },
       {
         "char": "裝",
         "pinyin": "zhuāng",
-        "structure": "Phía trên là chữ Tráng (壯 - tráng kiện vạm vỡ). Phía dưới là bộ Y (衣 - áo xống).",
-        "story": "Trang phục mặc vào làm cho con người thêm phần oai nghiêm đường bệ. Nghĩa là đóng gói, y phục trang hoàng.",
-        "mnemonic": "Áo (衣) làm tôn nét oai nghiêm tráng kiện (壯) = Trang (裝)."
+        "structure": "Chữ hình thanh: Phía trên là chữ Tráng (壯 *zhuàng* - chỉ âm), gồm Tường (爿 - tấm ván/giường gỗ dựng đứng) và Sĩ (士 - người đàn ông, võ sĩ). Phía dưới là bộ Y (衣 - áo) chỉ nghĩa.",
+        "story": "Thuyết văn giải 裝 là \"bọc, gói lại\". Lấy vải áo (衣) bọc đồ hoặc khoác lên người tráng sĩ (壯) cho chỉnh tề — đóng gói, mặc vào. Nghĩa là trang phục (服裝), lắp đặt (安裝), giả vờ \"khoác vẻ ngoài\" (假裝).",
+        "mnemonic": "Lấy áo (衣) khoác lên người tráng sĩ (壯) = Trang (裝) — trang phục, đóng gói."
       }
     ],
-    "summary": "Quần áo mũ mão (服) được trau chuốt trang hoàng làm đẹp cho diện mạo (裝) — 服裝: trang phục, thời trang.",
+    "summary": "Áo mặc lên người (服) và khoác cho tráng sĩ thêm chỉnh tề (裝) — 服裝: trang phục, quần áo (服裝店 - shop thời trang).",
     "example": {
       "hanzi": "這所學校規定學生在每週一升旗時必須穿著規定的正式服裝。",
       "pinyin": "Zhè suǒ xuéxiào guīdìng xuéshēng zài měi zhōuyī shēngqí shí bìxū chuānzhuó guīdìng de zhèngshì fúzhuāng.",
@@ -29794,19 +29794,19 @@ const LESSON_DATA = [
       {
         "char": "媒",
         "pinyin": "méi",
-        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là bộ Nữ (女 - người phụ nữ), bên phải là chữ Mỗ (某 - gốc là cây mận 梅, chỉ một người nào đó).",
+        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là bộ Nữ (女 - người phụ nữ) chỉ nghĩa. Bên phải là chữ Mỗ (某 *mǒu* - chỉ âm), gồm Cam (甘 - vị ngọt trong miệng) trên Mộc (木 - cây): vốn là chữ gốc của 梅 (quả mơ), sau bị mượn nghĩa \"người nào đó\".",
         "story": "Người phụ nữ (女) làm nghề trung gian, đứng ra giới thiệu mai mối cho một người thanh niên nào đó (某) lấy được vợ hiền. Nghĩa là bà mối, truyền thông, môi giới.",
         "mnemonic": "Phụ nữ (女) mai mối cho người nọ người kia (某) = Môi (媒) — môi giới, truyền thông."
       },
       {
         "char": "體",
         "pinyin": "tǐ",
-        "structure": "Chữ hội ý: Bên trái là bộ Cốt (骨 - bộ xương cốt), bên phải là chữ Phong (豊 - mâm đồ cúng tế phong phú).",
-        "story": "Khung xương (骨) vững chắc được đắp lên lớp máu thịt và da dẻ phong phú (豊) tạo thành một thân hình hoàn chỉnh trọn vẹn. Nghĩa là cơ thể, thể chất, hệ thống.",
-        "mnemonic": "Xương cốt (骨) đắp thêm thịt phong phú (豊) tạo thành Thể (體) — cơ thể."
+        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là bộ Cốt (骨 - bộ xương: phần trên là khớp xương 冎, dưới là thịt 月) chỉ nghĩa. Bên phải là chữ Lễ (豊 *lǐ* - chỉ âm), hình chiếc bình đựng lễ vật (豆) chất đầy ngọc (chữ gốc của 禮 - lễ).",
+        "story": "豊 là bộ đồ lễ được sắp đặt đầy đủ, đúng thứ tự. Bộ xương (骨) được sắp xếp đủ các phần, đúng chỗ như mâm lễ (豊) — tạo thành một cơ thể hoàn chỉnh. Nghĩa là thân thể (身體), rồi mở rộng thành \"một khối, một hệ thống\" (團體 - đoàn thể, 媒體 - truyền thông).",
+        "mnemonic": "Xương cốt (骨) xếp đủ đầy như mâm lễ (豊) = Thể (體) — cơ thể."
       }
     ],
-    "summary": "Hệ thống chỉnh thể (體) đóng vai trò trung gian bắc cầu truyền tải thông tin đến toàn xã hội (媒) — 媒體: các cơ quan truyền thông báo chí.",
+    "summary": "Bà mối (媒) đứng giữa nối hai nhà, được phóng to thành cả một cơ thể khổng lồ (體) đứng giữa nối tin tức với công chúng — 媒體: truyền thông (media).",
     "example": {
       "hanzi": "大眾媒體在引領社會流行文化與時尚風潮方面扮演著極為重要的角色。",
       "pinyin": "Dàzhòng méitǐ zài yǐnlǐng shèhuì liúxíng wénhuà yǔ shíshàng fēngcháo fāngmiàn bànyǎn zhe jíwéi zhòngyào de juésè.",
@@ -29831,9 +29831,9 @@ const LESSON_DATA = [
       {
         "char": "式",
         "pinyin": "shì",
-        "structure": "Chữ hình thanh kiêm hội ý: Bên trên là chữ Công (工 - chiếc thước của người thợ / quy chuẩn), bên phải là bộ Dặc (弋 - mũi tên gắn dây để săn bắn).",
-        "story": "Làm ra cây cung tên săn bắn (弋) đòi hỏi tính chính xác cao, phải tuân theo đúng quy chuẩn khuôn mẫu của người thợ (工). Nghĩa là khuôn thước, kiểu dáng, phương thức.",
-        "mnemonic": "Chế tạo cung tên (弋) theo quy chuẩn (工) = Thức (式) — kiểu mẫu, phương thức."
+        "structure": "Chữ hình thanh kiêm hội ý: Phần ôm bên trên là chữ Công (工 - chiếc thước vuông góc của người thợ thủ công, tượng trưng cho quy chuẩn). Bên phải là bộ Dặc (弋 - mũi tên có buộc dây dùng để săn bắn).",
+        "story": "Việc chế tạo mũi tên, cung nỏ (弋) dùng trong quân sự đòi hỏi tính chính xác vô cùng khắt khe, phải tuân thủ nghiêm ngặt theo đúng khuôn mẫu và thước đo quy chuẩn của người thợ (工). Nghĩa là khuôn thước, hình thức, kiểu dáng, phương thức.",
+        "mnemonic": "Chế tạo cung tên (弋) phải theo quy chuẩn của người thợ (工) = Thức (式) — kiểu mẫu, hình thức."
       }
     ],
     "summary": "Đường lối phương hướng (方) kết hợp khuôn phép bài bản (式) để hoàn thành mục tiêu — 方式: phương thức, cách làm.",
@@ -29854,9 +29854,9 @@ const LESSON_DATA = [
       {
         "char": "吸",
         "pinyin": "xī",
-        "structure": "Bên trái là bộ Khẩu (口 - miệng). Bên phải là chữ Cập (及 - với tay đón bắt).",
-        "story": "Dùng miệng (口) hít mạnh luồng khí tinh hoa cuốn vào trong phổi. Nghĩa là hít vào, hút vào.",
-        "mnemonic": "Miệng (口) hít cuốn luồng khí vào trong = Hấp (吸) — hút."
+        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là bộ Khẩu (口 - miệng) chỉ nghĩa. Bên phải là chữ Cập (及 *jí* - chỉ âm), hình bàn tay (又) từ phía sau tóm được người (人) phía trước.",
+        "story": "及 là \"đuổi theo và tóm lấy\". Cái miệng (口) đuổi theo luồng không khí rồi tóm (及) nó vào trong người = hít vào, hút vào (呼吸 - hô hấp, 吸管 - ống hút). Hút mạnh đến mức kéo cả thứ khác về phía mình = thu hút (吸引).",
+        "mnemonic": "Miệng (口) tóm lấy (及) luồng khí kéo vào = Hấp (吸) — hít, hút."
       },
       {
         "char": "引",
@@ -29866,7 +29866,7 @@ const LESSON_DATA = [
         "mnemonic": "Kéo căng dây cung (弓) lôi dẫn mũi tên = Dẫn (引) — kéo, dẫn dắt."
       }
     ],
-    "summary": "Tạo ra sức lôi cuốn mãnh liệt hút trọn (吸) và kéo dẫn mọi ánh nhìn dõi theo (引) — 吸引: thu hút, hấp dẫn.",
+    "summary": "Miệng hút (吸) như nam châm và tay kéo căng dây cung (引) — hai lực cùng kéo người ta về phía mình — 吸引: thu hút, hấp dẫn.",
     "example": {
       "hanzi": "這款新上市的智慧手錶以其精美的外觀吸引了許多熱愛科技的年輕人。",
       "pinyin": "Zhè kuǎn xīn shàngshì de zhìhuì shǒubiǎo yǐ qí jīngměi de wàiguān xīyǐn le xǔduō rè'ài kējì de niánqīngrén.",
@@ -29884,9 +29884,9 @@ const LESSON_DATA = [
       {
         "char": "避",
         "pinyin": "bì",
-        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là bộ Xước (辶 - bước chân đi), bên phải là chữ Tịch (辟 - vị chúa tể / hoặc tội lỗi bị trừng phạt).",
-        "story": "Người dân khi nhìn thấy kẻ thù tàn ác hoặc sợ hình phạt hà khắc (辟) giáng xuống thì phải lập tức rảo bước bỏ chạy thật nhanh (辶). Nghĩa là lẩn tránh, né tránh.",
-        "mnemonic": "Thấy hình phạt nguy hiểm (辟) thì nhanh chân bước đi (辶) để Tị (避) — né tránh."
+        "structure": "Chữ hình thanh kiêm hội ý: Bộ Sước (辶 - bước đi) chỉ nghĩa. Chữ Tích (辟 *bì* - chỉ âm), gồm Thi (尸 - người quỳ), Khẩu (口 - cái đầu/tội nhân bị xử) và Tân (辛 - con dao hình phạt khắc mặt tội nhân): hình phạt, luật pháp.",
+        "story": "辟 vẽ cảnh con dao hình phạt (辛) kề bên người tội phạm đang quỳ (尸 + 口). Thấy hình phạt (辟) thì ai cũng bước (辶) đi chỗ khác = tránh né, lánh (避雨 - trú mưa, 避免 - tránh).",
+        "mnemonic": "Thấy dao (辛) kề người quỳ (尸口) thì vội bước (辶) né đi = Tị (避) — tránh."
       },
       {
         "char": "免",
@@ -29896,7 +29896,7 @@ const LESSON_DATA = [
         "mnemonic": "Gỡ bỏ chiếc mũ trên đầu để tạ tội được Miễn (免) — tha, miễn trừ."
       }
     ],
-    "summary": "Chủ động bước né tránh (避) để được miễn trừ khỏi mọi rắc rối tai ương (免) — 避免: phòng tránh, ngăn ngừa hậu quả.",
+    "summary": "Bước né khỏi lưỡi dao hình phạt (避) để được tha, được miễn (免) — 避免: tránh, phòng tránh (điều xấu chưa xảy ra).",
     "example": {
       "hanzi": "開車時不看手機是避免發生交通事故最基本且重要的方法。",
       "pinyin": "Kāichē shí bú kàn shǒujī shì bìmiǎn fāshēng jiāotōng shìgù zuì jīběn qiě zhòngyào de fāngfǎ.",
@@ -29926,7 +29926,7 @@ const LESSON_DATA = [
         "mnemonic": "Lớp màng (勹) bọc che chở thai nhi (巳) bên trong = Bao (包) — gói, túi."
       }
     ],
-    "summary": "Cách gọi khẩu ngữ thân mật dễ thương cho những chiếc túi xách tay thời trang — 包包: túi xách, giỏ xách.",
+    "summary": "Cái màng (勹) bọc em bé (巳) nhân đôi thành tiếng gọi nựng — 包包: túi xách (lặp chữ cho dễ thương, như 狗狗 - cún con).",
     "example": {
       "hanzi": "她出門逛街時總是喜歡隨身搭配一個精緻小巧的手提包包。",
       "pinyin": "Tā chūmén guàngjiē shí zǒngshì xǐhuān suíshēn dāpèi yí ge jīngzhì xiǎoqiǎo de shǒutí bāobāo.",
@@ -29945,7 +29945,7 @@ const LESSON_DATA = [
         "char": "商",
         "pinyin": "shāng",
         "structure": "Chữ hội ý: Phía trên mô phỏng đài gác hoặc đế chuông, dưới là chữ Khẩu (口) chỉ cái miệng bàn bạc.",
-        "story": "Triều đại nhà Thương nổi tiếng giỏi kinh doanh giao thương. Họ tụ tập quanh chiếc đài cao mở miệng (口) cò kè bàn bạc giá cả hàng hóa. Nghĩa là thương nhân, buôn bán.",
+        "story": "商 vốn là tên kinh đô và triều đại nhà Thương. Sau khi nhà Thương mất nước, người Thương không còn ruộng đất nên đi khắp nơi buôn bán kiếm sống; người ta gọi người buôn bán là \"người Thương\" (商人). (Hình gốc của chữ còn nhiều tranh cãi; hình ảnh \"đài cao + miệng cò kè\" ở đây chủ yếu để dễ nhớ.)",
         "mnemonic": "Tụ tập trên đài mở miệng (口) bàn bạc giá cả = Thương (商) — buôn bán."
       },
       {
@@ -29956,7 +29956,7 @@ const LESSON_DATA = [
         "mnemonic": "Hình người cất bước đi = Nhân (人)."
       }
     ],
-    "summary": "Những người chuyên làm nghề lưu thông hàng hóa giao thương buôn bán trên thị trường (商人) — 商人: thương nhân, nhà buôn.",
+    "summary": "Người (人) nước Thương mất đất, đứng trên đài mở miệng (口) cò kè buôn bán (商) — 商人: thương nhân, người buôn bán.",
     "example": {
       "hanzi": "一位優秀的商人不僅懂得掌握市場商機，更會秉持誠信的原則。",
       "pinyin": "Yí wèi yōuxiù de shāngrén bùjǐn dǒngde zhǎngwò shìchǎng shāngjī, gèng huì bǐngchí chéngxìn de yuánzé.",
@@ -29974,9 +29974,9 @@ const LESSON_DATA = [
       {
         "char": "產",
         "pinyin": "chǎn",
-        "structure": "Chữ hội ý: Phía trên là chữ Sản (产 - chữ Văn 文 biến thể + sườn núi, chỉ giọt mồ hôi trên trán), dưới là chữ Sinh (生 - sinh đẻ).",
-        "story": "Hình ảnh người mẹ vất vả, trán lấm tấm túa giọt mồ hôi nhọc nhằn (产) để sinh đẻ (生) ra một sinh linh mới. Nghĩa là sinh đẻ, sản xuất, tài sản.",
-        "mnemonic": "Vất vả (产) Sinh (生) đẻ ra con cái = Sản (產) — sản xuất, sinh ra."
+        "structure": "Chữ hình thanh: Phía dưới là chữ Sinh (生 - mầm cây mọc lên khỏi mặt đất) chỉ nghĩa. Phía trên là chữ Ngạn (彥) viết tắt — gồm Văn (文 - hoa văn) và Hán (厂 - vách đá) — làm phần chỉ âm (Thuyết văn: \"從生，彥省聲\").",
+        "story": "Thuyết văn giải 產 là \"sinh ra\". Mầm (生) nhú lên khỏi đất, đứa trẻ chào đời, ruộng cho ra lúa — tất cả là \"sản\": sinh đẻ, sản xuất, thứ được làm ra (產品 - sản phẩm, 特產 - đặc sản).",
+        "mnemonic": "Dưới vách đá (厂) có hoa văn (文), mầm cây sinh (生) ra = Sản (產) — sinh ra, làm ra."
       },
       {
         "char": "品",
@@ -29986,7 +29986,7 @@ const LESSON_DATA = [
         "mnemonic": "Ba cái miệng (口) cùng nếm và đánh giá = Phẩm (品) — vật phẩm."
       }
     ],
-    "summary": "Những phẩm vật hoàn thiện (品) được sản xuất chế tạo nên (產) phục vụ đời sống con người — 產品: sản phẩm.",
+    "summary": "Thứ được sinh ra (產) rồi đưa cho ba cái miệng (品) nếm thử, chấm điểm — 產品: sản phẩm.",
     "example": {
       "hanzi": "這家科技公司研發的新產品在國際市場上獲得了高度的評價。",
       "pinyin": "Zhè jiā kējì gōngsī yánfā de xīn chǎnpǐn zài guójì shìchǎng shàng huòdé le gāodù de píngjià.",
@@ -30016,7 +30016,7 @@ const LESSON_DATA = [
         "mnemonic": "Hình đứa trẻ có cái đầu to, cất hai tay = Tử (子) — con cái, hạt nhỏ."
       }
     ],
-    "summary": "Các hạt tích điện vi mô hoạt động tạo nên nền tảng công nghệ số hiện đại — 電子: công nghệ điện tử.",
+    "summary": "Đứa con (子) bé tí của tia chớp trong mưa (電) — 電子: electron, điện tử (子 ở đây = hạt nhỏ, như 原子 nguyên tử).",
     "example": {
       "hanzi": "台灣的半導體與電子產業在全球供應鏈中扮演著無可取代的關鍵角色。",
       "pinyin": "Táiwān de bàndǎotǐ yǔ diànzǐ chǎnyè zài quánqiú gōngyìngliàn zhōng bànyǎn zhe wúkě qǔdài de guānjiàn juésè.",
@@ -30064,9 +30064,9 @@ const LESSON_DATA = [
       {
         "char": "新",
         "pinyin": "xīn",
-        "structure": "Chữ hội ý: Bên trái là chữ Tân (辛 - cái đục kim loại sắc bén) và Mộc (木 - cây gỗ), bên phải là bộ Cân (斤 - cái rìu).",
-        "story": "Người tiều phu dùng cái rìu sắc (斤) và công cụ kim loại (辛) để chặt đốn một cây gỗ (木) còn tươi mới chưa hề sử dụng. Nghĩa là mới mẻ, tươi mới.",
-        "mnemonic": "Dùng đục (辛) và rìu (斤) đốn cây gỗ (木) tươi = Tân (新) — mới."
+        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là chữ 亲 (*qīn* - chỉ âm), gồm Tân (辛 - con dao/đục, cũng đọc *xīn*) trên Mộc (木 - cây gỗ). Bên phải là bộ Cân (斤 - cái rìu) chỉ nghĩa.",
+        "story": "Nghĩa gốc của 新 là \"dùng rìu chặt cây lấy củi\" (nay viết 薪): cầm rìu (斤) bổ cây (木). Gỗ vừa bổ ra, thớ trắng tinh chưa ai dùng — từ đó chữ chuyển sang nghĩa \"mới\", và người ta thêm 艹 thành 薪 để giữ nghĩa củi.",
+        "mnemonic": "Rìu (斤) bổ cây (木) ra thớ gỗ trắng tinh, đọc như Tân (辛) = Tân (新) — mới."
       },
       {
         "char": "型",
@@ -30076,7 +30076,7 @@ const LESSON_DATA = [
         "mnemonic": "Lấy đất sét (土) đúc thành hình dáng (刑) chuẩn = Hình (型) — mô hình, kiểu."
       }
     ],
-    "summary": "Khuôn mẫu thiết kế hoàn toàn mới mẻ vừa được sáng tạo ra (新型) — 新型: kiểu mới, mẫu mới ra lò.",
+    "summary": "Cái khuôn đất sét (型) vừa mới đúc xong, như thớ gỗ mới bổ (新) — 新型: kiểu mới, mẫu đời mới.",
     "example": {
       "hanzi": "這款新型的省電冷氣比傳統冷氣節省了將近百分之三十的電力。",
       "pinyin": "Zhè kuǎn xīnxíng de shěngdiàn lěngqì bǐ chuántǒng lěngqì jiéshěng le jiāngjìn bǎifēnzhī sānshí de diànlì.",
@@ -30258,12 +30258,12 @@ const LESSON_DATA = [
       {
         "char": "戲",
         "pinyin": "xì",
-        "structure": "Chữ hội ý: Bên trái là chữ Hư (鬳 - con cọp / hoặc hình nồi đất nấu nướng), bên phải là bộ Qua (戈 - cây giáo vũ khí).",
-        "story": "Những người diễn tuồng ngày xưa hóa trang vằn vện, cầm cây giáo vũ khí (戈) đánh nhau giả vờ trên sân khấu để giải trí. Nghĩa là diễn trò, vở kịch, vui đùa, trò chơi.",
-        "mnemonic": "Cầm giáo mác (戈) hóa trang vằn vện múa võ = Hí (戲) — trò chơi, tuồng kịch."
+        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là chữ 䖒 (*xī* - chỉ âm), gồm bộ Hô (虍 - vằn đầu con cọp) trên Đậu (豆 - cái bát có chân cao, đồ lễ). Bên phải là bộ Qua (戈 - cây giáo) chỉ nghĩa.",
+        "story": "Thuyết văn giải nghĩa gốc của 戲 là cánh quân bên sườn / binh khí (三軍之偏) — liên quan đến giáo (戈). Một thuyết khác (dùng tốt để nhớ): trong lễ hội xưa, người đội mặt nạ cọp (虍) đứng trên bục (豆), người khác cầm giáo (戈) múa võ giả vờ đánh nhau để mua vui. Nghĩa nay là diễn trò, kịch, tuồng (京戲 - Kinh kịch), chơi đùa (遊戲 - trò chơi).",
+        "mnemonic": "Mặt nạ cọp (虍) trên bục (豆) đấu giáo (戈) cho vui = Hí (戲) — trò diễn, trò chơi."
       }
     ],
-    "summary": "Ngao du dạo bước thảnh thơi (遊) hòa mình vào các màn vui đùa giải trí sảng khoái (戲) — 遊戲: trò chơi, video game.",
+    "summary": "Đứa trẻ cầm cờ dạo khắp nơi (遊) rồi xem người đội mặt nạ cọp múa giáo (戲) — 遊戲: trò chơi, game (手遊 - game điện thoại).",
     "example": {
       "hanzi": "適度地玩益智手遊可以鍛鍊大腦反應，但千萬不可過度沉迷。",
       "pinyin": "Shìdù de wán yìzhì shǒuyóu kěyǐ duànliàn dànǎo fǎnyìng, dàn qiānwàn bùkě guòdù chénmí.",
@@ -30288,12 +30288,12 @@ const LESSON_DATA = [
       {
         "char": "妝",
         "pinyin": "zhuāng",
-        "structure": "Chữ hội ý: Bên trái là bộ Nữ (女 - người phụ nữ / gốc là 爿: tấm phản, bàn phấn), bên phải là Nữ.",
-        "story": "Người phụ nữ (女) ngồi trước chiếc bàn trang điểm hoặc tấm phản (爿) để chải chuốt, tô son điểm phấn làm đẹp dung nhan. Nghĩa là trang điểm, hóa trang.",
+        "structure": "Chữ hình thanh: Bên trái là chữ Tường (爿 *qiáng* - hình tấm ván/chiếc giường dựng đứng, chỉ âm; cũng là phần âm của 壯, 裝). Bên phải là bộ Nữ (女 - người phụ nữ) chỉ nghĩa.",
+        "story": "Người phụ nữ (女) ngồi bên tấm ván/bàn gỗ (爿) để chải tóc, tô son điểm phấn. Nghĩa là trang điểm (化妝, 妝容 - lớp trang điểm). Cùng họ âm với 裝 (trang phục): 爿/壯 → *zhuāng*.",
         "mnemonic": "Phụ nữ (女) ngồi bên bàn phấn (爿) làm đẹp = Trang (妝) — trang điểm."
       }
     ],
-    "summary": "Dùng phấn son biến hóa nhan sắc (化) điểm tô cho diện mạo rạng rỡ lung linh (妝) — 化妝: trang điểm.",
+    "summary": "Cô gái (女) ngồi bên bàn gỗ (爿) tô vẽ đến mức thay đổi hẳn (化 - người đứng 亻 lộn ngược thành 匕) — 化妝: trang điểm.",
     "example": {
       "hanzi": "出門參加重要宴會前，她都會細心地化妝打扮一番。",
       "pinyin": "Chūmén cānjiā zhòngyào yànhuì qián, tā dōu huì xìxīn de huàzhuāng dǎbàn yìfān.",
@@ -30318,9 +30318,9 @@ const LESSON_DATA = [
       {
         "char": "模",
         "pinyin": "mú",
-        "structure": "Bên trái là bộ Mộc (木 - thanh gỗ). Bên phải là chữ Mạc (莫 - lúc hoàng hôn mặt trời lặn).",
-        "story": "Khuôn đúc làm bằng gỗ (木) để dập tạo ra hàng loạt đồ vật có hình dáng giống hệt nhau. Nghĩa là khuôn mẫu.",
-        "mnemonic": "Khuôn đúc bằng gỗ = Mô (模) — khuôn mẫu."
+        "structure": "Chữ hình thanh: Bên trái là bộ Mộc (木 - gỗ) chỉ nghĩa. Bên phải là chữ Mạc (莫 *mò* - chỉ âm), gồm mặt trời (日) lặn giữa hai đám cỏ (艹 trên, 大 vốn là 艹 dưới): hoàng hôn, chữ gốc của 暮.",
+        "story": "Thuyết văn giải 模 là \"khuôn\" (法). Người thợ đẽo khuôn bằng gỗ (木) để đổ vật liệu vào, mỗi lần đổ ra một vật giống hệt nhau. Nghĩa là khuôn mẫu (*mú*: 模子), mô hình, bắt chước (*mó*: 模仿).",
+        "mnemonic": "Khuôn gỗ (木) đẽo đến tận lúc mặt trời lặn trong cỏ (莫) = Mô (模) — khuôn."
       },
       {
         "char": "一",
@@ -30332,8 +30332,8 @@ const LESSON_DATA = [
       {
         "char": "樣",
         "pinyin": "yàng",
-        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là bộ Mộc (木 - thanh gỗ), bên phải gồm chữ Dương (羊 - con cừu) và Vĩnh (永 / 氺 - dòng nước kéo dài).",
-        "story": "Lấy tấm gỗ (木) chạm khắc hoa văn hình con cừu (羊) để làm khuôn mẫu điêu khắc được lưu truyền mãi mãi ngàn đời (氺). Nghĩa là hình dáng, kiểu dáng, hình thức.",
+        "structure": "Chữ hình thanh: Bên trái là bộ Mộc (木 - gỗ) chỉ nghĩa. Bên phải là chữ Dạng (羕 *yàng* - chỉ âm, nghĩa gốc là nước chảy dài), gồm Dương (羊 - con cừu, cũng là âm *yáng*) và Vĩnh (永 → viết rút gọn thành 氺: dòng nước dài).",
+        "story": "Thuyết văn giải nghĩa gốc của 樣 là quả sồi (栩實, nay viết 橡); chữ sau được mượn chỉ \"khuôn mẫu, hình dáng\". Mẹo hình dung: tấm gỗ (木) khắc hình con cừu (羊) để in ra mãi (永) cùng một hình. Nghĩa nay là hình dáng, kiểu, mẫu (樣子 - dáng vẻ, 一樣 - giống nhau).",
         "mnemonic": "Khắc hình cừu (羊) lưu truyền (氺) lên gỗ (木) làm khuôn mẫu = Dạng (樣)."
       }
     ],
@@ -30355,9 +30355,9 @@ const LESSON_DATA = [
       {
         "char": "淺",
         "pinyin": "qiǎn",
-        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là bộ Thủy (氵 - nước), bên phải là chữ Tiễn (戔 - hai chiếc vũ khí 戈 tàn sát nhau dẫn đến cạn kiệt).",
-        "story": "Nguồn nước (氵) bị khô cạn, vơi đi (戔) khiến mực nước rất thấp, nhìn thấy cả đáy. Nghĩa gốc là nông cạn, vùng nước nông, màu sắc nhàn nhạt.",
-        "mnemonic": "Nước (氵) cạn kiệt (戔) trơ cả đáy = Thiển (淺) — nông, nhạt màu."
+        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là bộ Thủy (氵 - nước) chỉ nghĩa. Bên phải là chữ Tiên (戔 *jiān* - chỉ âm), gồm hai chữ Qua (戈 - cây giáo) chồng lên nhau: giáo băm đi băm lại → vụn nhỏ, ít ỏi.",
+        "story": "Hai cây giáo (戈戈) băm vật ra thành mảnh vụn nhỏ — nên chữ nào có 戔 thường mang ý \"nhỏ, ít\": 錢 (tiền lẻ), 賤 (rẻ mạt), 箋 (mảnh giấy nhỏ). Nước (氵) mà \"ít\" (戔) = nước nông (淺水); màu mà \"ít\" = màu nhạt (淺藍色), trái với 深 (sâu, đậm).",
+        "mnemonic": "Nước (氵) bị hai cây giáo (戔) băm cho ít đi = Thiển (淺) — nông, nhạt."
       },
       {
         "char": "藍",
@@ -30374,7 +30374,7 @@ const LESSON_DATA = [
         "mnemonic": "Kẻ dưới quỳ (卩) nhìn sắc mặt người (人) bề trên = Sắc (色) — màu sắc."
       }
     ],
-    "summary": "Sắc màu xanh biếc của biển trời (藍色) được pha nhạt dịu nhẹ thanh thoát (淺) — 淺藍色: màu xanh lam nhạt.",
+    "summary": "Lá chàm (艹) ngâm chậu (監) cho ra màu (色) xanh, nhưng pha ít nước (淺) nên nhạt — 淺藍色: xanh lam nhạt (深藍色 - xanh đậm).",
     "example": {
       "hanzi": "他今天穿著一件淺藍色的休閒襯衫，看起來非常清爽帥氣。",
       "pinyin": "Tā jīntiān chuānzhuó yí jiàn qiǎnlánsè de xiūxián chènshān, kàn qǐlái fēicháng qīngshuǎng shuàiqì.",
@@ -30392,19 +30392,19 @@ const LESSON_DATA = [
       {
         "char": "脫",
         "pinyin": "tuō",
-        "structure": "Chữ hội ý: Bên trái là bộ Nhục (月/肉 - da thịt cơ thể), bên phải là chữ Đoái (兌 - nói cười vui vẻ, sự tháo gỡ hân hoan).",
+        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là bộ Nhục (月 - dạng của 肉: da thịt) chỉ nghĩa. Bên phải là chữ Đoái (兌 *duì* - chỉ âm), gồm Bát (八 - tách ra hai bên) trên Huynh (兄 - người há miệng 口 trên đôi chân 儿): người mở miệng cười, thoải mái.",
         "story": "Cởi bỏ những lớp áo quần nặng nề vướng víu bám trên da thịt (月) để thân thể được hân hoan nhẹ nhõm, tự do bay nhảy (兌). Nghĩa là cởi ra, thoát khỏi vòng cương tỏa.",
         "mnemonic": "Thân thể da thịt (月) cởi bỏ áo quần thấy vui vẻ nhẹ nhõm (兌) = Thoát (脫) — cởi ra."
       },
       {
         "char": "掉",
         "pinyin": "diào",
-        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là bộ Thủ (扌 - bàn tay/hành động), bên phải là chữ Trác (卓 - trác tuyệt, cao vút).",
+        "structure": "Chữ hình thanh: Bên trái là bộ Thủ (扌 - bàn tay) chỉ nghĩa. Bên phải là chữ Trác (卓 *zhuó* - cao vút, chỉ âm), gồm Bốc (卜) / Nhật (日) / Thập (十): hình người đứng cao hơn hẳn.",
         "story": "Vung bàn tay (扌) làm một vật từ trên cao (卓) bị rớt tuột xuống đất. Nghĩa là rơi rớt, đánh rơi, hoặc tuột mất, biến mất hoàn toàn.",
         "mnemonic": "Tay (扌) vung làm rớt đồ từ trên cao (卓) xuống = Điệu (掉) — đánh rơi, tuột mất."
       }
     ],
-    "summary": "Thao tác cởi bỏ hoàn toàn lớp áo quần giày dép vướng víu ra khỏi người — 脫掉: cởi ra.",
+    "summary": "Cởi lớp áo khỏi da thịt (脫) cho người nhẹ nhõm cười tươi, rồi tay (扌) quăng nó rơi xuống (掉) — 脫掉: cởi ra (掉 sau động từ = làm cho mất đi: 吃掉, 丟掉).",
     "example": {
       "hanzi": "一進到室內，日本人都習慣先把戶外鞋子脫掉，換上舒適的室內拖鞋。",
       "pinyin": "Yí jìn dào shìnèi, Rìběnrén dōu xíguàn xiān bǎ hùwài xiézi tuōdiào, huàn shàng shūshì de shìnèi tuōxié.",
@@ -30466,9 +30466,9 @@ const LESSON_DATA = [
       {
         "char": "推",
         "pinyin": "tuī",
-        "structure": "Chữ hội ý: Bên trái là bộ Thủ (扌 - bàn tay), bên phải là chữ Chuy (隹 - con chim đuôi ngắn).",
-        "story": "Hình ảnh một bàn tay (扌) dùng sức hất nhẹ để đẩy con chim (隹) đậu trên đó bay vút về phía trước. Nghĩa là đẩy mạnh, đẩy lùi, hoặc tiến cử, đề cử.",
-        "mnemonic": "Bàn tay (扌) đẩy con chim (隹) bay đi = Thôi (推) — xô đẩy, tiến cử."
+        "structure": "Chữ hình thanh: Bên trái là bộ Thủ (扌 - bàn tay) chỉ nghĩa. Bên phải là bộ Chuy (隹 *zhuī* - con chim đuôi ngắn) chỉ âm (*zhuī* → *tuī*), không mang nghĩa chim ở đây.",
+        "story": "Dùng tay (扌) đẩy vật ra phía trước — đẩy (推門 - đẩy cửa). Từ \"đẩy ra phía trước\" mở rộng thành: đẩy mạnh, quảng bá (推廣), tiến cử (推薦), đưa ra thị trường (推出). Để dễ nhớ có thể hình dung tay hất con chim cho nó bay đi.",
+        "mnemonic": "Bàn tay (扌) hất con chim (隹) bay ra phía trước = Thôi (推) — đẩy."
       },
       {
         "char": "出",
@@ -30478,7 +30478,7 @@ const LESSON_DATA = [
         "mnemonic": "Bàn chân bước ra khỏi hang vươn lên = Xuất (出) — đi ra."
       }
     ],
-    "summary": "Dùng lực đẩy mạnh đưa thành phẩm (推) bước ra mắt công chúng người tiêu dùng (出) — 推出: ra mắt, tung ra sản phẩm mới.",
+    "summary": "Tay đẩy (推) sản phẩm bước ra khỏi hang (出) đến với khách hàng — 推出: tung ra, ra mắt (sản phẩm, dịch vụ mới).",
     "example": {
       "hanzi": "為了迎接暑假旅遊旺季，這家航空公司推出了超值的早鳥機票優惠。",
       "pinyin": "Wèile yíngjiē shǔjià lǚyóu wàngjì, zhè jiā hángkōng gōngsī tuīchū le chāozhí de zǎoniǎo jīpiào yōuhuì.",
