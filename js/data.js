@@ -28988,16 +28988,16 @@ const LESSON_DATA = [
       {
         "char": "放",
         "pinyin": "fàng",
-        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là chữ Phương (方 - hình chiếc cày gỗ hoặc chỉ phương hướng), bên phải là bộ Phác (攵 - hình bàn tay cầm roi/gậy đánh).",
-        "story": "Dùng tay cầm roi (攵) lùa đánh bầy gia súc đi về khắp các phương hướng (方) để chúng tự do ăn cỏ. Nghĩa là phóng thích, thả ra, buông lỏng.",
-        "mnemonic": "Cầm roi (攵) lùa bò đi tứ Phương (方) = Phóng (放) — thả ra."
+        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là chữ Phương (方 - phương hướng / cái cày gỗ), bên phải là bộ Phác (攵 - hình bàn tay cầm roi/gậy đánh).",
+        "story": "Người mục đồng dùng tay cầm cây roi (攵) lùa đánh bầy gia súc tản ra đi về khắp các phương hướng (方) để chúng tự do ăn cỏ. Nghĩa là phóng thích, thả ra, buông lỏng.",
+        "mnemonic": "Cầm roi (攵) lùa súc vật đi tứ Phương (方) tự do = Phóng (放) — buông thả."
       },
       {
         "char": "鬆",
         "pinyin": "sōng",
-        "structure": "Bên trái là bộ Sam (彡/bộ Bưu - mái tóc dài buông xõa). Phía dưới là chữ Tùng (松 - cây thông cành lá xòe thưa thớt).",
-        "story": "Mái tóc búi chặt được tháo dây buông xõa mềm mại thảnh thơi. Nghĩa là nới lỏng, thong thả.",
-        "mnemonic": "Tháo tóc xõa buông lơi như cành thông (松) = Tùng (鬆) — lỏng, thư giãn."
+        "structure": "Chữ hình thanh kiêm hội ý: Phía trên là bộ Tiêu (髟 - mái tóc dài, ghép từ Trường 長 và Sam 彡), phía dưới là chữ Tùng (松 - cây thông / biểu âm).",
+        "story": "Nghĩa gốc của chữ 鬆 là chỉ mái tóc dài (髟) của người phụ nữ không bị cột hay búi chặt lại, mà được buông xõa lỏng lẻo, tự do rủ xuống tựa như những cành lá thông (松). Từ sự lỏng lẻo của mái tóc, chữ mở rộng chỉ sự thả lỏng tâm trí, cơ bắp.",
+        "mnemonic": "Mái tóc dài (髟) buông xõa rủ xuống tự nhiên như lá cây thông (松) = Tùng (鬆) — thả lỏng."
       }
     ],
     "summary": "Buông bỏ mọi căng thẳng (放) và thả lỏng thảnh thơi cả thân tâm (鬆) — 放鬆: thư giãn thả lỏng.",
@@ -29152,16 +29152,16 @@ const LESSON_DATA = [
       {
         "char": "擠",
         "pinyin": "jǐ",
-        "structure": "Bên trái là bộ Thủ (扌- tay xô đẩy). Bên phải là chữ Tề (齊 - chen ngang hàng lối thẳng thớm).",
-        "story": "Dùng bàn tay (扌) chen lấn xô đẩy giữa đám đông để giành chỗ đứng. Nghĩa là chen chúc, chèn ép.",
-        "mnemonic": "Tay (扌) xô đẩy chen lấn = Tễ (擠) — chen lấn."
+        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là bộ Thủ (扌 - bàn tay). Bên phải là chữ Tề (齊 - ngay ngắn, đều đặn) đóng vai trò biểu âm. Bản thân chữ 齊 (Tề) vốn là một chữ tượng hình cổ, vẽ hình ba bông lúa mọc vươn lên cao bằng nhau đều tăm tắp trên mặt đất.",
+        "story": "Ở nơi đông đúc, mọi người xếp hàng đứng xen sát vào nhau đều tăm tắp (齊). Người đến sau muốn len vào thì phải dùng tay (扌) để lách, gạt và xô đẩy người khác ra nhằm tạo chỗ trống. Nghĩa gốc là chen lấn, chèn ép.",
+        "mnemonic": "Dùng tay (扌) gạt hàng người đứng san sát đều nhau (齊) để tìm lối đi = Tễ (擠) — chen lấn."
       },
       {
         "char": "滿",
         "pinyin": "mǎn",
-        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là Thủy (氵 - nước), bên phải là Mãn (滿 - dạng cổ ghép từ 廿 và 兩 / cân bằng hai bên).",
-        "story": "Dòng nước (氵) đổ vào bình chứa nhiều đến mức dâng cao đều đặn (兩) che lấp cả miệng bình (廿) và tràn cả ra ngoài. Nghĩa là đầy tràn, sung túc, thỏa mãn.",
-        "mnemonic": "Nước (氵) đong cân đều hai bên (兩) miệng bình (廿) thì sẽ Mãn (滿) — đầy."
+        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là bộ Thủy (氵 - dòng nước). Bên phải là chữ Mãn (㒼 - mǎn: che lấp, dâng đều). Phân tích sâu hơn, chữ 㒼 được ghép từ chữ Chấp / Nhập (廿 - con số hai mươi, ở đây vẽ hình bề mặt miệng bình bị che lấp) và chữ Lưỡng (兩 - cái cân đòn thăng bằng hai bên).",
+        "story": "Dòng nước (氵) đổ vào bình chứa dâng cao đều đặn, thăng bằng ngang nhau (兩), nhiều đến mức dâng lên che lấp cả miệng bình (廿) và tuôn tràn ra ngoài. Nghĩa là đầy tràn, thỏa mãn.",
+        "mnemonic": "Nước (氵) dâng lên thăng bằng hai bên (兩) che lấp cả miệng bình (廿) = Mãn (滿) — đầy tràn."
       }
     ],
     "summary": "Người người chen lấn xô đẩy (擠) lấp đầy chật ních không còn một khe hở (滿) — 擠滿: chật kín, đông nghẹt.",
@@ -29425,16 +29425,16 @@ const LESSON_DATA = [
       {
         "char": "撞",
         "pinyin": "zhuàng",
-        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là bộ Thủ (扌 - bàn tay/hành động), bên phải là chữ Đồng (童 - đứa trẻ con / kẻ hầu hạ).",
-        "story": "Người lớn vô ý vung tay (扌) đụng phải đứa trẻ (童) đang chạy nhảy lung tung gây ra sự va chạm. Nghĩa là đụng phải, va đập mạnh.",
-        "mnemonic": "Tay (扌) lỡ va trúng đứa trẻ (童) đang chạy nhảy = Chàng (撞) — va đụng."
+        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là bộ Thủ (扌 - bàn tay / hành động), bên phải là chữ Đồng (童 - đứa trẻ con / đồng dao, ghép từ Lập 立 và Lý 里).",
+        "story": "Người lớn đang đi đường hoặc làm việc, vô ý vung tay (扌) đụng phải một đứa trẻ (童) đang mải mê chạy nhảy lung tung gây ra sự va chạm. Nghĩa là va đập mạnh, đụng độ nhau.",
+        "mnemonic": "Vung tay (扌) lỡ va trúng đứa trẻ (童) đang chạy nhảy = Chàng (撞) — va chạm, đụng nhau."
       },
       {
         "char": "衫",
         "pinyin": "shān",
-        "structure": "Bên trái là bộ Y (衤- trang phục áo xống). Bên phải là bộ Sam (彡 - những vạt vạt sọc áo mỏng manh).",
-        "story": "Chiếc áo mặc thường ngày may bằng vải mỏng mát nhẹ. Nghĩa là chiếc áo cánh.",
-        "mnemonic": "Áo (衤) mỏng manh mát mẻ (彡) = Sam (衫) — chiếc áo."
+        "structure": "Chữ hình thanh kiêm hội ý: Bên trái là bộ Y (衤 - y phục, vẽ hình chiếc áo có bâu và vạt), bên phải là bộ Sam (彡 - hình ba nét phẩy chỉ lông tóc hoặc hoa văn trang trí).",
+        "story": "Một chiếc áo (衤) mỏng nhẹ mặc thường ngày, trên áo có thêu dệt những đường nét hoa văn trang trí (彡) mềm mại. Chữ Sam chuyên dùng để chỉ các loại áo mỏng, áo ngắn, áo cánh.",
+        "mnemonic": "Chiếc áo (衤) mỏng có thêu ba đường hoa văn (彡) = Sam (衫) — chiếc áo."
       }
     ],
     "summary": "Hai người cùng mặc một mẫu áo (衫) đụng mặt nhau bất ngờ trên phố (撞) — 撞衫: đụng hàng trang phục.",

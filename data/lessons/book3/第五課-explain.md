@@ -384,17 +384,17 @@
 ## 22. Cụm từ: 放鬆 - Phóng Tùng / thư giãn, thả lỏng cơ thể tâm trí
 
 ### ❶ Chữ 放 - Cách viết / đọc: *fàng*
-*   **📐 Cấu tạo chi tiết:** Chữ hình thanh kiêm hội ý: Bên trái là chữ Phương (方 - hình chiếc cày gỗ hoặc chỉ phương hướng), bên phải là bộ Phác (攵 - hình bàn tay cầm roi/gậy đánh).
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Dùng tay cầm roi (攵) lùa đánh bầy gia súc đi về khắp các phương hướng (方) để chúng tự do ăn cỏ. Nghĩa là phóng thích, thả ra, buông lỏng.
-*   **💡 Mẹo nhớ:** "Cầm roi (攵) lùa bò đi tứ Phương (方) = Phóng (放) — thả ra."
+*   **📐 Cấu tạo chi tiết:** Chữ hình thanh kiêm hội ý: Bên trái là chữ Phương (方 - phương hướng / cái cày gỗ), bên phải là bộ Phác (攵 - hình bàn tay cầm roi/gậy đánh).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Người mục đồng dùng tay cầm cây roi (攵) lùa đánh bầy gia súc tản ra đi về khắp các phương hướng (方) để chúng tự do ăn cỏ. Nghĩa là phóng thích, thả ra, buông lỏng.
+*   **💡 Mẹo nhớ:** "Cầm roi (攵) lùa súc vật đi tứ Phương (方) tự do = Phóng (放) — buông thả."
 
 ### ❷ Chữ 鬆 - Cách viết / đọc: *sōng*
-*   **📐 Cấu tạo chi tiết:** Bên trái là bộ Sam (彡/bộ Bưu - mái tóc dài buông xõa). Phía dưới là chữ Tùng (松 - cây thông cành lá xòe thưa thớt).
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Mái tóc búi chặt được tháo dây buông xõa mềm mại thảnh thơi. Nghĩa là nới lỏng, thong thả.
-*   **💡 Mẹo nhớ:** "Tháo tóc xõa buông lơi như cành thông (松) = Tùng (鬆) — lỏng, thư giãn."
+*   **📐 Cấu tạo chi tiết:** Chữ hình thanh kiêm hội ý: Phía trên là bộ Tiêu (髟 - mái tóc dài, ghép từ Trường 長 và Sam 彡), phía dưới là chữ Tùng (松 - cây thông / biểu âm).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Nghĩa gốc của chữ 鬆 là chỉ mái tóc dài (髟) của người phụ nữ không bị cột hay búi chặt lại, mà được buông xõa lỏng lẻo, tự do rủ xuống tựa như những cành lá thông (松). Từ sự lỏng lẻo của mái tóc, chữ mở rộng chỉ sự thả lỏng tâm trí, cơ bắp.
+*   **💡 Mẹo nhớ:** "Mái tóc dài (髟) buông xõa rủ xuống tự nhiên như lá cây thông (松) = Tùng (鬆) — thả lỏng."
 
 ### 💡 Tổng kết mẹo nhớ cả cụm 放鬆
-> "Buông bỏ mọi căng thẳng (放) và thả lỏng thảnh thơi cả thân tâm (鬆) — 放鬆: thư giãn thả lỏng."
+> "Thả (放) cho tâm trí và cơ thể buông xõa tự do như mái tóc dài lỏng lẻo (鬆) = 放鬆 (thư giãn, thả lỏng)."
 
 *   **Ví dụ:** 聽輕柔的古典音樂是忙碌了一整天之後最好的放鬆方式。 (Tīng qīngróu de gǔdiǎn yīnyuè shì mánglù le yì zhěng tiān zhīhòu zuì hǎo de fàngsōng fāngshì.) — Nghe nhạc cổ điển êm dịu là phương thức thư giãn tốt nhất sau một ngày làm việc bận rộn.
 
@@ -489,17 +489,17 @@
 ## 27. Cụm từ: 擠滿 - Tễ Mãn / chật kín, chen chúc đông nghẹt
 
 ### ❶ Chữ 擠 - Cách viết / đọc: *jǐ*
-*   **📐 Cấu tạo chi tiết:** Bên trái là bộ Thủ (扌- tay xô đẩy). Bên phải là chữ Tề (齊 - chen ngang hàng lối thẳng thớm).
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Dùng bàn tay (扌) chen lấn xô đẩy giữa đám đông để giành chỗ đứng. Nghĩa là chen chúc, chèn ép.
-*   **💡 Mẹo nhớ:** "Tay (扌) xô đẩy chen lấn = Tễ (擠) — chen lấn."
+*   **📐 Cấu tạo chi tiết:** Chữ hình thanh kiêm hội ý: Bên trái là bộ Thủ (扌 - bàn tay). Bên phải là chữ Tề (齊 - ngay ngắn, đều đặn) đóng vai trò biểu âm. Bản thân chữ 齊 (Tề) vốn là một chữ tượng hình cổ, vẽ hình ba bông lúa mọc vươn lên cao bằng nhau đều tăm tắp trên mặt đất.
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Ở nơi đông đúc, mọi người xếp hàng đứng xen sát vào nhau đều tăm tắp (齊). Người đến sau muốn len vào thì phải dùng tay (扌) để lách, gạt và xô đẩy người khác ra nhằm tạo chỗ trống. Nghĩa gốc là chen lấn, chèn ép.
+*   **💡 Mẹo nhớ:** "Dùng tay (扌) gạt hàng người đứng san sát đều nhau (齊) để tìm lối đi = Tễ (擠) — chen lấn."
 
 ### ❷ Chữ 滿 - Cách viết / đọc: *mǎn*
-*   **📐 Cấu tạo chi tiết:** Chữ hình thanh kiêm hội ý: Bên trái là Thủy (氵 - nước), bên phải là Mãn (滿 - dạng cổ ghép từ 廿 và 兩 / cân bằng hai bên).
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Dòng nước (氵) đổ vào bình chứa nhiều đến mức dâng cao đều đặn (兩) che lấp cả miệng bình (廿) và tràn cả ra ngoài. Nghĩa là đầy tràn, sung túc, thỏa mãn.
-*   **💡 Mẹo nhớ:** "Nước (氵) đong cân đều hai bên (兩) miệng bình (廿) thì sẽ Mãn (滿) — đầy."
+*   **📐 Cấu tạo chi tiết:** Chữ hình thanh kiêm hội ý: Bên trái là bộ Thủy (氵 - dòng nước). Bên phải là chữ Mãn (㒼 - mǎn: che lấp, dâng đều). Phân tích sâu hơn, chữ 㒼 được ghép từ chữ Chấp / Nhập (廿 - con số hai mươi, ở đây vẽ hình bề mặt miệng bình bị che lấp) và chữ Lưỡng (兩 - cái cân đòn thăng bằng hai bên).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Dòng nước (氵) đổ vào bình chứa dâng cao đều đặn, thăng bằng ngang nhau (兩), nhiều đến mức dâng lên che lấp cả miệng bình (廿) và tuôn tràn ra ngoài. Nghĩa là đầy tràn, thỏa mãn.
+*   **💡 Mẹo nhớ:** "Nước (氵) dâng lên thăng bằng hai bên (兩) che lấp cả miệng bình (廿) = Mãn (滿) — đầy tràn."
 
 ### 💡 Tổng kết mẹo nhớ cả cụm 擠滿
-> "Người người chen lấn xô đẩy (擠) lấp đầy chật ních không còn một khe hở (滿) — 擠滿: chật kín, đông nghẹt."
+> "Dùng tay (扌) chen lấn giữa dòng người đông đúc san sát (齊) đến mức không gian bị lấp đầy tràn (滿) không còn một khe hở = 擠滿 (chen chúc chật ních)."
 
 *   **Ví dụ:** 捷運車廂裡擠滿了準備回家度過連假的人潮。 (Jiéyùn chēxiāng lǐ jǐmǎn le zhǔnbèi huíjiā dùguò liánjià de réncháo.) — Trong các toa tàu điện ngầm chật kín biển người đang chuẩn bị về quê nghỉ lễ dài ngày.
 
@@ -667,17 +667,17 @@
 ## 34. Cụm từ: 撞衫 - Tràng Sam (Đụng hàng) / đụng hàng trang phục; mặc quần áo giống hệt người khác
 
 ### ❶ Chữ 撞 - Cách viết / đọc: *zhuàng*
-*   **📐 Cấu tạo chi tiết:** Chữ hình thanh kiêm hội ý: Bên trái là bộ Thủ (扌 - bàn tay/hành động), bên phải là chữ Đồng (童 - đứa trẻ con / kẻ hầu hạ).
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Người lớn vô ý vung tay (扌) đụng phải đứa trẻ (童) đang chạy nhảy lung tung gây ra sự va chạm. Nghĩa là đụng phải, va đập mạnh.
-*   **💡 Mẹo nhớ:** "Tay (扌) lỡ va trúng đứa trẻ (童) đang chạy nhảy = Chàng (撞) — va đụng."
+*   **📐 Cấu tạo chi tiết:** Chữ hình thanh kiêm hội ý: Bên trái là bộ Thủ (扌 - bàn tay / hành động), bên phải là chữ Đồng (童 - đứa trẻ con / đồng dao, ghép từ Lập 立 và Lý 里).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Người lớn đang đi đường hoặc làm việc, vô ý vung tay (扌) đụng phải một đứa trẻ (童) đang mải mê chạy nhảy lung tung gây ra sự va chạm. Nghĩa là va đập mạnh, đụng độ nhau.
+*   **💡 Mẹo nhớ:** "Vung tay (扌) lỡ va trúng đứa trẻ (童) đang chạy nhảy = Chàng (撞) — va chạm, đụng nhau."
 
 ### ❷ Chữ 衫 - Cách viết / đọc: *shān*
-*   **📐 Cấu tạo chi tiết:** Bên trái là bộ Y (衤- trang phục áo xống). Bên phải là bộ Sam (彡 - những vạt vạt sọc áo mỏng manh).
-*   **📜 Câu chuyện và Ý nghĩa gốc:** Chiếc áo mặc thường ngày may bằng vải mỏng mát nhẹ. Nghĩa là chiếc áo cánh.
-*   **💡 Mẹo nhớ:** "Áo (衤) mỏng manh mát mẻ (彡) = Sam (衫) — chiếc áo."
+*   **📐 Cấu tạo chi tiết:** Chữ hình thanh kiêm hội ý: Bên trái là bộ Y (衤 - y phục, vẽ hình chiếc áo có bâu và vạt), bên phải là bộ Sam (彡 - hình ba nét phẩy chỉ lông tóc hoặc hoa văn trang trí).
+*   **📜 Câu chuyện và Ý nghĩa gốc:** Một chiếc áo (衤) mỏng nhẹ mặc thường ngày, trên áo có thêu dệt những đường nét hoa văn trang trí (彡) mềm mại. Chữ Sam chuyên dùng để chỉ các loại áo mỏng, áo ngắn, áo cánh.
+*   **💡 Mẹo nhớ:** "Chiếc áo (衤) mỏng có thêu ba đường hoa văn (彡) = Sam (衫) — chiếc áo."
 
 ### 💡 Tổng kết mẹo nhớ cả cụm 撞衫
-> "Hai người cùng mặc một mẫu áo (衫) đụng mặt nhau bất ngờ trên phố (撞) — 撞衫: đụng hàng trang phục."
+> "Đi ra đường tình cờ đụng độ, va chạm (撞) với một người mặc chiếc áo (衫) có hoa văn y hệt mình = 撞衫 (đụng hàng quần áo)."
 
 *   **Ví dụ:** 去參加派對時最尷尬的事情，莫過於跟別人穿了同一款衣服而撞衫。 (Qù cānjiā pàiduì shí zuì gāngà de shìqíng, mòguòyú gēn biérén chuān le tóng yì kuǎn yīfú ér zhuàngshān.) — Khi đi dự tiệc việc ngượng ngùng nhất chẳng gì bằng việc mặc cùng một mẫu áo đụng hàng với người khác.
 
