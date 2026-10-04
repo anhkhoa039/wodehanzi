@@ -521,9 +521,9 @@
               <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><path d="M19.07 4.93a10 10 0 0 1 0 14.14"></path></svg>
             </button>
           </div>
-          <div class="mcb-label"><strong>Cấu tạo:</strong> ${c.structure}</div>
-          <div class="mcb-story">${c.story}</div>
-          <div class="mcb-mnemonic">💡 ${c.mnemonic}</div>
+          <div class="mcb-label"><strong>Cấu tạo:</strong> ${c.structure || ''}</div>
+          ${c.story ? `<div class="mcb-story"><strong>Câu chuyện:</strong> ${c.story}</div>` : ''}
+          ${c.mnemonic ? `<div class="mcb-mnemonic">💡 ${c.mnemonic}</div>` : ''}
         </div>
       `;
     });
