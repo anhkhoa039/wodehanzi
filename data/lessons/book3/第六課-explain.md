@@ -34,8 +34,8 @@
     - *Câu chuyện:* Thời xưa, người ta mặc áo lông thú, phần lông thú xoay ra ngoài (毛) còn áo (衣) ở trong. Từ đó, 表 mang nghĩa: cái áo khoác ngoài, bề mặt bên ngoài, biểu hiện ra ngoài. Về sau mở rộng thành: bảng biểu, biểu mẫu (thứ trưng bày ra ngoài cho người xem).
     - *Mẹo nhớ:* Áo (衣) khoác lông thú (毛) ở ngoài = 表 — bề mặt, bảng biểu.
   - **哥** (gē):
-    - *Cấu tạo:* Chữ hình thanh kiêm hội ý: Gồm hai chữ Khả (可 *kě*) chồng lên nhau; mỗi chữ 可 = Khẩu (口 - miệng) + nét móc 丂 (hơi thở bật ra).
-    - *Câu chuyện:* Thuyết văn ghi: "古文以為謌字" — trong văn cổ, 哥 chính là chữ "hát": hai cái miệng thay nhau ngân nga (可可). Chữ 歌/謌 (thêm 欠 hoặc 言) đã có từ thời Hán để chuyên chỉ việc hát; đến khoảng đời Đường, 哥 mới được dùng để gọi anh trai.
+    - *Cấu tạo:* Chữ hội ý (Thuyết văn: 从二可): Gồm hai chữ Khả (可 *kě*) chồng lên nhau; mỗi chữ 可 = Khẩu (口 - miệng) + nét móc 丂 (hơi thở bật ra). Thuyết văn chỉ ghi 从二可 (hội ý); nhiều nhà nghiên cứu cho rằng 可 còn gợi âm (*kě* → *gē*).
+    - *Câu chuyện:* Thuyết văn ghi: “哥，聲也…古文以為謌字” — trong văn cổ, 哥 chính là chữ “hát”: hai cái miệng thay nhau ngân nga (可可). Chữ 歌/謌 (thêm 欠 hoặc 言) đã có từ thời Hán để chuyên chỉ việc hát; đến khoảng đời Đường, 哥 mới được dùng để gọi anh trai. 表哥 = anh họ.
     - *Mẹo nhớ:* Hai miệng (可可) ngân nga thay nhau, nay mượn gọi anh trai = Ca (哥).
 - **Ví dụ:**
   - **Hán tự:** 我的表哥在南部經營一座有機休閒農場。
@@ -54,9 +54,9 @@
     - *Câu chuyện:* Thuyết văn giải 隨 là "theo" (從). Bước đi (辶) men theo sườn gò (阝), tay (左) xách theo đồ — đi theo sau. Từ "đi theo" sinh nghĩa: tùy theo, tùy ý (隨便 - tùy tiện), cùng với (隨著).
     - *Mẹo nhớ:* Bước (辶) men sườn gò (阝) đi theo sau = Tùy (隨) — theo, tùy ý.
   - **便** (biàn):
-    - *Cấu tạo:* Bên trái là bộ Nhân (亻 - người). Bên phải là chữ Canh (更 - thay đổi). ★ 亻 (Nhân): Người. ★ 更 (Canh): Đổi mới, thuận lợi hơn.
-    - *Câu chuyện:* Con người (亻) luôn tìm cách thay đổi (更) môi trường để cuộc sống trở nên dễ dàng và thuận tiện hơn. Tiện = tiện lợi, tiện thể.
-    - *Mẹo nhớ:* Người (亻) thay đổi (更) cho TIỆN LỢI = 便.
+    - *Cấu tạo:* Chữ hội ý (Thuyết văn: 从人、更): Bên trái là bộ Nhân (亻 - người). Bên phải là chữ Canh (更 - đổi, sửa; gốc gồm Bính 丙 trên Phộc 攴 - tay cầm gậy, nay viết dính thành 更).
+    - *Câu chuyện:* Thuyết văn: “便，安也。人有不便，更之” — người (亻) thấy chỗ nào không tiện thì sửa đổi (更) đi cho yên ổn → tiện, thuận lợi (方便). Từ “tiện” mà ra “tiện thể, tùy ý”: 隨便 = theo (隨) cho tiện (便) → tùy ý, sao cũng được.
+    - *Mẹo nhớ:* Người (亻) thấy bất tiện thì đổi (更) đi = Tiện (便) — tiện lợi.
 - **Ví dụ:**
   - **Hán tự:** 大家來到家裡作客請不要客氣，隨便坐。
   - **Phiên âm:** Dàjiā lái dào jiā lǐ zuòkè qǐng bú yào kèqì, suíbiàn zuò.
@@ -106,9 +106,9 @@
 - **Tổng quan:** Người đàn ông lực lưỡng (夫) dãi nắng dầm sương cày cấy ruộng vườn nuôi sống xã hội (農) — 農夫: người nông dân.
 - **Phân tích chữ Hán:**
   - **農** (nóng):
-    - *Cấu tạo:* Phía trên là Khúc (曲 - biến thể của chữ Lâm rừng cây). Phía dưới là chữ Thần (辰 - cái cuốc làm bằng vỏ trai thời cổ).
-    - *Câu chuyện:* Dùng nông cụ vỏ trai (辰) khai phá đất đai rừng rú để cày cấy lúa thóc. Nghĩa là làm nông, nông nghiệp.
-    - *Mẹo nhớ:* Dùng nông cụ (辰) cày xới ruộng đồng = Nông (農).
+    - *Cấu tạo:* Chữ hội ý (nguồn gốc còn tranh cãi): Dưới là chữ Thần (辰 - Giáp cốt văn là lưỡi cuốc/liềm bằng vỏ trai, nông cụ). Phần trên nay viết thành Khúc (曲); Giáp cốt văn là Lâm (林 - rừng cây) hoặc Thảo (艸 - cỏ), Kim văn thêm Điền (田 - ruộng). Thuyết văn viết 䢉 và coi là chữ hình thanh (从䢅囟聲): 䢅 (hai tay 臼 + 辰 - lúc tờ mờ sáng, giờ ra đồng) chỉ nghĩa, Tín (囟 *xìn*) chỉ âm.
+    - *Câu chuyện:* Thuyết văn: “農，耕也” — cày ruộng. Nguồn gốc: Giáp cốt văn vẽ cầm nông cụ vỏ trai (辰) phát rừng (林); Kim văn thêm ruộng (田). Cách nhớ theo dạng chữ nay: dùng cuốc vỏ trai (辰) xới những luống ruộng uốn khúc (曲). Nghĩa: làm ruộng, nghề nông — 農夫 (nông dân), 農藥 (thuốc trừ sâu), 小農 (tiểu nông), 農村 (nông thôn).
+    - *Mẹo nhớ:* Cuốc vỏ trai (辰) xới luống ruộng uốn khúc (曲) = Nông (農) — làm ruộng.
   - **夫** (fū):
     - *Cấu tạo:* Chữ tượng hình: Gồm chữ Đại (大 - người trưởng thành dang tay). Phía trên đầu có một nét ngang dài biểu thị chiếc trâm cài tóc hoặc búi tóc lớn.
     - *Câu chuyện:* Ở Trung Quốc cổ đại, khi người đàn ông đến tuổi trưởng thành (thường là 20 tuổi) sẽ được búi tóc và cài trâm làm lễ thành niên. Do đó, 夫 vẽ hình người đàn ông trưởng thành gánh vác việc gia đình. Nghĩa gốc là người chồng, đàn ông, bậc trượng phu.
@@ -146,9 +146,9 @@
 - **Tổng quan:** Dược phẩm hóa chất (藥) dùng trong nông nghiệp (農) để diệt trừ sâu bệnh phá hoại mùa màng — 農藥: thuốc trừ sâu.
 - **Phân tích chữ Hán:**
   - **農** (nóng):
-    - *Cấu tạo:* Phía trên là Khúc (曲 - biến thể của chữ Lâm rừng cây). Phía dưới là chữ Thần (辰 - cái cuốc làm bằng vỏ trai thời cổ).
-    - *Câu chuyện:* Dùng nông cụ vỏ trai (辰) khai phá đất đai rừng rú để cày cấy lúa thóc. Nghĩa là làm nông, nông nghiệp.
-    - *Mẹo nhớ:* Dùng nông cụ (辰) cày xới ruộng đồng = Nông (農).
+    - *Cấu tạo:* Chữ hội ý (nguồn gốc còn tranh cãi): Dưới là chữ Thần (辰 - Giáp cốt văn là lưỡi cuốc/liềm bằng vỏ trai, nông cụ). Phần trên nay viết thành Khúc (曲); Giáp cốt văn là Lâm (林 - rừng cây) hoặc Thảo (艸 - cỏ), Kim văn thêm Điền (田 - ruộng). Thuyết văn viết 䢉 và coi là chữ hình thanh (从䢅囟聲): 䢅 (hai tay 臼 + 辰 - lúc tờ mờ sáng, giờ ra đồng) chỉ nghĩa, Tín (囟 *xìn*) chỉ âm.
+    - *Câu chuyện:* Thuyết văn: “農，耕也” — cày ruộng. Nguồn gốc: Giáp cốt văn vẽ cầm nông cụ vỏ trai (辰) phát rừng (林); Kim văn thêm ruộng (田). Cách nhớ theo dạng chữ nay: dùng cuốc vỏ trai (辰) xới những luống ruộng uốn khúc (曲). Nghĩa: làm ruộng, nghề nông — 農夫 (nông dân), 農藥 (thuốc trừ sâu), 小農 (tiểu nông), 農村 (nông thôn).
+    - *Mẹo nhớ:* Cuốc vỏ trai (辰) xới luống ruộng uốn khúc (曲) = Nông (農) — làm ruộng.
   - **藥** (yào):
     - *Cấu tạo:* Chữ hình thanh: Trên là bộ Thảo (艹 - cây cỏ) chỉ nghĩa. Dưới là chữ Nhạc/Lạc (樂 *yuè* - chỉ âm *yào*), hình dây tơ (幺幺) và trống (白) trên giá gỗ (木).
     - *Câu chuyện:* Thuốc thời xưa chủ yếu là cỏ cây (艹). Mẹo để nhớ vì sao 樂 nằm trong 藥: uống thuốc khỏi bệnh thì vui (樂 *lè*). Nghĩa là thuốc (藥局 - hiệu thuốc, 農藥 - thuốc dùng trong nông nghiệp).
@@ -163,7 +163,7 @@
 ## 9. 天然 (tiānrán) [Thiên Nhiên]
 
 - **Ý nghĩa:** tự nhiên, thuần khiết của thiên nhiên
-- **Tổng quan:** Vốn dĩ được sinh ra một cách thuần khiết từ trời đất tạo hóa (天然) không qua bàn tay nhân tạo — 天然: tự nhiên, thuần khiết.
+- **Tổng quan:** Khoảng trời trên đầu người (大) và thịt chó (肰) nướng trên lửa (灬) chín một cách đương nhiên — cứ để như trời sinh — 天然: tự nhiên, thuần khiết.
 - **Phân tích chữ Hán:**
   - **天** (tiān):
     - *Cấu tạo:* Chữ tượng hình: Phía dưới là chữ Đại (大 - người trưởng thành dang tay). Phía trên đỉnh đầu người vẽ một nét ngang dài (hoặc hình vuông nhỏ) nhấn mạnh vùng phía trên đỉnh đầu.
@@ -230,9 +230,9 @@
     - *Câu chuyện:* Đất cát (土) trải rộng phẳng ra thành mặt bằng (也) cho vạn vật sinh sống. Nghĩa gốc là mặt đất, đất đai, địa điểm.
     - *Mẹo nhớ:* "Đất cát (土) kéo dài phẳng lặng (也) chính là mặt đất (地)."
   - **位** (wèi):
-    - *Cấu tạo:* Bên trái là bộ Nhân (亻 - người). Bên phải là Lập (立 - đứng).
-    - *Câu chuyện:* Hình ảnh rất trực quan: một người (亻) đang đứng (立) tại chỗ của mình. Thời phong kiến, trong triều đình, mỗi bá quan văn võ đều có một chỗ đứng (立) quy định theo chức tước, không ai được đứng sai chỗ. Chỗ người đó đứng chính là 位 (vị trí, địa vị). Vì gắn với địa vị, 位 trở thành lượng từ trang trọng để gọi con người (những vị có thân phận): 一位老師 (một vị thầy).
-    - *Mẹo nhớ:* Người (亻) đứng (立) đúng chỗ của mình = 位 — vị trí, lượng từ tôn trọng.
+    - *Cấu tạo:* Chữ hội ý (Thuyết văn: 从人、立): Bên trái là bộ Nhân (亻 - người). Bên phải là chữ Lập (立 - người 大 đứng trên mặt đất 一).
+    - *Câu chuyện:* Thuyết văn: “列中庭之左右謂之位” — chỗ các quan đứng thành hàng hai bên sân chầu. Người (亻) đứng (立) đúng chỗ của mình → chỗ, vị trí; chỗ đứng trong xã hội → 地位 (địa vị). Vì gắn với thân phận, 位 còn là lượng từ kính trọng cho người (一位老師 - một vị thầy).
+    - *Mẹo nhớ:* Người (亻) đứng (立) đúng chỗ = Vị (位) — vị trí, địa vị.
 - **Ví dụ:**
   - **Hán tự:** 隨著大眾對食安問題的關注，現代小農在社會上的地位逐漸提升。
   - **Phiên âm:** Suízhe dàzhòng duì shí'ān wèntí de guānzhù, xiàndài xiǎonóng zài shèhuì shàng de dìwèi zhújiàn tíshēng.
@@ -283,7 +283,7 @@
 ## 15. 屋子 (wūzi) [Ốc Tử]
 
 - **Ý nghĩa:** ngôi nhà, gian nhà, căn phòng
-- **Tổng quan:** Gian nhà ấm cúng che mưa che nắng cho con người nghỉ ngơi — 屋子: ngôi nhà, căn phòng.
+- **Tổng quan:** Đi đến (至) chỗ có mái che (尸) thì dừng ở, thêm hậu tố 子 (đứa trẻ vẫy tay) — 屋子: căn nhà, căn phòng.
 - **Phân tích chữ Hán:**
   - **屋** (wū):
     - *Cấu tạo:* Chữ hội ý: Trên là bộ Thi (尸 - ở đây là hình mái nhà che phủ, không phải thân người). Dưới là chữ Chí (至 - mũi tên cắm xuống đất: đến nơi, dừng lại).
@@ -300,7 +300,7 @@
 
 ---
 
-## 16. 番茄 (fānqié) [Phiên Cà (Cà chua)]
+## 16. 番茄 (fānqié) [Phiên Gia]
 
 - **Ý nghĩa:** cà chua
 - **Tổng quan:** Cây cà (茄) do người ngoại (番) mang vào — 番茄: cà chua.
@@ -310,9 +310,9 @@
     - *Câu chuyện:* Nghĩa gốc là bàn chân thú (sau viết 蹯). Dấu chân in hết lượt này đến lượt khác → nghĩa "lượt, lần" (三番 - ba lượt). Người Hán xưa gọi các tộc bên ngoài là 番 (phiên), nên đồ từ ngoài du nhập thường mang chữ 番: 番茄 (cà chua), 番薯 (khoai lang).
     - *Mẹo nhớ:* Dấu chân thú (釆) in lên ruộng (田) của người ngoài vào = Phiên (番) — ngoại lai.
   - **茄** (qié):
-    - *Cấu tạo:* Phía trên là bộ Thảo (艹 - cây cỏ). Phía dưới là chữ Gia (加 - thêm vào/biểu âm).
-    - *Câu chuyện:* Cây họ cà có hoa và quả mọng. Nghĩa là cây cà tím, cà chua.
-    - *Mẹo nhớ:* Cây cỏ (艹) trĩu quả mọng = Cà (茄).
+    - *Cấu tạo:* Chữ hình thanh (Thuyết văn: 从艸加聲): Trên là bộ Thảo (艹 - cỏ cây) chỉ nghĩa. Dưới là chữ Gia (加 *jiā* - thêm; gồm Lực 力 - sức và Khẩu 口 - miệng) chỉ âm (*jiā* → *qié*).
+    - *Câu chuyện:* Thuyết văn: “茄，芙蕖莖” — gốc là cuống sen; về sau chữ này được mượn gọi cây cà (茄子). Để nhớ: cây cỏ (艹) đeo thêm (加) những quả mọng → quả cà. 番茄 = cà của người ngoại (番) mang vào → cà chua.
+    - *Mẹo nhớ:* Cây cỏ (艹) đeo thêm (加) quả mọng = Gia (茄) — quả cà.
 - **Ví dụ:**
   - **Hán tự:** 現採的有機小番茄吃起來酸甜多汁，口感非常爽脆。
   - **Phiên âm:** Xiàn cǎi de yǒujī xiǎo fānqié chī qǐlái suāntián duōzhī, kǒugǎn fēicháng shuǎngcuì.
@@ -323,7 +323,7 @@
 ## 17. 品種 (pǐnzhǒng) [Phẩm Chủng]
 
 - **Ý nghĩa:** chủng loại; giống (cây trồng, vật nuôi)
-- **Tổng quan:** Phẩm cấp và chủng loại hạt giống cây trồng vật nuôi (品種) — 品種: giống cây, giống vật nuôi.
+- **Tổng quan:** Ba cái miệng (口口口) nếm thử để phân hạng (品) và hạt lúa (禾) nặng chắc (重) chọn làm giống (種) — 品種: giống (cây trồng, vật nuôi).
 - **Phân tích chữ Hán:**
   - **品** (pǐn):
     - *Cấu tạo:* Chữ hội ý gồm 3 bộ Khẩu (口 - cái miệng) xếp thành hình kim tự tháp. ★ 口 (Khẩu): Chiếc miệng nếm thử đồ ăn.
@@ -363,7 +363,7 @@
 ## 19. 長 (zhǎng) [Trưởng]
 
 - **Ý nghĩa:** mọc; lớn lên, phát triển (động từ)
-- **Tổng quan:** Cây cối đâm chồi nảy lộc vươn cao và lớn nhanh từng ngày — 長: mọc lên, lớn lên.
+- **Tổng quan:** Cụ già tóc dài chống gậy — tóc mọc dài ra, người lớn lên — 長 (zhǎng): mọc, lớn lên (長得很好 - mọc rất tốt).
 - **Phân tích chữ Hán:**
   - **長** (zhǎng):
     - *Cấu tạo:* Chữ tượng hình vẽ cụ già có mái tóc dài bạc phơ buông rủ trong gió, một tay đang chống cây gậy gỗ đi đứng.
@@ -411,7 +411,7 @@
 ## 22. 田 (tián) [Điền]
 
 - **Ý nghĩa:** ruộng, ruộng lúa nương rẫy
-- **Tổng quan:** Thửa ruộng đất đai màu mỡ phân ô bờ dẫn nước gieo cấy vụ mùa — 田: ruộng lúa.
+- **Tổng quan:** Khu đất vuông (囗) chia ô bằng bờ (十) — 田: ruộng.
 - **Phân tích chữ Hán:**
   - **田** (tián):
     - *Cấu tạo:* Chữ tượng hình: Hình một khu ruộng vuông (囗) được chia ô bởi các bờ ruộng/kênh dẫn nước (十).
@@ -463,16 +463,16 @@
 ## 25. 條件 (tiáojiàn) [Điều Kiện]
 
 - **Ý nghĩa:** điều kiện, hoàn cảnh tiền đề
-- **Tổng quan:** Từng tiêu chí khoản mục rạch ròi (條) cần phải đáp ứng để đạt được kết quả (件) — 條件: điều kiện, tiêu chuẩn.
+- **Tổng quan:** Cây (木) mọc cành thon dài tách thành từng nhánh (條) và con bò (牛) được người (亻) chia thành từng phần (件) — từng điều, từng khoản — 條件: điều kiện.
 - **Phân tích chữ Hán:**
   - **條** (tiáo):
-    - *Cấu tạo:* Chữ hình thanh (攸 *yōu* chỉ âm, 木 chỉ nghĩa). Bên trái là chữ Du (攸 - nhanh chóng/sông chảy). Bên phải là bộ Mộc (木 - cây cối). ★ 攸 (Du): Gồm Nhân (亻), Phộc (攵), chảy lướt nhanh như dòng nước. ★ 木 (Mộc): Cây.
-    - *Câu chuyện:* Nghĩa gốc là cành cây nhỏ thon dài, uyển chuyển (như dòng nước 攸). Sau này mượn làm lượng từ để chỉ các sự vật có hình dạng thon, dài, uốn lượn như cành cây (VD: con cá, con đường, dòng sông).
-    - *Mẹo nhớ:* Cành cây (木) thon dài uyển chuyển = 條 — lượng từ (con sông, cái cá...).
+    - *Cấu tạo:* Chữ hình thanh (Thuyết văn: 从木攸聲): Bộ Mộc (木 - cây) nằm ở góc dưới bên phải, dưới bộ Phộc (攵), chỉ nghĩa. Phần còn lại là chữ Du (攸 *yōu* - Thuyết văn: 行水也, 从攴从人，水省: người 亻 dùng gậy 攵 khơi dòng nước 丨) bao quanh, chỉ âm (*yōu* → *tiáo*).
+    - *Câu chuyện:* Thuyết văn: “條，小枝也” — cành cây nhỏ. Cây (木) mọc ra những cành nhỏ thon dài như dòng nước được khơi (攸) → cành, sợi, vật dài; mượn làm lượng từ cho vật thon dài (一條魚, 一條路). Cành tách ra từng nhánh → từng điều, từng khoản (條件 - điều kiện).
+    - *Mẹo nhớ:* Cây (木) mọc cành thon dài như dòng nước được khơi (攸) = Điều (條) — cành, điều khoản.
   - **件** (jiàn):
-    - *Cấu tạo:* Bên trái là bộ Nhân (亻 - người). Bên phải là Ngưu (牛 - con trâu/bò).
-    - *Câu chuyện:* Thuyết văn giải 件 là "chia" (分): con bò (牛) là vật to, người (亻) xẻ nó ra thành từng phần. Mỗi phần đếm được là một kiện → lượng từ cho quần áo (一件衣服), sự việc (一件事), và "từng hạng mục" (條件 - các điều khoản).
-    - *Mẹo nhớ:* Người (亻) đếm từng con bò (牛) = 件 — lượng từ (chiếc, kiện).
+    - *Cấu tạo:* Chữ hội ý (Thuyết văn: 从人从牛): Bên trái là bộ Nhân (亻 - người). Bên phải là chữ Ngưu (牛 - con trâu bò).
+    - *Câu chuyện:* Thuyết văn: “件，分也…牛大物，故可分” — con bò (牛) là vật to nên chia ra được; người (亻) xẻ nó thành từng phần, mỗi phần là một “kiện”. Từ đó: lượng từ cho đồ vật, quần áo, sự việc (一件衣服, 一件事), và từng khoản mục (條件 - điều kiện).
+    - *Mẹo nhớ:* Người (亻) chia con bò (牛) thành từng phần = Kiện (件) — chiếc, việc, khoản.
 - **Ví dụ:**
   - **Hán tự:** 這片土地的土壤肥沃、排水良好，具備了種植優質茶葉的絕佳條件。
   - **Phiên âm:** Zhè piàn tǔdì de tǔrǎng féiwò, páishuǐ liánghǎo, jùbèi le zhòngzhí yōuzhì cháyè de juéjiā tiáojiàn.
@@ -499,7 +499,7 @@
 ## 27. 摘下來 (zhāi xiàlái) [Trích Hạ Lai]
 
 - **Ý nghĩa:** hái xuống (hoa quả từ trên cành)
-- **Tổng quan:** Dùng tay với hái quả chín ngọt từ trên cành cao xuống tay mình — 摘下來: hái xuống.
+- **Tổng quan:** Tay (扌) bẻ ở cuống quả (啇), vạch nhỏ dưới đường chuẩn (下) và cây lúa mì từ xa đưa đến (來) — 摘下來: hái xuống.
 - **Phân tích chữ Hán:**
   - **摘** (zhāi):
     - *Cấu tạo:* Chữ hình thanh (Thuyết văn: 从手啻聲): Bên trái là bộ Thủ (扌 - tay) chỉ nghĩa. Bên phải nay viết là 啇 (*dí*), gốc là 啻 (*chì* - chỉ âm); cả hai đều chứa dạng rút gọn của 帝 (cuống hoa, đế quả) và Khẩu (口).
@@ -558,9 +558,9 @@
     - *Câu chuyện:* Giáp cốt văn vẽ người (大) nằm trên tấm chiếu (囗) — 因 vốn là chữ gốc của 茵 (chiếu, nệm). Người nằm "dựa vào" chiếu → nghĩa dựa vào, căn cứ vào, rồi nguyên nhân (因為 - bởi vì). 基因 = gene (vừa phỏng âm vừa mang ý "nhân tố cơ bản").
     - *Mẹo nhớ:* Người (大) nằm dựa trên chiếu (囗) = Nhân (因) — dựa vào, nguyên nhân.
   - **改** (gǎi):
-    - *Cấu tạo:* Bên trái là chữ Kỷ (己 - bản thân), bên phải là bộ Phác (攵 - tay cầm roi/đánh). ★ 己 (Kỷ): Bản thân. ★ 攵 (Phác): Đánh, sửa phạt.
-    - *Câu chuyện:* Dùng roi (攵) tự đánh/sửa phạt bản thân (己) để trở nên tốt hơn. Cải = sửa chữa, thay đổi.
-    - *Mẹo nhớ:* Tự phạt (攵) bản thân (己) để sửa sai = 改 — thay đổi, sửa.
+    - *Cấu tạo:* Chữ hình thanh kiêm hội ý (Thuyết văn: 从攴己): Bên phải là bộ Phộc (攵 = 攴 - tay cầm roi gõ) chỉ nghĩa. Bên trái là chữ Kỷ (己 *jǐ* - bản thân) gợi âm (*jǐ* → *gǎi*).
+    - *Câu chuyện:* Thuyết văn: “改，更也” — thay đổi. Cầm roi (攵) gõ để uốn cho khác đi → sửa, đổi; tự răn chính mình (己) là cách nhớ dễ nhất. Nghĩa: sửa (改正), chấm sửa bài (批改作業).
+    - *Mẹo nhớ:* Gõ roi (攵) răn chính mình (己) = Cải (改) — sửa đổi.
   - **造** (zào):
     - *Cấu tạo:* Chữ hình thanh: Bộ Sước (辶 - bước đi) chỉ nghĩa. Chữ Cáo (告 *gào* - chỉ âm *zào*), gồm Ngưu (牛 - con bò) trên Khẩu (口 - miệng).
     - *Câu chuyện:* Thuyết văn giải 造 là "đến nơi" (就). Bước tới (辶) nơi để trình báo (告) — đến, đi tới (造訪 - đến thăm). Từ "đi tới mục tiêu" mở rộng thành làm ra, chế tạo (製造, 改造 - cải tạo).
@@ -655,16 +655,16 @@
 ## 33. 小農 (xiǎonóng) [Tiểu Nông]
 
 - **Ý nghĩa:** nông dân canh tác quy mô nhỏ; hộ nông nghiệp gia đình
-- **Tổng quan:** Người nông dân canh tác quy mô nhỏ lẻ hộ gia đình (小農) nhưng chú trọng chất lượng nông sản tinh sạch — 小農: hộ tiểu nông.
+- **Tổng quan:** Ba nét nhỏ (小) và cuốc vỏ trai (辰) xới luống ruộng (曲) — 小農: hộ tiểu nông, nông dân canh tác nhỏ.
 - **Phân tích chữ Hán:**
   - **小** (xiǎo):
     - *Cấu tạo:* Chữ tượng hình cực kỳ đơn giản — ba nét nhỏ. Bản thân nó là một bộ thủ (bộ 小).
     - *Câu chuyện:* 小 mô tả hình ảnh một vật bị chia nhỏ thành ba mảnh — như hạt cát vỡ ra. Ngược hẳn với 大 (to lớn = người dang rộng hai tay).
     - *Mẹo nhớ:* Ba nét nhỏ xíu = 小 — nhỏ bé, vi ti.
   - **農** (nóng):
-    - *Cấu tạo:* Phía trên là Khúc (曲 - biến thể của chữ Lâm rừng cây). Phía dưới là chữ Thần (辰 - cái cuốc làm bằng vỏ trai thời cổ).
-    - *Câu chuyện:* Dùng nông cụ vỏ trai (辰) khai phá đất đai rừng rú để cày cấy lúa thóc. Nghĩa là làm nông, nông nghiệp.
-    - *Mẹo nhớ:* Dùng nông cụ (辰) cày xới ruộng đồng = Nông (農).
+    - *Cấu tạo:* Chữ hội ý (nguồn gốc còn tranh cãi): Dưới là chữ Thần (辰 - Giáp cốt văn là lưỡi cuốc/liềm bằng vỏ trai, nông cụ). Phần trên nay viết thành Khúc (曲); Giáp cốt văn là Lâm (林 - rừng cây) hoặc Thảo (艸 - cỏ), Kim văn thêm Điền (田 - ruộng). Thuyết văn viết 䢉 và coi là chữ hình thanh (从䢅囟聲): 䢅 (hai tay 臼 + 辰 - lúc tờ mờ sáng, giờ ra đồng) chỉ nghĩa, Tín (囟 *xìn*) chỉ âm.
+    - *Câu chuyện:* Thuyết văn: “農，耕也” — cày ruộng. Nguồn gốc: Giáp cốt văn vẽ cầm nông cụ vỏ trai (辰) phát rừng (林); Kim văn thêm ruộng (田). Cách nhớ theo dạng chữ nay: dùng cuốc vỏ trai (辰) xới những luống ruộng uốn khúc (曲). Nghĩa: làm ruộng, nghề nông — 農夫 (nông dân), 農藥 (thuốc trừ sâu), 小農 (tiểu nông), 農村 (nông thôn).
+    - *Mẹo nhớ:* Cuốc vỏ trai (辰) xới luống ruộng uốn khúc (曲) = Nông (農) — làm ruộng.
 - **Ví dụ:**
   - **Hán tự:** 支持在地小農是維護台灣多元農業生態與在地文化的重要途徑。
   - **Phiên âm:** Zhīchí zàidì xiǎonóng shì wéihù Táiwān duōyuán nóngyè shēngtài yǔ zàidì wénhuà de zhòngyào tújìng.
@@ -675,16 +675,16 @@
 ## 34. 市集 (shìjí) [Thị Tập]
 
 - **Ý nghĩa:** chợ phiên, hội chợ buôn bán tập trung
-- **Tổng quan:** Nơi tụ họp đông đúc người mua kẻ bán sản vật vào những ngày cố định — 市集: chợ phiên, hội chợ.
+- **Tổng quan:** Khu đất buôn bán (市) nơi người tụ về như bầy chim (隹) trên cây (木) — 市集: chợ phiên.
 - **Phân tích chữ Hán:**
   - **市** (shì):
     - *Cấu tạo:* Chữ tượng hình hội ý: Kim văn vẽ hình một khu vực được khoanh vùng ranh giới, có lối đi.
     - *Câu chuyện:* Chữ Thị ban đầu mô tả một khu vực rộng lớn được chính quyền hoặc người dân khoanh vùng để mọi người mang đồ vật đến tụ tập buôn bán trao đổi hàng hóa. Nghĩa gốc là cái chợ, nơi giao thương buôn bán, sau mở rộng thành đô thị, thành phố.
     - *Mẹo nhớ:* Khu vực rộng lớn tụ tập buôn bán = Thị (市) — chợ búa, thành phố.
   - **集** (jí):
-    - *Cấu tạo:* Phía trên là chim đậu (隹), phía dưới là cây (木).
-    - *Câu chuyện:* Bầy chim cùng tụ họp đậu trên cành cây ríu rít. Nghĩa là tụ tập, tập hợp.
-    - *Mẹo nhớ:* Chim (隹) đậu trên cây (木) = Tập (集) — tụ tập, hội họp.
+    - *Cấu tạo:* Chữ hội ý (Thuyết văn ghi dạng gốc 雧: 从雥从木): Trên là chữ Chuy (隹 - chim đuôi ngắn). Dưới là bộ Mộc (木 - cây). Dạng gốc 雧 có ba con chim (雥) trên cây, nay rút còn một.
+    - *Câu chuyện:* Thuyết văn: “羣鳥在木上也” — bầy chim đậu trên cây. Nhiều chim tụ về một cây → tụ họp, tập hợp (集合, 收集 - thu gom). Nơi người tụ về mua bán theo phiên → 市集 (chợ phiên).
+    - *Mẹo nhớ:* Bầy chim (隹) tụ trên cây (木) = Tập (集) — tụ họp.
 - **Ví dụ:**
   - **Hán tự:** 每個週末，許多在地小農都會帶著新鮮採摘的蔬果到農夫市集擺攤販售。
   - **Phiên âm:** Měi ge zhōumò, xǔduō zàidì xiǎonóng dōu huì dàizhe xīnxiān cǎizhāi de shūguǒ dào nóngfū shìjí bǎitān fànshòu.
@@ -695,7 +695,7 @@
 ## 35. 食材 (shícái) [Thực Tài]
 
 - **Ý nghĩa:** nguyên liệu nấu ăn
-- **Tổng quan:** Tất cả các nguyên vật liệu được dùng để chế biến thức ăn — 食材: nguyên liệu thực phẩm.
+- **Tổng quan:** Bát cơm (皀) có nắp (亼) và cây gỗ (木) vừa mới (才) đốn làm vật liệu — 食材: nguyên liệu nấu ăn.
 - **Phân tích chữ Hán:**
   - **食** (shí):
     - *Cấu tạo:* Chữ hình thanh kiêm hội ý (Thuyết văn: 从皀亼聲): Trên là chữ Tập (亼 - cái nắp đậy, chỉ âm). Dưới là chữ 皀 (bát đựng cơm có chân, nay viết giống 良/艮).
@@ -715,7 +715,7 @@
 ## 36. 產地 (chǎndì) [Sản Địa]
 
 - **Ý nghĩa:** nơi sản xuất, nơi xuất xứ sản vật
-- **Tổng quan:** Vùng đất nguồn cội sinh ra và nuôi dưỡng nông sản hoặc hàng hóa — 產地: nơi sản xuất, vùng xuất xứ.
+- **Tổng quan:** Mầm cây sinh (生) ra dưới vách đá (厂) và mặt đất (土 + 也) — 產地: nơi sản xuất, xuất xứ.
 - **Phân tích chữ Hán:**
   - **產** (chǎn):
     - *Cấu tạo:* Chữ hình thanh: Phía dưới là chữ Sinh (生 - mầm cây mọc lên khỏi mặt đất) chỉ nghĩa. Phía trên là chữ Ngạn (彥) viết tắt — gồm Văn (文 - hoa văn) và Hán (厂 - vách đá) — làm phần chỉ âm (Thuyết văn: "從生，彥省聲").
@@ -815,12 +815,12 @@
 ## 41. 信任 (xìnrèn) [Tín Nhiệm]
 
 - **Ý nghĩa:** tin tưởng, tín nhiệm
-- **Tổng quan:** Lòng tin cậy vững chắc và sự trao gửi nhiệm vụ cho người khác — 信任: tin tưởng, tín nhiệm.
+- **Tổng quan:** Người (亻) nói lời (言) giữ đúng và người (亻) vác đòn gánh (壬) — tin để giao gánh nặng — 信任: tin tưởng, tín nhiệm.
 - **Phân tích chữ Hán:**
   - **信** (xìn):
-    - *Cấu tạo:* Bên trái: Bộ Nhân (亻 - con người). Bên phải: Chữ Ngôn (言 - lời nói).
-    - *Câu chuyện:* Hình ảnh gốc: Một người (亻) cất tiếng nói (言) thì lời nói ra phải có trọng lượng và giữ lời.  Sự dịch chuyển ý nghĩa: Lời nói của con người đáng tin cậy gọi là Tín (uy tín, tin tưởng). Người xưa trao đổi thông tin bằng cách gửi người mang "lời nói" đi, do đó 信 cũng mang nghĩa là bức Thư (tín sứ, thư tín).
-    - *Mẹo nhớ:* Con người (亻) khi đã nói lời (言) thì phải giữ chữ Tín (信).
+    - *Cấu tạo:* Chữ hội ý (Thuyết văn: 从人从言，會意): Bên trái là bộ Nhân (亻 - người). Bên phải là chữ Ngôn (言 - lời nói).
+    - *Câu chuyện:* Thuyết văn: “信，誠也” — thành thật. Lời nói (言) của người (亻) phải đúng với việc làm → thật, tin (相信), tin tưởng giao phó (信任). Người mang lời nhắn đi xa → thư từ (寫信 - viết thư).
+    - *Mẹo nhớ:* Người (亻) nói lời (言) giữ đúng = Tín (信) — tin, thư.
   - **任** (rèn):
     - *Cấu tạo:* Chữ hình thanh kiêm hội ý (壬 *rén* chỉ âm). Bên trái là bộ Nhân (亻 - người), bên phải là chữ Nhâm (壬 - cái gánh/trọng trách). ★ 亻 (Nhân): Con người. ★ 壬 (Nhâm): Tượng hình đòn gánh cong xuống vì gánh nặng.
     - *Câu chuyện:* Người (亻) mang đòn gánh nặng (壬) trên vai. Nhiệm = gánh vác, nhiệm vụ.
@@ -891,16 +891,16 @@
 ## 45. 文章 (wénzhāng) [Văn Chương]
 
 - **Ý nghĩa:** bài viết, bài văn
-- **Tổng quan:** Các từ ngữ hoa văn được sắp xếp thành chương mục hoàn chỉnh ý tứ khúc chiết — 文章: bài viết, thiên văn.
+- **Tổng quan:** Hoa văn trên ngực người (文) và khúc nhạc (音) tấu trọn (十) — 文章: bài văn, bài viết.
 - **Phân tích chữ Hán:**
   - **文** (wén):
     - *Cấu tạo:* Chữ tượng hình. Vẽ hình người dang rộng tay chân, trên ngực có hình xăm (dấu chéo hoặc hoa văn).
     - *Câu chuyện:* 文 ban đầu là những hoa văn, vết xăm chìm trên cơ thể người nguyên thủy, dùng để đánh dấu bộ lạc hoặc làm đẹp. Từ "hoa văn", 文 chuyển nghĩa thành "chữ viết" (hoa văn trên mai rùa, tre trúc), rồi thành "văn chương", "văn minh". Chữ 文 đại diện cho vẻ đẹp của chữ nghĩa và sự tao nhã.
     - *Mẹo nhớ:* Hình xăm hoa văn trên ngực người = 文 — hoa văn, chữ viết, văn học.
   - **章** (zhāng):
-    - *Cấu tạo:* Phía trên là chữ Âm (音 - âm thanh), phía dưới là chữ Thập (十 - mười). ★ 音 (Âm): Âm thanh, giai điệu. ★ 十 (Thập): Đầy đủ, hoàn chỉnh.
-    - *Câu chuyện:* Bản nhạc (音) đã đánh xong trọn vẹn (十) — một chương nhạc, một đoạn văn hoàn chỉnh. Chương = chương, đoạn, bài viết.
-    - *Mẹo nhớ:* Bản nhạc (音) hoàn thiện (十) = 章 — chương, đoạn văn.
+    - *Cấu tạo:* Chữ hội ý (Thuyết văn: 从音从十): Trên là chữ Âm (音 - âm thanh, khúc nhạc; nay viết thành Lập 立 trên Nhật 日 nhưng không mang nghĩa “đứng” hay “mặt trời”). Dưới là Thập (十 - mười, con số trọn vẹn).
+    - *Câu chuyện:* Thuyết văn: “樂竟為一章…十，數之終也” — một khúc nhạc (音) tấu đến hết (十 - số trọn) là một chương. Từ chương nhạc → chương sách, đoạn văn; 文章 = chữ nghĩa (文) thành chương (章) → bài văn, bài viết.
+    - *Mẹo nhớ:* Khúc nhạc (音) tấu trọn (十) = Chương (章) — chương, bài văn.
 - **Ví dụ:**
   - **Hán tự:** 這篇描寫台灣農村風貌的文章文筆生動，深深感動了無數讀者。
   - **Phiên âm:** Zhè piān miáoxiě Táiwān nóngcūn fēngmào de wénzhāng wénbǐ shēngdòng, shēnshēn gǎndòng le wúshù dúzhě.
@@ -931,12 +931,12 @@
 ## 47. 其中 (qízhōng) [Kỳ Trung]
 
 - **Ý nghĩa:** trong đó, trong số ấy
-- **Tổng quan:** Chỉ một phần tử hoặc yếu tố nằm bên trong một tổng thể đã nêu — 其中: trong đó.
+- **Tổng quan:** Cái nia (其) và nét dọc xuyên giữa ô vuông (中) — trong số đó — 其中: trong đó.
 - **Phân tích chữ Hán:**
   - **其** (qí):
-    - *Cấu tạo:* Hình ảnh một cái giỏ (hoặc rế đan bằng tre) hình vuông vức, ở dưới có hai cái chân để kê.
-    - *Câu chuyện:* Nghĩa gốc là cái giỏ tre. Về sau được mượn làm đại từ chỉ định, mang nghĩa là "đó", "của nó", "kia".
-    - *Mẹo nhớ:* Đan một cái rế tre vuông vức = 其 — kỳ, đó.
+    - *Cấu tạo:* Chữ tượng hình: Chữ gốc của 箕 (cái nia, cái sàng). Phần trên (giống 甘 có thêm nét ngang) vẽ cái nia đan tre; phần dưới là Cơ (丌 - cái giá kê).
+    - *Câu chuyện:* Thuyết văn (ở chữ 箕): “簸也…𠀠，象形；下其丌也” — cái nia để sàng gạo, đặt trên giá (丌). 其 sớm bị mượn âm làm đại từ “nó, của nó, cái đó”, nên người ta thêm bộ Trúc (竹) thành 箕 để viết lại “cái nia”. 其中 = trong (中) số đó (其).
+    - *Mẹo nhớ:* Cái nia đan (phần trên) đặt trên giá kê (丌) = Kỳ (其) — nó, cái đó.
   - **中** (zhōng):
     - *Cấu tạo:* Chữ tượng hình. Một nét sổ dọc xuyên thẳng qua chính giữa hình chữ nhật (口).
     - *Câu chuyện:* Trong giáp cốt văn, 中 mô tả hình ảnh một lá cờ được cắm chính xác vào trung tâm của nhóm người — dùng để triệu tập mọi người. Đối xứng hoàn hảo.
@@ -971,12 +971,12 @@
 ## 49. 農村 (nóngcūn) [Nông Thôn]
 
 - **Ý nghĩa:** nông thôn, làng quê làm ruộng
-- **Tổng quan:** Làng mạc thôn xóm ở vùng quê chuyên nghề cày cấy canh tác — 農村: nông thôn, làng quê.
+- **Tổng quan:** Cuốc vỏ trai (辰) xới luống ruộng (曲) và cây (木) trên từng tấc đất (寸) — 農村: nông thôn.
 - **Phân tích chữ Hán:**
   - **農** (nóng):
-    - *Cấu tạo:* Phía trên là Khúc (曲 - biến thể của chữ Lâm rừng cây). Phía dưới là chữ Thần (辰 - cái cuốc làm bằng vỏ trai thời cổ).
-    - *Câu chuyện:* Dùng nông cụ vỏ trai (辰) khai phá đất đai rừng rú để cày cấy lúa thóc. Nghĩa là làm nông, nông nghiệp.
-    - *Mẹo nhớ:* Dùng nông cụ (辰) cày xới ruộng đồng = Nông (農).
+    - *Cấu tạo:* Chữ hội ý (nguồn gốc còn tranh cãi): Dưới là chữ Thần (辰 - Giáp cốt văn là lưỡi cuốc/liềm bằng vỏ trai, nông cụ). Phần trên nay viết thành Khúc (曲); Giáp cốt văn là Lâm (林 - rừng cây) hoặc Thảo (艸 - cỏ), Kim văn thêm Điền (田 - ruộng). Thuyết văn viết 䢉 và coi là chữ hình thanh (从䢅囟聲): 䢅 (hai tay 臼 + 辰 - lúc tờ mờ sáng, giờ ra đồng) chỉ nghĩa, Tín (囟 *xìn*) chỉ âm.
+    - *Câu chuyện:* Thuyết văn: “農，耕也” — cày ruộng. Nguồn gốc: Giáp cốt văn vẽ cầm nông cụ vỏ trai (辰) phát rừng (林); Kim văn thêm ruộng (田). Cách nhớ theo dạng chữ nay: dùng cuốc vỏ trai (辰) xới những luống ruộng uốn khúc (曲). Nghĩa: làm ruộng, nghề nông — 農夫 (nông dân), 農藥 (thuốc trừ sâu), 小農 (tiểu nông), 農村 (nông thôn).
+    - *Mẹo nhớ:* Cuốc vỏ trai (辰) xới luống ruộng uốn khúc (曲) = Nông (農) — làm ruộng.
   - **村** (cūn):
     - *Cấu tạo:* Chữ hình thanh: Bên trái là bộ Mộc (木 - cây) chỉ nghĩa. Bên phải là bộ Thốn (寸 *cùn* - tấc, bàn tay; chỉ âm *cūn*).
     - *Câu chuyện:* Chữ chính gốc là 邨 (屯 - tụ tập + 阝 - ấp); 村 là dạng viết về sau. Nơi cây cối (木) bao quanh, nhà cửa nằm trên từng tấc đất (寸) — làng xóm (農村 - nông thôn, 村子 - thôn làng).
@@ -991,7 +991,7 @@
 ## 50. 長大 (zhǎngdà) [Trưởng Đại]
 
 - **Ý nghĩa:** lớn lên, trưởng thành
-- **Tổng quan:** Quá trình một sinh mệnh sinh trưởng ngày một cao lớn và hiểu biết hơn — 長大: lớn lên, khôn lớn.
+- **Tổng quan:** Cụ già tóc dài chống gậy (長) và người dang tay chân (大) — lớn lên thành người lớn — 長大: lớn lên, trưởng thành.
 - **Phân tích chữ Hán:**
   - **長** (zhǎng):
     - *Cấu tạo:* Chữ tượng hình vẽ cụ già có mái tóc dài bạc phơ buông rủ trong gió, một tay đang chống cây gậy gỗ đi đứng.
@@ -1011,7 +1011,7 @@
 ## 51. 幫助 (bāngzhù) [Bang Trợ]
 
 - **Ý nghĩa:** giúp đỡ, hỗ trợ
-- **Tổng quan:** Dốc lòng góp sức san sẻ khó khăn hỗ trợ người khác hoàn thành công việc — 幫助: giúp đỡ.
+- **Tổng quan:** Lụa (帛) bọc như bờ đất (封) giữ vững và sức (力) chồng thêm (且) — 幫助: giúp đỡ.
 - **Phân tích chữ Hán:**
   - **幫** (bāng):
     - *Cấu tạo:* Chữ hình thanh: Trên là chữ Phong (封 *fēng* - chỉ âm *bāng*), gồm Khuê (圭 - hai lớp đất) và Thốn (寸 - bàn tay). Dưới là chữ Bạch (帛 - tấm lụa, gồm 白 + bộ Cân 巾) chỉ nghĩa.
@@ -1051,7 +1051,7 @@
 ## 53. 出產 (chūchǎn) [Xuất Sản]
 
 - **Ý nghĩa:** sản xuất, cho ra đời sản vật
-- **Tổng quan:** Vùng đất hay cơ sở làm ra và cung cấp sản phẩm dồi dào ra thị trường — 出產: sản xuất, cho ra sản vật.
+- **Tổng quan:** Bàn chân bước lên khỏi hố (凵) và mầm sinh (生) ra dưới vách đá (厂) — 出產: sản xuất, cho ra (sản vật).
 - **Phân tích chữ Hán:**
   - **出** (chū):
     - *Cấu tạo:* Chữ tượng hình: Phía dưới là bộ Khảm (凵 - cái hố sâu/miệng hang). Phía trên là chữ Chỉ (止 - bàn chân) vẽ dạng mũi tên đi lên hướng ra ngoài.
@@ -1131,7 +1131,7 @@
 ## 57. 自然 (zìrán) [Tự Nhiên]
 
 - **Ý nghĩa:** tự nhiên; thiên nhiên đất trời
-- **Tổng quan:** Đất trời vạn vật sinh ra và vận hành tuần hoàn theo quy luật tạo hóa không do nhân tạo — 自然: thiên nhiên, tự nhiên.
+- **Tổng quan:** Chỉ vào mũi (自) mình và thịt chó (肰) trên lửa (灬) chín một cách đương nhiên — tự nó như thế — 自然: tự nhiên, thiên nhiên.
 - **Phân tích chữ Hán:**
   - **自** (zì):
     - *Cấu tạo:* Chữ tượng hình: Vẽ chiếc mũi người nhìn từ chính diện.
@@ -1218,9 +1218,9 @@
     - *Câu chuyện:* Con chim mào (雚) có đôi mắt tròn to nhìn chăm chú; thêm 見 (nhìn) = nhìn kỹ, quan sát (觀察), ngắm cảnh (觀光 - đi ngắm "ánh sáng", vẻ đẹp của một vùng = du lịch).
     - *Mẹo nhớ:* Mắt tròn chim mào (雚) + nhìn (見) = Quan (觀) — ngắm, xem.
   - **光** (guāng):
-    - *Cấu tạo:* Phía trên là bộ Hỏa (火/⺌ - ngọn lửa). Phía dưới là bộ Nhân đi (兀/儿 - con người đang quỳ/đi). ★ 火 (Hỏa): Ba chấm nhấp nháy mô phỏng ngọn lửa đang bốc cháy sáng rực. ★ 儿 (Nhân): Hai chân của con người.
-    - *Câu chuyện:* Hình ảnh một người (儿) cầm một ngọn lửa (火) hoặc đội một đĩa lửa trên đầu để thắp sáng không gian xung quanh rực rỡ, không còn bóng tối. Nghĩa bóng là sáng sủa, nhẵn thính. Khi làm Bổ ngữ kết quả đứng sau động từ thì có nghĩa là làm cái gì đó "nhẵn bóng, sạch sành sanh không còn lại gì" (VD: 吃光 - ăn sạch nhẵn đĩa).
-    - *Mẹo nhớ:* Người (儿) đội lửa (火) phát sáng khắp nơi = 光 — sáng / nhẵn nhụi, hết sạch.
+    - *Cấu tạo:* Chữ hội ý (Thuyết văn: 从火在人上): Trên là Hỏa (火 - lửa, nay viết thành ⺌ có nét ngang). Dưới là Nhân (儿 - người).
+    - *Câu chuyện:* Thuyết văn: “光，明也。从火在人上，光明意也” — lửa (火) ở trên đầu người (儿): người đội hay cầm đuốc soi sáng → ánh sáng, sáng sủa. Sáng trưng thì trống trơn → làm bổ ngữ nghĩa “hết sạch” (吃光 - ăn sạch). 觀光 = đi xem (觀) cảnh sắc rạng rỡ (光) → tham quan, du lịch.
+    - *Mẹo nhớ:* Lửa (火) trên đầu người (儿) = Quang (光) — ánh sáng.
 - **Ví dụ:**
   - **Hán tự:** 日月潭以其湖光山色吸引了全世界無數觀光客前來賞景渡假。
   - **Phiên âm:** Rìyuètán yǐ qí húguāng shānsè xīyǐn le quán shìjiè wúshù guānguāngkè qiánlái shǎngjǐng dùjià.
@@ -1231,16 +1231,16 @@
 ## 62. 消費 (xiāofèi) [Tiêu Phí]
 
 - **Ý nghĩa:** tiêu dùng, chi tiêu; sử dụng sản phẩm dịch vụ
-- **Tổng quan:** Hành vi chi tiêu tiền của để thụ hưởng sản phẩm và dịch vụ tiện ích — 消費: tiêu dùng, chi tiêu.
+- **Tổng quan:** Nước (氵) làm vật nhỏ dần (肖) rồi tan hết và tiền (貝) bị gạt đi (弗) không giữ lại — 消費: tiêu dùng, chi tiêu.
 - **Phân tích chữ Hán:**
   - **消** (xiāo):
-    - *Cấu tạo:* Bên trái là bộ Thủy (氵 - nước), bên phải là chữ Tiếu (肖 - nhỏ dần/tan biến). ★ 氵 (Thủy): Dòng nước chảy. ★ 肖 (Tiếu): Gồm 小 (nhỏ) và 月/肉 (thịt cắt nhỏ). Thu nhỏ dần.
-    - *Câu chuyện:* Dòng nước (氵) làm xói mòn và tan biến nhỏ dần (肖) mọi vật. Tiêu = tiêu tan, suy giảm, làm mất đi.
-    - *Mẹo nhớ:* Nước (氵) làm nhỏ dần (肖) rồi TAN BIẾN = 消 — suy giảm, tiêu biến.
+    - *Cấu tạo:* Chữ hình thanh (Thuyết văn: 从水肖聲): Bên trái là bộ Thủy (氵 - nước) chỉ nghĩa. Bên phải là chữ Tiếu (肖 *xiào* - giống; Thuyết văn: 从肉小聲, gồm Tiểu 小 - nhỏ và Nhục 月 - thịt) chỉ âm (*xiào* → *xiāo*); có thể hiểu 肖 (có 小) còn gợi nghĩa “nhỏ đi”.
+    - *Câu chuyện:* Thuyết văn: “消，盡也” — hết sạch. Nước (氵) làm vật nhỏ dần (肖, có 小) đến khi tan hết → tiêu tan, biến mất (消失); dùng cho đến hết → tiêu dùng (消費).
+    - *Mẹo nhớ:* Nước (氵) làm nhỏ dần (肖) rồi tan hết = Tiêu (消) — tan, hết.
   - **費** (fèi):
-    - *Cấu tạo:* Chữ hình thanh kiêm hội ý: Phía trên là chữ Phất (弗 - xua đi, phủ định). Phía dưới là bộ Bối (貝 - tiền bạc, tài sản).
-    - *Câu chuyện:* Tiền bạc của cải (貝) bị gạt đi, chi tiêu ra ngoài (弗) không giữ lại được. Bản thân chữ 弗 gồm 弓 (cây cung) bị hai gạch cản lại, mang ý nghĩa xua đi, không giữ. Tiền mà bị xua đi thì gọi là chi phí, tiêu tốn.
-    - *Mẹo nhớ:* Tiền bạc của cải (貝) bị xua đi (弗) không giữ lại được = Phí (費) — chi phí.
+    - *Cấu tạo:* Chữ hình thanh (Thuyết văn: 从貝弗聲): Dưới là bộ Bối (貝 - vỏ sò, tiền bạc) chỉ nghĩa. Trên là chữ Phất (弗 *fú* - gạt đi, không; Thuyết văn: 从丿从乀，从韋省 - nét buộc uốn cây que, nay trông như 弓 bị hai nét dọc xuyên qua) chỉ âm (*fú* → *fèi*).
+    - *Câu chuyện:* Thuyết văn: “費，𢿱（散）財用也” — tiêu tán tiền của. Tiền (貝) bị gạt đi (弗) không giữ lại được → tiêu tốn, chi phí (費用), lãng phí (浪費). 消費 = dùng cho hết (消) tiền của (費) → tiêu dùng.
+    - *Mẹo nhớ:* Tiền bạc (貝) bị gạt đi (弗) không giữ lại = Phí (費) — chi phí.
 - **Ví dụ:**
   - **Hán tự:** 懂得理性消費的人，購買商品時看重的是實際品質而非盲目追求名牌。
   - **Phiên âm:** Dǒngde lǐxìng xiāofèi de rén, gòumǎi shāngpǐn shí kànzhòng de shì shíjì pǐnzhí ér fēi mángmù zhuīqiú míngpái.
@@ -1251,12 +1251,12 @@
 ## 63. 安靜 (ānjìng) [An Tĩnh]
 
 - **Ý nghĩa:** yên tĩnh, thanh tịnh, không ồn ào
-- **Tổng quan:** Không gian êm ả vắng bóng tạp âm xô bồ, giúp tinh thần thanh thản — 安靜: yên tĩnh.
+- **Tổng quan:** Người phụ nữ (女) ở yên dưới mái nhà (宀) và màu xanh trong (青) khi ngừng tranh giành (爭) — 安靜: yên tĩnh.
 - **Phân tích chữ Hán:**
   - **安** (ān):
-    - *Cấu tạo:* Phần trên: Bộ Miên (宀 - mái nhà). Phần dưới: Chữ Nữ (女 - người phụ nữ).
-    - *Câu chuyện:* Hình ảnh gốc: Dưới mái nhà (宀) có bóng dáng của người phụ nữ (女) đang chăm lo quán xuyến mọi việc. Sự dịch chuyển ý nghĩa: Gia đình có bàn tay người phụ nữ chăm sóc thì trong ấm ngoài êm, cuộc sống sẽ An toàn và Yên bình.
-    - *Mẹo nhớ:* Dưới mái nhà (宀) có người phụ nữ (女) thì gia đình sẽ Bình An (安).
+    - *Cấu tạo:* Chữ hội ý (Thuyết văn: 从女在宀下): Trên là bộ Miên (宀 - mái nhà). Dưới là Nữ (女 - người phụ nữ).
+    - *Câu chuyện:* Người phụ nữ (女) ngồi yên dưới mái nhà (宀) → yên ổn, bình an (安全). Đặt yên vào đúng chỗ → sắp đặt, thu xếp (安排).
+    - *Mẹo nhớ:* Phụ nữ (女) ở yên dưới mái nhà (宀) = An (安) — yên ổn, đặt yên.
   - **靜** (jìng):
     - *Cấu tạo:* Chữ hình thanh (Thuyết văn: 从青爭聲): Bên trái là chữ Thanh (青 - màu xanh trong) chỉ nghĩa. Bên phải là chữ Tranh (爭 *zhēng* - hai bàn tay 爫 và 彐 giằng co một vật) chỉ âm; một thuyết khác coi 青 là phần chỉ âm.
     - *Câu chuyện:* Hình ảnh gốc: Chữ Thanh (青) đại diện cho sự trong trẻo, yên bình của tự nhiên. Ngăn chặn sự giằng co, cãi vã tranh giành (爭) để trả lại bầu không khí trong trẻo (青) đó. Sự không có tranh chấp gọi là Tĩnh lặng.
@@ -1271,12 +1271,12 @@
 ## 64. 消失 (xiāoshī) [Tiêu Thất]
 
 - **Ý nghĩa:** biến mất, tan biến, không còn thấy nữa
-- **Tổng quan:** Dần dần tan biến đi đến mức mất hẳn bóng dáng dấu vết — 消失: biến mất, tiêu tan.
+- **Tổng quan:** Nước (氵) làm nhỏ dần (肖) rồi tan và vật (乙) tuột khỏi bàn tay (手) — 消失: biến mất.
 - **Phân tích chữ Hán:**
   - **消** (xiāo):
-    - *Cấu tạo:* Bên trái là bộ Thủy (氵 - nước), bên phải là chữ Tiếu (肖 - nhỏ dần/tan biến). ★ 氵 (Thủy): Dòng nước chảy. ★ 肖 (Tiếu): Gồm 小 (nhỏ) và 月/肉 (thịt cắt nhỏ). Thu nhỏ dần.
-    - *Câu chuyện:* Dòng nước (氵) làm xói mòn và tan biến nhỏ dần (肖) mọi vật. Tiêu = tiêu tan, suy giảm, làm mất đi.
-    - *Mẹo nhớ:* Nước (氵) làm nhỏ dần (肖) rồi TAN BIẾN = 消 — suy giảm, tiêu biến.
+    - *Cấu tạo:* Chữ hình thanh (Thuyết văn: 从水肖聲): Bên trái là bộ Thủy (氵 - nước) chỉ nghĩa. Bên phải là chữ Tiếu (肖 *xiào* - giống; Thuyết văn: 从肉小聲, gồm Tiểu 小 - nhỏ và Nhục 月 - thịt) chỉ âm (*xiào* → *xiāo*); có thể hiểu 肖 (có 小) còn gợi nghĩa “nhỏ đi”.
+    - *Câu chuyện:* Thuyết văn: “消，盡也” — hết sạch. Nước (氵) làm vật nhỏ dần (肖, có 小) đến khi tan hết → tiêu tan, biến mất (消失); dùng cho đến hết → tiêu dùng (消費).
+    - *Mẹo nhớ:* Nước (氵) làm nhỏ dần (肖) rồi tan hết = Tiêu (消) — tan, hết.
   - **失** (shī):
     - *Cấu tạo:* Chữ hình thanh (Thuyết văn: 从手乙聲): Gốc là chữ Thủ (手 - bàn tay) với một nét (乙) tuột ra khỏi tay.
     - *Câu chuyện:* Một vật (乙) trượt tuột ra khỏi bàn tay (手) đang nắm giữ và rơi mất. Nghĩa là mất, đánh mất (消失 - biến mất, 失敗 - thất bại).
@@ -1315,7 +1315,7 @@
 ## 66. 一方面 (yì fāngmiàn) [Nhất Phương Diện]
 
 - **Ý nghĩa:** một mặt, ở một khía cạnh
-- **Tổng quan:** Chỉ một góc nhìn hoặc khía cạnh cụ thể trong số nhiều bình diện cần xem xét — 一方面: một mặt, một phương diện.
+- **Tổng quan:** Một nét ngang (一), hai thuyền buộc song song (方) và khuôn mặt (囗 + 目) — một mặt, một phía — 一方面: một mặt.
 - **Phân tích chữ Hán:**
   - **一** (yī):
     - *Cấu tạo:* Chữ chỉ sự: Một nét ngang duy nhất.
