@@ -37,6 +37,14 @@
       .replace(/'/g, '&#39;');
   }
 
+  // Từ dài (vd 高級管理人員工商碩士) thu nhỏ cỡ chữ Hán cho vừa ô; tối thiểu 10px.
+  // HANZI_FONT phải bằng font-size của .mm-word-hanzi trong css/style.css.
+  const HANZI_FONT = 20;
+  function hanziFontStyle(hanzi) {
+    const fit = Math.floor((NODE_W - 12) / [...hanzi].length);
+    return fit < HANZI_FONT ? ` style="font-size:${Math.max(10, fit)}px"` : '';
+  }
+
   // Nghĩa ngắn: phần trước dấu phẩy/chấm phẩy/ngoặc đầu tiên, tối đa 16 ký tự.
   function shortMeaning(meaning) {
     const first = String(meaning || '').split(/[,;(（，；]/)[0].trim();
@@ -137,7 +145,7 @@
              aria-label="${escapeXml(`${w.hanzi} — ${w.pinyin} — ${w.hanViet}: ${w.meaning}`)}"
              transform="translate(${n.x.toFixed(1)},${n.y.toFixed(1)})">
             <rect x="${-NODE_W / 2}" y="${-NODE_H / 2}" width="${NODE_W}" height="${NODE_H}" rx="12"/>
-            <text class="mm-word-hanzi" y="-4">${escapeXml(w.hanzi)}</text>
+            <text class="mm-word-hanzi" y="-4"${hanziFontStyle(w.hanzi)}>${escapeXml(w.hanzi)}</text>
             <text class="mm-word-meaning" y="16">${escapeXml(shortMeaning(w.meaning))}</text>
           </g>`;
       });
@@ -380,11 +388,22 @@
 
   // ── Khởi tạo ──────────────────────────────────────────────────────
   function renderEmpty(container) {
+    // Khóa dạng "3_7" = Book 3, bài 7; gom tên bài theo từng quyển.
+    const byBook = {};
+    for (const [key, m] of Object.entries(window.LESSON_MINDMAPS || {})) {
+      const book = key.includes('_') ? key.split('_')[0] : '';
+      (byBook[book] = byBook[book] || []).push(m.title);
+    }
+    const available = Object.entries(byBook)
+      .map(([book, titles]) => `${book ? `Book ${book} ` : ''}${titles.join('、')}`).join('; ');
+    const hint = available
+      ? `Hiện có sơ đồ từ vựng cho ${escapeXml(available)}. Hãy chọn một bài trong mục “Bài học”.`
+      : 'Hiện chưa có sơ đồ từ vựng nào.';
     container.innerHTML = `
       <div class="empty-state">
         <div class="empty-state-icon" aria-hidden="true">🗺️</div>
         <h3>Chưa có sơ đồ cho bài này</h3>
-        <p>Hiện mới có sơ đồ từ vựng cho Book 3 第七課. Hãy chọn bài đó trong mục “Bài học”.</p>
+        <p>${hint}</p>
       </div>`;
   }
 
