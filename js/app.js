@@ -231,6 +231,7 @@
     if (view === "flashcard") initFlashcards();
     if (view === "quiz") initQuiz();
     if (view === "practice") initPractice();
+    if (view === "mindmap" && typeof window.initMindmap === 'function') window.initMindmap(currentLesson);
     if (view === "ai" && typeof window.bindAIEvents === 'function') window.bindAIEvents();
   }
 
@@ -244,6 +245,7 @@
     if (currentView === "flashcard") initFlashcards();
     if (currentView === "quiz") initQuiz();
     if (currentView === "practice") initPractice();
+    if (currentView === "mindmap" && typeof window.initMindmap === 'function') window.initMindmap(lesson);
   }
 
   function setTheme(theme) {
@@ -1665,7 +1667,10 @@
   // --- Init ---
   function init() {
     bindEvents();
-    
+
+    // Shared with mindmap.js so a mindmap node opens the same word detail modal
+    window.openModal = openModal;
+
     // Load saved theme
     const savedTheme = localStorage.getItem('tocfl_theme') || 'light';
     setTheme(savedTheme);

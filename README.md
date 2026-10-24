@@ -25,6 +25,7 @@ Hỗ trợ chạy hoàn toàn tĩnh (**Static Web / GitHub Pages**) không cần
   - 🎴 **Flashcard**: Thẻ lật từ vựng 3D, đánh dấu tiến độ ghi nhớ.
   - 🧩 **Luyện tập ghép cặp (Memory Match)**: Trò chơi tìm cặp từ Hán - Nghĩa tiếng Việt giúp tăng phản xạ.
   - 📝 **Trắc nghiệm (Quiz)**: Kiểm tra nhận diện mặt chữ và nghĩa với điểm số chi tiết.
+  - 🗺️ **Sơ đồ (Mindmap)**: Sơ đồ tư duy toả tròn chia từ vựng của bài theo chủ đề; kéo/phóng to (cả chụm hai ngón), bấm nhánh để thu gọn, bấm từ để mở chi tiết. Hiện có cho Book 3 第七課 — thêm bài mới bằng cách khai báo nhánh trong `js/mindmaps.js`.
 - **🤖 Nhập liệu thông minh bằng Gemini AI**:
   - Nhập danh sách từ thô -> Gemini AI tự động phân tích chiết tự, tạo câu chuyện và câu ví dụ theo đúng format chuẩn.
   - Hỗ trợ lưu trực tiếp vào file dữ liệu (Local Server) hoặc sao chép/tải file JSON (GitHub Pages).
@@ -98,6 +99,8 @@ Trang web được thiết kế chuẩn static web, cực kỳ tương thích v�
 ├── js/
 │   ├── app.js              # Logic điều khiển, flashcard, quiz, game ghép cặp, swipe mobile
 │   ├── data.js             # Cơ sở dữ liệu 1.620+ từ vựng chiết tự & ví dụ
+│   ├── mindmaps.js         # Bảng chia chủ đề (nhánh → id từ) cho màn hình Sơ đồ, theo từng bài
+│   ├── mindmap.js          # Vẽ sơ đồ toả tròn bằng SVG, kéo/phóng to, mở chi tiết từ
 │   └── ai-import.js        # Module tích hợp Gemini AI phân tích từ vựng mới
 │
 ├── data/                   # Tài liệu học tập và cơ sở dữ liệu có cấu trúc

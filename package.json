@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node server.js",
     "dev": "node server.js",
-    "validate": "node -c js/data.js && node -c js/app.js && node -c js/ai-import.js && node -c server.js"
+    "validate": "node -c js/data.js && node -c js/mindmaps.js && node -c js/app.js && node -c js/mindmap.js && node -c js/ai-import.js && node -c server.js"
   },
   "keywords": [
     "tocfl",
