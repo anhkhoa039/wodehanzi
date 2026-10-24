@@ -3759,6 +3759,7 @@ body {
 
 .mm-word-hanzi {
     font-family: var(--font-hanzi);
+    /* Keep in sync with HANZI_FONT in js/mindmap.js */
     font-size: 20px;
     font-weight: 700;
     fill: var(--text-hanzi);
